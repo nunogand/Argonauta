@@ -124,3 +124,8 @@ jekyll-minifier:
 sass:
   sass_dir: _sass
   style: compressed
+  
+# Colecções - autores
+collections:
+  autores:
+    output: true
