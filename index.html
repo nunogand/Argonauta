@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="section">
+    <div class="container">
+
+        <div class="columns is-multiline">
+            {% for image in site.static_files %}
+            {% if image.path contains 'front' %}
+
+            <div class="column is-one-quarter-desktop is-half-tablet">
+                <div class="card">
+                    <div class="card-image">
+                        <figure class="">
+                            <img src="{{ image.path }}" class="image is-96x96" data-name="{{ image.name }}" />
+                        </figure>
+                        <div class="card-content is-overlay is-clipped">
+                            <span class="tag is-info">
+                                nome
+                            </span>
+                        </div>
+                    </div>
+                    <footer class="card-footer">
+                        <a class="card-footer-item">
+                            outtra
+                        </a>
+                    </footer>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
+        
+
+    </div>
+</section>
