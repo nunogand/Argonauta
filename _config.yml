@@ -125,7 +125,10 @@ sass:
   sass_dir: _sass
   style: compressed
   
-# Colecções - autores
+# Colecções - autores e tradutores
+collections_dir: grupos
 collections:
   autores:
+    output: true
+  tradutores:
     output: true

@@ -1,0 +1,5649 @@
+Número: 1
+Título: Perdidos na Estratosfera
+Autor1: A. M. Low
+Autor2: 
+Ano-Publicacao: 1953
+Titulo-original: Adrift in the Stratosphere
+Tradutor1: Correia Ribeiro
+Tradutor2: 
+Ano-edicao: 1937
+
+Número: 10
+Título: Exploradores do Universo
+Autor1: Jon J. Deegan
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: Antro the Life Giver
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 100
+Título: De Júlio Verne aos Astronautas
+Autor1: vários
+Autor2: Lima de Freitas (org.)
+Ano-Publicacao: 1965
+Titulo-original: 
+Tradutor1: Lima de Freitas
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 101
+Título: Nova Ameaça de Andrómeda
+Autor1: Fred Hoyle
+Autor2: J. Elliot
+Ano-Publicacao: 1965
+Titulo-original: Andromeda Breakthrough
+Tradutor1: Jorge Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 102
+Título: A Guerra das Salamandras
+Autor1: Karel Capek
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: Válka s Mloky
+Tradutor1: Lima de Freitas
+Tradutor2: 
+Ano-edicao: 1936
+
+Número: 103
+Título: Perdido no Espaço, 1º volume
+Autor1: Martin Caidin
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: Marooned
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 104
+Título: Perdido no Espaço, 2º volume
+Autor1: Martin Caidin
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: Marooned
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 105
+Título: Engenheiros Cósmicos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: Cosmic Engineers
+Tradutor1: Mário Braga
+Tradutor2: Maria Isabel Morna Braga
+Ano-edicao: 1962
+
+Número: 106
+Título: O Vírus Destruidor
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: The Darkest of Nights
+Tradutor1: Eurico Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 107
+Título: O Império dos Mutantes
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: La Mort Vivante
+Tradutor1: Amadeu Lopes Sabino
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 108
+Título: A Cidade Fantástica
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: Dandelion Wine
+Tradutor1: Jorge Rosa
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 109
+Título: Cataclismo Solar
+Autor1: J. G. Ballard
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: The Drowned World
+Tradutor1: Mário Braga
+Tradutor2: Maria Isabel Morna Braga
+Ano-edicao: 1962
+
+Número: 11
+Título: O Homem que Vendeu a Lua
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Man Who Sold the Moon
+Tradutor1: José Correia Ribeiro
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 110
+Título: Estrelas Inimigas
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: The Enemy Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 111
+Título: Escala no Tempo
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: The Door into Summer
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 112
+Título: As Flores que Pensam
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: All Flesh is Grass
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 113
+Título: O Planeta da Utopia
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: The Duplicators
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 114
+Título: A Astronave Pirata
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1966
+Titulo-original: Rogue Ship
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 115
+Título: O Mundo de Cristal
+Autor1: J. G. Ballard
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: The Crystal World
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 116
+Título: A Batalha do Vácuo
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: High Vacuum
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 117
+Título: As Cidades Mortas
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: City
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 118
+Título: O Planeta Esquecido
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: Forgotten Planet
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 119
+Título: Revolta na Lua, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: The Moon is a Harsh Mistress
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 12
+Título: Os Humanóides Atacam
+Autor1: Bryan Bery
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: From What Far Star
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 120
+Título: Revolta na Lua, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: The Moon is a Harsh Mistress
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 121
+Título: Vivos 20%
+Autor1: John Wyndham
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: The Kraken Wakes
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 122
+Título: Bandeirantes num Novo Mundo
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: Transit
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 123
+Título: Deixemo-los no Céu
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: Why Call Them Back From Heaven?
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 124
+Título: O Mundo que nos Espera, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: Farnham's Freehold
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 125
+Título: O Mundo que nos Espera, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: Farnham's Freehold
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 126
+Título: O Planeta dos Homens Alados
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1967
+Titulo-original: War of the Wing-men
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 127
+Título: Colónia de Marte
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: The House That Stood Still
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 128
+Título: O Túnel do Tempo
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: The Time Tunnel
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 129
+Título: Soldado no Espaço
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Starship Troopers
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 13
+Título: O Cérebro de Donovan
+Autor1: Curt Siodmak
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: Donovan's Brain
+Tradutor1: José Correia Ribeiro
+Tradutor2: 
+Ano-edicao: 1942
+
+Número: 130-A
+Título: Estação de Trânsito
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Way Station
+Tradutor1: Gilberto Almeida
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 130
+Título: Império Submarino
+Autor1: Paul W. Fairman
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: City Under the Sea
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 131
+Título: Viajantes do Tempo
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Time is the Simplest Thing
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 132
+Título: Revolta em 2100
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Revolt in 2100
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 133
+Título: Patrulha Interstelar
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Crashing Suns
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 134
+Título: O Médico das Estrelas
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: The Mutant Weapon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 135
+Título: A Última Fortaleza Terrestre
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Earth's Last Fortress
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 136
+Título: Ave Marciana
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: A Far Sunset
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 137
+Título: Os Filhos de Matusalém
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1968
+Titulo-original: Methuselah's Children
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1941
+
+Número: 138
+Título: A Máquina Divina, 1º volume
+Autor1: Martin Caidin
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The God Machine
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 139
+Título: A Máquina Divina, 2º volume
+Autor1: Martin Caidin
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The God Machine
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 14
+Título: Indómito Planeta
+Autor1: Roy Sheldon
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: The Metal Eater
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 140
+Título: Projecto Animal
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: B.E.A.S.T.
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 141
+Título: Terra Insólita, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The Werewolf Principle
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 142
+Título: Terra Insólita, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The Werewolf Principle
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 143
+Título: Planeta Proibido
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: This World is Taboo
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 144
+Título: Homens sem Mundo
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: No World of Their Own
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 145
+Título: Bomba H Sobre Los Angeles
+Autor1: Robert M. Williams
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The Day They H-Bombed Los Angeles
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 146
+Título: Depois do Fim do Mundo
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: After Doomsday
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 147
+Título: Partida sem Chegada
+Autor1: Lloyd Biggle, Jr.
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: All the Colours of Darkness
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 148
+Título: O Tempo dos Duendes
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: The Goblin Reservation
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 149
+Título: Mundo Alternante
+Autor1: Keith Laumer
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: Worlds of the Imperium
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 15
+Título: O Mundo em Perigo
+Autor1: E. C. Tubb
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: World at Bay
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 150
+Título: Sonho Mortal
+Autor1: E. C. Tubb
+Autor2: 
+Ano-Publicacao: 1969
+Titulo-original: Death is a Dream
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 151
+Título: Missão Impossível
+Autor1: Frederik Pohl
+Autor2: Jack Williamson
+Ano-Publicacao: 1970
+Titulo-original: The Reefs of Space
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 152
+Título: Piratas do Espaço
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: The Pirates of Zan
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 153
+Título: A Guerra dos Deuses
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: Two Hundred Million A. D.
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1943
+
+Número: 154
+Título: Vieram do Espaço
+Autor1: Keith Roberts
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: The Furies
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 155
+Título: Ultimato à Terra
+Autor1: Frederik Pohl
+Autor2: Jack Williamson
+Ano-Publicacao: 1970
+Titulo-original: Starchild
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 156
+Título: Os Super-Homens
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: The Silkie
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 157
+Título: Plataforma Espacial
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: Unknown Danger
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 158
+Título: Utopia 14, 1º volume
+Autor1: Kurt Vonnegut
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: Player Piano
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 159
+Título: Utopia 14, 2º volume
+Autor1: Kurt Vonnegut
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: Player Piano
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 16
+Título: Sentinelas do Universo
+Autor1: Eric Frank Russell
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Sentinels from Space
+Tradutor1: Fernando Moutinho
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 160
+Título: Sangue da Terra
+Autor1: Keith Laumer
+Autor2: Rosel George Brown
+Ano-Publicacao: 1970
+Titulo-original: Earthblood
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 161
+Título: O Construtor de Universos
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: The Maker of Universes
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 162
+Título: Areias de Marte
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1970
+Titulo-original: Sands of Mars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 163
+Título: Mundos Paralelos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: Out of Their Minds
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 164
+Título: Loucura no Espaço
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: Doctor to the Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 165
+Título: O Caos Suicida
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: All Fools' Day
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 166
+Título: Segredo Interstelar
+Autor1: Alexei Panshin
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: Star Well
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 167
+Título: Estrela Errante
+Autor1: Frederik Pohl
+Autor2: Jack Williamson
+Ano-Publicacao: 1971
+Titulo-original: Rogue Star
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 168
+Título: A Guerra dos Fantasmas
+Autor1: Lloyd Biggle, Jr.
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: The Angry Espers
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 169
+Título: Um Cântico para Leibowitz, 1º volume
+Autor1: Walter M. Miller, Jr.
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: A Canticle for Leibowitz
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 17
+Título: Regresso à Pré-História
+Autor1: J. Leslie Mitchell
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Three Go Back
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1932
+
+Número: 170
+Título: Um Cântico para Leibowitz, 2º volume
+Autor1: Walter M. Miller, Jr.
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: A Canticle for Leibowitz
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 171
+Título: Um Cântico para Leibowitz, 3º volume
+Autor1: Walter M. Miller, Jr.
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: A Canticle for Leibowitz
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 172
+Título: Quando os Marcianos Vieram
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: The Last Continent
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 173
+Título: A Sete Degraus do Sol
+Autor1: Fred Hoyle
+Autor2: Geoffrey Hoyle
+Ano-Publicacao: 1971
+Titulo-original: Seven Steps to the Sun
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 174
+Título: Trombetas da Revolução
+Autor1: Lloyd Biggle, Jr.
+Autor2: 
+Ano-Publicacao: 1971
+Titulo-original: The Still, Small Voice of Trumpets
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 175
+Título: O Mundo do Abismo
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: The Watch Below
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 176
+Título: O Outro Lado do Espaço
+Autor1: Fred Hoyle
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Ossian's Ride
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 177
+Título: Os Filhos do Futuro, 1º volume
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Children of Tomorrow
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 178
+Título: Os Filhos do Futuro, 2º volume
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Children of Tomorrow
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 179
+Título: O Dia em que o Sol Desapareceu
+Autor1: Frederik Pohl
+Autor2: C. M. Kornbluth
+Ano-Publicacao: 1972
+Titulo-original: Wolfbane
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 18
+Título: O Homem Ilustrado
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: The Illustrated Man
+Tradutor1: Eurico da Costa
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 180
+Título: A Terra dos Sonhos Felizes
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: The Dreaming Earth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 181
+Título: Prisão Aberta
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: The Escape Orbit
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 182
+Título: Estrada da Glória, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Glory Road
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 183
+Título: Estrada da Glória, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Glory Road
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 184
+Título: O Deus Impassível
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: A Choice of Gods
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 185
+Título: Batalha Amarga
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Drunkard's Walk
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 186
+Título: O Planeta Neutral
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1972
+Titulo-original: Mayday Orbit
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 187
+Título: O Terceiro Ouvido
+Autor1: Curt Siodmak
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Third Ear
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 188
+Título: Os Mercadores do Espaço
+Autor1: Frederik Pohl
+Autor2: C. M. Kornbluth
+Ano-Publicacao: 1973
+Titulo-original: The Space Merchants
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 189
+Título: Busca nos Céus
+Autor1: Frederik Pohl
+Autor2: C. M. Kornbluth
+Ano-Publicacao: 1973
+Titulo-original: Search the Sky
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 19
+Título: Caminhos do Espaço
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Spaceways
+Tradutor1: A. Maldonado Domingues
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 190
+Título: Agência de Mágicos
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: Waldo and Magic Inc.
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 191
+Título: Juventude Eterna
+Autor1: E. C. Tubb
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: S. T. A. R. Flight
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 192
+Título: O Homem que Pintava as Estrelas
+Autor1: Lan Wright
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Pictures of Pavanne
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 193
+Título: Depois da Derrocada
+Autor1: Philip E. High
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: These Savage Futurians
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 194
+Título: Ninguém Morre Neste Mundo
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Age of the Pussyfoot
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 195
+Título: O Ponto Ómega
+Autor1: George Zebrowski
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Omega Point
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 196
+Título: A Invasão dos Insectos
+Autor1: Ray Cummings
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Insect Invasion
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 197
+Título: As Horas de Iraz
+Autor1: L. Sprague de Camp
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: The Clocks of Iraz
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 198
+Título: À Luz das Estrelas
+Autor1: Theodore Sturgeon
+Autor2: 
+Ano-Publicacao: 1973
+Titulo-original: Starshine
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 199
+Título: A Última Arma
+Autor1: Algis Budrys
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: The Falling Torch
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 2
+Título: O Estranho Mundo de Kilsona
+Autor1: Festus Pragnell
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Green Man of Graypec
+Tradutor1: José da Natividade Gaspar
+Tradutor2: 
+Ano-edicao: 1935
+
+Número: 20
+Título: A Sexta Coluna
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Sixth Column
+Tradutor1: Manuel de Sepúlveda
+Tradutor2: 
+Ano-edicao: 1941
+
+Número: 200
+Título: As Máquinas da Destruição
+Autor1: Fred Saberhagen
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Berserker
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 201
+Título: Irmão Assassino
+Autor1: Fred Saberhagen
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Brother Assassin
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 202
+Título: O Mundo dos Homens Perfeitos
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Entry to Elsewhen
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 203
+Título: Silêncio no Espaço
+Autor1: John Rackam
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Earthstrings
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 204
+Título: Mundo Aquático
+Autor1: Hal Clement
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Ocean on Top
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 205
+Título: Os Dramaturgos de Yan
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: The Dramaturges of Yan
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 206
+Título: O Mundo dos Túmulos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Cemetery World
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 207
+Título: A Máquina de Governar
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Vulcan's Hammer
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 208
+Título: O Amanhã Está Muito Longe
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Tomorrow is Too Far
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 209
+Título: Gladiador da Lei
+Autor1: Frederik Pohl
+Autor2: C. M. Kornbluth
+Ano-Publicacao: 1974
+Titulo-original: Gladiator-at-Law
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 21
+Título: As Correntes do Espaço
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: The Currents of Space
+Tradutor1: Alfredo Margarido
+Tradutor2: Manuel de Sepúlveda
+Ano-edicao: 1952
+
+Número: 210
+Título: Os Filhos dos Nossos Filhos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1974
+Titulo-original: Our Children's Children
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 211
+Título: Entre Planetas
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Between Planets
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 212
+Título: Corrupção nas Galáxias
+Autor1: Keith Laumer
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Envoy to New Worlds
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 213
+Título: Os Homens das Estrelas
+Autor1: Stuart J. Byrne
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Starman
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 214
+Título: Hospital no Espaço
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Hospital Station
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 215
+Título: Mundo sem Tempo
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: The Random Factor
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 216
+Título: Três Mundos e um Médico
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: S.O.S. From Three Worlds
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 217
+Título: Um Estranho Numa Terra Estranha, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Stranger in a Strange Land
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 218
+Título: Um Estranho Numa Terra Estranha, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Stranger in a Strange Land
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 219
+Título: Um Estranho Numa Terra Estranha, 3º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Stranger in a Strange Land
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 22
+Título: Vigilância Sideral
+Autor1: Pierre Versins
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Les Étoiles ne s'en Foutent Pas
+Tradutor1: Alfredo Margarido
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 220
+Título: Médico Espacial
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Star Surgeon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 221
+Título: Eclipse Total
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1975
+Titulo-original: Total Eclipse
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 222
+Título: A Cidade do Céu
+Autor1: Curt Siodmak
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: City in the Sky
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 223
+Título: A Grande Operação
+Autor1: James White
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: Major Operation
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 224
+Título: A Árvore Sagrada
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: The Halloween Tree
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 225
+Título: Em Busca do Futuro
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: Quest for the Future
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 226
+Título: Os Manipuladores
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: The Puppet Masters
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 227
+Título: O Outro Lado do Tempo
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: Enchanted Pilgrimage
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1975
+
+Número: 228
+Título: As Luzes do Céu São Estrelas
+Autor1: Fredric Brown
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: The Lights in the Sky Are Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 229
+Título: A Batalha da Eternidade
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: The Battle of Forever
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 23
+Título: Slan
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Slan
+Tradutor1: A. Maldonado Domingues
+Tradutor2: 
+Ano-edicao: 1946
+
+Número: 230
+Título: Passaporte Para o Eterno
+Autor1: J. G. Ballard
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: Passport to Eternity
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 231
+Título: Os Possuídos
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: A Plague of Pythons
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 232
+Título: O Vale da Criação
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: The Valley of Creation
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 233
+Título: O Homem que Via o Futuro
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1976
+Titulo-original: So Bright the Vision
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 234
+Título: O Homem dos Mil Nomes
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: The Man With a Thousand Names
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 235
+Título: O Erro do Tempo
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: The Wrong End of Time
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 236
+Título: Equipagem Espacial
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Have Spacesuit - Will Travel
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 237
+Título: Regresso aos Céus
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Return to the Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 238
+Título: A Cratera da Morte
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Trouble With Tycho
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 239
+Título: A Sexta Parte do Mundo
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: The Deep Range
+Tradutor1: Maria Emília F. Moura
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 24
+Título: A Tentação Cósmica
+Autor1: Roger Sorez
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: La Tentacion Cosmique
+Tradutor1: A. Maldonado Domingues
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 240
+Título: Os Permutadores de Mundos
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: The World Swappers
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 241
+Título: Tigre! Tigre!
+Autor1: Alfred Bester
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Tiger! Tiger!
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 242
+Título: O Planeta de Shakespeare
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Shakespeare's Planet
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 243
+Título: A História do Futuro, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Time Enough for Love
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 244
+Título: A História do Futuro, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Time Enough for Love
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 245
+Título: A História do Futuro, 3º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1977
+Titulo-original: Time Enough for Love
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 246
+Título: O País de Outubro
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: The October Country
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 247
+Título: Super-Cérebro
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Supermind
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 248
+Título: Apocalipse 2000
+Autor1: Guy Snyder
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Testament XXI
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 249
+Título: Exilados da Terra
+Autor1: Ben Bova
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Exiled From Earth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 25
+Título: O Reino das Mulheres
+Autor1: Jerry Sohl
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: The Haploids
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 250
+Título: Para Além do Futuro
+Autor1: C. M. Kornbluth
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Best SF Stories of C. M. Kornbluth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 251
+Título: Os Napoleões das Estrelas
+Autor1: Pierre Barbet
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Les Grognards d'Eridan
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 252
+Título: Os Abismos do Espaço
+Autor1: Fred Hoyle
+Autor2: Geoffrey Hoyle
+Ano-Publicacao: 1978
+Titulo-original: Into Deepest Space
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1974
+
+Número: 253
+Título: O Colosso Anarquista
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: The Anarchistic Colossus
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 254
+Título: As Vozes de Marte
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: I Sing the Body Electric
+Tradutor1: Maria Emília Ferros Moura
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 255
+Título: Salvamento no Espaço
+Autor1: Cleve Cartmill
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: The Space Scavengers
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1975
+
+Número: 256
+Título: Trevas nas Estrelas
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: The Haunted Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 257
+Título: O Tempo do Impossível
+Autor1: John D. MacDonald
+Autor2: 
+Ano-Publicacao: 1978
+Titulo-original: Ballroom of the Skies
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 258
+Título: Os Cruzados do Espaço
+Autor1: Pierre Barbet
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: L'Empire du Baphomet
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 259
+Título: Triplanetária
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Triplanetary
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1934
+
+Número: 26
+Título: A Idade do Ouro
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1955
+Titulo-original: Childhood's End
+Tradutor1: Carlos Vieira
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 260
+Título: A Última Cidade de Marte
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: I Sing the Body Electric
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 261
+Título: Exploradores do Infinito
+Autor1: Ray Cummings
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Explorers Into Infinity
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 262
+Título: Os Herdeiros das Estrelas
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: A Heritage of Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 263
+Título: Mundo sem Morte
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: To Your Scattered Bodies Go
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 264
+Título: A Nave Invencível
+Autor1: Stanislaw Lem
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Niezwyciezony
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 265
+Título: O Planeta Secreto
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: First Lensman
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 266
+Título: Acidente Nuclear
+Autor1: Lester del Rey
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Nerves
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 267
+Título: O Tempo dos Mastodontes
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Mastodomia
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 268
+Título: Viagem Para Além da Morte
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: The Fabulous Riverboat
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 269
+Título: Cidadão da Galáxia
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1979
+Titulo-original: Citizen of the Galaxy
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 27
+Título: O Planeta 54
+Autor1: Albert Crémieux
+Autor2: Jean Crémieux
+Ano-Publicacao: 1956
+Titulo-original: Chute Libre
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 270
+Título: Patrulha Galáctica
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Galactic Patrol
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 271
+Título: O Tempo da Magia
+Autor1: Randall Garrett
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Too Many Magicians
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 272
+Título: Desígnio Negro, 1º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: The Dark Design
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 273
+Título: Desígnio Negro, 2º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: The Dark Design
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 274
+Título: A Irmandade do Talismã
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: The Fellowship of the Talisman
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 275
+Título: Heróis Galácticos
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Gray Lensman
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 276
+Título: O Feiticeiro de Terramar
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: A Wizard of Earthsea
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 277
+Título: O Planeta dos Deuses
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: The Gods Themselves
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 278
+Título: A Revolta das Máquinas, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Skirmish
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 279
+Título: A Revolta das Máquinas, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Skirmish
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 28
+Título: Futuro do Mundo
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Pebble in the Sky
+Tradutor1: A. Maldonado Domingues
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 280
+Título: A Teia do Tempo
+Autor1: Michael Kurland
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: The Unicorn Girl
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 281
+Título: Terra Imperial, 1º volume
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1980
+Titulo-original: Imperial Earth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1975
+
+Número: 282
+Título: Terra Imperial, 2º volume
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: Imperial Earth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1975
+
+Número: 283
+Título: O Dia em que o Tempo Parou
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Day of Timestop
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 284
+Título: Os Túmulos de Atuan
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Tombs of Atuan
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 285
+Título: A Última Revolta na Terra
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: Renaissance
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 286
+Título: Os Visitantes, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Visitors
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 287
+Título: Os Visitantes, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Visitors
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 288
+Título: A Lei do Espaço
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: Second Stage Lensman
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 289
+Título: O Labirinto Mágico, 1º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Magic Labyrinth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 29
+Título: Loucura no Universo
+Autor1: Fredric Brown
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: What Mad Universe
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 290
+Título: O Labirinto Mágico, 2º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Magic Labyrinth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 291
+Título: O Labirinto Mágico, 3º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Magic Labyrinth
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 292
+Título: Os Jogos do Capricórnio
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: Capricorn Games
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 293
+Título: O Outro Lado do Mundo
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Farthest Shore
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 294
+Título: O Número do Monstro, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Number of the Beast
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 295
+Título: O Número do Monstro, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Number of the Beast
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 296
+Título: O Número do Monstro, 3º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1981
+Titulo-original: The Number of the Beast
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 297
+Título: O Planeta dos Dragões, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: 
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 298
+Título: O Planeta dos Dragões, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: 
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 299
+Título: O Planeta dos Dragões, 3º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: 
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 3
+Título: A Última Cidade da Terra
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The City at World's End
+Tradutor1: José da Natividade Gaspar
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 30
+Título: Gerações do Amanhã
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Beyond This Horizon
+Tradutor1: Luís de Almeida Campos
+Tradutor2: 
+Ano-edicao: 1942
+
+Número: 300
+Título: O Mistério de Valis, 1º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: Valis
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 301
+Título: O Mistério de Valis, 2º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: Valis
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 302
+Título: Os Filhos do Cosmos
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: Children of the Lens
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 303
+Título: O Mundo do Trono
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: Wolfling
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 304
+Título: Longe da Terra
+Autor1: Marion Zimmer Bradley
+Autor2: 
+Ano-Publicacao: 1982
+Titulo-original: Survey Ship
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 305
+Título: O Deus da Fúria
+Autor1: Philip K. Dick
+Autor2: Roger Zelazny
+Ano-Publicacao: 1982
+Titulo-original: Deus Irae
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 306
+Título: A Solução de Ceres
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: The Ceres Solution
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 307
+Título: Prisioneiros do Poder, 1º volume
+Autor1: Arkadi Strugatski
+Autor2: Boris Strugatski
+Ano-Publicacao: 1983
+Titulo-original: ????????? ??????
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 308
+Título: Prisioneiros do Poder, 2º volume
+Autor1: Arkadi Strugatski
+Autor2: Boris Strugatski
+Ano-Publicacao: 1983
+Titulo-original: ????????? ??????
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 309
+Título: Depois da Bomba
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: Dr. Bloodmoney or How we Got Along After the Bomb
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 31
+Título: Xadrez Cósmico
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: The World of Null-A
+Tradutor1: T. Araújo
+Tradutor2: 
+Ano-edicao: 1948
+
+Número: 310
+Título: O Homem sem Rosto
+Autor1: Jack Vance
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: The Anome
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 311
+Título: Projecto Papa, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: Project Pope
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 312
+Título: Projecto Papa, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: Project Pope
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 313
+Título: Os Senhores do Vórtice
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: The Vortex Blaster
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 314
+Título: O Dragão Branco, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: The White Dragon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 315
+Título: O Dragão Branco, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: The White Dragon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 316
+Título: O Homem Duplo
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: A Scanner Darkly
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 317
+Título: Rendez-vous com Rama
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1983
+Titulo-original: Rendez-vous With Rama
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 318
+Título: Amor no Cosmos
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: The Lovers
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 319
+Título: Expulsos da Terra
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: The Eye of the Heron
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 32
+Título: Robinsons do Cosmos
+Autor1: Francis Carsac
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Les Robinsons du Cosmos
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 320
+Título: Mensagens do Futuro
+Autor1: vários
+Autor2: Isaac Asimov (org.)
+Ano-Publicacao: 1984
+Titulo-original: The Future in Question
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 321
+Título: A Conquista de Marte, 1º volume
+Autor1: William Rollo
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: The Olympus Gambit
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 322
+Título: A Conquista de Marte, 2º volume
+Autor1: William Rollo
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: The Olympus Gambit
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 323
+Título: O Mundo do Caos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Special Deliverance
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 324
+Título: Espião Interestelar
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Ensign Flandry
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 325
+Título: A Conquista das Estrelas, 1º volume
+Autor1: James P. Hogan
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Voyage From Yesteryear
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 326
+Título: A Conquista das Estrelas, 2º volume
+Autor1: James P. Hogan
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Voyage From Yesteryear
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 327
+Título: O Que Será o Futuro
+Autor1: vários
+Autor2: Isaac Asimov (org.)
+Ano-Publicacao: 1984
+Titulo-original: The Future in Question
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 328
+Título: A Invasão Divina
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: The Divine Invasion
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 329
+Título: Detective Galáctico
+Autor1: Jack Vance
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Galactic Effectuator
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 33
+Título: Fahrenheit 451
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Fahrenheit 451
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 330
+Título: Pesadelo Cósmico
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1984
+Titulo-original: Dagger of the Mind
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 331
+Título: Muito Depois da Meia-Noite, 1º volume
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Long After Midnight
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 332
+Título: Muito Depois da Meia-Noite, 2º volume
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Long After Midnight
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 333
+Título: Nave-Mundo
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Non-Stop
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 334
+Título: Os Dias Futuros
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: The Best of Arthur C. Clarke, 1937-1955
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 335
+Título: O Senhor das Estrelas
+Autor1: Robert Sheckley
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Dramocles
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 336
+Título: O Homem Mais Importante do Mundo
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Time Out of Joint
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 337
+Título: Os Caçadores do Espaço
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Spacehounds of IPC
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1947
+
+Número: 338
+Título: Onde Mora o Mal
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Where the Devil Dwells
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 339
+Título: Tempo de Mudança
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: A Time of Changes
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 34
+Título: Guerra no Tempo
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Time and Again
+Tradutor1: Carlos Vieira
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 340
+Título: Regresso ao Mundo do Rio, 1º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: The Gods of Riverworld
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 341
+Título: Regresso ao Mundo do Rio, 2º volume
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: The Gods of Riverworld
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 342
+Título: A Arma Impossível
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: The Zap Gun
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 343
+Título: Universos Paralelos
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: The Gate of Time
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 344
+Título: A Máquina da Paz
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Ground Zero Man
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 345
+Título: A Mais Bela da Lua
+Autor1: Larry Niven
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: The Patchwork Girl
+Tradutor1: Fernando Brites da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 346
+Título: O Beco dos Malditos
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Damnation Alley
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 347
+Título: Moreta de Pern, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Moreta: Dragonlady of Pern
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 348
+Título: Moreta de Pern, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Moreta: Dragonlady of Pern
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 349
+Título: O Mundo Perdido
+Autor1: Arthur Conan Doyle
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: The Lost World
+Tradutor1: J. Lima da Costa
+Tradutor2: 
+Ano-edicao: 1912
+
+Número: 35
+Título: O Homem Demolido
+Autor1: Alfred Bester
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: The Demolished Man
+Tradutor1: Carlos Vieira
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 350
+Título: O Homem que Via o Futuro
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Jack of Eagles
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 351
+Título: O Prado dos Duendes, 1º volume
+Autor1: Paul Cook
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Duende Meadow
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 352
+Título: O Prado dos Duendes, 2º volume
+Autor1: Paul Cook
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Duende Meadow
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 353
+Título: Bill, o Herói Galáctico
+Autor1: Harry Harrison
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Bill, the Galactic Hero
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 354
+Título: A Outra Ilha do Dr. Moreau
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1986
+Titulo-original: Moreau's Other Island
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 355
+Título: A Porta das Estrelas, 1º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Gateway
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 356
+Título: A Porta das Estrelas, 2º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Gateway
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 357
+Título: O Dia em que a Terra Gritou
+Autor1: Arthur Conan Doyle
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: The Poison Belt
+Tradutor1: J. Lima da Costa
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 358
+Título: Quando os Computadores Conquistaram o Mundo
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Computerworld
+Tradutor1: Ana Paula Senos de Araújo
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 359-A
+Título: A Estrada da Eternidade, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Highway of Eternity
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 359
+Título: A Estrada da Eternidade, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Highway of Eternity
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 36
+Título: Os Corsários do Espaço
+Autor1: Paul French
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: Lucky Starr and the Pirates of the Asteroids
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 360
+Título: Nas Nossas Mãos as Estrelas
+Autor1: Harry Harrison
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: In Our Hands, the Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 361
+Título: A Luz e as Trevas
+Autor1: L. Sprague de Camp
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Lest Darkness Fall
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1941
+
+Número: 362
+Título: O Planeta Fantasma
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: A Wreath of Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 363
+Título: As Linguagens de Pao
+Autor1: Jack Vance
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: The Languages of Pao
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 364
+Título: A Hora da Inteligência
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Brain Wave
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 365
+Título: Para Além do Acontecer, 1º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1987
+Titulo-original: Beyond the Blue Event Horizon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 366
+Título: Para Além do Acontecer, 2º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Beyond the Blue Event Horizon
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 367
+Título: Null-A Três
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Null-A 3
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 368
+Título: Mundos sem Fim
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Worlds Without End
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 369
+Título: Frankenstein Libertado
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Frankenstein Unbound
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 37
+Título: As Cavernas de Aço
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1956
+Titulo-original: The Caves of Steel
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 370
+Título: O Mundo de Rocannon
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Rocannon's World
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 371
+Título: Tintagel
+Autor1: Paul Cook
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Tintagel
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 372
+Título: A Praga do Espaço
+Autor1: Harry Harrison
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Plague From Space
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 373
+Título: O Mistério de Mercúrio
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Fire Pattern
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 374
+Título: Agente de Bizâncio, 1º volume
+Autor1: Harry Turtledove
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Agent of Byzantium
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 375
+Título: Agente de Bizâncio, 2º volume
+Autor1: Harry Turtledove
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Agent of Byzantium
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 376
+Título: Reflexos do Futuro
+Autor1: vários
+Autor2: Bruce Sterling (org.)
+Ano-Publicacao: 1988
+Titulo-original: Mirrorshades
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 377
+Título: Mensagem do Futuro
+Autor1: James P. Hogan
+Autor2: 
+Ano-Publicacao: 1988
+Titulo-original: Thrice Upon a Time
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 378
+Título: Encontro com os Heechee
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Heechee Rendezvous
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 379
+Título: O Gato que Atravessa as Paredes, 1º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Cat Who Walks Through Walls
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 38
+Título: A Invasão dos Marcianos; Não Apontem aos Marcianos
+Autor1: Pierre Versins
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: En Avant, Mars!...
+Tradutor1: Álvaro de Azurara
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 380
+Título: O Gato que Atravessa as Paredes, 2º volume
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Cat Who Walks Through Walls
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 381
+Título: Anticorpos
+Autor1: David J. Skal
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Antibodies
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1988
+
+Número: 382
+Título: Quando o Céu Caiu
+Autor1: John Barnes
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Man Who Pulled Down the Sky
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 383
+Título: Planeta do Exílio
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Planet of Exile
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 384
+Título: Dorsai
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Dorsai!
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 385
+Título: Os Anais dos Heechee
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Annals of the Heechee
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 386
+Título: Roderick
+Autor1: John Sladek
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Roderick
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 387
+Título: A Máquina Preservadora, 1º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Preserving Machine
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 388
+Título: Os Olhos de Heisenberg
+Autor1: Frank Herbert
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: The Eyes of Heisenberg
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 389
+Título: Os Dorsai Perdidos
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Lost Dorsai
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 39
+Título: Estrela Dupla
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: Double Star
+Tradutor1: H. dos Santos Carvalho
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 390
+Título: A Máquina Preservadora, 2º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: The Preserving Machine
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 391
+Título: A Cidade das Ilusões
+Autor1: Ursula K. LeGuin
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: City of Illusions
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 392
+Título: Metrófago, 1º volume
+Autor1: Richard Kadrey
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: Metrophage
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1988
+
+Número: 393
+Título: Metrófago, 2º volume
+Autor1: Richard Kadrey
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: Metrophage
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1988
+
+Número: 394
+Título: Pêndulo
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: Pendulum
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 395
+Título: A Nave das Sombras
+Autor1: vários
+Autor2: Isaac Asimov (org.)
+Ano-Publicacao: 1990
+Titulo-original: The Hugo Winners, Volume Three
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 396
+Título: Missão Espacial
+Autor1: Chris Claremont
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: First Flight
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 397
+Título: A Torre de Cristal
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: The Tower of Glass
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 398
+Título: Mistérios do Futuro
+Autor1: John E. Stith
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: Deep Quarry
+Tradutor1: Eurico Fonseca
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 399
+Título: O Pé do Diabo
+Autor1: Arthur Conan Doyle
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: The Adventure of the Devil's Foot
+Tradutor1: Catarina Lima
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 4
+Título: A Nave Sideral
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Last Space Ship
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1949
+
+Número: 40
+Título: O Síndico
+Autor1: C. M. Kornbluth
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: The Syndic
+Tradutor1: H. dos Santos Carvalho
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 400
+Título: O Homem Eterno, 1º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: The Forever Man
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 401
+Título: O Homem Eterno, 2º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1990
+Titulo-original: The Forever Man
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 402
+Título: O Dia Depois do Juízo Final
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: The Day After Judgement
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 403
+Título: Vozes do Futuro
+Autor1: Isaac Asimov (org. creditado)
+Autor2: Shawna McCarthy (org. real)
+Ano-Publicacao: 1991
+Titulo-original: Isaac Asimov's Tomorrow's Voices
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 404
+Título: O Mundo de Midas, 1º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Midas World
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 405
+Título: O Mundo de Midas, 2º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Midas World
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 406
+Título: Necromante
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Necromancer
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 407
+Título: Missão de Vingança
+Autor1: A. Bertram Chandler
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: The Road to the Rim
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 408
+Título: Os Balonautas, 1º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: The Ragged Astronauts
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 409
+Título: Os Balonautas, 2º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: The Ragged Astronauts
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 41
+Título: Tiranos da Terra
+Autor1: Christian Russel
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: Les Voyants
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 410
+Título: Essas Estrelas são Nossas
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: We Claim These Stars
+Tradutor1: Samuel Soares
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 411
+Título: Bugs
+Autor1: John Sladek
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Bugs
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 412
+Título: Mundo-Nosso
+Autor1: Harry Harrison
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Homeworld
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 413
+Título: Soldado da Terra, 1º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1991
+Titulo-original: Soldier, Ask Not
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 414
+Título: Soldado da Terra, 2º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Soldier, Ask Not
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 415
+Título: O Tempo, o Espaço e o Cérebro
+Autor1: Fritz Leiber
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: The Big Time
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 416
+Título: Os Negros Anos Luz
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: The Dark Light Years
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 417
+Título: Cemitério de Lunáticos, 1º volume
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Graveyard for Lunatics
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 418
+Título: Cemitério de Lunáticos, 2º volume
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Graveyard for Lunatics
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 419
+Título: Há Mais Coisas no Céu
+Autor1: John Brunner
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: More Things in Heaven
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 42
+Título: Mundos Simultâneos
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: Ring Around the Sun
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 420
+Título: Desvio Para o Vermelho, 1º volume
+Autor1: John E. Stith
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Redshift Rendezvous
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 421
+Título: Desvio Para o Vermelho, 2º volume
+Autor1: John E. Stith
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Redshift Rendezvous
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 422
+Título: O Espírito de Dorsai
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: The Spirit of Dorsai
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 423
+Título: Viagem Pelos Universos
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Anywhen
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 424
+Título: Imortalidade e Cª
+Autor1: Robert Sheckley
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: Immortality Inc.
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 425
+Título: O Mundo Perdido no Fundo do Mar
+Autor1: Arthur Conan Doyle
+Autor2: 
+Ano-Publicacao: 1992
+Titulo-original: The Maracot Deep
+Tradutor1: J. Lima da Costa
+Tradutor2: 
+Ano-edicao: 1929
+
+Número: 426
+Título: Estrela Caída
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Frozen Year
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 427
+Título: O Homem do Castelo Alto, 1º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Man in the High Castle
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 428
+Título: O Homem do Castelo Alto, 2º volume
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Man in the High Castle
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 429
+Título: A Chegada dos Terrenos
+Autor1: Leigh Brackett
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Coming of the Terrans
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 43
+Título: A Cidade da Ciência
+Autor1: Maurice Vernon
+Autor2: 
+Ano-Publicacao: 1957
+Titulo-original: Les Savants Dans l'Aréne
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 430
+Título: O Mundo dos Anjos
+Autor1: S. N. Lewitt
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Angel at Apogee
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 431
+Título: O Senhor dos Sonhos
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Dream Master
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 432
+Título: O Correio do Tempo
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Up the Line
+Tradutor1: Abel Coimbra
+Tradutor2: 
+Ano-edicao: 1969
+
+Número: 433
+Título: Páscoa Negra
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Black Easter
+Tradutor1: Raul Gonçalves
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 434
+Título: Tácticas de Engano, 1º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Tactics of Mistake
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 435
+Título: Tácticas de Engano, 2º volume
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Tactics of Mistake
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 436
+Título: O Tempo dos Simulacros
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: The Simulacra
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 437
+Título: Traidor aos Vivos
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1993
+Titulo-original: Traitor to the Living
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 438
+Título: O Xadrez do Tempo
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Quincunx of Time
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 439
+Título: As Naves de Madeira, 1º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Wooden Spaceships
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 44
+Título: História de Dois Mundos
+Autor1: John D. MacDonald
+Autor2: 
+Ano-Publicacao: 1958
+Titulo-original: Planet of the Dreamers
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 440
+Título: As Naves de Madeira, 2º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Wooden Spaceships
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 441
+Título: Os Jogadores de Titã
+Autor1: Philip K. Dick
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Game-Players of Titan
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 442
+Título: Mundo Adormecido
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: Sleepwalker's World
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 443
+Título: Doutor Mirabilis, 1º volume
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: Doctor Mirabilis
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 444
+Título: Doutor Mirabilis, 2º volume
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: Doctor Mirabilis
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 445
+Título: Um Demónio no Cérebro
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: A Plague of Pythons
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 446
+Título: O Universo de Morton
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Universe Maker
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 447
+Título: Os Mundos Fugitivos, 1º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Fugitive Worlds
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 448
+Título: Os Mundos Fugitivos, 2º volume
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: The Fugitive Worlds
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 449
+Título: Contos Galácticos
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: Galactic Cluster
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 45
+Título: O Décimo Planeta
+Autor1: C. H. Badet
+Autor2: 
+Ano-Publicacao: 1958
+Titulo-original: La Dixième Planète
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 450
+Título: A Incrível Invasão
+Autor1: Lester del Rey
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Siege Perilous
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 451
+Título: Roderick à Solta, 1º volume
+Autor1: John Sladek
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Roderick at Random
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 452
+Título: Roderick à Solta, 2º volume
+Autor1: John Sladek
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Roderick at Random
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 453
+Título: Dare, a Colónia Perdida
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Dare
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 454
+Título: A Era das Aves
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Midsummer Century
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 455
+Título: Tempos Duros, 1º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Heavy Time
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 456
+Título: Tempos Duros, 2º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Heavy Time
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 457
+Título: Outros Dias, Outros Olhos
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Other Days, Other Eyes
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 458
+Título: A Canção dos Dragões
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Dragonsong
+Tradutor1: Raul Gonçalves
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 459
+Título: Os Cantores do Tempo, 1º volume
+Autor1: Frederik Pohl
+Autor2: Jack Williamson
+Ano-Publicacao: 1995
+Titulo-original: The Singers of Time
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 46
+Título: Os Marcianos Divertem-se
+Autor1: Fredric Brown
+Autor2: 
+Ano-Publicacao: 1958
+Titulo-original: Martians, Go Home
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 460
+Título: Os Cantores do Tempo, 2º volume
+Autor1: Frederik Pohl
+Autor2: Jack Williamson
+Ano-Publicacao: 1995
+Titulo-original: The Singers of Time
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 461
+Título: O Fogo e a Noite
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1995
+Titulo-original: Fire and the Night
+Tradutor1: Raul Gonçalves
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 462
+Título: As Estrelas Como Palco
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: ...And All the Stars a Stage
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 463
+Título: Os Últimos Dias da Terra, 1º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Long Afternoon of Earth
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 464
+Título: Os Últimos Dias da Terra, 2º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Long Afternoon of Earth
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 465
+Título: As Luzes do Espaço
+Autor1: Bob Shaw
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Night Walk
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 466
+Título: Ilhas no Céu
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Islands in the Sky
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 467
+Título: A Cantora dos Dragões, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Dragonsinger
+Tradutor1: Raul Gonçalves
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 468
+Título: A Cantora dos Dragões, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Dragonsinger
+Tradutor1: Raul Gonçalves
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 469
+Título: As Vozes do Céu, 1º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Voices of Heaven
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1994
+
+Número: 47
+Título: Salto no Tempo
+Autor1: Yves Dermèze
+Autor2: 
+Ano-Publicacao: 1958
+Titulo-original: Via Velpa
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 470
+Título: As Vozes do Céu, 2º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Voices of Heaven
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1994
+
+Número: 471
+Título: Batalha no Cosmos
+Autor1: Gordon R. Dickson
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Naked to the Stars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 472
+Título: Fora de Jogo
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: Out of Sync
+Tradutor1: J. Santos Tavares
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 473
+Título: Estranhos Inimigos, 1º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Bug Wars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 474
+Título: Estranhos Inimigos, 2º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 1996
+Titulo-original: The Bug Wars
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 475
+Título: Além do Inferno
+Autor1: Philip José Farmer
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Inside Outside
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1964
+
+Número: 476
+Título: Os Tambores dos Dragões
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Dragondrums
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 477
+Título: A Vinda do Futuro
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Tomorrow Came
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 478
+Título: A Boneca do Destino, 1º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Destiny Doll
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 479
+Título: A Boneca do Destino, 2º volume
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Destiny Doll
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1971
+
+Número: 48
+Título: Mundo de Vampiros
+Autor1: Richard Matheson
+Autor2: 
+Ano-Publicacao: 1958
+Titulo-original: I Am Legend
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 480
+Título: Renascimento
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: Earthworks
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 481
+Título: Para Além da Porta das Estrelas, 1º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: The Gateway Trip
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 482
+Título: Para Além da Porta das Estrelas, 2º volume
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: The Gateway Trip
+Tradutor1: Clarisse Tavares
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 483
+Título: As Estrelas são dos Homens
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: They Shall Have Stars
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 484
+Título: Os Mutantes vêm aí!, 1º volume
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: The Mutants Are Coming
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 485
+Título: Os Mutantes vêm aí!, 2º volume
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 1997
+Titulo-original: The Mutants Are Coming
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 486
+Título: Vivendo no Céu
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: A Life for the Stars
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 487
+Título: Crónicas do Fim do Mundo
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: The Horn of Time
+Tradutor1: A. Maldonado Domingues
+Tradutor2: 
+Ano-edicao: 1968
+
+Número: 488
+Título: A Terra é uma Ideia Boa, 1º volume
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: Earthman, Come Home
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 489
+Título: A Terra é uma Ideia Boa, 2º volume
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: Earthman, Come Home
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 49
+Título: Vuzz...
+Autor1: P. A. Hourey
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: Vuzz...
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 490
+Título: A Árvore da Saliva
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: The Saliva Tree
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1966
+
+Número: 491
+Título: O Triunfo do Tempo
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: The Triumph of Time
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 492
+Título: No Oceano da Noite, 1º volume
+Autor1: Gregory Benford
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: In the Ocean of Night
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 493
+Título: No Oceano da Noite, 2º volume
+Autor1: Gregory Benford
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: In the Ocean of Night
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 494
+Título: Os Cavalos da Noite, 1º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: Cloud's Rider
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1996
+
+Número: 495
+Título: Os Cavalos da Noite, 2º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: Cloud's Rider
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1996
+
+Número: 496
+Título: Além do Mar dos Sóis, 1º volume
+Autor1: Gregory Benford
+Autor2: 
+Ano-Publicacao: 1998
+Titulo-original: Across the Sea of Suns
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 497
+Título: Além do Mar dos Sóis, 2º volume
+Autor1: Gregory Benford
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Across the Sea of Suns
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 498
+Título: O Enigma de Malacia, 1º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: The Malacia Tapestry
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 499
+Título: O Enigma de Malacia, 2º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: The Malacia Tapestry
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 5
+Título: O Universo Vivo
+Autor1: Jimmy Guieu
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: L'Univers Vivant
+Tradutor1: Rui Bandeira
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 50
+Título: Os Mares de Vénus
+Autor1: Paul French
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: Lucky Starr and the Oceans of Venus
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1954
+
+Número: 500
+Título: Ó Pioneiro!
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: O Pioneer!
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1998
+
+Número: 501
+Título: A História de Nerilka
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Nerilka's Story A Pern Adventure
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 502
+Título: Passagem Para o Passado, 1º volume
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Transfer to Yesterday
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 503
+Título: Passagem Para o Passado, 2º volume
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Transfer to Yesterday
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1973
+
+Número: 504
+Título: A Companhia de Phule, 1º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Phule's Company
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 505
+Título: A Companhia de Phule, 2º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: Phule's Company
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1990
+
+Número: 506
+Título: Criptozóica
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: An Age
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1967
+
+Número: 507
+Título: As Trevas Além das Estrelas, 1º volume
+Autor1: Frank M. Robinson
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: The Dark Beyond the Stars
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 508
+Título: As Trevas Além das Estrelas, 2º volume
+Autor1: Frank M. Robinson
+Autor2: 
+Ano-Publicacao: 1999
+Titulo-original: The Dark Beyond the Stars
+Tradutor1: Alexandra Tavares
+Tradutor2: 
+Ano-edicao: 1981
+
+Número: 509
+Título: Conduzindo às Cegas
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Driving Blind
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1997
+
+Número: 51
+Título: A Porta do Espaço
+Autor1: Adrien Sobra
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: Portes Sur l'Inconnu
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 510
+Título: O Paraíso de Phule, 1º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Phule's Paradise
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1992
+
+Número: 511
+Título: O Paraíso de Phule, 2º volume
+Autor1: Robert Asprin
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Phule's Paradise
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1992
+
+Número: 512
+Título: Rota de Colisão
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Collision Course
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 513
+Título: O Planeta das Virgens
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Virgin Planet
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 514
+Título: O Homem Duplicado
+Autor1: James Blish
+Autor2: Robert Lowndes
+Ano-Publicacao: 2000
+Titulo-original: The Duplicated Man
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 515
+Título: O Mundo de Amanhã
+Autor1: Hunt Collins
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Tomorrow's World
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 516
+Título: A Conquista da Imortalidade
+Autor1: Robert Sheckley
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Immortality Inc.
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 517
+Título: O Exílio do Tempo
+Autor1: Ray Cummings
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: The Exile of Time
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1931
+
+Número: 518
+Título: Cidade na Lua
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: City on the Moon
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 519
+Título: O Espaço Exterior
+Autor1: Bertram Chandler
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: The Rim of Space
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 52
+Título: Atenção aos Robots!
+Autor1: Jean-Gaston Vandel
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: Alerte Aux Robots!
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 520
+Título: Os Caminhos das Estrelas
+Autor1: Poul Anderson
+Autor2: 
+Ano-Publicacao: 2000
+Titulo-original: Star Ways
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 521
+Título: Nove Príncipes em Âmbar
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Nine Princes in Amber
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1970
+
+Número: 522
+Título: Uma Coisa do Outro Mundo
+Autor1: Murray Leinster
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Out of This World
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 523
+Título: A Porta da Montanha do Fogo
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Gate of Ivrel
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 524
+Título: Inteligência Artificial
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Supertoys last all Summer Long and Other Stories of Future Time
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 2001
+
+Número: 525
+Título: O Poço de Shiuan, 1º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Well of Shiuan
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 526
+Título: O Poço de Shiuan, 2º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Well of Shiuan
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 527
+Título: As Armas de Avalon
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: The Guns of Avalon
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1972
+
+Número: 528
+Título: As Labaredas de Azeroth, 1º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Fires of Azeroth
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 529
+Título: As Labaredas de Azeroth, 2º volume
+Autor1: C. J. Cherryh
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Fires of Azeroth
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 53
+Título: A Morte da Terra
+Autor1: J. H. Rosny Aîné
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: La Mort de la Terre
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1910
+
+Número: 530
+Título: A Reinvenção dos Dragões, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Dragonsdawn
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1988
+
+Número: 531
+Título: A Reinvenção dos Dragões, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: Dragonsdawn
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1988
+
+Número: 532
+Título: Estrelas Semeadas
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: The Seedling Stars
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 533
+Título: Os Renegados de Pern, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: The Renegades of Pern
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 534
+Título: Os Renegados de Pern, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2001
+Titulo-original: The Renegades of Pern
+Tradutor1: Alexandra Santos Tavares
+Tradutor2: 
+Ano-edicao: 1989
+
+Número: 535
+Título: Fumos de Sonho, 1º volume
+Autor1: Tricia Sullivan
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: Dreaming in Smoke
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1998
+
+Número: 536
+Título: Fumos de Sonho, 2º volume
+Autor1: Tricia Sullivan
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: Dreaming in Smoke
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1998
+
+Número: 537
+Título: Uma Nova Esperança em Pern, 1º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: All the Weyrs of Pern
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 538
+Título: Uma Nova Esperança em Pern, 2º volume
+Autor1: Anne McCaffrey
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: All the Weyrs of Pern
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 539
+Título: Renascer, 1º volume
+Autor1: Maureen F. McHugh
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: Mission Child
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1998
+
+Número: 54
+Título: Regresso a Zero
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1959
+Titulo-original: Retour a "O"
+Tradutor1: Maria Adelaide Correia Freire
+Tradutor2: Raul Correia
+Ano-edicao: 1956
+
+Número: 540
+Título: Renascer, 2º volume
+Autor1: Maureen F. McHugh
+Autor2: 
+Ano-Publicacao: 2002
+Titulo-original: Mission Child
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1998
+
+Número: 541
+Título: Os Trunfos do Mal
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Trumps of Doom
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 542
+Título: O Castelo de Lorde Valentine, 1º volume
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Lord Valentine's Castle
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 543
+Título: O Castelo de Lorde Valentine, 2º volume
+Autor1: Robert Silverberg
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Lord Valentine's Castle
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1980
+
+Número: 544
+Título: A Primavera de Helliconia, 1º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Spring
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 545
+Título: A Primavera de Helliconia, 2º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Spring
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1982
+
+Número: 546
+Título: O Sinal do Unicórnio
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: The Sign of the Unicorn
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1975
+
+Número: 547
+Título: O Verão de Helliconia, 1º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Summer
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 548
+Título: O Verão de Helliconia, 2º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Summer
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1983
+
+Número: 549
+Título: O Inverno de Helliconia, 1º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Winter
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 55
+Título: Os Frutos Dourados do Sol
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: The Golden Apples of the Sun
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 550
+Título: O Inverno de Helliconia, 2º volume
+Autor1: Brian Aldiss
+Autor2: 
+Ano-Publicacao: 2003
+Titulo-original: Helliconia Winter
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1985
+
+Número: 551
+Título: Os Vigilantes do Imaginário, 1º volume
+Autor1: Pat Cadigan
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: Mindplayers
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 552
+Título: Os Vigilantes do Imaginário, 2º volume
+Autor1: Pat Cadigan
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: Mindplayers
+Tradutor1: Alexandra Rolão Tavares
+Tradutor2: 
+Ano-edicao: 1987
+
+Número: 553
+Título: A Grande Roda
+Autor1: William Rollo
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: The Big Wheel
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1984
+
+Número: 554
+Título: Intermundo
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: Interworld
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1977
+
+Número: 555
+Título: A Raça Futura
+Autor1: Bulwer Lytton
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: The Coming Race
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1871
+
+Número: 556
+Título: A Mão de Oberon
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: The Hand of Oberon
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1976
+
+Número: 557
+Título: As Cortes do Caos
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: The Courts of Chaos
+Tradutor1: Paulo Moreira
+Tradutor2: 
+Ano-edicao: 1978
+
+Número: 558
+Título: Mundo Exterior
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: Outerworld
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1979
+
+Número: 559
+Título: O Sangue de Âmbar
+Autor1: Roger Zelazny
+Autor2: 
+Ano-Publicacao: 2005
+Titulo-original: Blood of Amber
+Tradutor1: Elsa T. S. Vieira
+Tradutor2: 
+Ano-edicao: 1986
+
+Número: 56
+Título: Pré-História do Futuro
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: Niourk
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 560
+Título: Mundo dos Espectros
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 2004
+Titulo-original: Specterworld
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1991
+
+Número: 561
+Título: A Conspiração dos Imortais
+Autor1: Márcia Guimarães
+Autor2: 
+Ano-Publicacao: 2005
+Titulo-original: 
+Tradutor1: 
+Tradutor2: 
+Ano-edicao: 2005
+
+Número: 562
+Título: Mundo de Cristal
+Autor1: Isidore Haiblum
+Autor2: 
+Ano-Publicacao: 2006
+Titulo-original: Crystalworld
+Tradutor1: Paulo A. Moreira
+Tradutor2: 
+Ano-edicao: 1992
+
+Número: 563
+Título: Dune, 1º volume
+Autor1: Frank Herbert
+Autor2: 
+Ano-Publicacao: 2006
+Titulo-original: Dune
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1965
+
+Número: 57
+Título: O Robot de Júpiter-9
+Autor1: Paul French
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: Lucky Starr and the Moons of Jupiter
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 58
+Título: A Rainha Rebelde
+Autor1: L. Sprague de Camp
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: Rogue Queen
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 59
+Título: Partida Para o Espaço
+Autor1: C. M. Kornbluth
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: Takeoff
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 6
+Título: O Mundo Marciano
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Martian Chronicles
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 60
+Título: O Vagabundo das Estrelas
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1960
+Titulo-original: L'Orphelin de Perdide
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 61
+Título: A Superfície do Planeta
+Autor1: Daniel Drode
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Surface de la Planète
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 62
+Título: Rumo ao Universo
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Destination: Universe
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 63
+Título: O Tempo das Estrelas
+Autor1: Robert A. Heinlein
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Time for the Stars
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 64
+Título: O Mundo dos Draags
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Oms en Série
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 65
+Título: Projectado no Futuro
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Timeliner
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 66
+Título: Ortog
+Autor1: Kurt Steiner
+Autor2: 
+Ano-Publicacao: 1961
+Titulo-original: Aux Armes d'Ortog
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 67
+Título: O Homem que Vinha do Passado
+Autor1: Theodore Sturgeon
+Autor2: 
+Ano-Publicacao: 1962
+Titulo-original: Venus Plus X
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 68
+Título: O Espaço Será Pequeno
+Autor1: Fredric Brown
+Autor2: 
+Ano-Publicacao: 1962
+Titulo-original: Space on my Hands
+Tradutor1: Mário-Henrique Leiria
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 69
+Título: Geração Galáctica
+Autor1: E. C. Tubb
+Autor2: 
+Ano-Publicacao: 1962
+Titulo-original: The Space-Born
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 7
+Título: Inconstância do Amanhã
+Autor1: F. G. Rayer
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: Tomorrow Sometimes Comes
+Tradutor1: Fernando Moutinho
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 70
+Título: Ameaça dos Robots
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1962
+Titulo-original: The Naked Sun
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1956
+
+Número: 71
+Título: O Dia das Trífides
+Autor1: John Wyndham
+Autor2: 
+Ano-Publicacao: 1962
+Titulo-original: The Day of the Triffids
+Tradutor1: José Manuel Calafate
+Tradutor2: 
+Ano-edicao: 1951
+
+Número: 72
+Título: Missão em Sidar
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: Rayons Pour Sidar
+Tradutor1: Gomes dos Santos
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 73
+Título: Operação Vénus
+Autor1: Leonid Onochko
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: ?? ????????? ???????
+Tradutor1: Rogério Fernandes
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 74
+Título: Colónias no Espaço
+Autor1: E. C. Tubb
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: Alien Dust
+Tradutor1: Elisa Lopes Ribeiro
+Tradutor2: 
+Ano-edicao: 1955
+
+Número: 75
+Título: Plano 7
+Autor1: Mordecai Roshwald
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: Level Seven
+Tradutor1: Alfredo Augusto Margarido
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 76
+Título: Degelo em 2157
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: La Peur Géante
+Tradutor1: André Varga
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 77
+Título: A Aldeia dos Malditos
+Autor1: John Wyndham
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: The Midwich Cuckoos
+Tradutor1: Álvaro Simões
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 78
+Título: Caminhavam Como Homens
+Autor1: Clifford D. Simak
+Autor2: 
+Ano-Publicacao: 1963
+Titulo-original: They Walked Like Men
+Tradutor1: Alfredo Augusto Margarido
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 79
+Título: A Máquina do Poder
+Autor1: A. Higon
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: La Machine du Pouvoir
+Tradutor1: André Varga
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 8
+Título: O Veneno de Marte
+Autor1: Paul French
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: David Starr Space Ranger
+Tradutor1: Fernando de Castro Ferro
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 80
+Título: Cidadão do Universo
+Autor1: Francis Carsac
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Pour Patrie, l'Espace
+Tradutor1: Alfredo Augusto Margarido
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 81
+Título: O Signo do Cão
+Autor1: Jean Hougron
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Le Signe du Chien
+Tradutor1: André Varga
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 82
+Título: Emissários do Futuro
+Autor1: Gérard Klein
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Le Temps n'a pas d'Odeur
+Tradutor1: Rogério Fernandes
+Tradutor2: 
+Ano-edicao: 1963
+
+Número: 83
+Título: O Satélite Sombrio
+Autor1: Jérome Sériel
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Le Satellite Sombre
+Tradutor1: Gomes dos Santos
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 84
+Título: A Nuvem Negra
+Autor1: Fred Hoyle
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: The Black Cloud
+Tradutor1: Artur Portela Filho
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 85
+Título: O Templo do Passado
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Le Temple du Passé
+Tradutor1: André Varga
+Tradutor2: 
+Ano-edicao: 1957
+
+Número: 86
+Título: Fundação e Império
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Foundation and Empire
+Tradutor1: Alfredo Margarido
+Tradutor2: 
+Ano-edicao: 1952
+
+Número: 87
+Título: A Astronave da Esperança
+Autor1: Edmund Cooper
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Seed of Light
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 88
+Título: A Era dos Biocibs
+Autor1: Jimmy Guieu
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: L'Ére des Byocibs
+Tradutor1: Gomes dos Santos
+Tradutor2: 
+Ano-edicao: 1960
+
+Número: 89
+Título: Segunda Fundação
+Autor1: Isaac Asimov
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Second Foundation
+Tradutor1: Sousa Victorino
+Tradutor2: 
+Ano-edicao: 1953
+
+Número: 9
+Título: Missão Interplanetária
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Voyage of the Space Beagle
+Tradutor1: Fernando Moutinho
+Tradutor2: 
+Ano-edicao: 1950
+
+Número: 90
+Título: Armadilha em Zarkass
+Autor1: Stefan Wul
+Autor2: 
+Ano-Publicacao: 1964
+Titulo-original: Piège sur Zarkass
+Tradutor1: Álvaro Simões
+Tradutor2: 
+Ano-edicao: 1958
+
+Número: 91
+Título: A Guerra Contra o Rull
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: The War Against the Rull
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 92
+Título: Luta Intergaláctica
+Autor1: Edmond Hamilton
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: Outside the Universe
+Tradutor1: Jorge Fonseca
+Tradutor2: 
+Ano-edicao: 1929
+
+Número: 93
+Título: As Máquinas da Alegria
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: The Machineries of Joy
+Tradutor1: Mário Braga
+Tradutor2: Maria Isabel Morna Braga
+Ano-edicao: 1964
+
+Número: 94
+Título: S. O. S. Lua
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: A Fall of Moondust
+Tradutor1: Jorge Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 95
+Título: Náufragos da Lua
+Autor1: Arthur C. Clarke
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: A Fall of Moondust
+Tradutor1: Jorge Fonseca
+Tradutor2: 
+Ano-edicao: 1961
+
+Número: 96
+Título: 2000 Ano de Terror
+Autor1: Charles Eric Maine
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: Crisis 2000
+Tradutor1: Fernanda Pinto Rodrigues
+Tradutor2: 
+Ano-edicao: 1959
+
+Número: 97
+Título: O Abismo de Chicago
+Autor1: Ray Bradbury
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: The Machineries of Joy
+Tradutor1: Mário Braga
+Tradutor2: Maria Isabel Morna Braga
+Ano-edicao: 1964
+
+Número: 98
+Título: Ameaça de Andrómeda
+Autor1: Fred Hoyle
+Autor2: J. Elliot
+Ano-Publicacao: 1965
+Titulo-original: A for Andromeda
+Tradutor1: Jorge Fonseca
+Tradutor2: 
+Ano-edicao: 1962
+
+Número: 99
+Título: Os Amotinados do Polar Lion
+Autor1: Mordecai Roshwald
+Autor2: 
+Ano-Publicacao: 1965
+Titulo-original: A Small Armageddon
+Tradutor1: Mário Braga
+Tradutor2: Maria Isabel Morna Braga
+Ano-edicao: 1962
