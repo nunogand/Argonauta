@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-
+<div class="table-container">
+{% assign autores = site.data.argonauta | group_by: "Autor" %}
+<ul>
+{% for g in autores %}
+{% assign leads = g.items %}
+<li>name : {{ g.name }} {{ leads.size }} leads</li>
+{% endfor %}
+</ul>
+</div>
 
 
 <div class="table-container">
