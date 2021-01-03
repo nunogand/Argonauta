@@ -12,13 +12,16 @@ layout: default
                 <div class="card">
                     <div class="card-image">
                         <figure class="">
-                            <img src="{{ image.path }}" class="image is-96x96" data-name="{{ image.name }}" />
+                            <a href="/livros/{{ image.basename | append: ".html" }}">
+                            <img src="{{ image.path }}" class="image is-96x96" data-name="{{ image.name }}">
+                        </a>
                         </figure>
+                        <!--
                         <div class="card-content is-overlay is-clipped">
                             <span class="tag is-info">
                                 nome
                             </span>
-                        </div>
+                        </div>-->
                     </div>
                     <footer class="card-footer">
                         <a class="card-footer-item">
@@ -30,7 +33,7 @@ layout: default
             {% endif %}
             {% endfor %}
         </div>
-        
+
 
     </div>
 </section>

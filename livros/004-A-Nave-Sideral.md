@@ -1,4 +1,5 @@
 ---
+layout: page
 Número: 4
 Título: A Nave Sideral
 Autor1: Murray Leinster
