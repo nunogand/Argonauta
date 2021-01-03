@@ -36,7 +36,7 @@ author:
   #- jekyll-sitemap
   #- jekyll-minifier
 
-# Defaults (seo)
+# Defaults (including SEO)
 defaults:
   -
     scope:
@@ -49,6 +49,10 @@ defaults:
       path: "assets/front"
     values:
       capa: true
+  - scope:
+      path: "_autores"
+    values:
+      layout: page
 
 # Dependencies
 markdown: kramdown
