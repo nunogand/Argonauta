@@ -1,1 +1,47 @@
 criar para cada autor um shortname_alias (que pode ser a concatenação do full author)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Aplicar https://talk.jekyllrb.com/t/access-specific-data-using-front-matter/1046/2
+
+CSV file cities.csv:
+
+name,description
+Dallas,Big City in Texas
+
+Jekyll has a handy filter called inspect that you can throw onto the end of a variable to see what it contains.
+
+{% assign city = site.data.cities[page.city] %}
+{{ city | inspect }}
+Which outputs nil.
+
+To do what you want I believe you need to loop through the site.data.cities data file. Something like this works for me.
+
+{% assign cities = site.data.cities %}
+
+{% for city in cities %}
+
+  {% if city.name == page.city %}
+    <a rel="author"
+      href="https://twitter.com/{{ author.twitter }}"
+      title="{{ city.description }}">
+        {{ city.name }}
+    </a>
+  {% endif %}
+
+{% endfor %}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Verificar o que se pode fazer com isto
+https://github.com/avillafiorita/jekyll-datapage_gen
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
