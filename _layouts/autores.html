@@ -27,8 +27,8 @@ layout: default
                 repellat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
                 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
                 vitae dicta sunt explicabo.</p>
- 
-                
+
+
 
 
 
@@ -48,7 +48,7 @@ layout: default
 
     </div>
 
-
+    
 </section>
 
 <!--/ Layout: Autores -->
@@ -57,32 +57,23 @@ layout: default
 
 <section class="section">
 
-        <div class="container">
+    <div class="container">
+        {% assign a = page.url | remove: "/autores/" %}
+        
+        {% assign livros = site.data.argonauta-alias | where: "alias", a %}
+        {{a |inspect }}
 
-            <div class="columns is-multiline">
-                {% for image in site.static_files %}
-                {% if image.path contains 'front' %}
+        <ul>
+            {% for g in livros %}
+            {% assign link = site.data.argonauta-alias | find: "Título" , g.name %}
+            {{g.Titulo |inspect }}
+            <li>
+        <a href="/autores/{{ link.alias | append: ".html" }}">{{ g.name }}: {{ g.size }} Volume(s) </a>
 
-                <div class="column is-one-quarter-desktop is-half-tablet">
-                    <div class="card">
-                        <div class="card-image">
-                            <figure class="">
-                                <a href="/livros/{{ image.basename | append: ".html" }}">
-                                    <img src="{{ image.path }}" class="image is-96x96" data-name="{{ image.name }}">
-                                </a>
-                            </figure>
-                                                   </div>
-                        <footer class="card-footer">
-                            <a class="card-footer-item">
-                                outtra
-                            </a>
-                        </footer>
-                    </div>
-                </div>
-                {% endif %}
-                {% endfor %}
-            </div>
+            </li>
 
-    </section>
+            {% endfor %}
 
-    <!--/ lista de livros -->
+</section>
+
+<!--/ lista de livros -->
