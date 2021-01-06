@@ -48,7 +48,7 @@ layout: default
 
     </div>
 
-    
+
 </section>
 
 <!--/ Layout: Autores -->
@@ -58,22 +58,26 @@ layout: default
 <section class="section">
 
     <div class="container">
-        {% assign a = page.url | remove: "/autores/" %}
-        
-        {% assign livros = site.data.argonauta-alias | where: "alias", a %}
-        {{a |inspect }}
+        <div class="columns is-multiline">
+            {% assign a = page.url | remove: "/autores/" %}
 
-        <ul>
-            {% for g in livros %}
-            {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
-            {{g.Titulo |inspect }}
-            <li>
-        <a href="/livros/{{ g.Titulo-link | append: ".html" }}">{{ g.Titulo }}</a>
+            {% assign livros = site.data.argonauta-alias | where: "alias", a %}
+            {{a |inspect }}
+            <div class="column is-one-quarter-desktop is-half-tablet">
+                <div class="card">
+                    <ul>
+                        {% for g in livros %}
+                        {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
+                        {{g.Titulo |inspect }}
+                        <li>
+                            <a href="/livros/{{ g.Titulo-link | append: ".html" }}">{{ g.Titulo }}</a>
 
-            </li>
+                        </li>
 
-            {% endfor %}
-
+                        {% endfor %}
+                </div>
+            </div>
+        </div>
 </section>
 
 <!--/ lista de livros -->
