@@ -65,10 +65,10 @@ layout: default
 
         <ul>
             {% for g in livros %}
-            {% assign link = site.data.argonauta-alias | find: "Título" , g.name %}
+            {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
             {{g.Titulo |inspect }}
             <li>
-        <a href="/autores/{{ link.alias | append: ".html" }}">{{ g.name }}: {{ g.size }} Volume(s) </a>
+        <a href="/livros/{{ g.Titulo-link | append: ".html" }}">{{ g.Titulo }}</a>
 
             </li>
 
