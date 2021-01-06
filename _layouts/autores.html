@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<!-- Layout: Autores -->
+<section class="section">
+
+    <div class="columns">
+
+        <!--Section: autor-->
+
+        <div class="column is-two-thirds">
+
+            <!--Coluna 1-->
+
+
+            <h1>Hello!</h1>
+
+            <!--Texto-->
+            <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
+                non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad
+                autem vel eum iure reprehenderit qui in ea minima veniam, quis nostrum exercitationem ullam corporis
+                suscipit laboriosam.</p>
+
+            <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et
+                voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente
+                delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores
+                repellat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
+                vitae dicta sunt explicabo.</p>
+ 
+                
+
+
+
+
+        </div>
+        <!--/coluna 1-->
+
+        <!--Coluna 2-->
+        <div class="column">
+
+            <!--Imagem-->
+            <figure class="image is-1by1">
+                <img class="is-rounded" src="/assets{{ page.url | append: ".jpeg" }}">
+
+        </div>
+        <!--/Coluna 2-->
+
+    </div>
+
+
+</section>
+
+<!--/ Layout: Autores -->
+
+<!-- Lista de livros -->
+
+<section class="section">
+
+        <div class="container">
+
+            <div class="columns is-multiline">
+                {% for image in site.static_files %}
+                {% if image.path contains 'front' %}
+
+                <div class="column is-one-quarter-desktop is-half-tablet">
+                    <div class="card">
+                        <div class="card-image">
+                            <figure class="">
+                                <a href="/livros/{{ image.basename | append: ".html" }}">
+                                    <img src="{{ image.path }}" class="image is-96x96" data-name="{{ image.name }}">
+                                </a>
+                            </figure>
+                                                   </div>
+                        <footer class="card-footer">
+                            <a class="card-footer-item">
+                                outtra
+                            </a>
+                        </footer>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+
+    </section>
+
+    <!--/ lista de livros -->
