@@ -40,9 +40,14 @@ layout: default
         <div class="column">
 
             <!--Imagem-->
+            {% comment %}
             <figure class="image is-1by1">
                 <img class="is-rounded" src="/assets{{ page.url | append: ".jpeg" }}">
-
+{% endcomment %}
+                
+                <!--Imagem placeholder-->
+                <figure class="image is-1by1">
+                <img class="is-rounded" src="https://via.placeholder.com/300/0000FF/808080 ?Text=AUTOR_PLACEHOLDER">
         </div>
         <!--/Coluna 2-->
 
