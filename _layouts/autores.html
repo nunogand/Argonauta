@@ -43,7 +43,7 @@ layout: default
             {% comment %}
             <figure class="image is-1by1">
                 <img class="is-rounded" src="/assets{{ page.url | append: ".jpeg" }}">
-{% endcomment %}
+            {% endcomment %}
                 
                 <!--Imagem placeholder-->
                 <figure class="image is-1by1">
@@ -77,10 +77,17 @@ layout: default
 
                     <div class="card-header">{{ g.Titulo }}</div>
                     <div class="card-image">
-                        <figure class="image is-3by4">
+                        <figure class="image">
                             <a href="/livros/{{ g.Titulo-link | append: ".html" }}">
+                                
+                                {% comment %}
                                 <img src="/livros/front/{{ g.Titulo-link | append: ".jpeg" }}"
                                     data-name="{{ image.name }}" alt="{{ image.name }}">
+                                {% endcomment %}
+                                
+                                <img src=" https://via.placeholder.com/115X150/d9d24c/" }}"
+                                    data-name="{{ image.name }}" alt="{{ image.name }}">
+                                
                             </a>
                         </figure>
                     </div>
