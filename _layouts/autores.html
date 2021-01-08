@@ -62,22 +62,32 @@ layout: default
             {% assign a = page.url | remove: "/autores/" %}
 
             {% assign livros = site.data.argonauta-alias | where: "alias", a %}
-            {{a |inspect }}
+            {% for g in livros %}
+            {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
+
             <div class="column is-one-quarter-desktop is-half-tablet">
+
+
                 <div class="card">
-                    <ul>
-                        {% for g in livros %}
-                        {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
-                        {{g.Titulo |inspect }}
-                        <li>
-                            <a href="/livros/{{ g.Titulo-link | append: ".html" }}">{{ g.Titulo }}</a>
 
-                        </li>
-
-                        {% endfor %}
+                    <div class="card-header">{{ g.Titulo }}</div>
+                    <div class="card-image">
+                        <figure class="image is-3by4">
+                            <a href="/livros/{{ g.Titulo-link | append: ".html" }}">
+                                <img src="/livros/front/{{ g.Titulo-link | append: ".jpeg" }}"
+                                    data-name="{{ image.name }}" alt="{{ image.name }}">
+                            </a>
+                        </figure>
+                    </div>
                 </div>
+
+
+
+
             </div>
+            {% endfor %}
         </div>
+    </div>
 </section>
 
 <!--/ lista de livros -->
