@@ -3,6 +3,7 @@ layout: default
 title: Lista de Autores
 ---
 {% include navigation.html %}
+{% include hero-autores.html %}
 
 <!-- cria cartões de autores distribuido por numero de volumes -->
 
