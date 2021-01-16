@@ -9,7 +9,7 @@ site.data.nome_csv.Número[123].Autor1 | inspect
 {{site.data.argonauta-alias-index[123].Numero | inspect}}
 {{site.data.argonauta-alias-index[123].Autor | inspect}}
 
-{{site.data.argonauta-alias-index |where  | inspect}}
+site.data.argonauta-alias-index |where  | inspect
 
 {%capture titulo%}{{ page.url | remove:"/livros/"}}{%endcapture%}
 {{titulo}}

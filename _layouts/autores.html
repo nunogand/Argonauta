@@ -8,7 +8,7 @@ layout: default
 
         <!--Section: autor-->
 
-        <div class="column is-two-thirds">
+        <div class="column is-two-thirds box">
 
             <!--Coluna 1-->
 
@@ -42,12 +42,12 @@ layout: default
             <!--Imagem-->
             {% comment %}
             <figure class="image is-1by1">
-                <img class="is-rounded" src="/assets{{ page.url | append: ".jpeg" }}">
-            {% endcomment %}
-                
+                <img class="is-rounded" src="/assets{{ page.url | append: " .jpeg" }}">
+                {% endcomment %}
+
                 <!--Imagem placeholder-->
                 <figure class="image is-1by1">
-                <img class="is-rounded" src="https://via.placeholder.com/300/0000FF/808080 ?Text=AUTOR_PLACEHOLDER">
+                    <img class="is-rounded" src="https://via.placeholder.com/300/0000FF/808080 ?Text=AUTOR_PLACEHOLDER">
         </div>
         <!--/Coluna 2-->
 
@@ -57,7 +57,9 @@ layout: default
 </section>
 
 <!--/ Layout: Autores -->
-
+<div>
+    <div class="divider is-success">VOLUMES PUBLICADOS</div>
+</div>
 <!-- Lista de livros -->
 
 <section class="section">
@@ -73,21 +75,25 @@ layout: default
             <div class="column is-one-quarter-desktop is-half-tablet">
 
 
-                <div class="card">
+                <div class="card ">
 
-                    <div class="card-header">{{ g.Titulo }}</div>
+                    <div class="card-header">
+                        <p class="card-header-title is-centered">
+                            {{ g.Titulo }}
+                        </p>
+                    </div>
                     <div class="card-image">
                         <figure class="image">
-                            <a href="/livros/{{ g.Titulo-link | append: ".html" }}">
-                                
+                            <a href="/livros/{{ g.Titulo-link | append: " .html" }}">
+
                                 {% comment %}
-                                <img src="/livros/front/{{ g.Titulo-link | append: ".jpeg" }}"
+                                <img src="/livros/front/{{ g.Titulo-link | append: " .jpeg" }}"
                                     data-name="{{ image.name }}" alt="{{ image.name }}">
                                 {% endcomment %}
-                                
-                                <img src=" https://via.placeholder.com/115X150/d9d24c/" }}"
-                                    data-name="{{ image.name }}" alt="{{ image.name }}">
-                                
+
+                                <img src=" https://via.placeholder.com/115X150/d9d24c/" }}" data-name="{{ image.name }}"
+                                    alt="{{ image.name }}">
+
                             </a>
                         </figure>
                     </div>
