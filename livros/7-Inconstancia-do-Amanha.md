@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 7
-Título: Inconstância do Amanhã
+title: Inconstância do Amanhã
 Autor1: F. G. Rayer
 Autor2: 
 Ano-Publicacao: 1954

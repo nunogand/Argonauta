@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 9
-Título: Missão Interplanetária
+title: Missão Interplanetária
 Autor1: A. E. Van Vogt
 Autor2: 
 Ano-Publicacao: 1954

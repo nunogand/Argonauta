@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 8
-Título: O Veneno de Marte
+title: O Veneno de Marte
 Autor1: Paul French
 Autor2: 
 Ano-Publicacao: 1954

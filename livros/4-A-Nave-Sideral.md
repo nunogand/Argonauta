@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 4
-Título: A Nave Sideral
+title: A Nave Sideral
 Autor1: Murray Leinster
 Autor2: 
 Ano-Publicacao: 1954

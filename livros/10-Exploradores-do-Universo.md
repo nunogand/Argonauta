@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 10
-Título: Exploradores do Universo
+title: Exploradores do Universo
 Autor1: Jon J. Deegan
 Autor2: 
 Ano-Publicacao: 1954

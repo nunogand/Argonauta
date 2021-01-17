@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 6
-Título: O Mundo Marciano
+title: O Mundo Marciano
 Autor1: Ray Bradbury
 Autor2: 
 Ano-Publicacao: 1954

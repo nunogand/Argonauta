@@ -1,7 +1,7 @@
 ---
 layout: livro
 Número: 2
-Título: O Estranho Mundo de Kilsona
+title: O Estranho Mundo de Kilsona
 Autor1: Festus Pragnell
 Autor2: 
 Ano-Publicacao: 1954
