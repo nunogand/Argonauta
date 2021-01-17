@@ -2,24 +2,23 @@
 layout: default
 ---
 {% include navigation.html %}
+
+{% assign a = page.url | remove: "/livros/" %}
+{% assign livros = site.data.argonauta-alias | where: "Titulo-link", a %}
+{%for g in livros%}
+
 <section class="section ">
   <div class="container ">
     <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
        <div class="column is-5-desktop">
-        <figure class="image is-2by3">
+        <figure class="image">
         <img
-          src="https://via.placeholder.com/533x799.png" alt="">
+          src="/assets/front/{{g.Titulo-link | append: ".jpg" }}" alt="{{ g.Titulo }}">
 </figure>
       </div>
 
       <div class="column is-7-desktop box">
-        {% assign a = page.url | remove: "/livros/" %}
-        
-        
-
-        {% assign livros = site.data.argonauta-alias | where: "Titulo-link", a %}
-        
-        {%for g in livros%} 
+         
           
         <p class="subtitle has-text-left">Número: {{ g.Numero }} </p>
 
@@ -42,7 +41,7 @@ layout: default
           <div class="level-item has-text-centered">
             <div>
               <p>Autor</p>
-              <p>{{ g.Autor }}</p>
+              <p><a href="/autores/{{ g.alias }}">{{ g.Autor }}</a></p>
             </div>
           </div>
 

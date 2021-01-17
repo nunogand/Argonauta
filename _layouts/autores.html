@@ -79,12 +79,13 @@ layout: default
 
                     <div class="card-header">
                         <p class="card-header-title is-centered">
+                            <a href="/livros/{{ g.Titulo-link | append: ".html" }}">
                             {{ g.Titulo }}
                         </p>
                     </div>
                     <div class="card-image">
                         <figure class="image">
-                            <a href="/livros/{{ g.Titulo-link | append: " .html" }}">
+                            
 
                                 {% comment %}
                                 <img src="/livros/front/{{ g.Titulo-link | append: " .jpeg" }}"
