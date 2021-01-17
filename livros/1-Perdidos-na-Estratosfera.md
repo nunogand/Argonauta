@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: livro
 Número: 1
-Título: Perdidos na Estratosfera
+title: Perdidos na Estratosfera
 Autor1: A. M. Low
 Autor2: 
 Ano-Publicacao: 1953

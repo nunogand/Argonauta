@@ -1,0 +1,103 @@
+---
+layout: default
+---
+{% include navigation.html %}
+<section class="section ">
+  <div class="container ">
+    <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
+       <div class="column is-5-desktop">
+        <figure class="image is-2by3">
+        <img
+          src="https://via.placeholder.com/533x799.png" alt="">
+</figure>
+      </div>
+
+      <div class="column is-7-desktop box">
+        {% assign a = page.url | remove: "/livros/" %}
+        
+        
+
+        {% assign livros = site.data.argonauta-alias | where: "Titulo-link", a %}
+        
+        {%for g in livros%} 
+          
+        <p class="subtitle has-text-left">Número: {{ g.Numero }} </p>
+
+        <h2 class="title is-spaced has-text-left">{{ g.Titulo }}</h2>
+        <hr>
+
+        <nav class="level">
+          <div class="level-item has-text-centered">
+            <div>
+              <p>Número</p>
+              <p>{{ g.Numero }}</p>
+            </div>
+          </div>
+          <div class="level-item has-text-centered">
+            <div>
+              <p>Título</p>
+              <p>{{ g.Titulo }}</p>
+            </div>
+          </div>
+          <div class="level-item has-text-centered">
+            <div>
+              <p>Autor</p>
+              <p>{{ g.Autor }}</p>
+            </div>
+          </div>
+
+{%if g.Co-autor == true%}
+          <div class="level-item has-text-centered">
+            <div>
+              <p>Co-Autor</p>
+              <p>{{ g.Co-autor }}</p>
+            </div>
+          </div>
+{%else%}
+<div class="level-item has-text-centered">
+  <div>
+    <p>Co-Autor</p>
+    <p>-</p>
+  </div>
+</div>
+{%endif%}          
+          <div class="level-item has-text-centered">
+            <div>
+              <p>Título Original</p>
+              <p>{{ g.Titulo-original }}</p>
+            </div>
+          </div>
+
+
+        </nav>
+<hr>
+
+
+
+
+
+        <p class="subtitle is-family-monospace ml-6"> 
+
+          This wonderful green shirt will make you an evangelist of Pied Pipers' world-changing
+          technology. It will make you stand out anywhere you go - so say yes to decentralization, and say yes to our official Pied Piper swag.
+
+        {{ content }}
+      </p>
+      {%endfor%}
+        <hr>
+        <div class="level is-mobile">
+          <div class="level-left">
+            <div class="level-item"><a href="#">Add to favorites</a></div>
+          </div>
+          <div class="level-right">
+            <div class="level-item">Share</div>
+            <a class="level-item" href="#"><img src="placeholder/icons/facebook-f.svg" alt=""></a><a class="level-item"
+              href="#"><img src="placeholder/icons/twitter.svg" alt=""></a><a class="level-item" href="#"><img
+                src="placeholder/icons/instagram.svg" alt=""></a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

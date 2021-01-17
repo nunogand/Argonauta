@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: livro
 Número: 3
 Título: A Última Cidade da Terra
 Autor1: Edmond Hamilton

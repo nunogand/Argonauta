@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: livro
 Número: 5
 Título: O Universo Vivo
 Autor1: Jimmy Guieu

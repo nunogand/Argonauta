@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: livro
 Número: 6
 Título: O Mundo Marciano
 Autor1: Ray Bradbury

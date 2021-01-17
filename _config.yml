@@ -52,7 +52,7 @@ defaults:
   - scope:
       path: "_autores"
     values:
-      layout: page
+      layout: livro
 
 # Dependencies
 markdown: kramdown
