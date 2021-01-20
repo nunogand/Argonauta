@@ -1,5 +1,5 @@
 ---
-layout: autores
+layout: autores1
 title: Clifford D Simak
 ---
 Clifford Donald Simak (1904 - 1988) é considerado um dos Grão-Mestres da Ficção Científica tendo reunido uma enorme colecção de prémios e menções.

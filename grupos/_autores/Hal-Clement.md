@@ -1,3 +1,3 @@
 ---
-layout: autores
+layout: autores1
 ---

@@ -24,7 +24,7 @@ title: Lista de Autores
                         </figure>
                     </div>
                     <div class="card-content has-text-centered">
-                        <a href="/autores/{{ link.alias | append: " .html" }}">
+                        <a href="/autores/{{ link.alias | append: ".html" }}">
                             <p class="title">{{ g.name }}</p>
                         </a>
 

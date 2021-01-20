@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{% assign a = page.url | remove: "/autores/" %}
+{% assign autor = site.data.argonauta-autores | find: "alias", a %}
+
+
+
+<section class="container">
+    <div class="columns">
+        <div class="column cover">
+            <h1 class="is-size-1">{{autor.Autor }}</h1>
+        </div>
+    </div>
+
+    <div class="columns">
+        <div class="column is-one-third">
+            <div class="columns">
+                <div class="column is-full baixo">
+                    <figure class="image">
+                        <img class="is-rounded cima"
+                            src="http://www.gravatar.com/avatar/c5c2bf91367bd7a36cd7a936e137eab4.png?s=200">
+                    </figure>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column is-full">
+                    
+                    <div class="notification is-link is-light">
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?<br>
+                         <span class="citacao">{{autor.Autor }}</span></div>
+                                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+        <div class="column">
+
+            <div class="columns is-vcentered is-mobile">
+                <div class="column is-full">
+                    <h2>VOLUMES PUBLICADOS</h2>
+                    <hr>
+                </div>
+            </div>
+            
+            
+            {% assign livros = site.data.argonauta-alias | where: "alias", a %}
+            {% for g in livros %}
+            {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
+
+            <div class="columns is-vcentered is-mobile">
+                <div class="column is-one-quarter">
+                    <figure class="image is-2by3">
+                        {% comment %}
+                        <img src="/livros/front/{{ g.Titulo-link | append: ".jpeg" }}" data-name="{{ image.name }}"
+                            alt="{{ image.name }}">
+                        {% endcomment %}
+                        <img class=""
+                            src="http://www.gravatar.com/avatar/c5c2bf91367bd7a36cd7a936e137eab4.png?s=200">
+                    </figure>
+                </div>
+                <div class="column box">
+                    <a href="/livros/{{ g.Titulo-link | append: ".html" }}">
+                        {{ g.Titulo }}</a>
+                        
+                </div>
+                    
+
+            
+            </div>
+            <div class="columns is-vcentered is-mobile">
+                <div class="column">
+                    <hr>
+                </div>
+            </div>
+            
+            {% endfor %}
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+
+    </div>
+
+
+</section>
+
+
+
+
+<!--/ lista de livros -->

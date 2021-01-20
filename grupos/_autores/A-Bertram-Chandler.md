@@ -1,5 +1,5 @@
 ---
-layout: autores
+layout: autores1
 title: A Bertram Chandler
 ---
 Nascido no Reino Unido mas emigrado para a Austrália em 1956, A. Bertram Chandler (1912 - 1984) serviu na Marinha Mercante desde 1928 até à sua reforma em 1975. Esta longa experiência profissional permeou a sua escrita, e muitos dos seus romances apresentam naves espaciais e frotas cujas estruturas de comando são claramente navais. É conhecido principalmente pela série de livros ambientados na Orla e o seu protagonista John Grimes.

@@ -1,5 +1,5 @@
 ---
-layout: autores
+layout: autores1
 title: Archibald Montgomery Low
 ---
 Archibald Montgomery Low (1888-1956) ou Professor Archibald Montgomery Low como gostava de ser chamado foi um académico, engenheiro e inventor inglês, sendo no campo literário conhecido principalmente pelos seus livros de divulgação científica. Famoso nos anos 20 e 30 do século XX os seus trabalhos espalharam-se por vastas áreas, desde os primórdios do conceito de televisão ao motor de combustão. 
