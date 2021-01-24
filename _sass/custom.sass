@@ -13,13 +13,13 @@
 
 //coluna da imagem dos livros
 .livros
-  background-position: center top;
-  min-height: 100vh;
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-size: contain;
-  position: sticky;
-  top: 10px;
+  background-position: center top
+  min-height: 100vh
+  background-position: center top
+  background-repeat: no-repeat
+  background-size: contain
+  position: sticky
+  top: 10px
 
 
 // Cartões de autores    
@@ -100,3 +100,69 @@ body
     font-weight: 300
     letter-spacing: 1px
     margin-top: .5em
+
+//autores2
+.cover 
+  position: relative
+  background: #CCC
+  background-image: url("https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907?fit=crop&fm=jpg&h=800&q=75&w=1050")
+  background-size: cover
+  background-position: center
+  min-height: 350px
+  
+
+  h1 
+    color: white
+    padding-bottom: 100px
+     
+      
+
+
+.borda 
+  border-left: 11px ridge rgba(255,127,80,0.71)
+
+.cima
+  position: absolute
+  top: -100px
+  width: 200px !important
+  height: 200px  !important
+  padding: 4px
+  background-color: #fff
+
+.baixo
+  min-height: 150px
+
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap')
+
+.bloco 
+  position: relative
+  top: 25%
+  font-family: 'Special Elite', cursive
+  background: #f9f9f9
+  border-left: 10px solid #ccc
+  margin: 1.5em 10px
+  padding: 0.5em 10px
+  quotes: "\201C""\201D"
+
+.bloco:before 
+  color: #ccc
+  content: open-quote
+  font-size: 2.5em
+  line-height: 0.1em
+  margin-right: 0.25em
+  vertical-align: -0.4em
+  
+  
+.bloco:after 
+  color: #ccc
+  content: open-quote
+  font-size: 2.5em
+  line-height: 0.1em
+  margin-right: 0.25em
+  vertical-align: -0.4em
+  
+
+.bloco p 
+  display: inline
+
