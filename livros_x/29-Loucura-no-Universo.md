@@ -1,8 +1,8 @@
 Numero: 29
-Titulo: Loucura no Universo
+title: Loucura no Universo
 Autor: Fredric Brown
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: What Mad Universe
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

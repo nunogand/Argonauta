@@ -1,8 +1,8 @@
 Numero: 563
-Titulo: Dune 1º volume
+title: Dune 1º volume
 Autor: Frank Herbert
 Co-autor: 
-Ano-de-Publicacaoo: 2006
+Ano-de-Publicacao: 2006
 Titulo-original: Dune
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

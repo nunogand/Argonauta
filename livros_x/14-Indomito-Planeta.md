@@ -1,8 +1,8 @@
 Numero: 14
-Titulo: Indómito Planeta
+title: Indómito Planeta
 Autor: Roy Sheldon
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: The Metal Eater
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

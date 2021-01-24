@@ -1,8 +1,8 @@
 Numero: 175
-Titulo: O Mundo do Abismo
+title: O Mundo do Abismo
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: The Watch Below
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

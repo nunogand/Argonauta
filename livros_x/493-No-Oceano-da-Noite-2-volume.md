@@ -1,8 +1,8 @@
 Numero: 493
-Titulo: No Oceano da Noite 2º volume
+title: No Oceano da Noite 2º volume
 Autor: Gregory Benford
 Co-autor: 
-Ano-de-Publicacaoo: 1998
+Ano-de-Publicacao: 1998
 Titulo-original: In the Ocean of Night
 Tradutor: Alexandra Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 493-No-Oceano-da-Noite-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

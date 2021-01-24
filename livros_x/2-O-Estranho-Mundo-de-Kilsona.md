@@ -1,8 +1,8 @@
 Numero: 2
-Titulo: O Estranho Mundo de Kilsona
+title: O Estranho Mundo de Kilsona
 Autor: Festus Pragnell
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: The Green Man of Graypec
 Tradutor: José da Natividade Gaspar
 Co-tradutor: 

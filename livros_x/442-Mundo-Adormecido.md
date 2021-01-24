@@ -1,9 +1,10 @@
 Numero: 442
-Titulo: Mundo Adormecido
+title: Mundo Adormecido
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1994
-Titulo-original: "Sleepwalkers World",Tradutor: J Santos Tavares
+Ano-de-Publicacao: 1994
+Titulo-original: "Sleepwalkers World"
+Tradutor: J Santos Tavares
 Co-tradutor: 
 Ano-de-edicao: 1971
 alias: Gordon-R-Dickson

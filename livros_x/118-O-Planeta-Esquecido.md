@@ -1,8 +1,8 @@
 Numero: 118
-Titulo: O Planeta Esquecido
+title: O Planeta Esquecido
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: Forgotten Planet
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

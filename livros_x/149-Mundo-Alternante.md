@@ -1,8 +1,8 @@
 Numero: 149
-Titulo: Mundo Alternante
+title: Mundo Alternante
 Autor: Keith Laumer
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: Worlds of the Imperium
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

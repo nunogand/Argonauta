@@ -1,8 +1,8 @@
 Numero: 469
-Titulo: As Vozes do Céu 1º volume
+title: As Vozes do Céu 1º volume
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: The Voices of Heaven
 Tradutor: J Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 469-As-Vozes-do-Ceu-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 123
-Titulo: Deixemo-los no Céu
+title: Deixemo-los no Céu
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: Why Call Them Back From Heaven?
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

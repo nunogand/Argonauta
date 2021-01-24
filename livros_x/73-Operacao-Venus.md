@@ -1,8 +1,8 @@
 Numero: 73
-Titulo: Operação Vénus
+title: Operação Vénus
 Autor: Leonid Onochko
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: ?? ????????? ???????
 Tradutor: Rogério Fernandes
 Co-tradutor: 

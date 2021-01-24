@@ -1,8 +1,8 @@
 Numero: 39
-Titulo: Estrela Dupla
+title: Estrela Dupla
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1957
+Ano-de-Publicacao: 1957
 Titulo-original: Double Star
 Tradutor: H dos Santos Carvalho
 Co-tradutor: 

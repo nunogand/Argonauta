@@ -1,8 +1,8 @@
 Numero: 353
-Titulo: Bill o Herói Galáctico
+title: Bill o Herói Galáctico
 Autor: Harry Harrison
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Bill the Galactic Hero
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

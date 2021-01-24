@@ -1,8 +1,8 @@
 Numero: 193
-Titulo: Depois da Derrocada
+title: Depois da Derrocada
 Autor: Philip E High
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: These Savage Futurians
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 172
-Titulo: Quando os Marcianos Vieram
+title: Quando os Marcianos Vieram
 Autor: Edmund Cooper
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: The Last Continent
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

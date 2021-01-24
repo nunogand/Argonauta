@@ -1,8 +1,8 @@
 Numero: 75
-Titulo: Plano 7
+title: Plano 7
 Autor: Mordecai Roshwald
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: Level Seven
 Tradutor: Alfredo Augusto Margarido
 Co-tradutor: 

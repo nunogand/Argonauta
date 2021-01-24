@@ -1,8 +1,8 @@
 Numero: 156
-Titulo: Os Super-Homens
+title: Os Super-Homens
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: The Silkie
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

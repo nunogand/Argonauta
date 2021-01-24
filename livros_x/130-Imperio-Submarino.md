@@ -1,8 +1,8 @@
 Numero: 130
-Titulo: Império Submarino
+title: Império Submarino
 Autor: Paul W Fairman
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: City Under the Sea
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

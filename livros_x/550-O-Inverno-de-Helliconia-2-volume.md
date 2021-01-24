@@ -1,8 +1,8 @@
 Numero: 550
-Titulo: O Inverno de Helliconia 2º volume
+title: O Inverno de Helliconia 2º volume
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 2003
+Ano-de-Publicacao: 2003
 Titulo-original: Helliconia Winter
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 550-O-Inverno-de-Helliconia-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

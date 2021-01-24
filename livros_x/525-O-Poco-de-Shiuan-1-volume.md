@@ -1,8 +1,8 @@
 Numero: 525
-Titulo: O Poço de Shiuan 1º volume
+title: O Poço de Shiuan 1º volume
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Well of Shiuan
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 179
-Titulo: O Dia em que o Sol Desapareceu
+title: O Dia em que o Sol Desapareceu
 Autor: Frederik Pohl
 Co-autor: C M Kornbluth
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: Wolfbane
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

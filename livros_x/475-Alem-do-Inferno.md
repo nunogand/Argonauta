@@ -1,8 +1,8 @@
 Numero: 475
-Titulo: Além do Inferno
+title: Além do Inferno
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: Inside Outside
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

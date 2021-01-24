@@ -1,8 +1,8 @@
 Numero: 223
-Titulo: A Grande Operação
+title: A Grande Operação
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: Major Operation
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

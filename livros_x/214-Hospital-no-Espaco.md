@@ -1,8 +1,8 @@
 Numero: 214
-Titulo: Hospital no Espaço
+title: Hospital no Espaço
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Hospital Station
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

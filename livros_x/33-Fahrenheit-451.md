@@ -1,8 +1,8 @@
 Numero: 33
-Titulo: Fahrenheit 451
+title: Fahrenheit 451
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Fahrenheit 451
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

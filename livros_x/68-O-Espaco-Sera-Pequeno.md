@@ -1,8 +1,8 @@
 Numero: 68
-Titulo: O Espaço Será Pequeno
+title: O Espaço Será Pequeno
 Autor: Fredric Brown
 Co-autor: 
-Ano-de-Publicacaoo: 1962
+Ano-de-Publicacao: 1962
 Titulo-original: Space on my Hands
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

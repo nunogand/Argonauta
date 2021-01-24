@@ -1,8 +1,8 @@
 Numero: 95
-Titulo: Náufragos da Lua
+title: Náufragos da Lua
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: A Fall of Moondust
 Tradutor: Jorge Fonseca
 Co-tradutor: 

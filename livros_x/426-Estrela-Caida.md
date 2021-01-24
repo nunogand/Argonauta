@@ -1,8 +1,8 @@
 Numero: 426
-Titulo: Estrela Caída
+title: Estrela Caída
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: The Frozen Year
 Tradutor: António Porto
 Co-tradutor: 

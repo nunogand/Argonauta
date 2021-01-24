@@ -1,8 +1,8 @@
 Numero: 241
-Titulo: Tigre! Tigre!
+title: Tigre! Tigre!
 Autor: Alfred Bester
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: Tiger! Tiger!
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

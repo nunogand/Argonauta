@@ -1,8 +1,8 @@
 Numero: 178
-Titulo: Os Filhos do Futuro 2º volume
+title: Os Filhos do Futuro 2º volume
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: Children of Tomorrow
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

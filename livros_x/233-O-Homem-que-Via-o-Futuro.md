@@ -1,8 +1,8 @@
 Numero: 233
-Titulo: O Homem que Via o Futuro
+title: O Homem que Via o Futuro
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: So Bright the Vision
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

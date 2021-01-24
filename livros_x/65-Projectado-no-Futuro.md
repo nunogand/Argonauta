@@ -1,8 +1,8 @@
 Numero: 65
-Titulo: Projectado no Futuro
+title: Projectado no Futuro
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1961
+Ano-de-Publicacao: 1961
 Titulo-original: Timeliner
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

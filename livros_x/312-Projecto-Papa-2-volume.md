@@ -1,8 +1,8 @@
 Numero: 312
-Titulo: Projecto Papa 2º volume
+title: Projecto Papa 2º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: Project Pope
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 312-Projecto-Papa-2-volume
 Capa: 
 pags: 179
-Capa-link:
+Capa-link: 

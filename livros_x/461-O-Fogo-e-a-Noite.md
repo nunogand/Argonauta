@@ -1,8 +1,8 @@
 Numero: 461
-Titulo: O Fogo e a Noite
+title: O Fogo e a Noite
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Fire and the Night
 Tradutor: Raul Gonçalves
 Co-tradutor: 

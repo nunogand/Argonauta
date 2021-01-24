@@ -1,8 +1,8 @@
 Numero: 446
-Titulo: O Universo de Morton
+title: O Universo de Morton
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: The Universe Maker
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 446-O-Universo-de-Morton
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

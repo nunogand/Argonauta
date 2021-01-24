@@ -1,8 +1,8 @@
 Numero: 512
-Titulo: Rota de Colisão
+title: Rota de Colisão
 Autor: Robert Silverberg
 Co-autor: 
-Ano-de-Publicacaoo: 2000
+Ano-de-Publicacao: 2000
 Titulo-original: Collision Course
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 512-Rota-de-Colisao
 Capa: 
 pags: 201
-Capa-link:
+Capa-link: 

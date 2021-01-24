@@ -1,8 +1,8 @@
 Numero: 462
-Titulo: As Estrelas Como Palco
+title: As Estrelas Como Palco
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: And All the Stars a Stage
 Tradutor: J Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 462-As-Estrelas-Como-Palco
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

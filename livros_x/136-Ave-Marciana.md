@@ -1,8 +1,8 @@
 Numero: 136
-Titulo: Ave Marciana
+title: Ave Marciana
 Autor: Edmund Cooper
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: A Far Sunset
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

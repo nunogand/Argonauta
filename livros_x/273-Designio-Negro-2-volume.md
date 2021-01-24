@@ -1,8 +1,8 @@
 Numero: 273
-Titulo: Desígnio Negro 2º volume
+title: Desígnio Negro 2º volume
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: The Dark Design
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 126
-Titulo: O Planeta dos Homens Alados
+title: O Planeta dos Homens Alados
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: War of the Wing-men
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

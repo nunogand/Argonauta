@@ -1,8 +1,8 @@
 Numero: 128
-Titulo: O Túnel do Tempo
+title: O Túnel do Tempo
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: The Time Tunnel
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

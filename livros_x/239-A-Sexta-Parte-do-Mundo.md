@@ -1,8 +1,8 @@
 Numero: 239
-Titulo: A Sexta Parte do Mundo
+title: A Sexta Parte do Mundo
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: The Deep Range
 Tradutor: Maria Emília F Moura
 Co-tradutor: 

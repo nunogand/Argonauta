@@ -1,9 +1,10 @@
 Numero: 207
-Titulo: A Máquina de Governar
+title: A Máquina de Governar
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1974
-Titulo-original: "Vulcans Hammer",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1974
+Titulo-original: "Vulcans Hammer"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1960
 alias: Philip-K-Dick

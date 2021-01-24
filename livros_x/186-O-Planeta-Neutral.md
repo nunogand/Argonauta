@@ -1,8 +1,8 @@
 Numero: 186
-Titulo: O Planeta Neutral
+title: O Planeta Neutral
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: Mayday Orbit
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

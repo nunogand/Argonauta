@@ -1,8 +1,8 @@
 Numero: 127
-Titulo: Colónia de Marte
+title: Colónia de Marte
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: The House That Stood Still
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 506
-Titulo: Criptozóica
+title: Criptozóica
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1999
+Ano-de-Publicacao: 1999
 Titulo-original: An Age
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

@@ -1,9 +1,10 @@
 Numero: 5
-Titulo: O Universo Vivo
+title: O Universo Vivo
 Autor: Jimmy Guieu
 Co-autor: 
-Ano-de-Publicacaoo: 1954
-Titulo-original: "LUnivers Vivant",Tradutor: Rui Bandeira
+Ano-de-Publicacao: 1954
+Titulo-original: "LUnivers Vivant"
+Tradutor: Rui Bandeira
 Co-tradutor: 
 Ano-de-edicao: 1953
 alias: Jimmy-Guieu

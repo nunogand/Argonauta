@@ -1,9 +1,10 @@
 Numero: 88
-Titulo: A Era dos Biocibs
+title: A Era dos Biocibs
 Autor: Jimmy Guieu
 Co-autor: 
-Ano-de-Publicacaoo: 1964
-Titulo-original: "LÉre des Byocibs",Tradutor: Gomes dos Santos
+Ano-de-Publicacao: 1964
+Titulo-original: "LÉre des Byocibs"
+Tradutor: Gomes dos Santos
 Co-tradutor: 
 Ano-de-edicao: 1960
 alias: Jimmy-Guieu

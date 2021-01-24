@@ -1,8 +1,8 @@
 Numero: 432
-Titulo: O Correio do Tempo
+title: O Correio do Tempo
 Autor: Robert Silverberg
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: Up the Line
 Tradutor: Abel Coimbra
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 432-O-Correio-do-Tempo
 Capa: 
 pags: 240
-Capa-link:
+Capa-link: 

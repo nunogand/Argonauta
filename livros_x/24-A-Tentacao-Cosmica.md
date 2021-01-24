@@ -1,8 +1,8 @@
 Numero: 24
-Titulo: A Tentação Cósmica
+title: A Tentação Cósmica
 Autor: Roger Sorez
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: La Tentacion Cosmique
 Tradutor: A Maldonado Domingues
 Co-tradutor: 

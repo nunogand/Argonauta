@@ -1,8 +1,8 @@
 Numero: 195
-Titulo: O Ponto Ómega
+title: O Ponto Ómega
 Autor: George Zebrowski
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Omega Point
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

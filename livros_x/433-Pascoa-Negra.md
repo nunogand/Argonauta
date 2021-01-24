@@ -1,8 +1,8 @@
 Numero: 433
-Titulo: Páscoa Negra
+title: Páscoa Negra
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: Black Easter
 Tradutor: Raul Gonçalves
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 280
-Titulo: A Teia do Tempo
+title: A Teia do Tempo
 Autor: Michael Kurland
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: The Unicorn Girl
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 114
-Titulo: A Astronave Pirata
+title: A Astronave Pirata
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: Rogue Ship
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

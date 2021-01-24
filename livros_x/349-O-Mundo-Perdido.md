@@ -1,8 +1,8 @@
 Numero: 349
-Titulo: O Mundo Perdido
+title: O Mundo Perdido
 Autor: Arthur Conan Doyle
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: The Lost World
 Tradutor: J Lima da Costa
 Co-tradutor: 

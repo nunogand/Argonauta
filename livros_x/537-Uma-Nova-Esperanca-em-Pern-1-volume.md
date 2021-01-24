@@ -1,8 +1,8 @@
 Numero: 537
-Titulo: Uma Nova Esperança em Pern 1º volume
+title: Uma Nova Esperança em Pern 1º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 2002
+Ano-de-Publicacao: 2002
 Titulo-original: All the Weyrs of Pern
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 

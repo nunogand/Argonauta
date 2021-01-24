@@ -1,8 +1,8 @@
 Numero: 263
-Titulo: Mundo sem Morte
+title: Mundo sem Morte
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: To Your Scattered Bodies Go
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

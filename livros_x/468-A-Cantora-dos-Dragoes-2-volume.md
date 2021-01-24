@@ -1,8 +1,8 @@
 Numero: 468
-Titulo: A Cantora dos Dragões 2º volume
+title: A Cantora dos Dragões 2º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: Dragonsinger
 Tradutor: Raul Gonçalves
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 468-A-Cantora-dos-Dragoes-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

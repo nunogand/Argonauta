@@ -1,8 +1,8 @@
 Numero: 171
-Titulo: Um Cântico para Leibowitz 3º volume
+title: Um Cântico para Leibowitz 3º volume
 Autor: Walter M Miller Jr
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: A Canticle for Leibowitz
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

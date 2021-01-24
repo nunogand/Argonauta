@@ -1,8 +1,8 @@
 Numero: 397
-Titulo: A Torre de Cristal
+title: A Torre de Cristal
 Autor: Robert Silverberg
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: The Tower of Glass
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 397-A-Torre-de-Cristal
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

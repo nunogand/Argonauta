@@ -1,8 +1,8 @@
 Numero: 99
-Titulo: Os Amotinados do Polar Lion
+title: Os Amotinados do Polar Lion
 Autor: Mordecai Roshwald
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: A Small Armageddon
 Tradutor: Mário Braga
 Co-tradutor: Maria Isabel Morna Braga

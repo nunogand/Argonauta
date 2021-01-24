@@ -1,8 +1,8 @@
 Numero: 87
-Titulo: A Astronave da Esperança
+title: A Astronave da Esperança
 Autor: Edmund Cooper
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Seed of Light
 Tradutor: Fernanda Pinto Rodrigues
 Co-tradutor: 

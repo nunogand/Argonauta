@@ -1,8 +1,8 @@
 Numero: 180
-Titulo: A Terra dos Sonhos Felizes
+title: A Terra dos Sonhos Felizes
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: The Dreaming Earth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

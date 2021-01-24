@@ -1,8 +1,8 @@
 Numero: 194
-Titulo: Ninguém Morre Neste Mundo
+title: Ninguém Morre Neste Mundo
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Age of the Pussyfoot
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

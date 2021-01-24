@@ -1,8 +1,8 @@
 Numero: 302
-Titulo: Os Filhos do Cosmos
+title: Os Filhos do Cosmos
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: Children of the Lens
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,9 +1,10 @@
 Numero: 185
-Titulo: Batalha Amarga
+title: Batalha Amarga
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1972
-Titulo-original: "Drunkards Walk",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1972
+Titulo-original: "Drunkards Walk"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1960
 alias: Frederik-Pohl

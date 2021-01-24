@@ -1,8 +1,8 @@
 Numero: 132
-Titulo: Revolta em 2100
+title: Revolta em 2100
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: Revolt in 2100
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

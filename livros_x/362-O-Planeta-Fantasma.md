@@ -1,8 +1,8 @@
 Numero: 362
-Titulo: O Planeta Fantasma
+title: O Planeta Fantasma
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: A Wreath of Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 304
-Titulo: Longe da Terra
+title: Longe da Terra
 Autor: Marion Zimmer Bradley
 Co-autor: 
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: Survey Ship
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

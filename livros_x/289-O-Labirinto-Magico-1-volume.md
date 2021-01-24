@@ -1,8 +1,8 @@
 Numero: 289
-Titulo: O Labirinto Mágico 1º volume
+title: O Labirinto Mágico 1º volume
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: The Magic Labyrinth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

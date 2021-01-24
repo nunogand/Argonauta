@@ -1,8 +1,8 @@
 Numero: 310
-Titulo: O Homem sem Rosto
+title: O Homem sem Rosto
 Autor: Jack Vance
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: The Anome
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

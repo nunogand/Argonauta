@@ -1,8 +1,8 @@
 Numero: 445
-Titulo: Um Demónio no Cérebro
+title: Um Demónio no Cérebro
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: A Plague of Pythons
 Tradutor: J Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 445-Um-Demonio-no-Cerebro
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

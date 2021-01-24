@@ -1,8 +1,8 @@
 Numero: 305
-Titulo: O Deus da Fúria
+title: O Deus da Fúria
 Autor: Philip K Dick
 Co-autor: Roger Zelazny
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: Deus Irae
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

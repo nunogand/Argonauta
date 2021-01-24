@@ -1,8 +1,8 @@
 Numero: 238
-Titulo: A Cratera da Morte
+title: A Cratera da Morte
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: Trouble With Tycho
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

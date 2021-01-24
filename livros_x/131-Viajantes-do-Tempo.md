@@ -1,8 +1,8 @@
 Numero: 131
-Titulo: Viajantes do Tempo
+title: Viajantes do Tempo
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: Time is the Simplest Thing
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 112
-Titulo: As Flores que Pensam
+title: As Flores que Pensam
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: All Flesh is Grass
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

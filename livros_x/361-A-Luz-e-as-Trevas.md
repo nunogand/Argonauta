@@ -1,8 +1,8 @@
 Numero: 361
-Titulo: A Luz e as Trevas
+title: A Luz e as Trevas
 Autor: L Sprague de Camp
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: Lest Darkness Fall
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 391
-Titulo: A Cidade das Ilusões
+title: A Cidade das Ilusões
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: City of Illusions
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 391-A-Cidade-das-Ilusoes
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

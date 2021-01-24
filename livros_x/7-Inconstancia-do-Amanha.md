@@ -1,8 +1,8 @@
 Numero: 7
-Titulo: Inconstância do Amanhã
+title: Inconstância do Amanhã
 Autor: F G Rayer
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: Tomorrow Sometimes Comes
 Tradutor: Fernando Moutinho
 Co-tradutor: 

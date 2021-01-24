@@ -1,8 +1,8 @@
 Numero: 30
-Titulo: Gerações do Amanhã
+title: Gerações do Amanhã
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Beyond This Horizon
 Tradutor: Luís de Almeida Campos
 Co-tradutor: 

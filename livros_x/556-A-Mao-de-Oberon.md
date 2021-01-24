@@ -1,8 +1,8 @@
 Numero: 556
-Titulo: A Mão de Oberon
+title: A Mão de Oberon
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: The Hand of Oberon
 Tradutor: Elsa T S Vieira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 556-A-Mao-de-Oberon
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

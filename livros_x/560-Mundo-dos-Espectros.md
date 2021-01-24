@@ -1,8 +1,8 @@
 Numero: 560
-Titulo: Mundo dos Espectros
+title: Mundo dos Espectros
 Autor: Isidore Haiblum
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: Specterworld
 Tradutor: Paulo A Moreira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 560-Mundo-dos-Espectros
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

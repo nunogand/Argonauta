@@ -1,8 +1,8 @@
 Numero: 323
-Titulo: O Mundo do Caos
+title: O Mundo do Caos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: Special Deliverance
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

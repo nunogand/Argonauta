@@ -1,8 +1,8 @@
 Numero: 307
-Titulo: Prisioneiros do Poder 1º volume
+title: Prisioneiros do Poder 1º volume
 Autor: Arkadi Strugatski
 Co-autor: Boris Strugatski
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: ????????? ??????
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

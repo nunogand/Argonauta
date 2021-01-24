@@ -1,8 +1,8 @@
 Numero: 459
-Titulo: Os Cantores do Tempo 1º volume
+title: Os Cantores do Tempo 1º volume
 Autor: Frederik Pohl
 Co-autor: Jack Williamson
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: The Singers of Time
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 459-Os-Cantores-do-Tempo-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

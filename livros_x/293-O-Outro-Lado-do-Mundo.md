@@ -1,8 +1,8 @@
 Numero: 293
-Titulo: O Outro Lado do Mundo
+title: O Outro Lado do Mundo
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: The Farthest Shore
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 164
-Titulo: Loucura no Espaço
+title: Loucura no Espaço
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: Doctor to the Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

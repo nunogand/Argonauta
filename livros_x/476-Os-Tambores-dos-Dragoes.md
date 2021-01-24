@@ -1,8 +1,8 @@
 Numero: 476
-Titulo: Os Tambores dos Dragões
+title: Os Tambores dos Dragões
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: Dragondrums
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 476-Os-Tambores-dos-Dragoes
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

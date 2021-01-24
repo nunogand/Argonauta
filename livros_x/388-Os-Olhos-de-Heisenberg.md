@@ -1,8 +1,8 @@
 Numero: 388
-Titulo: Os Olhos de Heisenberg
+title: Os Olhos de Heisenberg
 Autor: Frank Herbert
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: The Eyes of Heisenberg
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 388-Os-Olhos-de-Heisenberg
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

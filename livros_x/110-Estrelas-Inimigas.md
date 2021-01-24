@@ -1,8 +1,8 @@
 Numero: 110
-Titulo: Estrelas Inimigas
+title: Estrelas Inimigas
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: The Enemy Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 4
-Titulo: A Nave Sideral
+title: A Nave Sideral
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: The Last Space Ship
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

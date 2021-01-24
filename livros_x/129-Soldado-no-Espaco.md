@@ -1,8 +1,8 @@
 Numero: 129
-Titulo: Soldado no Espaço
+title: Soldado no Espaço
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: Starship Troopers
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

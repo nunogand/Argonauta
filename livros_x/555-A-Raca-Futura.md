@@ -1,8 +1,8 @@
 Numero: 555
-Titulo: A Raça Futura
+title: A Raça Futura
 Autor: Bulwer Lytton
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: The Coming Race
 Tradutor: Fernanda Pinto Rodrigues
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 555-A-Raca-Futura
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

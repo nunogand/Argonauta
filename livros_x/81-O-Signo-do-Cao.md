@@ -1,8 +1,8 @@
 Numero: 81
-Titulo: O Signo do Cão
+title: O Signo do Cão
 Autor: Jean Hougron
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Le Signe du Chien
 Tradutor: André Varga
 Co-tradutor: 

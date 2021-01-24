@@ -1,9 +1,10 @@
 Numero: 22
-Titulo: Vigilância Sideral
+title: Vigilância Sideral
 Autor: Pierre Versins
 Co-autor: 
-Ano-de-Publicacaoo: 1955
-Titulo-original: "Les Étoiles ne sen Foutent Pas",Tradutor: Alfredo Margarido
+Ano-de-Publicacao: 1955
+Titulo-original: "Les Étoiles ne sen Foutent Pas"
+Tradutor: Alfredo Margarido
 Co-tradutor: 
 Ano-de-edicao: 1950
 alias: Pierre-Versins

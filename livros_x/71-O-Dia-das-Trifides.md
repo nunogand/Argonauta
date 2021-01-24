@@ -1,8 +1,8 @@
 Numero: 71
-Titulo: O Dia das Trífides
+title: O Dia das Trífides
 Autor: John Wyndham
 Co-autor: 
-Ano-de-Publicacaoo: 1962
+Ano-de-Publicacao: 1962
 Titulo-original: The Day of the Triffids
 Tradutor: José Manuel Calafate
 Co-tradutor: 

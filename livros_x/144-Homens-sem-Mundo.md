@@ -1,8 +1,8 @@
 Numero: 144
-Titulo: Homens sem Mundo
+title: Homens sem Mundo
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: No World of Their Own
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

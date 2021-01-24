@@ -1,8 +1,8 @@
 Numero: 346
-Titulo: O Beco dos Malditos
+title: O Beco dos Malditos
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Damnation Alley
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 346-O-Beco-dos-Malditos
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

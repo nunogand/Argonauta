@@ -1,8 +1,8 @@
 Numero: 340
-Titulo: Regresso ao Mundo do Rio 1º volume
+title: Regresso ao Mundo do Rio 1º volume
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: The Gods of Riverworld
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

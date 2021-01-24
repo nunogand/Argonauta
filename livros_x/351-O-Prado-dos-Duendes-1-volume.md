@@ -1,8 +1,8 @@
 Numero: 351
-Titulo: O Prado dos Duendes 1º volume
+title: O Prado dos Duendes 1º volume
 Autor: Paul Cook
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Duende Meadow
 Tradutor: Eduardo Saló
 Co-tradutor: 

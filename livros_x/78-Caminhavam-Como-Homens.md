@@ -1,8 +1,8 @@
 Numero: 78
-Titulo: Caminhavam Como Homens
+title: Caminhavam Como Homens
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: They Walked Like Men
 Tradutor: Alfredo Augusto Margarido
 Co-tradutor: 

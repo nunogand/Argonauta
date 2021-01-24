@@ -1,8 +1,8 @@
 Numero: 318
-Titulo: Amor no Cosmos
+title: Amor no Cosmos
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: The Lovers
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

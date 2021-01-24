@@ -1,8 +1,8 @@
 Numero: 523
-Titulo: A Porta da Montanha do Fogo
+title: A Porta da Montanha do Fogo
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Gate of Ivrel
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

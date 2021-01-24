@@ -1,8 +1,8 @@
 Numero: 38
-Titulo: A Invasão dos Marcianos
+title: A Invasão dos Marcianos
 Autor: Pierre Versins
 Co-autor: 
-Ano-de-Publicacaoo: 1957
+Ano-de-Publicacao: 1957
 Titulo-original: En Avant Mars!
 Tradutor: Álvaro de Azurara
 Co-tradutor: 

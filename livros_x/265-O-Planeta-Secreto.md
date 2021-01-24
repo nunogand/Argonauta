@@ -1,8 +1,8 @@
 Numero: 265
-Titulo: O Planeta Secreto
+title: O Planeta Secreto
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: First Lensman
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

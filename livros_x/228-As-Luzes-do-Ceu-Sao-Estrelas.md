@@ -1,8 +1,8 @@
 Numero: 228
-Titulo: As Luzes do Céu São Estrelas
+title: As Luzes do Céu São Estrelas
 Autor: Fredric Brown
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: The Lights in the Sky Are Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

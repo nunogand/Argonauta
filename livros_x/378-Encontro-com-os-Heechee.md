@@ -1,8 +1,8 @@
 Numero: 378
-Titulo: Encontro com os Heechee
+title: Encontro com os Heechee
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Heechee Rendezvous
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 378-Encontro-com-os-Heechee
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

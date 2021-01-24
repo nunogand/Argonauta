@@ -1,8 +1,8 @@
 Numero: 203
-Titulo: Silêncio no Espaço
+title: Silêncio no Espaço
 Autor: John Rackam
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Earthstrings
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 34
-Titulo: Guerra no Tempo
+title: Guerra no Tempo
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Time and Again
 Tradutor: Carlos Vieira
 Co-tradutor: 

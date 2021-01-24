@@ -1,8 +1,8 @@
 Numero: 332
-Titulo: Muito Depois da Meia-Noite 2º volume
+title: Muito Depois da Meia-Noite 2º volume
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: Long After Midnight
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

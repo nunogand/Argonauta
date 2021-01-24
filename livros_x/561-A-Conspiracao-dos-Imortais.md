@@ -1,8 +1,8 @@
 Numero: 561
-Titulo: A Conspiração dos Imortais
+title: A Conspiração dos Imortais
 Autor: Márcia Guimarães
 Co-autor: 
-Ano-de-Publicacaoo: 2005
+Ano-de-Publicacao: 2005
 Titulo-original: 
 Tradutor: 
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 561-A-Conspiracao-dos-Imortais
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

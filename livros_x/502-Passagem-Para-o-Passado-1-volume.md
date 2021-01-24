@@ -1,8 +1,8 @@
 Numero: 502
-Titulo: Passagem Para o Passado 1º volume
+title: Passagem Para o Passado 1º volume
 Autor: Isidore Haiblum
 Co-autor: 
-Ano-de-Publicacaoo: 1999
+Ano-de-Publicacao: 1999
 Titulo-original: Transfer to Yesterday
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

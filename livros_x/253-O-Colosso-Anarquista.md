@@ -1,8 +1,8 @@
 Numero: 253
-Titulo: O Colosso Anarquista
+title: O Colosso Anarquista
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: The Anarchistic Colossus
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

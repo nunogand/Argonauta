@@ -1,8 +1,8 @@
 Numero: 381
-Titulo: Anticorpos
+title: Anticorpos
 Autor: David J Skal
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Antibodies
 Tradutor: Samuel Soares
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 518
-Titulo: Cidade na Lua
+title: Cidade na Lua
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 2000
+Ano-de-Publicacao: 2000
 Titulo-original: City on the Moon
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

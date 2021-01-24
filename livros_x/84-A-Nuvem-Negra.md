@@ -1,8 +1,8 @@
 Numero: 84
-Titulo: A Nuvem Negra
+title: A Nuvem Negra
 Autor: Fred Hoyle
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: The Black Cloud
 Tradutor: Artur Portela Filho
 Co-tradutor: 

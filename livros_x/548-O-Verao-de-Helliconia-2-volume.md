@@ -1,8 +1,8 @@
 Numero: 548
-Titulo: O Verão de Helliconia 2º volume
+title: O Verão de Helliconia 2º volume
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 2003
+Ano-de-Publicacao: 2003
 Titulo-original: Helliconia Summer
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 548-O-Verao-de-Helliconia-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 411
-Titulo: Bugs
+title: Bugs
 Autor: John Sladek
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: Bugs
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 411-Bugs
 Capa: 
 pags: 217
-Capa-link:
+Capa-link: 

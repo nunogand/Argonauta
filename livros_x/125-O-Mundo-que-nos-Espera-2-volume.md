@@ -1,9 +1,10 @@
 Numero: 125
-Titulo: O Mundo que nos Espera 2º volume
+title: O Mundo que nos Espera 2º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1967
-Titulo-original: "Farnhams Freehold",Tradutor: Fernanda Pinto Rodrigues
+Ano-de-Publicacao: 1967
+Titulo-original: "Farnhams Freehold"
+Tradutor: Fernanda Pinto Rodrigues
 Co-tradutor: 
 Ano-de-edicao: 1964
 alias: Robert-A-Heinlein

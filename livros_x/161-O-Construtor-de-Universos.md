@@ -1,8 +1,8 @@
 Numero: 161
-Titulo: O Construtor de Universos
+title: O Construtor de Universos
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: The Maker of Universes
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

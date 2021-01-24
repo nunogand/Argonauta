@@ -1,8 +1,8 @@
 Numero: 237
-Titulo: Regresso aos Céus
+title: Regresso aos Céus
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: Return to the Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

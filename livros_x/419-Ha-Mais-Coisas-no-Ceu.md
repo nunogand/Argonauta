@@ -1,8 +1,8 @@
 Numero: 419
-Titulo: Há Mais Coisas no Céu
+title: Há Mais Coisas no Céu
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: More Things in Heaven
 Tradutor: António Porto
 Co-tradutor: 

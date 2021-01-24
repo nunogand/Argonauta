@@ -1,8 +1,8 @@
 Numero: 367
-Titulo: Null-A Três
+title: Null-A Três
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Null-A 3
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 367-Null-A-Tres
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

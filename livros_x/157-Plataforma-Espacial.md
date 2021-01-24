@@ -1,8 +1,8 @@
 Numero: 157
-Titulo: Plataforma Espacial
+title: Plataforma Espacial
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Unknown Danger
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

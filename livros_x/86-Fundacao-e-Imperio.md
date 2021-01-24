@@ -1,8 +1,8 @@
 Numero: 86
-Titulo: Fundação e Império
+title: Fundação e Império
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Foundation and Empire
 Tradutor: Alfredo Margarido
 Co-tradutor: 

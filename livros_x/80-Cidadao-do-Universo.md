@@ -1,9 +1,10 @@
 Numero: 80
-Titulo: Cidadão do Universo
+title: Cidadão do Universo
 Autor: Francis Carsac
 Co-autor: 
-Ano-de-Publicacaoo: 1964
-Titulo-original: "Pour Patrie lEspace",Tradutor: Alfredo Augusto Margarido
+Ano-de-Publicacao: 1964
+Titulo-original: "Pour Patrie lEspace"
+Tradutor: Alfredo Augusto Margarido
 Co-tradutor: 
 Ano-de-edicao: 1962
 alias: Francis-Carsac

@@ -1,8 +1,8 @@
 Numero: 520
-Titulo: Os Caminhos das Estrelas
+title: Os Caminhos das Estrelas
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 2000
+Ano-de-Publicacao: 2000
 Titulo-original: Star Ways
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 520-Os-Caminhos-das-Estrelas
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

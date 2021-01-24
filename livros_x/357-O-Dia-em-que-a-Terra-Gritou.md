@@ -1,8 +1,8 @@
 Numero: 357
-Titulo: O Dia em que a Terra Gritou
+title: O Dia em que a Terra Gritou
 Autor: Arthur Conan Doyle
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: The Poison Belt
 Tradutor: J Lima da Costa
 Co-tradutor: 

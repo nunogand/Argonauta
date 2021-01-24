@@ -1,8 +1,8 @@
 Numero: 467
-Titulo: A Cantora dos Dragões 1º volume
+title: A Cantora dos Dragões 1º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: Dragonsinger
 Tradutor: Raul Gonçalves
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 467-A-Cantora-dos-Dragoes-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

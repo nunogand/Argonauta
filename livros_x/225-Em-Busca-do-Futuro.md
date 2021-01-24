@@ -1,8 +1,8 @@
 Numero: 225
-Titulo: Em Busca do Futuro
+title: Em Busca do Futuro
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: Quest for the Future
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

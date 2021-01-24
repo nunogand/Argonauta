@@ -1,8 +1,8 @@
 Numero: 70
-Titulo: Ameaça dos Robots
+title: Ameaça dos Robots
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1962
+Ano-de-Publicacao: 1962
 Titulo-original: The Naked Sun
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

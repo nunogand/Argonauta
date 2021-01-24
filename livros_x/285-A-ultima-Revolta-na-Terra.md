@@ -1,8 +1,8 @@
 Numero: 285
-Titulo: A Última Revolta na Terra
+title: A Última Revolta na Terra
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: Renaissance
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 285-A-ultima-Revolta-na-Terra
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

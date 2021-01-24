@@ -1,8 +1,8 @@
 Numero: 117
-Titulo: As Cidades Mortas
+title: As Cidades Mortas
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: City
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -50,7 +50,7 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 49,Vuzz,P A Hourey,,1959,Vuzz,Mário-Henrique Leiria,,1955,P-A-Hourey,,Mario-Henrique-Leiria,,49-Vuzz,Lima de Freitas,146,Lima-de-Freitas
 50,Os Mares de Vénus,Paul French,,1959,Lucky Starr and the Oceans of Venus,Mário-Henrique Leiria,,1954,Paul-French,,Mario-Henrique-Leiria,,50-Os-Mares-de-Venus,Lima de Freitas,145,Lima-de-Freitas
 51,A Porta do Espaço,Adrien Sobra,,1959,Portes Sur l'Inconnu,Mário-Henrique Leiria,,1956,Adrien-Sobra,,Mario-Henrique-Leiria,,51-A-Porta-do-Espaco,Lima de Freitas,155,Lima-de-Freitas
-52,Atenção aos Robots!,Jean-Gaston Vandel,,1959,Alerte Aux Robots!,Mário-Henrique Leiria,,1952,Jean-Gaston-Vandel,,Mario-Henrique-Leiria,,52-Atencao-aos-Robots!,Lima de Freitas,168,Lima-de-Freitas
+52,Atenção aos Robots!,Jean-Gaston Vandel,,1959,Alerte Aux Robots!,Mário-Henrique Leiria,,1952,Jean-Gaston-Vandel,,Mario-Henrique-Leiria,,52-Atencao-aos-Robots,Lima de Freitas,168,Lima-de-Freitas
 53,A Morte da Terra,J H Rosny Aîné,,1959,La Mort de la Terre,Mário-Henrique Leiria,,1910,J-H-Rosny-Aîne,,Mario-Henrique-Leiria,,53-A-Morte-da-Terra,Lima de Freitas,128,Lima-de-Freitas
 54,Regresso a Zero,Stefan Wul,,1959,Retour a O,Maria Adelaide Correia Freire,Raul Correia,1956,Stefan-Wul,,Maria-Adelaide-Correia-Freire,Raul-Correia,54-Regresso-a-Zero,Lima de Freitas,177,Lima-de-Freitas
 55,Os Frutos Dourados do Sol,Ray Bradbury,,1960,The Golden Apples of the Sun,Mário-Henrique Leiria,,1950,Ray-Bradbury,,Mario-Henrique-Leiria,,55-Os-Frutos-Dourados-do-Sol,Lima de Freitas,182,Lima-de-Freitas
@@ -98,7 +98,7 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 97,O Abismo de Chicago,Ray Bradbury,,1965,The Machineries of Joy,Mário Braga,Maria Isabel Morna Braga,1964,Ray-Bradbury,,Mario-Braga,Maria-Isabel-Morna-Braga,97-O-Abismo-de-Chicago,Lima de Freitas,146,Lima-de-Freitas
 98,Ameaça de Andrómeda,Fred Hoyle,J Elliot,1965,A for Andromeda,Jorge Fonseca,,1962,Fred-Hoyle,J-Elliot,Jorge-Fonseca,,98-Ameaca-de-Andromeda,Lima de Freitas,242,Lima-de-Freitas
 99,Os Amotinados do Polar Lion,Mordecai Roshwald,,1965,A Small Armageddon,Mário Braga,Maria Isabel Morna Braga,1962,Mordecai-Roshwald,,Mario-Braga,Maria-Isabel-Morna-Braga,99-Os-Amotinados-do-Polar-Lion,Lima de Freitas,215,Lima-de-Freitas
-100,De Júlio Verne aos Astronautas,vários,Lima de Freitas,1965,,Lima de Freitas,,1965,varios,Lima-de-Freitas,Lima-de-Freitas,,100-De-Julio-Verne-aos-Astronautas,Lima de Freitas,418,Lima-de-Freitas
+100,De Júlio Verne aos Astronautas,Vários,Lima de Freitas (ed.),1965,,Lima de Freitas,,1965,Lima-de-Freitas,,Lima-de-Freitas,,100-De-Julio-Verne-aos-Astronautas,Lima de Freitas,418,Lima-de-Freitas
 101,Nova Ameaça de Andrómeda,Fred Hoyle,J Elliot,1965,Andromeda Breakthrough,Jorge Fonseca,,1965,Fred-Hoyle,J-Elliot,Jorge-Fonseca,,101-Nova-Ameaca-de-Andromeda,Lima de Freitas,246,Lima-de-Freitas
 102,A Guerra das Salamandras,Karel Capek,,1965,Válka s Mloky,Lima de Freitas,,1936,Karel-Capek,,Lima-de-Freitas,,102-A-Guerra-das-Salamandras,Lima de Freitas,102,Lima-de-Freitas
 103,Perdido no Espaço 1º volume,Martin Caidin,,1966,Marooned,Eurico da Fonseca,,1964,Martin-Caidin,,Eurico-da-Fonseca,,103-Perdido-no-Espaco-1-volume,Lima de Freitas,212,Lima-de-Freitas
@@ -319,14 +319,14 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 317,Rendez-vous com Rama,Arthur C Clarke,,1983,Rendez-vous With Rama,Eurico da Fonseca,,1972,Arthur-C-Clarke,,Eurico-da-Fonseca,,317-Rendez-vous-com-Rama,António Pedro,202,Antonio-Pedro
 318,Amor no Cosmos,Philip José Farmer,,1984,The Lovers,Eurico da Fonseca,,1961,Philip-Jose-Farmer,,Eurico-da-Fonseca,,318-Amor-no-Cosmos,António Pedro,205,Antonio-Pedro
 319,Expulsos da Terra,Ursula K LeGuin,,1984,The Eye of the Heron,Eurico da Fonseca,,1978,Ursula-K-LeGuin,,Eurico-da-Fonseca,,319-Expulsos-da-Terra,António Pedro,,Antonio-Pedro
-320,Mensagens do Futuro,vários,Isaac Asimov,1984,The Future in Question,Eurico da Fonseca,,1980,varios,Isaac-Asimov,Eurico-da-Fonseca,,320-Mensagens-do-Futuro,,,
+320,Mensagens do Futuro,Vários,Isaac Asimov (ed.),1984,The Future in Question,Eurico da Fonseca,,1980,Isaac-Asimov,,Eurico-da-Fonseca,,320-Mensagens-do-Futuro,,,
 321,A Conquista de Marte 1º volume,William Rollo,,1984,The Olympus Gambit,Eurico da Fonseca,,1983,William-Rollo,,Eurico-da-Fonseca,,321-A-Conquista-de-Marte-1-volume,,,
 322,A Conquista de Marte 2º volume,William Rollo,,1984,The Olympus Gambit,Eurico da Fonseca,,1983,William-Rollo,,Eurico-da-Fonseca,,322-A-Conquista-de-Marte-2-volume,,,
 323,O Mundo do Caos,Clifford D Simak,,1984,Special Deliverance,Eurico da Fonseca,,1982,Clifford-D-Simak,,Eurico-da-Fonseca,,323-O-Mundo-do-Caos,António Pedro,238,Antonio-Pedro
 324,Espião Interestelar,Poul Anderson,,1984,Ensign Flandry,Eurico da Fonseca,,1966,Poul-Anderson,,Eurico-da-Fonseca,,324-Espiao-Interestelar,,258,
 325,A Conquista das Estrelas 1º volume,James P Hogan,,1984,Voyage From Yesteryear,Eurico da Fonseca,,1982,James-P-Hogan,,Eurico-da-Fonseca,,325-A-Conquista-das-Estrelas-1-volume,António Pedro,214,Antonio-Pedro
 326,A Conquista das Estrelas 2º volume,James P Hogan,,1984,Voyage From Yesteryear,Eurico da Fonseca,,1982,James-P-Hogan,,Eurico-da-Fonseca,,326-A-Conquista-das-Estrelas-2-volume,António Pedro,214,Antonio-Pedro
-327,O Que Será o Futuro,vários,Isaac Asimov,1984,The Future in Question,Eurico da Fonseca,,1980,varios,Isaac-Asimov,Eurico-da-Fonseca,,327-O-Que-Sera-o-Futuro,,,
+327,O Que Será o Futuro,Vários,Isaac Asimov (ed.),1984,The Future in Question,Eurico da Fonseca,,1980,Isaac-Asimov,,Eurico-da-Fonseca,,327-O-Que-Sera-o-Futuro,,,
 328,A Invasão Divina,Philip K Dick,,1984,The Divine Invasion,Eurico da Fonseca,,1981,Philip-K-Dick,,Eurico-da-Fonseca,,328-A-Invasao-Divina,,,
 329,Detective Galáctico,Jack Vance,,1984,Galactic Effectuator,Eurico da Fonseca,,1980,Jack-Vance,,Eurico-da-Fonseca,,329-Detective-Galactico,António Pedro,178,Antonio-Pedro
 330,Pesadelo Cósmico,Bob Shaw,,1984,Dagger of the Mind,Eurico da Fonseca,,1979,Bob-Shaw,,Eurico-da-Fonseca,,330-Pesadelo-Cosmico,,,
@@ -376,7 +376,7 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 373,O Mistério de Mercúrio,Bob Shaw,,1988,Fire Pattern,Raul de Sousa Machado,,1984,Bob-Shaw,,Raul-de-Sousa-Machado,,373-O-Misterio-de-Mercurio,,,
 374,Agente de Bizâncio 1º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,374-Agente-de-Bizancio-1-volume,,,
 375,Agente de Bizâncio 2º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,375-Agente-de-Bizancio-2-volume,,,
-376,Reflexos do Futuro,vários,Bruce Sterling,1988,Mirrorshades,Eduardo Saló,,1986,varios,Bruce-Sterling,Eduardo-Salo,,376-Reflexos-do-Futuro,António Pedro,275,Antonio-Pedro
+376,Reflexos do Futuro,Vários,Bruce Sterling (org.),1988,Mirrorshades,Eduardo Saló,,1986,Bruce-Sterling,,Eduardo-Salo,,376-Reflexos-do-Futuro,António Pedro,275,Antonio-Pedro
 377,Mensagem do Futuro,James P Hogan,,1988,Thrice Upon a Time,Raul de Sousa Machado,,1980,James-P-Hogan,,Raul-de-Sousa-Machado,,377-Mensagem-do-Futuro,,,
 378,Encontro com os Heechee,Frederik Pohl,,1989,Heechee Rendezvous,Raul de Sousa Machado,,1984,Frederik-Pohl,,Raul-de-Sousa-Machado,,378-Encontro-com-os-Heechee,,,
 379,O Gato que Atravessa as Paredes 1º volume,Robert A Heinlein,,1989,The Cat Who Walks Through Walls,Clarisse Tavares,,1985,Robert-A-Heinlein,,Clarisse-Tavares,,379-O-Gato-que-Atravessa-as-Paredes-1-volume,,,
@@ -395,7 +395,7 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 392,Metrófago 1º volume,Richard Kadrey,,1990,Metrophage,Eduardo Saló,,1988,Richard-Kadrey,,Eduardo-Salo,,392-Metrofago-1-volume,,,
 393,Metrófago 2º volume,Richard Kadrey,,1990,Metrophage,Eduardo Saló,,1988,Richard-Kadrey,,Eduardo-Salo,,393-Metrofago-2-volume,,,
 394,Pêndulo,A E Van Vogt,,1990,Pendulum,Eduardo Saló,,1978,A-E-Van-Vogt,,Eduardo-Salo,,394-Pendulo,,,
-395,A Nave das Sombras,vários,Isaac Asimov,1990,The Hugo Winners Volume Three,Raul de Sousa Machado,,1977,varios,Isaac-Asimov,Raul-de-Sousa-Machado,,395-A-Nave-das-Sombras,,,
+395,A Nave das Sombras,Vários,Isaac Asimov (ed.),1990,The Hugo Winners Volume Three,Raul de Sousa Machado,,1977,Isaac-Asimov,,Raul-de-Sousa-Machado,,395-A-Nave-das-Sombras,,,
 396,Missão Espacial,Chris Claremont,,1990,First Flight,Raul de Sousa Machado,,1987,Chris-Claremont,,Raul-de-Sousa-Machado,,396-Missao-Espacial,,,
 397,A Torre de Cristal,Robert Silverberg,,1990,The Tower of Glass,Raul de Sousa Machado,,1970,Robert-Silverberg,,Raul-de-Sousa-Machado,,397-A-Torre-de-Cristal,,,
 398,Mistérios do Futuro,John E Stith,,1990,Deep Quarry,Eurico Fonseca,,1989,John-E-Stith,,Eurico-Fonseca,,398-Misterios-do-Futuro,,,
@@ -403,7 +403,7 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 400,O Homem Eterno 1º volume,Gordon R Dickson,,1990,The Forever Man,Raul de Sousa Machado,,1986,Gordon-R-Dickson,,Raul-de-Sousa-Machado,,400-O-Homem-Eterno-1-volume,António Pedro,215,Antonio-Pedro
 401,O Homem Eterno 2º volume,Gordon R Dickson,,1990,The Forever Man,Raul de Sousa Machado,,1986,Gordon-R-Dickson,,Raul-de-Sousa-Machado,,401-O-Homem-Eterno-2-volume,,247,
 402,O Dia Depois do Juízo Final,James Blish,,1991,The Day After Judgement,Raul de Sousa Machado,,1971,James-Blish,,Raul-de-Sousa-Machado,,402-O-Dia-Depois-do-Juizo-Final,António Pedro,322,Antonio-Pedro
-403,Vozes do Futuro,Isaac Asimov,Shawna McCarthy,1991,Isaac Asimov's Tomorrow's Voices,Samuel Soares,,1984,Isaac-Asimov,Shawna-McCarthy,Samuel-Soares,,403-Vozes-do-Futuro,,,
+403,Vozes do Futuro,Isaac Asimov,Shawna McCarthy (org),1991,Isaac Asimov's Tomorrow's Voices,Samuel Soares,,1984,Isaac-Asimov,Shawna-McCarthy,Samuel-Soares,,403-Vozes-do-Futuro,,,
 404,O Mundo de Midas 1º volume,Frederik Pohl,,1991,Midas World,Samuel Soares,,1983,Frederik-Pohl,,Samuel-Soares,,404-O-Mundo-de-Midas-1-volume,António Pedro,192,Antonio-Pedro
 405,O Mundo de Midas 2º volume,Frederik Pohl,,1991,Midas World,Samuel Soares,,1983,Frederik-Pohl,,Samuel-Soares,,405-O-Mundo-de-Midas-2-volume,António Pedro,186,Antonio-Pedro
 406,Necromante,Gordon R Dickson,,1991,Necromancer,Samuel Soares,,1962,Gordon-R-Dickson,,Samuel-Soares,,406-Necromante,António Pedro,178,Antonio-Pedro

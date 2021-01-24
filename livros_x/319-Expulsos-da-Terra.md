@@ -1,8 +1,8 @@
 Numero: 319
-Titulo: Expulsos da Terra
+title: Expulsos da Terra
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: The Eye of the Heron
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

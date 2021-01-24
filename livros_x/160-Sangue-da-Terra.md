@@ -1,8 +1,8 @@
 Numero: 160
-Titulo: Sangue da Terra
+title: Sangue da Terra
 Autor: Keith Laumer
 Co-autor: Rosel George Brown
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Earthblood
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

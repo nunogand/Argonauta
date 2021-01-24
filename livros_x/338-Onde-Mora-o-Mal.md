@@ -1,8 +1,8 @@
 Numero: 338
-Titulo: Onde Mora o Mal
+title: Onde Mora o Mal
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: Where the Devil Dwells
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 338-Onde-Mora-o-Mal
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

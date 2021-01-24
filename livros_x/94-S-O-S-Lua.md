@@ -1,8 +1,8 @@
 Numero: 94
-Titulo: S O S Lua
+title: S O S Lua
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: A Fall of Moondust
 Tradutor: Jorge Fonseca
 Co-tradutor: 

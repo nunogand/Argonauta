@@ -1,8 +1,8 @@
 Numero: 216
-Titulo: Três Mundos e um Médico
+title: Três Mundos e um Médico
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: SOS From Three Worlds
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

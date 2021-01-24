@@ -1,8 +1,8 @@
 Numero: 252
-Titulo: Os Abismos do Espaço
+title: Os Abismos do Espaço
 Autor: Fred Hoyle
 Co-autor: Geoffrey Hoyle
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Into Deepest Space
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

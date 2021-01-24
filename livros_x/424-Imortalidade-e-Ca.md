@@ -1,8 +1,8 @@
 Numero: 424
-Titulo: Imortalidade e Cª
+title: Imortalidade e Cª
 Autor: Robert Sheckley
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: Immortality Inc
 Tradutor: António Porto
 Co-tradutor: 

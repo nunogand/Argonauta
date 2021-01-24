@@ -1,8 +1,8 @@
 Numero: 380
-Titulo: O Gato que Atravessa as Paredes 2º volume
+title: O Gato que Atravessa as Paredes 2º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: The Cat Who Walks Through Walls
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 380-O-Gato-que-Atravessa-as-Paredes-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

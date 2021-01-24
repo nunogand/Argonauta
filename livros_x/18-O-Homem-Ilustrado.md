@@ -1,8 +1,8 @@
 Numero: 18
-Titulo: O Homem Ilustrado
+title: O Homem Ilustrado
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: The Illustrated Man
 Tradutor: Eurico da Costa
 Co-tradutor: 

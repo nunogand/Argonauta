@@ -1,8 +1,8 @@
 Numero: 277
-Titulo: O Planeta dos Deuses
+title: O Planeta dos Deuses
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: The Gods Themselves
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 277-O-Planeta-dos-Deuses
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

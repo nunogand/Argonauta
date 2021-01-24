@@ -1,9 +1,10 @@
 Numero: 251
-Titulo: Os Napoleões das Estrelas
+title: Os Napoleões das Estrelas
 Autor: Pierre Barbet
 Co-autor: 
-Ano-de-Publicacaoo: 1978
-Titulo-original: "Les Grognards dEridan",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1978
+Titulo-original: "Les Grognards dEridan"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1970
 alias: Pierre-Barbet

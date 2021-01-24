@@ -1,9 +1,10 @@
 Numero: 511
-Titulo: O Paraíso de Phule 2º volume
+title: O Paraíso de Phule 2º volume
 Autor: Robert Asprin
 Co-autor: 
-Ano-de-Publicacaoo: 2000
-Titulo-original: "Phules Paradise",Tradutor: Alexandra Santos Tavares
+Ano-de-Publicacao: 2000
+Titulo-original: "Phules Paradise"
+Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
 Ano-de-edicao: 1992
 alias: Robert-Asprin
@@ -13,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 511-O-Paraiso-de-Phule-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

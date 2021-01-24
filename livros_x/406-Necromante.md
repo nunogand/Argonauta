@@ -1,8 +1,8 @@
 Numero: 406
-Titulo: Necromante
+title: Necromante
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: Necromancer
 Tradutor: Samuel Soares
 Co-tradutor: 

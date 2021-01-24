@@ -1,8 +1,8 @@
 Numero: 404
-Titulo: O Mundo de Midas 1º volume
+title: O Mundo de Midas 1º volume
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: Midas World
 Tradutor: Samuel Soares
 Co-tradutor: 

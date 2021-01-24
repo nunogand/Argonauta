@@ -1,8 +1,8 @@
 Numero: 396
-Titulo: Missão Espacial
+title: Missão Espacial
 Autor: Chris Claremont
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: First Flight
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 396-Missao-Espacial
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

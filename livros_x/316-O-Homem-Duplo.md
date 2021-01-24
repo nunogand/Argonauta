@@ -1,8 +1,8 @@
 Numero: 316
-Titulo: O Homem Duplo
+title: O Homem Duplo
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: A Scanner Darkly
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 316-O-Homem-Duplo
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

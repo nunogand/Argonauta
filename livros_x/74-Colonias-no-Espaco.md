@@ -1,8 +1,8 @@
 Numero: 74
-Titulo: Colónias no Espaço
+title: Colónias no Espaço
 Autor: E C Tubb
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: Alien Dust
 Tradutor: Elisa Lopes Ribeiro
 Co-tradutor: 

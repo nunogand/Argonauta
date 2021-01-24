@@ -1,8 +1,8 @@
 Numero: 344
-Titulo: A Máquina da Paz
+title: A Máquina da Paz
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Ground Zero Man
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

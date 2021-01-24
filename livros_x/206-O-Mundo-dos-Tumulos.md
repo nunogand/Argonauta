@@ -1,8 +1,8 @@
 Numero: 206
-Titulo: O Mundo dos Túmulos
+title: O Mundo dos Túmulos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Cemetery World
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

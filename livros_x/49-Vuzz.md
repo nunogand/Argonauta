@@ -1,8 +1,8 @@
 Numero: 49
-Titulo: Vuzz
+title: Vuzz
 Autor: P A Hourey
 Co-autor: 
-Ano-de-Publicacaoo: 1959
+Ano-de-Publicacao: 1959
 Titulo-original: Vuzz
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

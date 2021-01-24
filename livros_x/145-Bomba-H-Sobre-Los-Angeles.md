@@ -1,8 +1,8 @@
 Numero: 145
-Titulo: Bomba H Sobre Los Angeles
+title: Bomba H Sobre Los Angeles
 Autor: Robert M Williams
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: The Day They H-Bombed Los Angeles
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

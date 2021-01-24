@@ -1,8 +1,8 @@
 Numero: 92
-Titulo: Luta Intergaláctica
+title: Luta Intergaláctica
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: Outside the Universe
 Tradutor: Jorge Fonseca
 Co-tradutor: 

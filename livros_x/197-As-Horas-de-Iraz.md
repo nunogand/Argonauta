@@ -1,8 +1,8 @@
 Numero: 197
-Titulo: As Horas de Iraz
+title: As Horas de Iraz
 Autor: L Sprague de Camp
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Clocks of Iraz
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

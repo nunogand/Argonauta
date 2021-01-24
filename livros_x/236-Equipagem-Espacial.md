@@ -1,8 +1,8 @@
 Numero: 236
-Titulo: Equipagem Espacial
+title: Equipagem Espacial
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: Have Spacesuit - Will Travel
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

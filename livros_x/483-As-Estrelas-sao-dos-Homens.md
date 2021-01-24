@@ -1,8 +1,8 @@
 Numero: 483
-Titulo: As Estrelas são dos Homens
+title: As Estrelas são dos Homens
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: They Shall Have Stars
 Tradutor: Alexandra Tavares
 Co-tradutor: 

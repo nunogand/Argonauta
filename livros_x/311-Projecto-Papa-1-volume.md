@@ -1,8 +1,8 @@
 Numero: 311
-Titulo: Projecto Papa 1º volume
+title: Projecto Papa 1º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: Project Pope
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

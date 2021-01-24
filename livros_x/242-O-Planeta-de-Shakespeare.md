@@ -1,9 +1,10 @@
 Numero: 242
-Titulo: O Planeta de Shakespeare
+title: O Planeta de Shakespeare
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1977
-Titulo-original: "Shakespeares Planet",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1977
+Titulo-original: "Shakespeares Planet"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1976
 alias: Clifford-D-Simak

@@ -1,8 +1,8 @@
 Numero: 16
-Titulo: Sentinelas do Universo
+title: Sentinelas do Universo
 Autor: Eric Frank Russell
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: Sentinels from Space
 Tradutor: Fernando Moutinho
 Co-tradutor: 

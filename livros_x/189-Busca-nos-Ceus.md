@@ -1,8 +1,8 @@
 Numero: 189
-Titulo: Busca nos Céus
+title: Busca nos Céus
 Autor: Frederik Pohl
 Co-autor: C M Kornbluth
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: Search the Sky
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

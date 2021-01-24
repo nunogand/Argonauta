@@ -1,8 +1,8 @@
 Numero: 255
-Titulo: Salvamento no Espaço
+title: Salvamento no Espaço
 Autor: Cleve Cartmill
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: The Space Scavengers
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

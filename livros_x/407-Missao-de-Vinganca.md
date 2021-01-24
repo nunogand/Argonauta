@@ -1,8 +1,8 @@
 Numero: 407
-Titulo: Missão de Vingança
+title: Missão de Vingança
 Autor: A Bertram Chandler
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: The Road to the Rim
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

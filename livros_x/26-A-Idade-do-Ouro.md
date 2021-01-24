@@ -1,9 +1,10 @@
 Numero: 26
-Titulo: A Idade do Ouro
+title: A Idade do Ouro
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1955
-Titulo-original: "Childhoods End",Tradutor: Carlos Vieira
+Ano-de-Publicacao: 1955
+Titulo-original: "Childhoods End"
+Tradutor: Carlos Vieira
 Co-tradutor: 
 Ano-de-edicao: 1953
 alias: Arthur-C-Clarke

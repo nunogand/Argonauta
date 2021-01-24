@@ -1,8 +1,8 @@
 Numero: 382
-Titulo: Quando o Céu Caiu
+title: Quando o Céu Caiu
 Autor: John Barnes
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: The Man Who Pulled Down the Sky
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 382-Quando-o-Ceu-Caiu
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

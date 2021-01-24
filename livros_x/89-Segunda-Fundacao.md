@@ -1,8 +1,8 @@
 Numero: 89
-Titulo: Segunda Fundação
+title: Segunda Fundação
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Second Foundation
 Tradutor: Sousa Victorino
 Co-tradutor: 

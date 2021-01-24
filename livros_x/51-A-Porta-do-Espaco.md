@@ -1,9 +1,10 @@
 Numero: 51
-Titulo: A Porta do Espaço
+title: A Porta do Espaço
 Autor: Adrien Sobra
 Co-autor: 
-Ano-de-Publicacaoo: 1959
-Titulo-original: "Portes Sur lInconnu",Tradutor: Mário-Henrique Leiria
+Ano-de-Publicacao: 1959
+Titulo-original: "Portes Sur lInconnu"
+Tradutor: Mário-Henrique Leiria
 Co-tradutor: 
 Ano-de-edicao: 1956
 alias: Adrien-Sobra

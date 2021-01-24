@@ -1,8 +1,8 @@
 Numero: 188
-Titulo: Os Mercadores do Espaço
+title: Os Mercadores do Espaço
 Autor: Frederik Pohl
 Co-autor: C M Kornbluth
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Space Merchants
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

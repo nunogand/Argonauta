@@ -1,8 +1,8 @@
 Numero: 59
-Titulo: Partida Para o Espaço
+title: Partida Para o Espaço
 Autor: C M Kornbluth
 Co-autor: 
-Ano-de-Publicacaoo: 1960
+Ano-de-Publicacao: 1960
 Titulo-original: Takeoff
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

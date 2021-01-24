@@ -1,8 +1,8 @@
 Numero: 371
-Titulo: Tintagel
+title: Tintagel
 Autor: Paul Cook
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Tintagel
 Tradutor: Eduardo Saló
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 168
-Titulo: A Guerra dos Fantasmas
+title: A Guerra dos Fantasmas
 Autor: Lloyd Biggle Jr
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: The Angry Espers
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

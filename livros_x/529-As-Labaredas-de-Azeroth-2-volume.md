@@ -1,8 +1,8 @@
 Numero: 529
-Titulo: As Labaredas de Azeroth 2º volume
+title: As Labaredas de Azeroth 2º volume
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Fires of Azeroth
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

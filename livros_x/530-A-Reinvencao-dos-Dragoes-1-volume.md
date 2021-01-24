@@ -1,8 +1,8 @@
 Numero: 530
-Titulo: A Reinvenção dos Dragões 1º volume
+title: A Reinvenção dos Dragões 1º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Dragonsdawn
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

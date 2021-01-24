@@ -1,8 +1,8 @@
 Numero: 205
-Titulo: Os Dramaturgos de Yan
+title: Os Dramaturgos de Yan
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: The Dramaturges of Yan
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

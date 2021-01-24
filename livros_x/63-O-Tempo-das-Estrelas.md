@@ -1,8 +1,8 @@
 Numero: 63
-Titulo: O Tempo das Estrelas
+title: O Tempo das Estrelas
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1961
+Ano-de-Publicacao: 1961
 Titulo-original: Time for the Stars
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

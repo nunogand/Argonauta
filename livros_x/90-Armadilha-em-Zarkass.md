@@ -1,8 +1,8 @@
 Numero: 90
-Titulo: Armadilha em Zarkass
+title: Armadilha em Zarkass
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Piège sur Zarkass
 Tradutor: Álvaro Simões
 Co-tradutor: 

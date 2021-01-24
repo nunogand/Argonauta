@@ -1,8 +1,8 @@
 Numero: 76
-Titulo: Degelo em 2157
+title: Degelo em 2157
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: La Peur Géante
 Tradutor: André Varga
 Co-tradutor: 

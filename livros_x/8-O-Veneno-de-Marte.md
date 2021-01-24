@@ -1,8 +1,8 @@
 Numero: 8
-Titulo: O Veneno de Marte
+title: O Veneno de Marte
 Autor: Paul French
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: David Starr Space Ranger
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

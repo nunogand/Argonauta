@@ -1,8 +1,8 @@
 Numero: 337
-Titulo: Os Caçadores do Espaço
+title: Os Caçadores do Espaço
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: Spacehounds of IPC
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 250
-Titulo: Para Além do Futuro
+title: Para Além do Futuro
 Autor: C M Kornbluth
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Best SF Stories of C M Kornbluth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

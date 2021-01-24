@@ -1,8 +1,8 @@
 Numero: 199
-Titulo: A Última Arma
+title: A Última Arma
 Autor: Algis Budrys
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: The Falling Torch
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

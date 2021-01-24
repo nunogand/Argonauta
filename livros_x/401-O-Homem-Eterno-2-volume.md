@@ -1,8 +1,8 @@
 Numero: 401
-Titulo: O Homem Eterno 2º volume
+title: O Homem Eterno 2º volume
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: The Forever Man
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 401-O-Homem-Eterno-2-volume
 Capa: 
 pags: 247
-Capa-link:
+Capa-link: 

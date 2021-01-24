@@ -1,8 +1,8 @@
 Numero: 410
-Titulo: Essas Estrelas são Nossas
+title: Essas Estrelas são Nossas
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: We Claim These Stars
 Tradutor: Samuel Soares
 Co-tradutor: 

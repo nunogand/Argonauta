@@ -1,8 +1,8 @@
 Numero: 345
-Titulo: A Mais Bela da Lua
+title: A Mais Bela da Lua
 Autor: Larry Niven
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: The Patchwork Girl
 Tradutor: Fernando Brites da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 345-A-Mais-Bela-da-Lua
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

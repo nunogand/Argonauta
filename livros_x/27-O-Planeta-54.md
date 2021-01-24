@@ -1,8 +1,8 @@
 Numero: 27
-Titulo: O Planeta 54
+title: O Planeta 54
 Autor: Albert Crémieux
 Co-autor: Jean Crémieux
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Chute Libre
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

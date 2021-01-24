@@ -1,8 +1,8 @@
 Numero: 269
-Titulo: Cidadão da Galáxia
+title: Cidadão da Galáxia
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Citizen of the Galaxy
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

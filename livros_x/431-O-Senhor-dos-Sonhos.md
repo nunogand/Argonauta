@@ -1,8 +1,8 @@
 Numero: 431
-Titulo: O Senhor dos Sonhos
+title: O Senhor dos Sonhos
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: The Dream Master
 Tradutor: António Porto
 Co-tradutor: 

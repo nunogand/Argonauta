@@ -1,8 +1,8 @@
 Numero: 140
-Titulo: Projecto Animal
+title: Projecto Animal
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: BEAST
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

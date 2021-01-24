@@ -1,8 +1,8 @@
 Numero: 368
-Titulo: Mundos sem Fim
+title: Mundos sem Fim
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Worlds Without End
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 

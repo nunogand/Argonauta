@@ -1,8 +1,8 @@
 Numero: 262
-Titulo: Os Herdeiros das Estrelas
+title: Os Herdeiros das Estrelas
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: A Heritage of Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

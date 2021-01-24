@@ -1,8 +1,8 @@
 Numero: 106
-Titulo: O Vírus Destruidor
+title: O Vírus Destruidor
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: The Darkest of Nights
 Tradutor: Eurico Fonseca
 Co-tradutor: 

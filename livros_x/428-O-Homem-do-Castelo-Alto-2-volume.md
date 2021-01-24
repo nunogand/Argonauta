@@ -1,8 +1,8 @@
 Numero: 428
-Titulo: O Homem do Castelo Alto 2º volume
+title: O Homem do Castelo Alto 2º volume
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: The Man in the High Castle
 Tradutor: António Porto
 Co-tradutor: 

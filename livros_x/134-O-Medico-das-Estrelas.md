@@ -1,8 +1,8 @@
 Numero: 134
-Titulo: O Médico das Estrelas
+title: O Médico das Estrelas
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: The Mutant Weapon
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

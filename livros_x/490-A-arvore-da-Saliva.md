@@ -1,8 +1,8 @@
 Numero: 490
-Titulo: A Árvore da Saliva
+title: A Árvore da Saliva
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1998
+Ano-de-Publicacao: 1998
 Titulo-original: The Saliva Tree
 Tradutor: Alexandra Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 490-A-arvore-da-Saliva
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 152
-Titulo: Piratas do Espaço
+title: Piratas do Espaço
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: The Pirates of Zan
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

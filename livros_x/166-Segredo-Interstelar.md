@@ -1,8 +1,8 @@
 Numero: 166
-Titulo: Segredo Interstelar
+title: Segredo Interstelar
 Autor: Alexei Panshin
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: Star Well
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

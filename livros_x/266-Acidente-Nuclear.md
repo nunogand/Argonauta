@@ -1,8 +1,8 @@
 Numero: 266
-Titulo: Acidente Nuclear
+title: Acidente Nuclear
 Autor: Lester del Rey
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Nerves
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 266-Acidente-Nuclear
 Capa: 
 pags: 183
-Capa-link:
+Capa-link: 

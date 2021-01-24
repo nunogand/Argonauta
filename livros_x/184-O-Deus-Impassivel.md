@@ -1,8 +1,8 @@
 Numero: 184
-Titulo: O Deus Impassível
+title: O Deus Impassível
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: A Choice of Gods
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 19
-Titulo: Caminhos do Espaço
+title: Caminhos do Espaço
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: Spaceways
 Tradutor: A Maldonado Domingues
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 524
-Titulo: Inteligência Artificial
+title: Inteligência Artificial
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Supertoys last all Summer Long and Other Stories of Future Time
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

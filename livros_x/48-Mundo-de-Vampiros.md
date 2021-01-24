@@ -1,8 +1,8 @@
 Numero: 48
-Titulo: Mundo de Vampiros
+title: Mundo de Vampiros
 Autor: Richard Matheson
 Co-autor: 
-Ano-de-Publicacaoo: 1958
+Ano-de-Publicacao: 1958
 Titulo-original: I Am Legend
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

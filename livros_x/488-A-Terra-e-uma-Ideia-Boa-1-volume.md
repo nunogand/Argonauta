@@ -1,8 +1,8 @@
 Numero: 488
-Titulo: A Terra é uma Ideia Boa 1º volume
+title: A Terra é uma Ideia Boa 1º volume
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1998
+Ano-de-Publicacao: 1998
 Titulo-original: Earthman Come Home
 Tradutor: Alexandra Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 488-A-Terra-e-uma-Ideia-Boa-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

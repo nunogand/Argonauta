@@ -1,8 +1,8 @@
 Numero: 536
-Titulo: Fumos de Sonho 2º volume
+title: Fumos de Sonho 2º volume
 Autor: Tricia Sullivan
 Co-autor: 
-Ano-de-Publicacaoo: 2002
+Ano-de-Publicacao: 2002
 Titulo-original: Dreaming in Smoke
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 268
-Titulo: Viagem Para Além da Morte
+title: Viagem Para Além da Morte
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: The Fabulous Riverboat
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

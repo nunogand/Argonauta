@@ -1,8 +1,8 @@
 Numero: 53
-Titulo: A Morte da Terra
+title: A Morte da Terra
 Autor: J H Rosny Aîné
 Co-autor: 
-Ano-de-Publicacaoo: 1959
+Ano-de-Publicacao: 1959
 Titulo-original: La Mort de la Terre
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 309
-Titulo: Depois da Bomba
+title: Depois da Bomba
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: Dr Bloodmoney or How we Got Along After the Bomb
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

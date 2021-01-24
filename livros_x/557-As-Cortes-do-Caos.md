@@ -1,8 +1,8 @@
 Numero: 557
-Titulo: As Cortes do Caos
+title: As Cortes do Caos
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: The Courts of Chaos
 Tradutor: Paulo Moreira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 557-As-Cortes-do-Caos
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

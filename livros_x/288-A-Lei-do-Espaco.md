@@ -1,8 +1,8 @@
 Numero: 288
-Titulo: A Lei do Espaço
+title: A Lei do Espaço
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: Second Stage Lensman
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 288-A-Lei-do-Espaco
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

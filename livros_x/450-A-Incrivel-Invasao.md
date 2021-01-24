@@ -1,8 +1,8 @@
 Numero: 450
-Titulo: A Incrível Invasão
+title: A Incrível Invasão
 Autor: Lester del Rey
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Siege Perilous
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 450-A-Incrivel-Invasao
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

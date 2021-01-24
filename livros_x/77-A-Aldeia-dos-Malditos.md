@@ -1,8 +1,8 @@
 Numero: 77
-Titulo: A Aldeia dos Malditos
+title: A Aldeia dos Malditos
 Autor: John Wyndham
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: The Midwich Cuckoos
 Tradutor: Álvaro Simões
 Co-tradutor: 

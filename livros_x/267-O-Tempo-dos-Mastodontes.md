@@ -1,8 +1,8 @@
 Numero: 267
-Titulo: O Tempo dos Mastodontes
+title: O Tempo dos Mastodontes
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Mastodomia
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

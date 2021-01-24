@@ -1,8 +1,8 @@
 Numero: 418
-Titulo: Cemitério de Lunáticos 2º volume
+title: Cemitério de Lunáticos 2º volume
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: Graveyard for Lunatics
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 418-Cemiterio-de-Lunaticos-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

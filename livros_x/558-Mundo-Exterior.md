@@ -1,8 +1,8 @@
 Numero: 558
-Titulo: Mundo Exterior
+title: Mundo Exterior
 Autor: Isidore Haiblum
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: Outerworld
 Tradutor: Paulo A Moreira
 Co-tradutor: 

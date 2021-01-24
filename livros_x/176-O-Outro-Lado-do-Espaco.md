@@ -1,9 +1,10 @@
 Numero: 176
-Titulo: O Outro Lado do Espaço
+title: O Outro Lado do Espaço
 Autor: Fred Hoyle
 Co-autor: 
-Ano-de-Publicacaoo: 1972
-Titulo-original: "Ossians Ride",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1972
+Titulo-original: "Ossians Ride"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1961
 alias: Fred-Hoyle

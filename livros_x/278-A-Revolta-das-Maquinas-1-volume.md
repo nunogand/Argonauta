@@ -1,8 +1,8 @@
 Numero: 278
-Titulo: A Revolta das Máquinas 1º volume
+title: A Revolta das Máquinas 1º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: Skirmish
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 278-A-Revolta-das-Maquinas-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

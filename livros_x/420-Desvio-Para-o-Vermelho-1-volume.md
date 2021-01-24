@@ -1,8 +1,8 @@
 Numero: 420
-Titulo: Desvio Para o Vermelho 1º volume
+title: Desvio Para o Vermelho 1º volume
 Autor: John E Stith
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: Redshift Rendezvous
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 420-Desvio-Para-o-Vermelho-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

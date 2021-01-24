@@ -1,8 +1,8 @@
 Numero: 385
-Titulo: Os Anais dos Heechee
+title: Os Anais dos Heechee
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: The Annals of the Heechee
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 385-Os-Anais-dos-Heechee
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 264
-Titulo: A Nave Invencível
+title: A Nave Invencível
 Autor: Stanislaw Lem
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Niezwyciezony
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

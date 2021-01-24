@@ -1,8 +1,8 @@
 Numero: 270
-Titulo: Patrulha Galáctica
+title: Patrulha Galáctica
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: Galactic Patrol
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 270-Patrulha-Galactica
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

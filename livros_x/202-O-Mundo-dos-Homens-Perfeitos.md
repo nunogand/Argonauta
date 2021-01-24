@@ -1,8 +1,8 @@
 Numero: 202
-Titulo: O Mundo dos Homens Perfeitos
+title: O Mundo dos Homens Perfeitos
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Entry to Elsewhen
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

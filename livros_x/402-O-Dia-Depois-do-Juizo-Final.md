@@ -1,8 +1,8 @@
 Numero: 402
-Titulo: O Dia Depois do Juízo Final
+title: O Dia Depois do Juízo Final
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: The Day After Judgement
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 

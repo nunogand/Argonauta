@@ -1,8 +1,8 @@
 Numero: 11
-Titulo: O Homem que Vendeu a Lua
+title: O Homem que Vendeu a Lua
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: The Man Who Sold the Moon
 Tradutor: José Correia Ribeiro
 Co-tradutor: 

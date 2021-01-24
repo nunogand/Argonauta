@@ -1,8 +1,8 @@
 Numero: 513
-Titulo: O Planeta das Virgens
+title: O Planeta das Virgens
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 2000
+Ano-de-Publicacao: 2000
 Titulo-original: Virgin Planet
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

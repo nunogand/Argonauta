@@ -1,8 +1,8 @@
 Numero: 244
-Titulo: A História do Futuro 2º volume
+title: A História do Futuro 2º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: Time Enough for Love
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

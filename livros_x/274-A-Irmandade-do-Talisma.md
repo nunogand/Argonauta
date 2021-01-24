@@ -1,8 +1,8 @@
 Numero: 274
-Titulo: A Irmandade do Talismã
+title: A Irmandade do Talismã
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: The Fellowship of the Talisman
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 274-A-Irmandade-do-Talisma
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

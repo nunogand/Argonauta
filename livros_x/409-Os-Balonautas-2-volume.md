@@ -1,8 +1,8 @@
 Numero: 409
-Titulo: Os Balonautas 2º volume
+title: Os Balonautas 2º volume
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: The Ragged Astronauts
 Tradutor: Samuel Soares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 409-Os-Balonautas-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

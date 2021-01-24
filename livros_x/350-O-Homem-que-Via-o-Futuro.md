@@ -1,8 +1,8 @@
 Numero: 350
-Titulo: O Homem que Via o Futuro
+title: O Homem que Via o Futuro
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Jack of Eagles
 Tradutor: Eduardo Saló
 Co-tradutor: 

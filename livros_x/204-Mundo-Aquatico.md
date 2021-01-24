@@ -1,8 +1,8 @@
 Numero: 204
-Titulo: Mundo Aquático
+title: Mundo Aquático
 Autor: Hal Clement
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Ocean on Top
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

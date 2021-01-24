@@ -1,8 +1,8 @@
 Numero: 218
-Titulo: Um Estranho Numa Terra Estranha 2º volume
+title: Um Estranho Numa Terra Estranha 2º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Stranger in a Strange Land
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 1
-Titulo: Perdidos na Estratosfera
+title: Perdidos na Estratosfera
 Autor: A M Low
 Co-autor: 
-Ano-de-Publicacaoo: 1953
+Ano-de-Publicacao: 1953
 Titulo-original: Adrift in the Stratosphere
 Tradutor: Correia Ribeiro
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 28
-Titulo: Futuro do Mundo
+title: Futuro do Mundo
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Pebble in the Sky
 Tradutor: A Maldonado Domingues
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 321
-Titulo: A Conquista de Marte 1º volume
+title: A Conquista de Marte 1º volume
 Autor: William Rollo
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: The Olympus Gambit
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 321-A-Conquista-de-Marte-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

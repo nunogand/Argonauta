@@ -1,8 +1,8 @@
 Numero: 347
-Titulo: Moreta de Pern 1º volume
+title: Moreta de Pern 1º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Moreta
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 347-Moreta-de-Pern-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

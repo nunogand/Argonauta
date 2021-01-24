@@ -1,8 +1,8 @@
 Numero: 363
-Titulo: As Linguagens de Pao
+title: As Linguagens de Pao
 Autor: Jack Vance
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: The Languages of Pao
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 363-As-Linguagens-de-Pao
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

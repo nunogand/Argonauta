@@ -1,8 +1,8 @@
 Numero: 394
-Titulo: Pêndulo
+title: Pêndulo
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: Pendulum
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 394-Pendulo
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

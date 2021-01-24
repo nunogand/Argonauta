@@ -1,9 +1,10 @@
 Numero: 60
-Titulo: O Vagabundo das Estrelas
+title: O Vagabundo das Estrelas
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1960
-Titulo-original: "LOrphelin de Perdide",Tradutor: Mário-Henrique Leiria
+Ano-de-Publicacao: 1960
+Titulo-original: "LOrphelin de Perdide"
+Tradutor: Mário-Henrique Leiria
 Co-tradutor: 
 Ano-de-edicao: 1958
 alias: Stefan-Wul

@@ -1,8 +1,8 @@
 Numero: 541
-Titulo: Os Trunfos do Mal
+title: Os Trunfos do Mal
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2003
+Ano-de-Publicacao: 2003
 Titulo-original: Trumps of Doom
 Tradutor: Paulo A Moreira
 Co-tradutor: 

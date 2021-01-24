@@ -1,8 +1,8 @@
 Numero: 229
-Titulo: A Batalha da Eternidade
+title: A Batalha da Eternidade
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: The Battle of Forever
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

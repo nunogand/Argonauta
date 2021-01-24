@@ -1,8 +1,8 @@
 Numero: 389
-Titulo: Os Dorsai Perdidos
+title: Os Dorsai Perdidos
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Lost Dorsai
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 

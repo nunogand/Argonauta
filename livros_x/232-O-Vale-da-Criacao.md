@@ -1,8 +1,8 @@
 Numero: 232
-Titulo: O Vale da Criação
+title: O Vale da Criação
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: The Valley of Creation
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

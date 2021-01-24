@@ -1,8 +1,8 @@
 Numero: 437
-Titulo: Traidor aos Vivos
+title: Traidor aos Vivos
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: Traitor to the Living
 Tradutor: António Porto
 Co-tradutor: 

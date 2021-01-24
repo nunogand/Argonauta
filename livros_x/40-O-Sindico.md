@@ -1,8 +1,8 @@
 Numero: 40
-Titulo: O Síndico
+title: O Síndico
 Autor: C M Kornbluth
 Co-autor: 
-Ano-de-Publicacaoo: 1957
+Ano-de-Publicacao: 1957
 Titulo-original: The Syndic
 Tradutor: H dos Santos Carvalho
 Co-tradutor: 

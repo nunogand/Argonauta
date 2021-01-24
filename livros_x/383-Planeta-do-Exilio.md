@@ -1,8 +1,8 @@
 Numero: 383
-Titulo: Planeta do Exílio
+title: Planeta do Exílio
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Planet of Exile
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 383-Planeta-do-Exilio
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 313
-Titulo: Os Senhores do Vórtice
+title: Os Senhores do Vórtice
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: The Vortex Blaster
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

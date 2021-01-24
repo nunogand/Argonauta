@@ -1,8 +1,8 @@
 Numero: 42
-Titulo: Mundos Simultâneos
+title: Mundos Simultâneos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1957
+Ano-de-Publicacao: 1957
 Titulo-original: Ring Around the Sun
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

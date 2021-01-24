@@ -1,8 +1,8 @@
 Numero: 227
-Titulo: O Outro Lado do Tempo
+title: O Outro Lado do Tempo
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: Enchanted Pilgrimage
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

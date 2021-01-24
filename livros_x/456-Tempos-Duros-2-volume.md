@@ -1,8 +1,8 @@
 Numero: 456
-Titulo: Tempos Duros 2º volume
+title: Tempos Duros 2º volume
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Heavy Time
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 456-Tempos-Duros-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

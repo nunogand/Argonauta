@@ -1,8 +1,8 @@
 Numero: 61
-Titulo: A Superfície do Planeta
+title: A Superfície do Planeta
 Autor: Daniel Drode
 Co-autor: 
-Ano-de-Publicacaoo: 1961
+Ano-de-Publicacao: 1961
 Titulo-original: Surface de la Planète
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 116
-Titulo: A Batalha do Vácuo
+title: A Batalha do Vácuo
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: High Vacuum
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

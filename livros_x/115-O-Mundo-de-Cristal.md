@@ -1,8 +1,8 @@
 Numero: 115
-Titulo: O Mundo de Cristal
+title: O Mundo de Cristal
 Autor: J G Ballard
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: The Crystal World
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 464
-Titulo: Os Últimos Dias da Terra 2º volume
+title: Os Últimos Dias da Terra 2º volume
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: The Long Afternoon of Earth
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 464-Os-ultimos-Dias-da-Terra-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

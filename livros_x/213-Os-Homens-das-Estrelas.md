@@ -1,8 +1,8 @@
 Numero: 213
-Titulo: Os Homens das Estrelas
+title: Os Homens das Estrelas
 Autor: Stuart J Byrne
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Starman
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 360
-Titulo: Nas Nossas Mãos as Estrelas
+title: Nas Nossas Mãos as Estrelas
 Autor: Harry Harrison
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: In Our Hands the Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 360-Nas-Nossas-Maos-as-Estrelas
 Capa: 
 pags: 179
-Capa-link:
+Capa-link: 

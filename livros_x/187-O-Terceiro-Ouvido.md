@@ -1,8 +1,8 @@
 Numero: 187
-Titulo: O Terceiro Ouvido
+title: O Terceiro Ouvido
 Autor: Curt Siodmak
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Third Ear
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

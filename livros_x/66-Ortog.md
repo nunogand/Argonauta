@@ -1,9 +1,10 @@
 Numero: 66
-Titulo: Ortog
+title: Ortog
 Autor: Kurt Steiner
 Co-autor: 
-Ano-de-Publicacaoo: 1961
-Titulo-original: "Aux Armes dOrtog",Tradutor: Mário-Henrique Leiria
+Ano-de-Publicacao: 1961
+Titulo-original: "Aux Armes dOrtog"
+Tradutor: Mário-Henrique Leiria
 Co-tradutor: 
 Ano-de-edicao: 1960
 alias: Kurt-Steiner

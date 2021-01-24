@@ -1,9 +1,10 @@
 Numero: 210
-Titulo: Os Filhos dos Nossos Filhos
+title: Os Filhos dos Nossos Filhos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1974
-Titulo-original: "Our Childrens Children",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1974
+Titulo-original: "Our Childrens Children"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1974
 alias: Clifford-D-Simak

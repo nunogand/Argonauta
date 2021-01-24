@@ -1,8 +1,8 @@
 Numero: 231
-Titulo: Os Possuídos
+title: Os Possuídos
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: A Plague of Pythons
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

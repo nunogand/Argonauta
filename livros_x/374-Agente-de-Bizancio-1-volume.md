@@ -1,8 +1,8 @@
 Numero: 374
-Titulo: Agente de Bizâncio 1º volume
+title: Agente de Bizâncio 1º volume
 Autor: Harry Turtledove
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Agent of Byzantium
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 374-Agente-de-Bizancio-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 21
-Titulo: As Correntes do Espaço
+title: As Correntes do Espaço
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: The Currents of Space
 Tradutor: Alfredo Margarido
 Co-tradutor: Manuel de Sepúlveda

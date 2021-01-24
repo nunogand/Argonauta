@@ -1,8 +1,8 @@
 Numero: 79
-Titulo: A Máquina do Poder
+title: A Máquina do Poder
 Autor: A Higon
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: La Machine du Pouvoir
 Tradutor: André Varga
 Co-tradutor: 

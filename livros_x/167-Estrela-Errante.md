@@ -1,8 +1,8 @@
 Numero: 167
-Titulo: Estrela Errante
+title: Estrela Errante
 Autor: Frederik Pohl
 Co-autor: Jack Williamson
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: Rogue Star
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

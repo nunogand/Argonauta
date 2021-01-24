@@ -1,8 +1,8 @@
 Numero: 234
-Titulo: O Homem dos Mil Nomes
+title: O Homem dos Mil Nomes
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: The Man With a Thousand Names
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

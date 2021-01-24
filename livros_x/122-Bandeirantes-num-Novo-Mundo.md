@@ -1,8 +1,8 @@
 Numero: 122
-Titulo: Bandeirantes num Novo Mundo
+title: Bandeirantes num Novo Mundo
 Autor: Edmund Cooper
 Co-autor: 
-Ano-de-Publicacaoo: 1967
+Ano-de-Publicacao: 1967
 Titulo-original: Transit
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

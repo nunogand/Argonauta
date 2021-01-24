@@ -1,8 +1,8 @@
 Numero: 527
-Titulo: As Armas de Avalon
+title: As Armas de Avalon
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: The Guns of Avalon
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

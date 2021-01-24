@@ -1,8 +1,8 @@
 Numero: 12
-Titulo: Os Humanóides Atacam
+title: Os Humanóides Atacam
 Autor: Bryan Bery
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: From What Far Star
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

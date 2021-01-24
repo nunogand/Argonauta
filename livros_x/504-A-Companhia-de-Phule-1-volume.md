@@ -1,9 +1,10 @@
 Numero: 504
-Titulo: A Companhia de Phule 1º volume
+title: A Companhia de Phule 1º volume
 Autor: Robert Asprin
 Co-autor: 
-Ano-de-Publicacaoo: 1999
-Titulo-original: "Phules Company",Tradutor: Alexandra Santos Tavares
+Ano-de-Publicacao: 1999
+Titulo-original: "Phules Company"
+Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
 Ano-de-edicao: 1990
 alias: Robert-Asprin
@@ -13,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 504-A-Companhia-de-Phule-1-volume
 Capa: 
 pags: 186
-Capa-link:
+Capa-link: 

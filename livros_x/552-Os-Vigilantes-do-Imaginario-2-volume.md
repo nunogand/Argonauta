@@ -1,8 +1,8 @@
 Numero: 552
-Titulo: Os Vigilantes do Imaginário 2º volume
+title: Os Vigilantes do Imaginário 2º volume
 Autor: Pat Cadigan
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: Mindplayers
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 552-Os-Vigilantes-do-Imaginario-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

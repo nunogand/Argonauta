@@ -1,8 +1,8 @@
 Numero: 83
-Titulo: O Satélite Sombrio
+title: O Satélite Sombrio
 Autor: Jérome Sériel
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Le Satellite Sombre
 Tradutor: Gomes dos Santos
 Co-tradutor: 

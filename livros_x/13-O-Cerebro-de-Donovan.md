@@ -1,9 +1,10 @@
 Numero: 13
-Titulo: O Cérebro de Donovan
+title: O Cérebro de Donovan
 Autor: Curt Siodmak
 Co-autor: 
-Ano-de-Publicacaoo: 1954
-Titulo-original: "Donovans Brain",Tradutor: José Correia Ribeiro
+Ano-de-Publicacao: 1954
+Titulo-original: "Donovans Brain"
+Tradutor: José Correia Ribeiro
 Co-tradutor: 
 Ano-de-edicao: 1942
 alias: Curt-Siodmak

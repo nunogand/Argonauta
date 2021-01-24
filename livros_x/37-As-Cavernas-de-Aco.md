@@ -1,8 +1,8 @@
 Numero: 37
-Titulo: As Cavernas de Aço
+title: As Cavernas de Aço
 Autor: Isaac Asimov
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: The Caves of Steel
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

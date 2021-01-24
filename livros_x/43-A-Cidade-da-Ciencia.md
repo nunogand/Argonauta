@@ -1,9 +1,10 @@
 Numero: 43
-Titulo: A Cidade da Ciência
+title: A Cidade da Ciência
 Autor: Maurice Vernon
 Co-autor: 
-Ano-de-Publicacaoo: 1957
-Titulo-original: "Les Savants Dans lAréne",Tradutor: Mário-Henrique Leiria
+Ano-de-Publicacao: 1957
+Titulo-original: "Les Savants Dans lAréne"
+Tradutor: Mário-Henrique Leiria
 Co-tradutor: 
 Ano-de-edicao: 1955
 alias: Maurice-Vernon

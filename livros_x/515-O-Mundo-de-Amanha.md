@@ -1,9 +1,10 @@
 Numero: 515
-Titulo: O Mundo de Amanhã
+title: O Mundo de Amanhã
 Autor: Hunt Collins
 Co-autor: 
-Ano-de-Publicacaoo: 2000
-Titulo-original: "Tomorrows World",Tradutor: Alexandra Santos Tavares
+Ano-de-Publicacao: 2000
+Titulo-original: "Tomorrows World"
+Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
 Ano-de-edicao: 1956
 alias: Hunt-Collins
@@ -13,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 515-O-Mundo-de-Amanha
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

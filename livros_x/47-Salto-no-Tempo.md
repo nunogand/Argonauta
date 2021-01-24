@@ -1,8 +1,8 @@
 Numero: 47
-Titulo: Salto no Tempo
+title: Salto no Tempo
 Autor: Yves Dermèze
 Co-autor: 
-Ano-de-Publicacaoo: 1958
+Ano-de-Publicacao: 1958
 Titulo-original: Via Velpa
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

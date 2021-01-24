@@ -1,8 +1,8 @@
 Numero: 449
-Titulo: Contos Galácticos
+title: Contos Galácticos
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: Galactic Cluster
 Tradutor: António Porto
 Co-tradutor: 

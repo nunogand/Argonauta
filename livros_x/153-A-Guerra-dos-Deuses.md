@@ -1,8 +1,8 @@
 Numero: 153
-Titulo: A Guerra dos Deuses
+title: A Guerra dos Deuses
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Two Hundred Million A D
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

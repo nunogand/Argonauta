@@ -1,8 +1,8 @@
 Numero: 192
-Titulo: O Homem que Pintava as Estrelas
+title: O Homem que Pintava as Estrelas
 Autor: Lan Wright
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Pictures of Pavanne
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

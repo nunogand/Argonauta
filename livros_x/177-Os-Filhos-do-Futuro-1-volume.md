@@ -1,8 +1,8 @@
 Numero: 177
-Titulo: Os Filhos do Futuro 1º volume
+title: Os Filhos do Futuro 1º volume
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: Children of Tomorrow
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

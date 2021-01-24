@@ -1,8 +1,8 @@
 Numero: 25
-Titulo: O Reino das Mulheres
+title: O Reino das Mulheres
 Autor: Jerry Sohl
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: The Haploids
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

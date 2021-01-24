@@ -1,8 +1,8 @@
 Numero: 282
-Titulo: Terra Imperial 2º volume
+title: Terra Imperial 2º volume
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: Imperial Earth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

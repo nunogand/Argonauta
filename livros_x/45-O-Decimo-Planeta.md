@@ -1,8 +1,8 @@
 Numero: 45
-Titulo: O Décimo Planeta
+title: O Décimo Planeta
 Autor: C H Badet
 Co-autor: 
-Ano-de-Publicacaoo: 1958
+Ano-de-Publicacao: 1958
 Titulo-original: La Dixième Planète
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

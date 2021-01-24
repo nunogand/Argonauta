@@ -1,8 +1,8 @@
 Numero: 163
-Titulo: Mundos Paralelos
+title: Mundos Paralelos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: Out of Their Minds
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

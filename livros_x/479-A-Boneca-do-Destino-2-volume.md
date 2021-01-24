@@ -1,8 +1,8 @@
 Numero: 479
-Titulo: A Boneca do Destino 2º volume
+title: A Boneca do Destino 2º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: Destiny Doll
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 479-A-Boneca-do-Destino-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

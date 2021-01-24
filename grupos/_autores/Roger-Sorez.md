@@ -1,4 +1,1 @@
----
-layout: autores1
-title: 
----
+{'Autor': 'Roger Sorez', 'alias': 'Roger-Sorez'}

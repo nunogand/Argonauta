@@ -1,8 +1,8 @@
 Numero: 15
-Titulo: O Mundo em Perigo
+title: O Mundo em Perigo
 Autor: E C Tubb
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: World at Bay
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 390
-Titulo: A Máquina Preservadora 2º volume
+title: A Máquina Preservadora 2º volume
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: The Preserving Machine
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 390-A-Maquina-Preservadora-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

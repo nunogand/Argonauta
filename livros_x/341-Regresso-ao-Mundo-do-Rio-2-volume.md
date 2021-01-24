@@ -1,8 +1,8 @@
 Numero: 341
-Titulo: Regresso ao Mundo do Rio 2º volume
+title: Regresso ao Mundo do Rio 2º volume
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: The Gods of Riverworld
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

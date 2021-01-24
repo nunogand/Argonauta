@@ -1,8 +1,8 @@
 Numero: 423
-Titulo: Viagem Pelos Universos
+title: Viagem Pelos Universos
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: Anywhen
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 423-Viagem-Pelos-Universos
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

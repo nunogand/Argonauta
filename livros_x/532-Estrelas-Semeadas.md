@@ -1,8 +1,8 @@
 Numero: 532
-Titulo: Estrelas Semeadas
+title: Estrelas Semeadas
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: The Seedling Stars
 Tradutor: Elsa T S Vieira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 532-Estrelas-Semeadas
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

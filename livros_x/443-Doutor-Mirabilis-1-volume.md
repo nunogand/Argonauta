@@ -1,8 +1,8 @@
 Numero: 443
-Titulo: Doutor Mirabilis 1º volume
+title: Doutor Mirabilis 1º volume
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: Doctor Mirabilis
 Tradutor: António Porto
 Co-tradutor: 

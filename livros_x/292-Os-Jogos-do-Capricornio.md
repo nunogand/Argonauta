@@ -1,8 +1,8 @@
 Numero: 292
-Titulo: Os Jogos do Capricórnio
+title: Os Jogos do Capricórnio
 Autor: Robert Silverberg
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: Capricorn Games
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

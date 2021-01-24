@@ -1,8 +1,8 @@
 Numero: 372
-Titulo: A Praga do Espaço
+title: A Praga do Espaço
 Autor: Harry Harrison
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Plague From Space
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 372-A-Praga-do-Espaco
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

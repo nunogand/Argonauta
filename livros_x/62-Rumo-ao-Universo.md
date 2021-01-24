@@ -1,8 +1,8 @@
 Numero: 62
-Titulo: Rumo ao Universo
+title: Rumo ao Universo
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1961
+Ano-de-Publicacao: 1961
 Titulo-original: Destination
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

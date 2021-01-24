@@ -1,8 +1,8 @@
 Numero: 133
-Titulo: Patrulha Interstelar
+title: Patrulha Interstelar
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: Crashing Suns
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

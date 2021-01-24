@@ -1,9 +1,10 @@
 Numero: 137
-Titulo: Os Filhos de Matusalém
+title: Os Filhos de Matusalém
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1968
-Titulo-original: "Methuselahs Children",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1968
+Titulo-original: "Methuselahs Children"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1941
 alias: Robert-A-Heinlein

@@ -1,8 +1,8 @@
 Numero: 20
-Titulo: A Sexta Coluna
+title: A Sexta Coluna
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: Sixth Column
 Tradutor: Manuel de Sepúlveda
 Co-tradutor: 

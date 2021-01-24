@@ -1,8 +1,8 @@
 Numero: 57
-Titulo: O Robot de Júpiter-9
+title: O Robot de Júpiter-9
 Autor: Paul French
 Co-autor: 
-Ano-de-Publicacaoo: 1960
+Ano-de-Publicacao: 1960
 Titulo-original: Lucky Starr and the Moons of Jupiter
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 190
-Titulo: Agência de Mágicos
+title: Agência de Mágicos
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: Waldo and Magic Inc
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

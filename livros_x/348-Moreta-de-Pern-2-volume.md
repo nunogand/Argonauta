@@ -1,8 +1,8 @@
 Numero: 348
-Titulo: Moreta de Pern 2º volume
+title: Moreta de Pern 2º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: Moreta
 Tradutor: Eduardo Saló
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 348-Moreta-de-Pern-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

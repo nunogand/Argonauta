@@ -1,8 +1,8 @@
 Numero: 440
-Titulo: As Naves de Madeira 2º volume
+title: As Naves de Madeira 2º volume
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: The Wooden Spaceships
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 440-As-Naves-de-Madeira-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

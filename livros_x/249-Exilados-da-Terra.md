@@ -1,8 +1,8 @@
 Numero: 249
-Titulo: Exilados da Terra
+title: Exilados da Terra
 Autor: Ben Bova
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Exiled From Earth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

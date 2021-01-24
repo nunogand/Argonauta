@@ -1,8 +1,8 @@
 Numero: 148
-Titulo: O Tempo dos Duendes
+title: O Tempo dos Duendes
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: The Goblin Reservation
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

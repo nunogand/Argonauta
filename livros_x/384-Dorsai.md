@@ -1,8 +1,8 @@
 Numero: 384
-Titulo: Dorsai
+title: Dorsai
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Dorsai!
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 

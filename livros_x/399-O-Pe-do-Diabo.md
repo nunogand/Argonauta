@@ -1,9 +1,10 @@
 Numero: 399
-Titulo: O Pé do Diabo
+title: O Pé do Diabo
 Autor: Arthur Conan Doyle
 Co-autor: 
-Ano-de-Publicacaoo: 1990
-Titulo-original: "The Adventure of the Devils Foot",Tradutor: Catarina Lima
+Ano-de-Publicacao: 1990
+Titulo-original: "The Adventure of the Devils Foot"
+Tradutor: Catarina Lima
 Co-tradutor: 
 Ano-de-edicao: 1990
 alias: Arthur-Conan-Doyle

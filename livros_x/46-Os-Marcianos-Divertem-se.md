@@ -1,8 +1,8 @@
 Numero: 46
-Titulo: Os Marcianos Divertem-se
+title: Os Marcianos Divertem-se
 Autor: Fredric Brown
 Co-autor: 
-Ano-de-Publicacaoo: 1958
+Ano-de-Publicacao: 1958
 Titulo-original: Martians Go Home
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 317
-Titulo: Rendez-vous com Rama
+title: Rendez-vous com Rama
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: Rendez-vous With Rama
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

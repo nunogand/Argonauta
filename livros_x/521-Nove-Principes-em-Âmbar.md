@@ -1,8 +1,8 @@
 Numero: 521
-Titulo: Nove Príncipes em Âmbar
+title: Nove Príncipes em Âmbar
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Nine Princes in Amber
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

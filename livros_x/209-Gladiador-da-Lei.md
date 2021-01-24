@@ -1,8 +1,8 @@
 Numero: 209
-Titulo: Gladiador da Lei
+title: Gladiador da Lei
 Autor: Frederik Pohl
 Co-autor: C M Kornbluth
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Gladiator-at-Law
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

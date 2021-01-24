@@ -1,8 +1,8 @@
 Numero: 200
-Titulo: As Máquinas da Destruição
+title: As Máquinas da Destruição
 Autor: Fred Saberhagen
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Berserker
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

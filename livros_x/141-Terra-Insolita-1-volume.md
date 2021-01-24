@@ -1,8 +1,8 @@
 Numero: 141
-Titulo: Terra Insólita 1º volume
+title: Terra Insólita 1º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: The Werewolf Principle
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

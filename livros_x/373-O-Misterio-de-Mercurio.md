@@ -1,8 +1,8 @@
 Numero: 373
-Titulo: O Mistério de Mercúrio
+title: O Mistério de Mercúrio
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Fire Pattern
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 373-O-Misterio-de-Mercurio
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

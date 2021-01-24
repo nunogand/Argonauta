@@ -1,8 +1,8 @@
 Numero: 429
-Titulo: A Chegada dos Terrenos
+title: A Chegada dos Terrenos
 Autor: Leigh Brackett
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: The Coming of the Terrans
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 429-A-Chegada-dos-Terrenos
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 281
-Titulo: Terra Imperial 1º volume
+title: Terra Imperial 1º volume
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: Imperial Earth
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

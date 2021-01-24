@@ -1,8 +1,8 @@
 Numero: 138
-Titulo: A Máquina Divina 1º volume
+title: A Máquina Divina 1º volume
 Autor: Martin Caidin
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: The God Machine
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

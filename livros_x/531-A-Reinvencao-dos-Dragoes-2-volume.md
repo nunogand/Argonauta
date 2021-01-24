@@ -1,8 +1,8 @@
 Numero: 531
-Titulo: A Reinvenção dos Dragões 2º volume
+title: A Reinvenção dos Dragões 2º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Dragonsdawn
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 531-A-Reinvencao-dos-Dragoes-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

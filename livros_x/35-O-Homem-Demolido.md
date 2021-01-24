@@ -1,8 +1,8 @@
 Numero: 35
-Titulo: O Homem Demolido
+title: O Homem Demolido
 Autor: Alfred Bester
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: The Demolished Man
 Tradutor: Carlos Vieira
 Co-tradutor: 

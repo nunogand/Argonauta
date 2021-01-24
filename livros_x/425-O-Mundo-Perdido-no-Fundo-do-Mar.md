@@ -1,8 +1,8 @@
 Numero: 425
-Titulo: O Mundo Perdido no Fundo do Mar
+title: O Mundo Perdido no Fundo do Mar
 Autor: Arthur Conan Doyle
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: The Maracot Deep
 Tradutor: J Lima da Costa
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 425-O-Mundo-Perdido-no-Fundo-do-Mar
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

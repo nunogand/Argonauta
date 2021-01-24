@@ -1,8 +1,8 @@
 Numero: 303
-Titulo: O Mundo do Trono
+title: O Mundo do Trono
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: Wolfling
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

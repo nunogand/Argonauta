@@ -1,8 +1,8 @@
 Numero: 154
-Titulo: Vieram do Espaço
+title: Vieram do Espaço
 Autor: Keith Roberts
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: The Furies
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

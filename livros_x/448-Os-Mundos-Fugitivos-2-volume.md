@@ -1,8 +1,8 @@
 Numero: 448
-Titulo: Os Mundos Fugitivos 2º volume
+title: Os Mundos Fugitivos 2º volume
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: The Fugitive Worlds
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 448-Os-Mundos-Fugitivos-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

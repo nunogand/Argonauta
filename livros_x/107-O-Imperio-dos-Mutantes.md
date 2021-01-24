@@ -1,8 +1,8 @@
 Numero: 107
-Titulo: O Império dos Mutantes
+title: O Império dos Mutantes
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: La Mort Vivante
 Tradutor: Amadeu Lopes Sabino
 Co-tradutor: 

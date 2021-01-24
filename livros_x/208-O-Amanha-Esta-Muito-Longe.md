@@ -1,8 +1,8 @@
 Numero: 208
-Titulo: O Amanhã Está Muito Longe
+title: O Amanhã Está Muito Longe
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Tomorrow is Too Far
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 549
-Titulo: O Inverno de Helliconia 1º volume
+title: O Inverno de Helliconia 1º volume
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 2003
+Ano-de-Publicacao: 2003
 Titulo-original: Helliconia Winter
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 549-O-Inverno-de-Helliconia-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

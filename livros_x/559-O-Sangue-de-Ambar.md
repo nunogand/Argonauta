@@ -1,8 +1,8 @@
 Numero: 559
-Titulo: O Sangue de Âmbar
+title: O Sangue de Âmbar
 Autor: Roger Zelazny
 Co-autor: 
-Ano-de-Publicacaoo: 2005
+Ano-de-Publicacao: 2005
 Titulo-original: Blood of Amber
 Tradutor: Elsa T S Vieira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 559-O-Sangue-de-Ambar
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

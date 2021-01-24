@@ -1,8 +1,8 @@
 Numero: 67
-Titulo: O Homem que Vinha do Passado
+title: O Homem que Vinha do Passado
 Autor: Theodore Sturgeon
 Co-autor: 
-Ano-de-Publicacaoo: 1962
+Ano-de-Publicacao: 1962
 Titulo-original: Venus Plus X
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

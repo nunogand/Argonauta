@@ -1,8 +1,8 @@
 Numero: 98
-Titulo: Ameaça de Andrómeda
+title: Ameaça de Andrómeda
 Autor: Fred Hoyle
 Co-autor: J Elliot
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: A for Andromeda
 Tradutor: Jorge Fonseca
 Co-tradutor: 

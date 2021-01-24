@@ -1,8 +1,8 @@
 Numero: 211
-Titulo: Entre Planetas
+title: Entre Planetas
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Between Planets
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

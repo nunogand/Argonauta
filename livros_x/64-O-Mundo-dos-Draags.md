@@ -1,8 +1,8 @@
 Numero: 64
-Titulo: O Mundo dos Draags
+title: O Mundo dos Draags
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1961
+Ano-de-Publicacao: 1961
 Titulo-original: Oms en Série
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 329
-Titulo: Detective Galáctico
+title: Detective Galáctico
 Autor: Jack Vance
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: Galactic Effectuator
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

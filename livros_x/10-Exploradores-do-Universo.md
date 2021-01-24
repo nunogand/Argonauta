@@ -1,8 +1,8 @@
 Numero: 10
-Titulo: Exploradores do Universo
+title: Exploradores do Universo
 Autor: Jon J Deegan
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: Antro the Life Giver
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

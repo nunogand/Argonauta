@@ -1,8 +1,8 @@
 Numero: 306
-Titulo: A Solução de Ceres
+title: A Solução de Ceres
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1983
+Ano-de-Publicacao: 1983
 Titulo-original: The Ceres Solution
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

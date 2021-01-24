@@ -1,8 +1,8 @@
 Numero: 535
-Titulo: Fumos de Sonho 1º volume
+title: Fumos de Sonho 1º volume
 Autor: Tricia Sullivan
 Co-autor: 
-Ano-de-Publicacaoo: 2002
+Ano-de-Publicacao: 2002
 Titulo-original: Dreaming in Smoke
 Tradutor: Alexandra Rolão Tavares
 Co-tradutor: 

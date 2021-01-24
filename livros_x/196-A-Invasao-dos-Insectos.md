@@ -1,8 +1,8 @@
 Numero: 196
-Titulo: A Invasão dos Insectos
+title: A Invasão dos Insectos
 Autor: Ray Cummings
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: The Insect Invasion
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

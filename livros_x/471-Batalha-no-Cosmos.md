@@ -1,8 +1,8 @@
 Numero: 471
-Titulo: Batalha no Cosmos
+title: Batalha no Cosmos
 Autor: Gordon R Dickson
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: Naked to the Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

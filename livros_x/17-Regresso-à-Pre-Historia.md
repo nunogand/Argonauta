@@ -1,8 +1,8 @@
 Numero: 17
-Titulo: Regresso à Pré-História
+title: Regresso à Pré-História
 Autor: J Leslie Mitchell
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: Three Go Back
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

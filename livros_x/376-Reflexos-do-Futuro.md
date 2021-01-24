@@ -1,14 +1,14 @@
 Numero: 376
-Titulo: Reflexos do Futuro
-Autor: vários
-Co-autor: Bruce Sterling
-Ano-de-Publicacaoo: 1988
+title: Reflexos do Futuro
+Autor: Vários
+Co-autor: Bruce Sterling (org.)
+Ano-de-Publicacao: 1988
 Titulo-original: Mirrorshades
 Tradutor: Eduardo Saló
 Co-tradutor: 
 Ano-de-edicao: 1986
-alias: varios
-Autor2-alias: Bruce-Sterling
+alias: Bruce-Sterling
+Autor2-alias: 
 Tradutor1-alias: Eduardo-Salo
 Tradutor2-alias: 
 Titulo-link: 376-Reflexos-do-Futuro

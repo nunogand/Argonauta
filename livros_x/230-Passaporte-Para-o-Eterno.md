@@ -1,8 +1,8 @@
 Numero: 230
-Titulo: Passaporte Para o Eterno
+title: Passaporte Para o Eterno
 Autor: J G Ballard
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: Passport to Eternity
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

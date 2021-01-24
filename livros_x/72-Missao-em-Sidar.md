@@ -1,8 +1,8 @@
 Numero: 72
-Titulo: Missão em Sidar
+title: Missão em Sidar
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1963
+Ano-de-Publicacao: 1963
 Titulo-original: Rayons Pour Sidar
 Tradutor: Gomes dos Santos
 Co-tradutor: 

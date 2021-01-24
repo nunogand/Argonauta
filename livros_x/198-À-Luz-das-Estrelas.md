@@ -1,8 +1,8 @@
 Numero: 198
-Titulo: À Luz das Estrelas
+title: À Luz das Estrelas
 Autor: Theodore Sturgeon
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: Starshine
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

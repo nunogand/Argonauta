@@ -1,8 +1,8 @@
 Numero: 299
-Titulo: O Planeta dos Dragões 3º volume
+title: O Planeta dos Dragões 3º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: 
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 299-O-Planeta-dos-Dragoes-3-volume
 Capa: 
 pags: 237
-Capa-link:
+Capa-link: 

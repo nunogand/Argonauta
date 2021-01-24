@@ -1,8 +1,8 @@
 Numero: 54
-Titulo: Regresso a Zero
+title: Regresso a Zero
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1959
+Ano-de-Publicacao: 1959
 Titulo-original: Retour a O
 Tradutor: Maria Adelaide Correia Freire
 Co-tradutor: Raul Correia

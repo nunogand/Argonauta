@@ -1,8 +1,8 @@
 Numero: 139
-Titulo: A Máquina Divina 2º volume
+title: A Máquina Divina 2º volume
 Autor: Martin Caidin
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: The God Machine
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

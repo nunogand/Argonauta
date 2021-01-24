@@ -1,8 +1,8 @@
 Numero: 182
-Titulo: Estrada da Glória 1º volume
+title: Estrada da Glória 1º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: Glory Road
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

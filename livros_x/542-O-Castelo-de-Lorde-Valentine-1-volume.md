@@ -1,9 +1,10 @@
 Numero: 542
-Titulo: O Castelo de Lorde Valentine 1º volume
+title: O Castelo de Lorde Valentine 1º volume
 Autor: Robert Silverberg
 Co-autor: 
-Ano-de-Publicacaoo: 2003
-Titulo-original: "Lord Valentines Castle",Tradutor: Paulo A Moreira
+Ano-de-Publicacao: 2003
+Titulo-original: "Lord Valentines Castle"
+Tradutor: Paulo A Moreira
 Co-tradutor: 
 Ano-de-edicao: 1980
 alias: Robert-Silverberg
@@ -13,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 542-O-Castelo-de-Lorde-Valentine-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

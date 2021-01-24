@@ -1,8 +1,8 @@
 Numero: 58
-Titulo: A Rainha Rebelde
+title: A Rainha Rebelde
 Autor: L Sprague de Camp
 Co-autor: 
-Ano-de-Publicacaoo: 1960
+Ano-de-Publicacao: 1960
 Titulo-original: Rogue Queen
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

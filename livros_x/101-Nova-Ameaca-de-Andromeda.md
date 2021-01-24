@@ -1,8 +1,8 @@
 Numero: 101
-Titulo: Nova Ameaça de Andrómeda
+title: Nova Ameaça de Andrómeda
 Autor: Fred Hoyle
 Co-autor: J Elliot
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: Andromeda Breakthrough
 Tradutor: Jorge Fonseca
 Co-tradutor: 

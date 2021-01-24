@@ -1,8 +1,8 @@
 Numero: 322
-Titulo: A Conquista de Marte 2º volume
+title: A Conquista de Marte 2º volume
 Autor: William Rollo
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: The Olympus Gambit
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 322-A-Conquista-de-Marte-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

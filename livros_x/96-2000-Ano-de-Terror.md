@@ -1,8 +1,8 @@
 Numero: 96
-Titulo: 2000 Ano de Terror
+title: 2000 Ano de Terror
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: Crisis 2000
 Tradutor: Fernanda Pinto Rodrigues
 Co-tradutor: 

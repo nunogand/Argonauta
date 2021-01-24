@@ -1,8 +1,8 @@
 Numero: 212
-Titulo: Corrupção nas Galáxias
+title: Corrupção nas Galáxias
 Autor: Keith Laumer
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Envoy to New Worlds
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

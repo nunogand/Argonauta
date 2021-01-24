@@ -1,8 +1,8 @@
 Numero: 130-A
-Titulo: Estação de Trânsito
+title: Estação de Trânsito
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1968
+Ano-de-Publicacao: 1968
 Titulo-original: Way Station
 Tradutor: Gilberto Almeida
 Co-tradutor: 

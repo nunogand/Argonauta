@@ -1,8 +1,8 @@
 Numero: 436
-Titulo: O Tempo dos Simulacros
+title: O Tempo dos Simulacros
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1993
+Ano-de-Publicacao: 1993
 Titulo-original: The Simulacra
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 436-O-Tempo-dos-Simulacros
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

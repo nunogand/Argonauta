@@ -1,9 +1,10 @@
 Numero: 135
-Titulo: A Última Fortaleza Terrestre
+title: A Última Fortaleza Terrestre
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1968
-Titulo-original: "Earths Last Fortress",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1968
+Titulo-original: "Earths Last Fortress"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1960
 alias: A-E-Van-Vogt

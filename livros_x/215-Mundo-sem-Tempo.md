@@ -1,8 +1,8 @@
 Numero: 215
-Titulo: Mundo sem Tempo
+title: Mundo sem Tempo
 Autor: Charles Eric Maine
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: The Random Factor
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

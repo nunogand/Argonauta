@@ -1,8 +1,8 @@
 Numero: 224
-Titulo: A Árvore Sagrada
+title: A Árvore Sagrada
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: The Halloween Tree
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

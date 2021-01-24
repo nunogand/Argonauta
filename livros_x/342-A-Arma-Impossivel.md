@@ -1,8 +1,8 @@
 Numero: 342
-Titulo: A Arma Impossível
+title: A Arma Impossível
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: The Zap Gun
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 342-A-Arma-Impossivel
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

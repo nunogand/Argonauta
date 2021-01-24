@@ -1,8 +1,8 @@
 Numero: 328
-Titulo: A Invasão Divina
+title: A Invasão Divina
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: The Divine Invasion
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 328-A-Invasao-Divina
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

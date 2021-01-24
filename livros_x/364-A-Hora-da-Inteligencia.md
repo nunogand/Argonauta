@@ -1,8 +1,8 @@
 Numero: 364
-Titulo: A Hora da Inteligência
+title: A Hora da Inteligência
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: Brain Wave
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 364-A-Hora-da-Inteligencia
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

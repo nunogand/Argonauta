@@ -1,8 +1,8 @@
 Numero: 256
-Titulo: Trevas nas Estrelas
+title: Trevas nas Estrelas
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: The Haunted Stars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

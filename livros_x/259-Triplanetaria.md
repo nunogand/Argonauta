@@ -1,8 +1,8 @@
 Numero: 259
-Titulo: Triplanetária
+title: Triplanetária
 Autor: E E Doc Smith
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Triplanetary
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

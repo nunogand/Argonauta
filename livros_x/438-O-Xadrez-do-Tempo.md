@@ -1,8 +1,8 @@
 Numero: 438
-Titulo: O Xadrez do Tempo
+title: O Xadrez do Tempo
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: The Quincunx of Time
 Tradutor: António Porto
 Co-tradutor: 

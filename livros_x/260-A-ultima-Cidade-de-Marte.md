@@ -1,8 +1,8 @@
 Numero: 260
-Titulo: A Última Cidade de Marte
+title: A Última Cidade de Marte
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: I Sing the Body Electric
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

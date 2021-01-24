@@ -1,8 +1,8 @@
 Numero: 358
-Titulo: Quando os Computadores Conquistaram o Mundo
+title: Quando os Computadores Conquistaram o Mundo
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: Computerworld
 Tradutor: Ana Paula Senos de Araújo
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 358-Quando-os-Computadores-Conquistaram-o-Mundo
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

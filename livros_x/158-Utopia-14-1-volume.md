@@ -1,8 +1,8 @@
 Numero: 158
-Titulo: Utopia 14 1º volume
+title: Utopia 14 1º volume
 Autor: Kurt Vonnegut
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Player Piano
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

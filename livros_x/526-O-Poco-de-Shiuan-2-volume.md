@@ -1,8 +1,8 @@
 Numero: 526
-Titulo: O Poço de Shiuan 2º volume
+title: O Poço de Shiuan 2º volume
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Well of Shiuan
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

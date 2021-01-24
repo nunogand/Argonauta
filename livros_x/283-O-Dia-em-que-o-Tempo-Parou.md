@@ -1,8 +1,8 @@
 Numero: 283
-Titulo: O Dia em que o Tempo Parou
+title: O Dia em que o Tempo Parou
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: The Day of Timestop
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 240
-Titulo: Os Permutadores de Mundos
+title: Os Permutadores de Mundos
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: The World Swappers
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

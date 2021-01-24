@@ -1,8 +1,8 @@
 Numero: 498
-Titulo: O Enigma de Malacia 1º volume
+title: O Enigma de Malacia 1º volume
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1999
+Ano-de-Publicacao: 1999
 Titulo-original: The Malacia Tapestry
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 498-O-Enigma-de-Malacia-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

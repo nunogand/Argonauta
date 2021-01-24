@@ -1,8 +1,8 @@
 Numero: 509
-Titulo: Conduzindo às Cegas
+title: Conduzindo às Cegas
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 2000
+Ano-de-Publicacao: 2000
 Titulo-original: Driving Blind
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 235
-Titulo: O Erro do Tempo
+title: O Erro do Tempo
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1977
+Ano-de-Publicacao: 1977
 Titulo-original: The Wrong End of Time
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

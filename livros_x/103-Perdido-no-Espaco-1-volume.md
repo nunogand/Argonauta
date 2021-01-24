@@ -1,8 +1,8 @@
 Numero: 103
-Titulo: Perdido no Espaço 1º volume
+title: Perdido no Espaço 1º volume
 Autor: Martin Caidin
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: Marooned
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

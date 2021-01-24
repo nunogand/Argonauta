@@ -1,8 +1,8 @@
 Numero: 91
-Titulo: A Guerra Contra o Rull
+title: A Guerra Contra o Rull
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: The War Against the Rull
 Tradutor: Fernanda Pinto Rodrigues
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 220
-Titulo: Médico Espacial
+title: Médico Espacial
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Star Surgeon
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

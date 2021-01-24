@@ -1,8 +1,8 @@
 Numero: 162
-Titulo: Areias de Marte
+title: Areias de Marte
 Autor: Arthur C Clarke
 Co-autor: 
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Sands of Mars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

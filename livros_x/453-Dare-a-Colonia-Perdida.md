@@ -1,8 +1,8 @@
 Numero: 453
-Titulo: Dare a Colónia Perdida
+title: Dare a Colónia Perdida
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Dare
 Tradutor: António Porto
 Co-tradutor: 

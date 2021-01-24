@@ -1,8 +1,8 @@
 Numero: 480
-Titulo: Renascimento
+title: Renascimento
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: Earthworks
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 480-Renascimento
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

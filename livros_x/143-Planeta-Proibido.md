@@ -1,8 +1,8 @@
 Numero: 143
-Titulo: Planeta Proibido
+title: Planeta Proibido
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: This World is Taboo
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

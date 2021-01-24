@@ -1,8 +1,8 @@
 Numero: 246
-Titulo: O País de Outubro
+title: O País de Outubro
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: The October Country
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

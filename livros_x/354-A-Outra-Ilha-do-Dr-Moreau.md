@@ -1,9 +1,10 @@
 Numero: 354
-Titulo: A Outra Ilha do Dr Moreau
+title: A Outra Ilha do Dr Moreau
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1986
-Titulo-original: "Moreaus Other Island",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1986
+Titulo-original: "Moreaus Other Island"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1980
 alias: Brian-Aldiss

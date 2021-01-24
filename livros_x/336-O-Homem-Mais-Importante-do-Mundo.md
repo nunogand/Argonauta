@@ -1,8 +1,8 @@
 Numero: 336
-Titulo: O Homem Mais Importante do Mundo
+title: O Homem Mais Importante do Mundo
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: Time Out of Joint
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 336-O-Homem-Mais-Importante-do-Mundo
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

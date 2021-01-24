@@ -1,8 +1,8 @@
 Numero: 31
-Titulo: Xadrez Cósmico
+title: Xadrez Cósmico
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: The World of Null-A
 Tradutor: T Araújo
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 181
-Titulo: Prisão Aberta
+title: Prisão Aberta
 Autor: James White
 Co-autor: 
-Ano-de-Publicacaoo: 1972
+Ano-de-Publicacao: 1972
 Titulo-original: The Escape Orbit
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

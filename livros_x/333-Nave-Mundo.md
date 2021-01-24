@@ -1,8 +1,8 @@
 Numero: 333
-Titulo: Nave-Mundo
+title: Nave-Mundo
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1985
+Ano-de-Publicacao: 1985
 Titulo-original: Non-Stop
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

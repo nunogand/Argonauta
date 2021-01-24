@@ -1,8 +1,8 @@
 Numero: 147
-Titulo: Partida sem Chegada
+title: Partida sem Chegada
 Autor: Lloyd Biggle Jr
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: All the Colours of Darkness
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

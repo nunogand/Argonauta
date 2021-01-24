@@ -1,8 +1,8 @@
 Numero: 533
-Titulo: Os Renegados de Pern 1º volume
+title: Os Renegados de Pern 1º volume
 Autor: Anne McCaffrey
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: The Renegades of Pern
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 533-Os-Renegados-de-Pern-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

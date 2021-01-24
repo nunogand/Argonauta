@@ -1,8 +1,8 @@
 Numero: 500
-Titulo: Ó Pioneiro!
+title: Ó Pioneiro!
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1999
+Ano-de-Publicacao: 1999
 Titulo-original: O Pioneer!
 Tradutor: Alexandra Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 500-O-Pioneiro
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

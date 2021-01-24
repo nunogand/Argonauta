@@ -1,8 +1,8 @@
 Numero: 553
-Titulo: A Grande Roda
+title: A Grande Roda
 Autor: William Rollo
 Co-autor: 
-Ano-de-Publicacaoo: 2004
+Ano-de-Publicacao: 2004
 Titulo-original: The Big Wheel
 Tradutor: Elsa T S Vieira
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 553-A-Grande-Roda
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

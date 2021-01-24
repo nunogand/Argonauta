@@ -1,8 +1,8 @@
 Numero: 472
-Titulo: Fora de Jogo
+title: Fora de Jogo
 Autor: Isidore Haiblum
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: Out of Sync
 Tradutor: J Santos Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 472-Fora-de-Jogo
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

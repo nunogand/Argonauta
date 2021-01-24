@@ -1,8 +1,8 @@
 Numero: 415
-Titulo: O Tempo o Espaço e o Cérebro
+title: O Tempo o Espaço e o Cérebro
 Autor: Fritz Leiber
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: The Big Time
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 415-O-Tempo-o-Espaco-e-o-Cerebro
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

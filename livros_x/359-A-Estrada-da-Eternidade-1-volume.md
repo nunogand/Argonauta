@@ -1,8 +1,8 @@
 Numero: 359
-Titulo: A Estrada da Eternidade 1º volume
+title: A Estrada da Eternidade 1º volume
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: Highway of Eternity
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 359-A-Estrada-da-Eternidade-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

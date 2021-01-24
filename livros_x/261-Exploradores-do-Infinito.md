@@ -1,8 +1,8 @@
 Numero: 261
-Titulo: Exploradores do Infinito
+title: Exploradores do Infinito
 Autor: Ray Cummings
 Co-autor: 
-Ano-de-Publicacaoo: 1979
+Ano-de-Publicacao: 1979
 Titulo-original: Explorers Into Infinity
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

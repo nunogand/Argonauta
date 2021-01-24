@@ -1,8 +1,8 @@
 Numero: 9
-Titulo: Missão Interplanetária
+title: Missão Interplanetária
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: The Voyage of the Space Beagle
 Tradutor: Fernando Moutinho
 Co-tradutor: 

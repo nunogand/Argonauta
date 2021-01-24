@@ -1,8 +1,8 @@
 Numero: 522
-Titulo: Uma Coisa do Outro Mundo
+title: Uma Coisa do Outro Mundo
 Autor: Murray Leinster
 Co-autor: 
-Ano-de-Publicacaoo: 2001
+Ano-de-Publicacao: 2001
 Titulo-original: Out of This World
 Tradutor: Elsa T S Vieira
 Co-tradutor: 

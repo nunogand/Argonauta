@@ -1,8 +1,8 @@
 Numero: 226
-Titulo: Os Manipuladores
+title: Os Manipuladores
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: The Puppet Masters
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

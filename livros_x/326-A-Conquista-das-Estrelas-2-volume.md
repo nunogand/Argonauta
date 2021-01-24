@@ -1,8 +1,8 @@
 Numero: 326
-Titulo: A Conquista das Estrelas 2º volume
+title: A Conquista das Estrelas 2º volume
 Autor: James P Hogan
 Co-autor: 
-Ano-de-Publicacaoo: 1984
+Ano-de-Publicacao: 1984
 Titulo-original: Voyage From Yesteryear
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

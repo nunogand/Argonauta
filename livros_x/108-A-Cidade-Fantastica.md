@@ -1,8 +1,8 @@
 Numero: 108
-Titulo: A Cidade Fantástica
+title: A Cidade Fantástica
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: Dandelion Wine
 Tradutor: Jorge Rosa
 Co-tradutor: 

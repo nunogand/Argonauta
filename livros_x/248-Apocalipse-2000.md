@@ -1,8 +1,8 @@
 Numero: 248
-Titulo: Apocalipse 2000
+title: Apocalipse 2000
 Autor: Guy Snyder
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Testament XXI
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

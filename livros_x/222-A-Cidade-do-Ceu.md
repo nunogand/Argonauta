@@ -1,8 +1,8 @@
 Numero: 222
-Titulo: A Cidade do Céu
+title: A Cidade do Céu
 Autor: Curt Siodmak
 Co-autor: 
-Ano-de-Publicacaoo: 1976
+Ano-de-Publicacao: 1976
 Titulo-original: City in the Sky
 Tradutor: Maria Emília Ferros Moura
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 482
-Titulo: Para Além da Porta das Estrelas 2º volume
+title: Para Além da Porta das Estrelas 2º volume
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1997
+Ano-de-Publicacao: 1997
 Titulo-original: The Gateway Trip
 Tradutor: Clarisse Tavares
 Co-tradutor: 

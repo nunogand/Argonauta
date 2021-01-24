@@ -1,8 +1,8 @@
 Numero: 50
-Titulo: Os Mares de Vénus
+title: Os Mares de Vénus
 Autor: Paul French
 Co-autor: 
-Ano-de-Publicacaoo: 1959
+Ano-de-Publicacao: 1959
 Titulo-original: Lucky Starr and the Oceans of Venus
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 85
-Titulo: O Templo do Passado
+title: O Templo do Passado
 Autor: Stefan Wul
 Co-autor: 
-Ano-de-Publicacaoo: 1964
+Ano-de-Publicacao: 1964
 Titulo-original: Le Temple du Passé
 Tradutor: André Varga
 Co-tradutor: 

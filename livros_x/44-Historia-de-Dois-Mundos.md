@@ -1,8 +1,8 @@
 Numero: 44
-Titulo: História de Dois Mundos
+title: História de Dois Mundos
 Autor: John D MacDonald
 Co-autor: 
-Ano-de-Publicacaoo: 1958
+Ano-de-Publicacao: 1958
 Titulo-original: Planet of the Dreamers
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,9 +1,10 @@
 Numero: 165
-Titulo: O Caos Suicida
+title: O Caos Suicida
 Autor: Edmund Cooper
 Co-autor: 
-Ano-de-Publicacaoo: 1971
-Titulo-original: "All Fools Day",Tradutor: Eurico da Fonseca
+Ano-de-Publicacao: 1971
+Titulo-original: "All Fools Day"
+Tradutor: Eurico da Fonseca
 Co-tradutor: 
 Ano-de-edicao: 1966
 alias: Edmund-Cooper

@@ -1,8 +1,8 @@
 Numero: 455
-Titulo: Tempos Duros 1º volume
+title: Tempos Duros 1º volume
 Autor: C J Cherryh
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Heavy Time
 Tradutor: Clarisse Tavares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 455-Tempos-Duros-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 386
-Titulo: Roderick
+title: Roderick
 Autor: John Sladek
 Co-autor: 
-Ano-de-Publicacaoo: 1989
+Ano-de-Publicacao: 1989
 Titulo-original: Roderick
 Tradutor: Samuel Soares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 386-Roderick
 Capa: 
 pags: 361
-Capa-link:
+Capa-link: 

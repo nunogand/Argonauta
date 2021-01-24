@@ -1,8 +1,8 @@
 Numero: 300
-Titulo: O Mistério de Valis 1º volume
+title: O Mistério de Valis 1º volume
 Autor: Philip K Dick
 Co-autor: 
-Ano-de-Publicacaoo: 1982
+Ano-de-Publicacao: 1982
 Titulo-original: Valis
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

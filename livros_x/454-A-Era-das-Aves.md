@@ -1,8 +1,8 @@
 Numero: 454
-Titulo: A Era das Aves
+title: A Era das Aves
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1995
+Ano-de-Publicacao: 1995
 Titulo-original: Midsummer Century
 Tradutor: António Porto
 Co-tradutor: 

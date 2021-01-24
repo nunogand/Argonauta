@@ -1,8 +1,8 @@
 Numero: 174
-Titulo: Trombetas da Revolução
+title: Trombetas da Revolução
 Autor: Lloyd Biggle Jr
 Co-autor: 
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: The Still Small Voice of Trumpets
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 296
-Titulo: O Número do Monstro 3º volume
+title: O Número do Monstro 3º volume
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: The Number of the Beast
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 296-O-Numero-do-Monstro-3-volume
 Capa: 
 pags: 190
-Capa-link:
+Capa-link: 

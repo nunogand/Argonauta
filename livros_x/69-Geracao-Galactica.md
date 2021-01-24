@@ -1,8 +1,8 @@
 Numero: 69
-Titulo: Geração Galáctica
+title: Geração Galáctica
 Autor: E C Tubb
 Co-autor: 
-Ano-de-Publicacaoo: 1962
+Ano-de-Publicacao: 1962
 Titulo-original: The Space-Born
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

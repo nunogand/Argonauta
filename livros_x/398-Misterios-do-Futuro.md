@@ -1,8 +1,8 @@
 Numero: 398
-Titulo: Mistérios do Futuro
+title: Mistérios do Futuro
 Autor: John E Stith
 Co-autor: 
-Ano-de-Publicacaoo: 1990
+Ano-de-Publicacao: 1990
 Titulo-original: Deep Quarry
 Tradutor: Eurico Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 398-Misterios-do-Futuro
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

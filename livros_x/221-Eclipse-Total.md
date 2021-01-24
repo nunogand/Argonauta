@@ -1,8 +1,8 @@
 Numero: 221
-Titulo: Eclipse Total
+title: Eclipse Total
 Autor: John Brunner
 Co-autor: 
-Ano-de-Publicacaoo: 1975
+Ano-de-Publicacao: 1975
 Titulo-original: Total Eclipse
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

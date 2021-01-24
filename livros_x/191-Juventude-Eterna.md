@@ -1,8 +1,8 @@
 Numero: 191
-Titulo: Juventude Eterna
+title: Juventude Eterna
 Autor: E C Tubb
 Co-autor: 
-Ano-de-Publicacaoo: 1973
+Ano-de-Publicacao: 1973
 Titulo-original: S T A R Flight
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

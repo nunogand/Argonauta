@@ -1,8 +1,8 @@
 Numero: 247
-Titulo: Super-Cérebro
+title: Super-Cérebro
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Supermind
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

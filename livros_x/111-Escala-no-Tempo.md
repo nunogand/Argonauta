@@ -1,8 +1,8 @@
 Numero: 111
-Titulo: Escala no Tempo
+title: Escala no Tempo
 Autor: Robert A Heinlein
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: The Door into Summer
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

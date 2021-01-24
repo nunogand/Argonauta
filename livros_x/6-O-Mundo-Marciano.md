@@ -1,8 +1,8 @@
 Numero: 6
-Titulo: O Mundo Marciano
+title: O Mundo Marciano
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1954
+Ano-de-Publicacao: 1954
 Titulo-original: The Martian Chronicles
 Tradutor: Fernando de Castro Ferro
 Co-tradutor: 

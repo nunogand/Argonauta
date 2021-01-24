@@ -1,8 +1,8 @@
 Numero: 151
-Titulo: Missão Impossível
+title: Missão Impossível
 Autor: Frederik Pohl
 Co-autor: Jack Williamson
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: The Reefs of Space
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

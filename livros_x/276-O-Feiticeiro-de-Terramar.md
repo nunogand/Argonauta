@@ -1,8 +1,8 @@
 Numero: 276
-Titulo: O Feiticeiro de Terramar
+title: O Feiticeiro de Terramar
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1980
+Ano-de-Publicacao: 1980
 Titulo-original: A Wizard of Earthsea
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

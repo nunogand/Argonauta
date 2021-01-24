@@ -1,8 +1,8 @@
 Numero: 474
-Titulo: Estranhos Inimigos 2º volume
+title: Estranhos Inimigos 2º volume
 Autor: Robert Asprin
 Co-autor: 
-Ano-de-Publicacaoo: 1996
+Ano-de-Publicacao: 1996
 Titulo-original: The Bug Wars
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 474-Estranhos-Inimigos-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

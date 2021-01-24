@@ -1,8 +1,8 @@
 Numero: 343
-Titulo: Universos Paralelos
+title: Universos Paralelos
 Autor: Philip José Farmer
 Co-autor: 
-Ano-de-Publicacaoo: 1986
+Ano-de-Publicacao: 1986
 Titulo-original: The Gate of Time
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

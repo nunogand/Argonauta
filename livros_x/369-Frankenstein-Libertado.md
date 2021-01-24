@@ -1,8 +1,8 @@
 Numero: 369
-Titulo: Frankenstein Libertado
+title: Frankenstein Libertado
 Autor: Brian Aldiss
 Co-autor: 
-Ano-de-Publicacaoo: 1988
+Ano-de-Publicacao: 1988
 Titulo-original: Frankenstein Unbound
 Tradutor: Raul de Sousa Machado
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 369-Frankenstein-Libertado
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

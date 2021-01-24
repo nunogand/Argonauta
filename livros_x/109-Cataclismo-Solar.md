@@ -1,8 +1,8 @@
 Numero: 109
-Titulo: Cataclismo Solar
+title: Cataclismo Solar
 Autor: J G Ballard
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: The Drowned World
 Tradutor: Mário Braga
 Co-tradutor: Maria Isabel Morna Braga

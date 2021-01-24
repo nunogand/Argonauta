@@ -1,8 +1,8 @@
 Numero: 562
-Titulo: Mundo de Cristal
+title: Mundo de Cristal
 Autor: Isidore Haiblum
 Co-autor: 
-Ano-de-Publicacaoo: 2006
+Ano-de-Publicacao: 2006
 Titulo-original: Crystalworld
 Tradutor: Paulo A Moreira
 Co-tradutor: 

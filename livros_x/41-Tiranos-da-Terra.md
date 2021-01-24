@@ -1,8 +1,8 @@
 Numero: 41
-Titulo: Tiranos da Terra
+title: Tiranos da Terra
 Autor: Christian Russel
 Co-autor: 
-Ano-de-Publicacaoo: 1957
+Ano-de-Publicacao: 1957
 Titulo-original: Les Voyants
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

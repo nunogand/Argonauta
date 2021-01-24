@@ -1,8 +1,8 @@
 Numero: 146
-Titulo: Depois do Fim do Mundo
+title: Depois do Fim do Mundo
 Autor: Poul Anderson
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: After Doomsday
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

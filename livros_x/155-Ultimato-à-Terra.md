@@ -1,8 +1,8 @@
 Numero: 155
-Titulo: Ultimato à Terra
+title: Ultimato à Terra
 Autor: Frederik Pohl
 Co-autor: Jack Williamson
-Ano-de-Publicacaoo: 1970
+Ano-de-Publicacao: 1970
 Titulo-original: Starchild
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

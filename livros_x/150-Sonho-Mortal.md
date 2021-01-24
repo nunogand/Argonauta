@@ -1,8 +1,8 @@
 Numero: 150
-Titulo: Sonho Mortal
+title: Sonho Mortal
 Autor: E C Tubb
 Co-autor: 
-Ano-de-Publicacaoo: 1969
+Ano-de-Publicacao: 1969
 Titulo-original: Death is a Dream
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

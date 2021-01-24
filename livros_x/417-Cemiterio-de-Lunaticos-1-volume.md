@@ -1,8 +1,8 @@
 Numero: 417
-Titulo: Cemitério de Lunáticos 1º volume
+title: Cemitério de Lunáticos 1º volume
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1992
+Ano-de-Publicacao: 1992
 Titulo-original: Graveyard for Lunatics
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 417-Cemiterio-de-Lunaticos-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

@@ -1,8 +1,8 @@
 Numero: 173
-Titulo: A Sete Degraus do Sol
+title: A Sete Degraus do Sol
 Autor: Fred Hoyle
 Co-autor: Geoffrey Hoyle
-Ano-de-Publicacaoo: 1971
+Ano-de-Publicacao: 1971
 Titulo-original: Seven Steps to the Sun
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

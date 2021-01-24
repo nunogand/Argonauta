@@ -1,8 +1,8 @@
 Numero: 408
-Titulo: Os Balonautas 1º volume
+title: Os Balonautas 1º volume
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1991
+Ano-de-Publicacao: 1991
 Titulo-original: The Ragged Astronauts
 Tradutor: Samuel Soares
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 408-Os-Balonautas-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

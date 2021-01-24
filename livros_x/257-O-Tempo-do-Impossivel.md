@@ -1,8 +1,8 @@
 Numero: 257
-Titulo: O Tempo do Impossível
+title: O Tempo do Impossível
 Autor: John D MacDonald
 Co-autor: 
-Ano-de-Publicacaoo: 1978
+Ano-de-Publicacao: 1978
 Titulo-original: Ballroom of the Skies
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

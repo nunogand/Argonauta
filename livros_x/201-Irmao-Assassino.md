@@ -1,8 +1,8 @@
 Numero: 201
-Titulo: Irmão Assassino
+title: Irmão Assassino
 Autor: Fred Saberhagen
 Co-autor: 
-Ano-de-Publicacaoo: 1974
+Ano-de-Publicacao: 1974
 Titulo-original: Brother Assassin
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

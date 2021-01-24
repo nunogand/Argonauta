@@ -1,8 +1,8 @@
 Numero: 486
-Titulo: Vivendo no Céu
+title: Vivendo no Céu
 Autor: James Blish
 Co-autor: 
-Ano-de-Publicacaoo: 1998
+Ano-de-Publicacao: 1998
 Titulo-original: A Life for the Stars
 Tradutor: Alexandra Tavares
 Co-tradutor: 

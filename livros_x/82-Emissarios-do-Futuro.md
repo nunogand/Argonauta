@@ -1,9 +1,10 @@
 Numero: 82
-Titulo: Emissários do Futuro
+title: Emissários do Futuro
 Autor: Gérard Klein
 Co-autor: 
-Ano-de-Publicacaoo: 1964
-Titulo-original: "Le Temps na pas dOdeur",Tradutor: Rogério Fernandes
+Ano-de-Publicacao: 1964
+Titulo-original: "Le Temps na pas dOdeur"
+Tradutor: Rogério Fernandes
 Co-tradutor: 
 Ano-de-edicao: 1963
 alias: Gerard-Klein

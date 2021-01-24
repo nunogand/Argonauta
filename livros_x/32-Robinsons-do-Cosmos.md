@@ -1,8 +1,8 @@
 Numero: 32
-Titulo: Robinsons do Cosmos
+title: Robinsons do Cosmos
 Autor: Francis Carsac
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Les Robinsons du Cosmos
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 

@@ -1,9 +1,10 @@
 Numero: 3
-Titulo: A Última Cidade da Terra
+title: A Última Cidade da Terra
 Autor: Edmond Hamilton
 Co-autor: 
-Ano-de-Publicacaoo: 1954
-Titulo-original: "The City at Worlds End",Tradutor: José da Natividade Gaspar
+Ano-de-Publicacao: 1954
+Titulo-original: "The City at Worlds End"
+Tradutor: José da Natividade Gaspar
 Co-tradutor: 
 Ano-de-edicao: 1951
 alias: Edmond-Hamilton

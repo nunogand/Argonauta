@@ -1,8 +1,8 @@
 Numero: 356
-Titulo: A Porta das Estrelas 2º volume
+title: A Porta das Estrelas 2º volume
 Autor: Frederik Pohl
 Co-autor: 
-Ano-de-Publicacaoo: 1987
+Ano-de-Publicacao: 1987
 Titulo-original: Gateway
 Tradutor: Eurico da Fonseca
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 356-A-Porta-das-Estrelas-2-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

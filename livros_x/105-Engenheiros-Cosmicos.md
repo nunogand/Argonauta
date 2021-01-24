@@ -1,8 +1,8 @@
 Numero: 105
-Titulo: Engenheiros Cósmicos
+title: Engenheiros Cósmicos
 Autor: Clifford D Simak
 Co-autor: 
-Ano-de-Publicacaoo: 1966
+Ano-de-Publicacao: 1966
 Titulo-original: Cosmic Engineers
 Tradutor: Mário Braga
 Co-tradutor: Maria Isabel Morna Braga

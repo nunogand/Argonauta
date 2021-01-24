@@ -1,8 +1,8 @@
 Numero: 284
-Titulo: Os Túmulos de Atuan
+title: Os Túmulos de Atuan
 Autor: Ursula K LeGuin
 Co-autor: 
-Ano-de-Publicacaoo: 1981
+Ano-de-Publicacao: 1981
 Titulo-original: The Tombs of Atuan
 Tradutor: Eurico da Fonseca
 Co-tradutor: 

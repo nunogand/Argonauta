@@ -1,8 +1,8 @@
 Numero: 97
-Titulo: O Abismo de Chicago
+title: O Abismo de Chicago
 Autor: Ray Bradbury
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: The Machineries of Joy
 Tradutor: Mário Braga
 Co-tradutor: Maria Isabel Morna Braga

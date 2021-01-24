@@ -1,8 +1,8 @@
 Numero: 439
-Titulo: As Naves de Madeira 1º volume
+title: As Naves de Madeira 1º volume
 Autor: Bob Shaw
 Co-autor: 
-Ano-de-Publicacaoo: 1994
+Ano-de-Publicacao: 1994
 Titulo-original: The Wooden Spaceships
 Tradutor: António Porto
 Co-tradutor: 
@@ -14,4 +14,4 @@ Tradutor2-alias:
 Titulo-link: 439-As-Naves-de-Madeira-1-volume
 Capa: 
 pags: 
-Capa-link:
+Capa-link: 

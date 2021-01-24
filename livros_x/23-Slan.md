@@ -1,8 +1,8 @@
 Numero: 23
-Titulo: Slan
+title: Slan
 Autor: A E Van Vogt
 Co-autor: 
-Ano-de-Publicacaoo: 1955
+Ano-de-Publicacao: 1955
 Titulo-original: Slan
 Tradutor: A Maldonado Domingues
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 102
-Titulo: A Guerra das Salamandras
+title: A Guerra das Salamandras
 Autor: Karel Capek
 Co-autor: 
-Ano-de-Publicacaoo: 1965
+Ano-de-Publicacao: 1965
 Titulo-original: Válka s Mloky
 Tradutor: Lima de Freitas
 Co-tradutor: 

@@ -1,8 +1,8 @@
 Numero: 36
-Titulo: Os Corsários do Espaço
+title: Os Corsários do Espaço
 Autor: Paul French
 Co-autor: 
-Ano-de-Publicacaoo: 1956
+Ano-de-Publicacao: 1956
 Titulo-original: Lucky Starr and the Pirates of the Asteroids
 Tradutor: Mário-Henrique Leiria
 Co-tradutor: 
