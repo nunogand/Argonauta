@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include navigation.html %}
 
 {% assign a = page.url | remove: "/livros/" %}
 {% assign livros = site.data.argonauta-alias | where: "Titulo-link", a %}
@@ -10,11 +9,8 @@ layout: default
 <section class="section ">
   <div class="container ">
     <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
-       <div class="column is-5-desktop">
-        <figure class="image">
-        <img
-          src="/assets/front/{{g.Titulo-link | append: ".jpg" }}" alt="{{ g.Titulo }}">
-</figure>
+       <div class="column is-5-desktop is-align-self-flex-start livros" style="background-image: url('/assets/front/{{g.Titulo-link | append: ".jpg" }}')">
+        
       </div>
 
       <div class="column is-7-desktop box">
