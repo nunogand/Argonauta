@@ -1,0 +1,39 @@
+---
+layout: livro
+Número: 9
+title: Missão Interplanetária
+Autor1: A. E. Van Vogt
+Autor2: 
+Ano-Publicacao: 1954
+Titulo-original: The Voyage of the Space Beagle
+Tradutor1: Fernando Moutinho
+Tradutor2: 
+Ano-edicao: 1950
+---
+Autor: A. E. Van Vogt
+ 
+Título original: The Voyage of  the Space Beagle
+ 
+1ª Edição: 1950
+ 
+Publicado na Colecção Argonauta em 1954
+ 
+Capa: Cândido Costa Pinto - curiosamente esta edição não traz a informação relativa ao autor da capa, mas a concepção é em tudo semelhante às anteriores, pelo que se presume que seja o mesmo autor. Além disso, na obra nº 13 a informação retorna e o autor continua a ser Costa Pinto. 
+ 
+Tradução: Fernando Moutinho
+
+Súmula
+ - foi apresentada no livro nº8 da Colecção, com a indicação de ""Ler nas
+ páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
+
+A. E. Van Vogt, o autor desta obra-prima de ficção-científica, é considerado desde há muito, nos Estados Unidos - a par de Robert Heinlein, Isaac Asimov e Edmond Hamilton - como um dos grandes, senão o maior, dos escritores que cultivam este género literário. Van Vogt, cuja produção de romances de ficção-científica é quase inestimável, na larga quantidade e na superior qualidade, é especialmente celebrado pelo valor das suas novelas, verdadeiros modelos de ""suspense"", duma imaginação incomparável, entre as quais avultam ""Far Centaurus"", ""The Monster"", ""Dormant"", ""The Search"", e ""Slan"".
+Vogt é um experimentado mestre na delicada e dificílima arte de combinar o dinamismo, a originalidade e o virtuosismo da narração, cujo equilíbrio caracateriza o que há de melhor nesta nova forma literária. Nascido no Canadá, vive agora em Los Angeles, cidade em que, com pouco mais de trinta anos, é considerado um autor de fecunda e prodigiosa fantasia. Mas não é só na América - onde o seu nome é conhecido de toda a gente - conseguiu Vogt extraordinária publicidade. Por todo o mundo civilizado o elevado nível das suas obras conquistou admiradores, e até imitadores, consagrando-se assim a sua glória, e ajudando a firmar definitivamente a literatura de ficção-científica.
+Van Vogt é traduzido em quase todas as línguas e o facto de a Colecção Argonauta apresentar agora em Portugal uma obra sua, constitui um motivo de justificado orgulho para esta Colecção, que se tem esforçado por trazer ao conhecimento do público português os nomes mais representativos da ficção-científica.
+A propósito da sua invulgar capacidade de criação, conta-se que, um dia, perguntaram a Van Vogt o que pensava dos ""Discos Voadores"", ao que ele teria respondido: E possível que venham, de facto, de outros Mundos, mas, se assim é,  o seu nível científico é bem rudimentar, comparado com o enorme avanço atingido nos nossos romances do género"".
+De entre todas as suas produções, destacaremos, por merecedores de especial referência, os livros ""The World of A"", uma das primeiras obras de Van Vogt, ""Destination Universe!"", e ""Mission Interplanetary"", que constituirá o próximo volume desta Colecção, e que são todos eles romances de fôlego. 
+Neste último, A. E. Van Vogt conta a aventura da imensa nave espacial chamada ""Galgo"", que percorre o Universo numa missão de estudo científico, transportando a bordo o jovem cientista Elliot Grosvenor, diplomado por uma admirável escola que, num mundo de especialização crescente, conseguira o feito de criar representantes duma saudosa cultura geral, aptos a encarar qualquer aspecto e perspectiva da mais remota ciência.
+Na heterógena equipagem daquele navio do espaço, em que cada homem era um especialista e um perito, Elliot Grosvenor constituía, de facto, um caso à parte, uma excepção, um estranho, pois o seu treino no Instituto Nexialista dava-lhe uma mentalidade diferente, um ponto de vista diverso e mais lúcido para analisar não só os problemas do vácuo interplanetário, como os próprios conflitos humanos, resolvendo-os com perfeito bom senso, serenidade e decisão. Nem todos, porém, o compreenderam, de início. Como representante do Nexialismo - a nova ciência-síntese, esquema dos vastos conhecimentos humanos - Grosvenor tomava pela primeira vez o comando dum departamento a bordo dum navio sideral em missão de investigação nos espaços inter-galácticos. Chefe e ao mesmo tempo único membro dessa secção, Elliot Grosvenor pouca influência teria no ânimo e nas opiniões daquele milhar de técnicos que iam viver isolados nas insondáveis profundezas do Universo. Daí as dramáticas circunstâncias em que se desenrola a arrebatadora aventura do grupo de cientistas que a nave espacial ""Galgo"" transportava, a fim de desvendar os segredos dos mundos, e que depressa se viram envolvidos numa desesperada luta pela sobrevivência.
+A incontáveis anos-luz do seu globo natal, lá longe entre as estrelas, aqueles homens viram-se rodeados por estranhars formas de vida que ultrapassavam os seus mais horríveis pesadelos - um monstro de aparência felina, com uma coroa de tentáculos saindo-lhe dos ombros, que se alimentava de seres vivos; uma raça de criaturas com o aspecto de aves e de extraordinários poderes hipnóticos; uma ""Coisa"" diabólica e pavorosa que podia atravessar a matéria sólida e que pretendia fazer do navio a sua própria habitação; e, por último, um ""Ser"" ilimitado e difuso, gasoso e inteligente, que preenchia totalmente o espaço duma galáxia.
+Nas desesperadas lutas que travaram, com essas formidáveis e poderosas formas vivas, os exploradores constataram variadíssimos defeitos básicos nas suas ciências terrestres. E Grosvenor - o único de entre eles que lhes podia valer - quando se viu impedido de aplicar os seus conhecimentos, verificou com amargura que no espaço, como na Terra, o maior inimigo do Homem é o próprio Homem. 
+Eis o ambiente rico de peripécias e expressão verdadeiramente humana em que decorre a viagem do ""Galgo do Espaço"" na sua ""Missão Interplanetária"". 
+.

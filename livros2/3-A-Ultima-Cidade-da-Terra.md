@@ -5,13 +5,13 @@ title: A Última Cidade da Terra
 Autor1: Edmond Hamilton
 Autor2: 
 Ano-Publicacao: 1954
-Titulo-original: The City at World's End
+Titulo-original: The City at Worldtitle:s End
 Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1951
 ---
   
-Autor: Edmond Hamilton (a capa tem uma gralha no nome do autor)Título original: The City At World's End
+Autor: Edmond Hamilton (a capa tem uma gralha no nome do autor)Título original: The City At Worldtitle:s End
 1ª Edição: 1951
 Publicado na Colecção Argonauta em 1954
 Capa: Cândido Costa Pinto 

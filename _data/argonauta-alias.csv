@@ -1,11 +1,11 @@
-﻿Numero,Titulo,Autor,Co-autor,Ano-de-Publicacaoo,Titulo-original,Tradutor,Co-tradutor,Ano-de-edicao,alias,Autor2-alias,Tradutor1-alias,Tradutor2-alias,Titulo-link,Capa,pags,Capa-link
+Numero,Titulo,Autor,Co-autor,Ano-de-Publicacaoo,Titulo-original,Tradutor,Co-tradutor,Ano-de-edicao,alias,Autor2-alias,Tradutor1-alias,Tradutor2-alias,Titulo-link,Capa,pags,Capa-link
 1,Perdidos na Estratosfera,A M Low,,1953,Adrift in the Stratosphere,Correia Ribeiro,,1937,A-M-Low,,Correia-Ribeiro,,1-Perdidos-na-Estratosfera,Cândido Costa Pinto,163,Candido-Costa-Pinto
 2,O Estranho Mundo de Kilsona,Festus Pragnell,,1954,The Green Man of Graypec,José da Natividade Gaspar,,1935,Festus-Pragnell,,Jose-da-Natividade-Gaspar,,2-O-Estranho-Mundo-de-Kilsona,Cândido Costa Pinto,212,Candido-Costa-Pinto
 3,A Última Cidade da Terra,Edmond Hamilton,,1954,The City at World's End,José da Natividade Gaspar,,1951,Edmond-Hamilton,,Jose-da-Natividade-Gaspar,,3-A-ultima-Cidade-da-Terra,Cândido Costa Pinto,234,Candido-Costa-Pinto
 4,A Nave Sideral,Murray Leinster,,1954,The Last Space Ship,Fernando de Castro Ferro,,1949,Murray-Leinster,,Fernando-de-Castro-Ferro,,4-A-Nave-Sideral,Cândido Costa Pinto,196,Candido-Costa-Pinto
 5,O Universo Vivo,Jimmy Guieu,,1954,L'Univers Vivant,Rui Bandeira,,1953,Jimmy-Guieu,,Rui-Bandeira,,5-O-Universo-Vivo,Cândido Costa Pinto,149,Candido-Costa-Pinto
 6,O Mundo Marciano,Ray Bradbury,,1954,The Martian Chronicles,Fernando de Castro Ferro,,1950,Ray-Bradbury,,Fernando-de-Castro-Ferro,,6-O-Mundo-Marciano,Cândido Costa Pinto,243,Candido-Costa-Pinto
-7,Inconstância do Amanhã,F G Rayer,,1954,Tomorrow Sometimes Comes,Fernando Moutinho,,1951,F-G-Rayer,,Fernando-Moutinho,,7-Inconstância-do-Amanha,Cândido Costa Pinto,266,Candido-Costa-Pinto
+7,Inconstância do Amanhã,F G Rayer,,1954,Tomorrow Sometimes Comes,Fernando Moutinho,,1951,F-G-Rayer,,Fernando-Moutinho,,7-Inconstancia-do-Amanha,Cândido Costa Pinto,266,Candido-Costa-Pinto
 8,O Veneno de Marte,Paul French,,1954,David Starr Space Ranger,Fernando de Castro Ferro,,1952,Paul-French,,Fernando-de-Castro-Ferro,,8-O-Veneno-de-Marte,Cândido Costa Pinto,176,Candido-Costa-Pinto
 9,Missão Interplanetária,A E Van Vogt,,1954,The Voyage of the Space Beagle,Fernando Moutinho,,1950,A-E-Van-Vogt,,Fernando-Moutinho,,9-Missao-Interplanetaria,Cândido Costa Pinto,283,Candido-Costa-Pinto
 10,Exploradores do Universo,Jon J Deegan,,1954,Antro the Life Giver,Fernando de Castro Ferro,,1953,Jon-J-Deegan,,Fernando-de-Castro-Ferro,,10-Exploradores-do-Universo,Cândido Costa Pinto,173,Candido-Costa-Pinto
@@ -20,7 +20,7 @@
 19,Caminhos do Espaço,Charles Eric Maine,,1955,Spaceways,A Maldonado Domingues,,1953,Charles-Eric-Maine,,A-Maldonado-Domingues,,19-Caminhos-do-Espaco,Cândido Costa Pinto,247,Candido-Costa-Pinto
 20,A Sexta Coluna,Robert A Heinlein,,1955,Sixth Column,Manuel de Sepúlveda,,1941,Robert-A-Heinlein,,Manuel-de-Sepulveda,,20-A-Sexta-Coluna,Cândido Costa Pinto,220,Candido-Costa-Pinto
 21,As Correntes do Espaço,Isaac Asimov,,1955,The Currents of Space,Alfredo Margarido,Manuel de Sepúlveda,1952,Isaac-Asimov,,Alfredo-Margarido,Manuel-de-Sepulveda,21-As-Correntes-do-Espaco,Cândido Costa Pinto,268,Candido-Costa-Pinto
-22,Vigilância Sideral,Pierre Versins,,1955,Les Étoiles ne s'en Foutent Pas,Alfredo Margarido,,1950,Pierre-Versins,,Alfredo-Margarido,,22-Vigilância-Sideral,Cândido Costa Pinto,160,Candido-Costa-Pinto
+22,Vigilância Sideral,Pierre Versins,,1955,Les Étoiles ne s'en Foutent Pas,Alfredo Margarido,,1950,Pierre-Versins,,Alfredo-Margarido,,22-Vigilancia-Sideral,Cândido Costa Pinto,160,Candido-Costa-Pinto
 23,Slan,A E Van Vogt,,1955,Slan,A Maldonado Domingues,,1946,A-E-Van-Vogt,,A-Maldonado-Domingues,,23-Slan,Cândido Costa Pinto,241,Candido-Costa-Pinto
 24,A Tentação Cósmica,Roger Sorez,,1955,La Tentacion Cosmique,A Maldonado Domingues,,1954,Roger-Sorez,,A-Maldonado-Domingues,,24-A-Tentacao-Cosmica,Cândido Costa Pinto,249,Candido-Costa-Pinto
 25,O Reino das Mulheres,Jerry Sohl,,1955,The Haploids,Mário-Henrique Leiria,,1953,Jerry-Sohl,,Mario-Henrique-Leiria,,25-O-Reino-das-Mulheres,Cândido Costa Pinto,173,Candido-Costa-Pinto
@@ -40,7 +40,7 @@
 39,Estrela Dupla,Robert A Heinlein,,1957,Double Star,H dos Santos Carvalho,,1955,Robert-A-Heinlein,,H-dos-Santos-Carvalho,,39-Estrela-Dupla,Lima de Freitas,224,Lima-de-Freitas
 40,O Síndico,C M Kornbluth,,1957,The Syndic,H dos Santos Carvalho,,1953,C-M-Kornbluth,,H-dos-Santos-Carvalho,,40-O-Sindico,Lima de Freitas,239,Lima-de-Freitas
 41,Tiranos da Terra,Christian Russel,,1957,Les Voyants,Mário-Henrique Leiria,,1956,Christian-Russel,,Mario-Henrique-Leiria,,41-Tiranos-da-Terra,Lima de Freitas,201,Lima-de-Freitas
-42,Mundos Simultâneos,Clifford D Simak,,1957,Ring Around the Sun,Mário-Henrique Leiria,,1952,Clifford-D-Simak,,Mario-Henrique-Leiria,,42-Mundos-Simultâneos,Lima de Freitas,204,Lima-de-Freitas
+42,Mundos Simultâneos,Clifford D Simak,,1957,Ring Around the Sun,Mário-Henrique Leiria,,1952,Clifford-D-Simak,,Mario-Henrique-Leiria,,42-Mundos-Simultaneos,Lima de Freitas,204,Lima-de-Freitas
 43,A Cidade da Ciência,Maurice Vernon,,1957,Les Savants Dans l'Aréne,Mário-Henrique Leiria,,1955,Maurice-Vernon,,Mario-Henrique-Leiria,,43-A-Cidade-da-Ciencia,Lima de Freitas,167,Lima-de-Freitas
 44,História de Dois Mundos,John D MacDonald,,1958,Planet of the Dreamers,Mário-Henrique Leiria,,1951,John-D-MacDonald,,Mario-Henrique-Leiria,,44-Historia-de-Dois-Mundos,Lima de Freitas,219,Lima-de-Freitas
 45,O Décimo Planeta,C H Badet,,1958,La Dixième Planète,Mário-Henrique Leiria,,1954,C-H-Badet,,Mario-Henrique-Leiria,,45-O-Decimo-Planeta,Lima de Freitas,116,Lima-de-Freitas
@@ -129,7 +129,7 @@
 128,O Túnel do Tempo,Murray Leinster,,1968,The Time Tunnel,Eurico da Fonseca,,1967,Murray-Leinster,,Eurico-da-Fonseca,,128-O-Tunel-do-Tempo,Lima de Freitas,183,Lima-de-Freitas
 129,Soldado no Espaço,Robert A Heinlein,,1968,Starship Troopers,Eurico da Fonseca,,1959,Robert-A-Heinlein,,Eurico-da-Fonseca,,129-Soldado-no-Espaco,Lima de Freitas,313,Lima-de-Freitas
 130,Império Submarino,Paul W Fairman,,1968,City Under the Sea,Eurico da Fonseca,,1965,Paul-W-Fairman,,Eurico-da-Fonseca,,130-Imperio-Submarino,Lima de Freitas,177,Lima-de-Freitas
-130-A,Estação de Trânsito,Clifford D Simak,,1968,Way Station,Gilberto Almeida,,1963,Clifford-D-Simak,,Gilberto-Almeida,,130-A-Estacao-de-Trânsito,Infante do Carmo,220,Infante-do-Carmo
+130-A,Estação de Trânsito,Clifford D Simak,,1968,Way Station,Gilberto Almeida,,1963,Clifford-D-Simak,,Gilberto-Almeida,,130-A-Estacao-de-Transito,Infante do Carmo,220,Infante-do-Carmo
 131,Viajantes do Tempo,Clifford D Simak,,1968,Time is the Simplest Thing,Eurico da Fonseca,,1961,Clifford-D-Simak,,Eurico-da-Fonseca,,131-Viajantes-do-Tempo,Lima de Freitas,268,Lima-de-Freitas
 132,Revolta em 2100,Robert A Heinlein,,1968,Revolt in 2100,Eurico da Fonseca,,1953,Robert-A-Heinlein,,Eurico-da-Fonseca,,132-Revolta-em-2100,Lima de Freitas,212,Lima-de-Freitas
 133,Patrulha Interstelar,Edmond Hamilton,,1968,Crashing Suns,Eurico da Fonseca,,1965,Edmond-Hamilton,,Eurico-da-Fonseca,,133-Patrulha-Interstelar,Lima de Freitas,185,Lima-de-Freitas
@@ -168,9 +168,9 @@
 166,Segredo Interstelar,Alexei Panshin,,1971,Star Well,Eurico da Fonseca,,1968,Alexei-Panshin,,Eurico-da-Fonseca,,166-Segredo-Interstelar,Lima de Freitas,176,Lima-de-Freitas
 167,Estrela Errante,Frederik Pohl,Jack Williamson,1971,Rogue Star,Eurico da Fonseca,,1969,Frederik-Pohl,Jack-Williamson,Eurico-da-Fonseca,,167-Estrela-Errante,Lima de Freitas,201,Lima-de-Freitas
 168,A Guerra dos Fantasmas,Lloyd Biggle Jr,,1971,The Angry Espers,Eurico da Fonseca,,1961,Lloyd-Biggle-Jr,,Eurico-da-Fonseca,,168-A-Guerra-dos-Fantasmas,Lima de Freitas,152,Lima-de-Freitas
-169,Um Cântico para Leibowitz 1º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,169-Um-Cântico-para-Leibowitz-1-volume,Lima de Freitas,152,Lima-de-Freitas
-170,Um Cântico para Leibowitz 2º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,170-Um-Cântico-para-Leibowitz-2-volume,Lima de Freitas,169,Lima-de-Freitas
-171,Um Cântico para Leibowitz 3º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,171-Um-Cântico-para-Leibowitz-3-volume,Lima de Freitas,175,Lima-de-Freitas
+169,Um Cântico para Leibowitz 1º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,169-Um-Cantico-para-Leibowitz-1-volume,Lima de Freitas,152,Lima-de-Freitas
+170,Um Cântico para Leibowitz 2º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,170-Um-Cantico-para-Leibowitz-2-volume,Lima de Freitas,169,Lima-de-Freitas
+171,Um Cântico para Leibowitz 3º volume,Walter M Miller Jr,,1971,A Canticle for Leibowitz,Eurico da Fonseca,,1959,Walter-M-Miller-Jr,,Eurico-da-Fonseca,,171-Um-Cantico-para-Leibowitz-3-volume,Lima de Freitas,175,Lima-de-Freitas
 172,Quando os Marcianos Vieram,Edmund Cooper,,1971,The Last Continent,Eurico da Fonseca,,1969,Edmund-Cooper,,Eurico-da-Fonseca,,172-Quando-os-Marcianos-Vieram,Lima de Freitas,185,Lima-de-Freitas
 173,A Sete Degraus do Sol,Fred Hoyle,Geoffrey Hoyle,1971,Seven Steps to the Sun,Eurico da Fonseca,,1970,Fred-Hoyle,Geoffrey-Hoyle,Eurico-da-Fonseca,,173-A-Sete-Degraus-do-Sol,Lima de Freitas,171,Lima-de-Freitas
 174,Trombetas da Revolução,Lloyd Biggle Jr,,1971,The Still Small Voice of Trumpets,Eurico da Fonseca,,1969,Lloyd-Biggle-Jr,,Eurico-da-Fonseca,,174-Trombetas-da-Revolucao,Lima de Freitas,183,Lima-de-Freitas
@@ -374,8 +374,8 @@
 371,Tintagel,Paul Cook,,1988,Tintagel,Eduardo Saló,,1981,Paul-Cook,,Eduardo-Salo,,371-Tintagel,António Pedro,274,Antonio-Pedro
 372,A Praga do Espaço,Harry Harrison,,1988,Plague From Space,Raul de Sousa Machado,,1985,Harry-Harrison,,Raul-de-Sousa-Machado,,372-A-Praga-do-Espaco,,,
 373,O Mistério de Mercúrio,Bob Shaw,,1988,Fire Pattern,Raul de Sousa Machado,,1984,Bob-Shaw,,Raul-de-Sousa-Machado,,373-O-Misterio-de-Mercurio,,,
-374,Agente de Bizâncio 1º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,374-Agente-de-Bizâncio-1-volume,,,
-375,Agente de Bizâncio 2º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,375-Agente-de-Bizâncio-2-volume,,,
+374,Agente de Bizâncio 1º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,374-Agente-de-Bizancio-1-volume,,,
+375,Agente de Bizâncio 2º volume,Harry Turtledove,,1988,Agent of Byzantium,Eurico da Fonseca,,1987,Harry-Turtledove,,Eurico-da-Fonseca,,375-Agente-de-Bizancio-2-volume,,,
 376,Reflexos do Futuro,vários,Bruce Sterling,1988,Mirrorshades,Eduardo Saló,,1986,varios,Bruce-Sterling,Eduardo-Salo,,376-Reflexos-do-Futuro,António Pedro,275,Antonio-Pedro
 377,Mensagem do Futuro,James P Hogan,,1988,Thrice Upon a Time,Raul de Sousa Machado,,1980,James-P-Hogan,,Raul-de-Sousa-Machado,,377-Mensagem-do-Futuro,,,
 378,Encontro com os Heechee,Frederik Pohl,,1989,Heechee Rendezvous,Raul de Sousa Machado,,1984,Frederik-Pohl,,Raul-de-Sousa-Machado,,378-Encontro-com-os-Heechee,,,
@@ -424,7 +424,7 @@
 421,Desvio Para o Vermelho 2º volume,John E Stith,,1992,Redshift Rendezvous,António Porto,,1990,John-E-Stith,,Antonio-Porto,,421-Desvio-Para-o-Vermelho-2-volume,,,
 422,O Espírito de Dorsai,Gordon R Dickson,,1992,The Spirit of Dorsai,António Porto,,1979,Gordon-R-Dickson,,Antonio-Porto,,422-O-Espirito-de-Dorsai,,,
 423,Viagem Pelos Universos,James Blish,,1992,Anywhen,António Porto,,1971,James-Blish,,Antonio-Porto,,423-Viagem-Pelos-Universos,,,
-424,Imortalidade e Cª,Robert Sheckley,,1992,Immortality Inc,António Porto,,1959,Robert-Sheckley,,Antonio-Porto,,424-Imortalidade-e-Cª,António Pedro,200,Antonio-Pedro
+424,Imortalidade e Cª,Robert Sheckley,,1992,Immortality Inc,António Porto,,1959,Robert-Sheckley,,Antonio-Porto,,424-Imortalidade-e-Ca,António Pedro,200,Antonio-Pedro
 425,O Mundo Perdido no Fundo do Mar,Arthur Conan Doyle,,1992,The Maracot Deep,J Lima da Costa,,1929,Arthur-Conan-Doyle,,J-Lima-da-Costa,,425-O-Mundo-Perdido-no-Fundo-do-Mar,,,
 426,Estrela Caída,James Blish,,1993,The Frozen Year,António Porto,,1957,James-Blish,,Antonio-Porto,,426-Estrela-Caida,António Pedro,201,Antonio-Pedro
 427,O Homem do Castelo Alto 1º volume,Philip K Dick,,1993,The Man in the High Castle,António Porto,,1962,Philip-K-Dick,,Antonio-Porto,,427-O-Homem-do-Castelo-Alto-1-volume,António Pedro,177,Antonio-Pedro
@@ -500,7 +500,7 @@
 497,Além do Mar dos Sóis 2º volume,Gregory Benford,,1999,Across the Sea of Suns,Alexandra Santos Tavares,,1984,Gregory-Benford,,Alexandra-Santos-Tavares,,497-Alem-do-Mar-dos-Sois-2-volume,,,
 498,O Enigma de Malacia 1º volume,Brian Aldiss,,1999,The Malacia Tapestry,Alexandra Santos Tavares,,1976,Brian-Aldiss,,Alexandra-Santos-Tavares,,498-O-Enigma-de-Malacia-1-volume,,,
 499,O Enigma de Malacia 2º volume,Brian Aldiss,,1999,The Malacia Tapestry,Alexandra Santos Tavares,,1976,Brian-Aldiss,,Alexandra-Santos-Tavares,,499-O-Enigma-de-Malacia-2-volume,,,
-500,Ó Pioneiro!,Frederik Pohl,,1999,O Pioneer!,Alexandra Santos Tavares,,1998,Frederik-Pohl,,Alexandra-Santos-Tavares,,500-o-Pioneiro!,,,
+500,Ó Pioneiro!,Frederik Pohl,,1999,O Pioneer!,Alexandra Santos Tavares,,1998,Frederik-Pohl,,Alexandra-Santos-Tavares,,500-O-Pioneiro,,,
 501,A História de Nerilka,Anne McCaffrey,,1999,Nerilka's Story A Pern Adventure,Alexandra Santos Tavares,,1986,Anne-McCaffrey,,Alexandra-Santos-Tavares,,501-A-Historia-de-Nerilka,,,
 502,Passagem Para o Passado 1º volume,Isidore Haiblum,,1999,Transfer to Yesterday,Alexandra Santos Tavares,,1973,Isidore-Haiblum,,Alexandra-Santos-Tavares,,502-Passagem-Para-o-Passado-1-volume,António Pedro,188,Antonio-Pedro
 503,Passagem Para o Passado 2º volume,Isidore Haiblum,,1999,Transfer to Yesterday,Alexandra Santos Tavares,,1973,Isidore-Haiblum,,Alexandra-Santos-Tavares,,503-Passagem-Para-o-Passado-2-volume,António Pedro,182,Antonio-Pedro
@@ -559,7 +559,7 @@
 556,A Mão de Oberon,Roger Zelazny,,2004,The Hand of Oberon,Elsa T S Vieira,,1976,Roger-Zelazny,,Elsa-T-S-Vieira,,556-A-Mao-de-Oberon,,,
 557,As Cortes do Caos,Roger Zelazny,,2004,The Courts of Chaos,Paulo Moreira,,1978,Roger-Zelazny,,Paulo-Moreira,,557-As-Cortes-do-Caos,,,
 558,Mundo Exterior,Isidore Haiblum,,2004,Outerworld,Paulo A Moreira,,1979,Isidore-Haiblum,,Paulo-A-Moreira,,558-Mundo-Exterior,Rogério Silva,188,Rogerio-Silva
-559,O Sangue de Âmbar,Roger Zelazny,,2005,Blood of Amber,Elsa T S Vieira,,1986,Roger-Zelazny,,Elsa-T-S-Vieira,,559-O-Sangue-de-Âmbar,,,
+559,O Sangue de Âmbar,Roger Zelazny,,2005,Blood of Amber,Elsa T S Vieira,,1986,Roger-Zelazny,,Elsa-T-S-Vieira,,559-O-Sangue-de-Ambar,,,
 560,Mundo dos Espectros,Isidore Haiblum,,2004,Specterworld,Paulo A Moreira,,1991,Isidore-Haiblum,,Paulo-A-Moreira,,560-Mundo-dos-Espectros,,,
 561,A Conspiração dos Imortais,Márcia Guimarães,,2005,,,,2005,Marcia-Guimaraes,,,,561-A-Conspiracao-dos-Imortais,,,
 562,Mundo de Cristal,Isidore Haiblum,,2006,Crystalworld,Paulo A Moreira,,1992,Isidore-Haiblum,,Paulo-A-Moreira,,562-Mundo-de-Cristal,Rogério Silva,230,Rogerio-Silva
