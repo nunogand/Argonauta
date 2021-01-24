@@ -9,78 +9,91 @@ layout: default
 <section class="section ">
   <div class="container ">
     <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
-       <div class="column is-5-desktop is-align-self-flex-start livros" style="background-image: url('/assets/front/{{g.Titulo-link | append: ".jpg" }}')">
+       <div class="column is-5-desktop is-align-self-flex-start ml-4 livros" style="z-index:1; background-image: url('/assets/front/{{g.Titulo-link | append: ".jpg" }}')">
         
       </div>
 
-      <div class="column is-7-desktop box">
+      <div class="column is-7-desktop box" style="position: relative; z-index:2">
          
           
         <p class="subtitle has-text-left">Número: {{ g.Numero }} </p>
 
         <h2 class="title is-spaced has-text-left">{{ g.Titulo }}</h2>
         <hr>
+               
 
-        <nav class="level">
-          <div class="level-item has-text-centered">
-            <div>
-              <p>Número</p>
-              <p>{{ g.Numero }}</p>
+        <div class="tile is-ancestor has-background-dark">
+          <div class="tile is-6 is-parent ">
+            <div class="tile is-child has-background-dark">
+              
+              <span class="has-text-danger">Autor: </span>
+              <span class="has-text-white-ter ">{{ g.Autor }}</span> 
+              <br>
+              
+              
+              <span class="has-text-danger">Co-Autor: </span>
+              <span class="has-text-white-ter ">{{ g.Co-autor }}</span> 
+              <br>
+              
+              
+              <span class="has-text-danger">Título original: </span>
+              <span class="has-text-white-ter ">{{ g.Titulo-original }}</span>
+              <br>
+              
+              <span class="has-text-danger">Edição original: </span>
+              <span class="has-text-white-ter ">{{ g.Ano-de-edicao }}</span>
+              <br>
+              
+            </div>
+            </div>
+          <div class="tile is-parent">
+            <div class="tile is-child has-background-dark">
+              
+              
+              <span class="has-text-danger">Tradutor: </span>
+              <span class="has-text-white-ter ">{{ g.Tradutor }}</span> 
+              <br>
+              
+              <span class="has-text-danger">Ano de publicação: </span>
+              <span class="has-text-white-ter ">{{ g.Ano-de-Publicacao }}</span>
+              <br>
+              
+              <span class="has-text-danger">Páginas: </span>
+              <span class="has-text-white-ter ">{{ g.pags }}</span> 
+              <br>
+                            
+              <span class="has-text-danger">Capa: </span>
+              <span class="has-text-white-ter ">{{ g.Capa }}</span> 
+              <br>
+              
+              
             </div>
           </div>
-          <div class="level-item has-text-centered">
-            <div>
-              <p>Título</p>
-              <p>{{ g.Titulo }}</p>
-            </div>
-          </div>
-          <div class="level-item has-text-centered">
-            <div>
-              <p>Autor</p>
-              <p><a href="/autores/{{ g.alias }}">{{ g.Autor }}</a></p>
-            </div>
-          </div>
+        </div>
+        {%endfor%}
 
-{%if g.Co-autor == true%}
-          <div class="level-item has-text-centered">
-            <div>
-              <p>Co-Autor</p>
-              <p>{{ g.Co-autor }}</p>
-            </div>
-          </div>
-{%else%}
-<div class="level-item has-text-centered">
-  <div>
-    <p>Co-Autor</p>
-    <p>-</p>
-  </div>
-</div>
-{%endif%}          
-          <div class="level-item has-text-centered">
-            <div>
-              <p>Título Original</p>
-              <p>{{ g.Titulo-original }}</p>
-            </div>
-          </div>
 
 
-        </nav>
+
+
+        
 <hr>
 
 
 
 
 
-        <p class="subtitle is-family-monospace ml-6"> 
+        <p class="subtitle is-family-monospace mx-6 is-size-6"> 
 
           This wonderful green shirt will make you an evangelist of Pied Pipers' world-changing
           technology. It will make you stand out anywhere you go - so say yes to decentralization, and say yes to our official Pied Piper swag.
 
         {{ content }}
       </p>
-      {%endfor%}
+      
         <hr>
-        <div class="level is-mobile">
+        
+        <div class="level is-mobile has-background-grey-light">
           <div class="level-left">
             <div class="level-item"><a href="#">Add to favorites</a></div>
           </div>
@@ -91,8 +104,12 @@ layout: default
                 src="placeholder/icons/instagram.svg" alt=""></a>
           </div>
         </div>
+
+
       </div>
 
     </div>
-  </div>
+ 
+
+
 </section>
