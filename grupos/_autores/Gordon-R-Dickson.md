@@ -1,1 +1,5 @@
-{'Autor': 'Gordon R Dickson', 'alias': 'Gordon-R-Dickson'}
+---
+layout: autores2
+title: Gordon R Dickson
+alias: Gordon-R-Dickson
+---

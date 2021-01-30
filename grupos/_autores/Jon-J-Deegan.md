@@ -1,1 +1,5 @@
-{'Autor': 'Jon J Deegan', 'alias': 'Jon-J-Deegan'}
+---
+layout: autores2
+title: Jon J Deegan
+alias: Jon-J-Deegan
+---

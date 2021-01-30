@@ -1,1 +1,5 @@
-{'Autor': 'Shawna McCarthy', 'alias': 'Shawna-McCarthy'}
+---
+layout: autores2
+title: Shawna McCarthy
+alias: Shawna-McCarthy
+---

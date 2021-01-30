@@ -1,1 +1,5 @@
-{'Autor': 'Richard Kadrey', 'alias': 'Richard-Kadrey'}
+---
+layout: autores2
+title: Richard Kadrey
+alias: Richard-Kadrey
+---

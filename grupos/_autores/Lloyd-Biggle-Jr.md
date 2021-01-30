@@ -1,1 +1,5 @@
-{'Autor': 'Lloyd Biggle Jr', 'alias': 'Lloyd-Biggle-Jr'}
+---
+layout: autores2
+title: Lloyd Biggle Jr
+alias: Lloyd-Biggle-Jr
+---

@@ -1,1 +1,3 @@
-{'Autor': 'Larry Niven', 'alias': 'Larry-Niven'}
+---Autor: Larry Niven
+alias: Larry-Niven
+---

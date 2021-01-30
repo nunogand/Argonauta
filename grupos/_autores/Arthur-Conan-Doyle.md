@@ -1,1 +1,5 @@
-{'Autor': 'Arthur Conan Doyle', 'alias': 'Arthur-Conan-Doyle'}
+---
+layout: autores2
+title: Arthur Conan Doyle
+alias: Arthur-Conan-Doyle
+---

@@ -1,1 +1,5 @@
-{'Autor': 'Albert Crémieux', 'alias': 'Albert-Cremieux'}
+---
+layout: autores2
+title: Albert Crémieux
+alias: Albert-Cremieux
+---

@@ -1,1 +1,5 @@
-{'Autor': 'Walter M Miller Jr', 'alias': 'Walter-M-Miller-Jr'}
+---
+layout: autores2
+title: Walter M Miller Jr
+alias: Walter-M-Miller-Jr
+---

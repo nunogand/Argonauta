@@ -1,1 +1,5 @@
-{'Autor': 'Boris Strugatski', 'alias': 'Boris-Strugatski'}
+---
+layout: autores2
+title: Boris Strugatski
+alias: Boris-Strugatski
+---

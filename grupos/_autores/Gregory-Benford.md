@@ -1,1 +1,5 @@
-{'Autor': 'Gregory Benford', 'alias': 'Gregory-Benford'}
+---
+layout: autores2
+title: Gregory Benford
+alias: Gregory-Benford
+---

@@ -1,1 +1,5 @@
-{'Autor': 'Paul W Fairman', 'alias': 'Paul-W-Fairman'}
+---
+layout: autores2
+title: Paul W Fairman
+alias: Paul-W-Fairman
+---

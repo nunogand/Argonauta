@@ -1,1 +1,5 @@
-{'Autor': 'Márcia Guimarães', 'alias': 'Marcia-Guimaraes'}
+---
+layout: autores2
+title: Márcia Guimarães
+alias: Marcia-Guimaraes
+---

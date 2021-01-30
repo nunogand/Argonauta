@@ -3,45 +3,45 @@ layout: default
 ---
 
 {% assign a = page.url | remove: "/livros/" %}
-{% assign livros = site.data.argonauta-alias | where: "Titulo-link", a %}
-{%for g in livros%}
+{% assign livros = site.data.argonauta-alias | find: "Titulo-link", a %}
+
 
 <section class="section ">
   <div class="container ">
     <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
-       <div class="column is-5-desktop is-align-self-flex-start ml-4 livros" style="z-index:1; background-image: url('/assets/front/{{g.Titulo-link | append: ".jpg" }}')">
+       <div class="column is-5-desktop is-align-self-flex-start ml-4 mb-3 livros" style="z-index:1; background-image: url('/assets/front/{{livros.Titulo-link | append: ".jpg" }}')">
         
       </div>
 
       <div class="column is-7-desktop box" style="position: relative; z-index:2">
          
           
-        <p class="subtitle has-text-left">Número: {{ g.Numero }} </p>
+        <p class="subtitle has-text-left">Número: {{ livros.Numero }} </p>
 
-        <h2 class="title is-spaced has-text-left">{{ g.Titulo }}</h2>
+        <h2 class="title is-spaced has-text-left">{{ livros.Titulo }}</h2>
         <hr>
                
 
-        <div class="tile is-ancestor has-background-dark">
+        <div class="tile is-ancestor has-background-dark fita">
           <div class="tile is-6 is-parent ">
             <div class="tile is-child has-background-dark">
               
               <span class="has-text-danger">Autor: </span>
-              <span class="has-text-white-ter ">{{ g.Autor }}</span> 
+              <span class="has-text-white-ter "><a href="/autores/{{ livros.alias |append: ".html" }}">{{ livros.Autor }}</a></span> 
               <br>
               
               
               <span class="has-text-danger">Co-Autor: </span>
-              <span class="has-text-white-ter ">{{ g.Co-autor }}</span> 
+              <span class="has-text-white-ter ">{{ livros.Co-autor }}</span> 
               <br>
               
               
               <span class="has-text-danger">Título original: </span>
-              <span class="has-text-white-ter ">{{ g.Titulo-original }}</span>
+              <span class="has-text-white-ter ">{{ livros.Titulo-original }}</span>
               <br>
               
               <span class="has-text-danger">Edição original: </span>
-              <span class="has-text-white-ter ">{{ g.Ano-de-edicao }}</span>
+              <span class="has-text-white-ter ">{{ livros.Ano-de-edicao }}</span>
               <br>
               
             </div>
@@ -51,26 +51,26 @@ layout: default
               
               
               <span class="has-text-danger">Tradutor: </span>
-              <span class="has-text-white-ter ">{{ g.Tradutor }}</span> 
+              <span class="has-text-white-ter ">{{ livros.Tradutor }}</span> 
               <br>
               
               <span class="has-text-danger">Ano de publicação: </span>
-              <span class="has-text-white-ter ">{{ g.Ano-de-Publicacao }}</span>
+              <span class="has-text-white-ter ">{{ livros.Ano-de-Publicacao }}</span>
               <br>
               
               <span class="has-text-danger">Páginas: </span>
-              <span class="has-text-white-ter ">{{ g.pags }}</span> 
+              <span class="has-text-white-ter ">{{ livros.pags }}</span> 
               <br>
                             
               <span class="has-text-danger">Capa: </span>
-              <span class="has-text-white-ter ">{{ g.Capa }}</span> 
+              <span class="has-text-white-ter ">{{ livros.Capa }}</span> 
               <br>
               
               
             </div>
           </div>
         </div>
-        {%endfor%}
+        
 
 
 

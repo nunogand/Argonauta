@@ -1,1 +1,3 @@
-{'Autor': 'Francis Carsac', 'alias': 'Francis-Carsac'}
+---Autor: Francis Carsac
+alias: Francis-Carsac
+---

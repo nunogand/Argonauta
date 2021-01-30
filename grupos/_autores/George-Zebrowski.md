@@ -1,1 +1,5 @@
-{'Autor': 'George Zebrowski', 'alias': 'George-Zebrowski'}
+---
+layout: autores2
+title: George Zebrowski
+alias: George-Zebrowski
+---

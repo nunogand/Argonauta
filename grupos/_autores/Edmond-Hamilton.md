@@ -1,1 +1,3 @@
-{'Autor': 'Edmond Hamilton', 'alias': 'Edmond-Hamilton'}
+---Autor: Edmond Hamilton
+alias: Edmond-Hamilton
+---

@@ -1,1 +1,5 @@
-{'Autor': 'Jérome Sériel', 'alias': 'Jerome-Seriel'}
+---
+layout: autores2
+title: Jérome Sériel
+alias: Jerome-Seriel
+---

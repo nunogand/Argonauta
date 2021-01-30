@@ -1,1 +1,5 @@
-{'Autor': 'P A Hourey', 'alias': 'P-A-Hourey'}
+---
+layout: autores2
+title: P A Hourey
+alias: P-A-Hourey
+---

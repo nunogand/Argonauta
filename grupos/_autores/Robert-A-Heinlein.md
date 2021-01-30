@@ -1,1 +1,5 @@
-{'Autor': 'Robert A Heinlein', 'alias': 'Robert-A-Heinlein'}
+---
+layout: autores2
+title: Robert A Heinlein
+alias: Robert-A-Heinlein
+---

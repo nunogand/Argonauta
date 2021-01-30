@@ -1,1 +1,5 @@
-{'Autor': 'Stanislaw Lem', 'alias': 'Stanislaw-Lem'}
+---
+layout: autores2
+title: Stanislaw Lem
+alias: Stanislaw-Lem
+---

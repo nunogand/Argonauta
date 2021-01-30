@@ -1,1 +1,5 @@
-{'Autor': 'Jean-Gaston Vandel', 'alias': 'Jean-Gaston-Vandel'}
+---
+layout: autores2
+title: Jean-Gaston Vandel
+alias: Jean-Gaston-Vandel
+---

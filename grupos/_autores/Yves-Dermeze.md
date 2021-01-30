@@ -1,1 +1,5 @@
-{'Autor': 'Yves Dermèze', 'alias': 'Yves-Dermeze'}
+---
+layout: autores2
+title: Yves Dermèze
+alias: Yves-Dermeze
+---

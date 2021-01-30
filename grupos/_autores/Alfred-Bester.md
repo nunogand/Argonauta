@@ -1,1 +1,5 @@
-{'Autor': 'Alfred Bester', 'alias': 'Alfred-Bester'}
+---
+layout: autores2
+title: Alfred Bester
+alias: Alfred-Bester
+---

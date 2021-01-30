@@ -1,1 +1,3 @@
-{'Autor': 'Bryan Bery', 'alias': 'Bryan-Bery'}
+---Autor: Bryan Bery
+alias: Bryan-Bery
+---

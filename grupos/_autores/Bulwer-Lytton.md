@@ -1,1 +1,5 @@
-{'Autor': 'Bulwer Lytton', 'alias': 'Bulwer-Lytton'}
+---
+layout: autores2
+title: Bulwer Lytton
+alias: Bulwer-Lytton
+---

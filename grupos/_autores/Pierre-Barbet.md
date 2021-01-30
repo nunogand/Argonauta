@@ -1,1 +1,5 @@
-{'Autor': 'Pierre Barbet', 'alias': 'Pierre-Barbet'}
+---
+layout: autores2
+title: Pierre Barbet
+alias: Pierre-Barbet
+---

@@ -1,1 +1,3 @@
-{'Autor': 'Isidore Haiblum', 'alias': 'Isidore-Haiblum'}
+---Autor: Isidore Haiblum
+alias: Isidore-Haiblum
+---

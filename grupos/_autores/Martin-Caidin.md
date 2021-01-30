@@ -1,1 +1,5 @@
-{'Autor': 'Martin Caidin', 'alias': 'Martin-Caidin'}
+---
+layout: autores2
+title: Martin Caidin
+alias: Martin-Caidin
+---

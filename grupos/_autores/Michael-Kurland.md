@@ -1,1 +1,5 @@
-{'Autor': 'Michael Kurland', 'alias': 'Michael-Kurland'}
+---
+layout: autores2
+title: Michael Kurland
+alias: Michael-Kurland
+---

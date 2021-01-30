@@ -1,1 +1,5 @@
-{'Autor': 'Mordecai Roshwald', 'alias': 'Mordecai-Roshwald'}
+---
+layout: autores2
+title: Mordecai Roshwald
+alias: Mordecai-Roshwald
+---

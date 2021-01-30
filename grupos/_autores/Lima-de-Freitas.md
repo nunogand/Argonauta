@@ -1,1 +1,5 @@
-{'Autor': 'Lima de Freitas', 'alias': 'Lima-de-Freitas'}
+---
+layout: autores2
+title: Lima de Freitas
+alias: Lima-de-Freitas
+---
