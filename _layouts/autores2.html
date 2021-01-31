@@ -7,9 +7,9 @@ layout: default
 
 
 <section class="container">
-    <div class="columns cover">
+    <div class="columns autores-hero">
       <div class="column is-5 is-offset-1 is-align-self-flex-end has-text-centered">
-        <h1 class="is-size-1 is-inline-mobile">{{autor.Autor}}</h1>
+        <h1 class="is-size-1 is-inline-mobile has-text-weight-bold">{{autor.Autor}}</h1>
       </div>
       <div class="column pb-6">
         <blockquote class="bloco"><p>
@@ -44,13 +44,15 @@ layout: default
             <article class="media box">
       <figure class="media-left is-2by1">
         <p class="image">
-          <img src="https://picsum.photos/100/150">
+          <a href="{{baseurl}}/livros/{{g.Titulo-link | append:".html"}}">
+          <img src="/assets/front/thumb100/{{ g.Titulo-link | append:".jpg"}}">
+        </a>
         </p>
       </figure>
       <div class="media-content">
         <div class="content">
           <p>
-            <strong>{{ g.Titulo }}</strong> <small>@johnsmith</small> <small>31m</small>
+            <strong>{{ g.Titulo }}</strong> <small>Publicado em</small> <small>{{g.Ano-de-Publicacao}}</small>
             <br>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
           </p>
