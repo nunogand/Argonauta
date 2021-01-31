@@ -1,4 +1,4 @@
-Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradutor,Ano-de-edicao,alias,Autor2-alias,Tradutor1-alias,Tradutor2-alias,Titulo-link,Capa,pags,Capa-link
+	Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradutor,Ano-de-edicao,alias,Autor2-alias,Tradutor1-alias,Tradutor2-alias,Titulo-link,Capa,pags,Capa-link
 1,Perdidos na Estratosfera,A M Low,,1953,Adrift in the Stratosphere,Correia Ribeiro,,1937,A-M-Low,,Correia-Ribeiro,,1-Perdidos-na-Estratosfera,Cândido Costa Pinto,163,Candido-Costa-Pinto
 2,O Estranho Mundo de Kilsona,Festus Pragnell,,1954,The Green Man of Graypec,José da Natividade Gaspar,,1935,Festus-Pragnell,,Jose-da-Natividade-Gaspar,,2-O-Estranho-Mundo-de-Kilsona,Cândido Costa Pinto,212,Candido-Costa-Pinto
 3,A Última Cidade da Terra,Edmond Hamilton,,1954,The City at World's End,José da Natividade Gaspar,,1951,Edmond-Hamilton,,Jose-da-Natividade-Gaspar,,3-A-ultima-Cidade-da-Terra,Cândido Costa Pinto,234,Candido-Costa-Pinto
@@ -67,26 +67,26 @@ Numero,Titulo,Autor,Co-autor,Ano-de-Publicacao,Titulo-original,Tradutor,Co-tradu
 66,Ortog,Kurt Steiner,,1961,Aux Armes d'Ortog,Mário-Henrique Leiria,,1960,Kurt-Steiner,,Mario-Henrique-Leiria,,66-Ortog,Lima de Freitas,148,Lima-de-Freitas
 67,O Homem que Vinha do Passado,Theodore Sturgeon,,1962,Venus Plus X,Mário-Henrique Leiria,,1960,Theodore-Sturgeon,,Mario-Henrique-Leiria,,67-O-Homem-que-Vinha-do-Passado,Lima de Freitas,152,Lima-de-Freitas
 68,O Espaço Será Pequeno,Fredric Brown,,1962,Space on my Hands,Mário-Henrique Leiria,,1951,Fredric-Brown,,Mario-Henrique-Leiria,,68-O-Espaco-Sera-Pequeno,Lima de Freitas,178,Lima-de-Freitas
-69,Geração Galáctica,E C Tubb,,1962,The Space-Born,Fernando de Castro Ferro,,1956,E-C-Tubb,,Fernando-de-Castro-Ferro,,69-Geracao-Galactica,Lima de Freitas,202,Lima-de-Freitas
-70,Ameaça dos Robots,Isaac Asimov,,1962,The Naked Sun,Fernando de Castro Ferro,,1956,Isaac-Asimov,,Fernando-de-Castro-Ferro,,70-Ameaca-dos-Robots,Lima de Freitas,211,Lima-de-Freitas
+69,Geração Galáctica,E C Tubb,,1962,The Space-Born,Fernando de Castro Ferro,,1956,E-C-Tubb,,Fernando-de-Castro-Ferro,,69-Geracao-Galactica,Lima de Freitas,203,Lima-de-Freitas
+70,Ameaça dos Robots,Isaac Asimov,,1962,The Naked Sun,Fernando de Castro Ferro,,1956,Isaac-Asimov,,Fernando-de-Castro-Ferro,,70-Ameaca-dos-Robots,Lima de Freitas,220,Lima-de-Freitas
 71,O Dia das Trífides,John Wyndham,,1962,The Day of the Triffids,José Manuel Calafate,,1951,John-Wyndham,,Jose-Manuel-Calafate,,71-O-Dia-das-Trifides,Lima de Freitas,250,Lima-de-Freitas
 72,Missão em Sidar,Stefan Wul,,1963,Rayons Pour Sidar,Gomes dos Santos,,1957,Stefan-Wul,,Gomes-dos-Santos,,72-Missao-em-Sidar,Lima de Freitas,151,Lima-de-Freitas
-73,Operação Vénus,Leonid Onochko,,1963,?? ????????? ???????,Rogério Fernandes,,1959,Leonid-Onochko,,Rogerio-Fernandes,,73-Operacao-Venus,Lima de Freitas,183,Lima-de-Freitas
-74,Colónias no Espaço,E C Tubb,,1963,Alien Dust,Elisa Lopes Ribeiro,,1955,E-C-Tubb,,Elisa-Lopes-Ribeiro,,74-Colonias-no-Espaco,Lima de Freitas,205,Lima-de-Freitas
-75,Plano 7,Mordecai Roshwald,,1963,Level Seven,Alfredo Augusto Margarido,,1959,Mordecai-Roshwald,,Alfredo-Augusto-Margarido,,75-Plano-7,Lima de Freitas,218,Lima-de-Freitas
-76,Degelo em 2157,Stefan Wul,,1963,La Peur Géante,André Varga,,1957,Stefan-Wul,,Andre-Varga,,76-Degelo-em-2157,Lima de Freitas,154,Lima-de-Freitas
-77,A Aldeia dos Malditos,John Wyndham,,1963,The Midwich Cuckoos,Álvaro Simões,,1957,John-Wyndham,,Alvaro-Simoes,,77-A-Aldeia-dos-Malditos,Lima de Freitas,243,Lima-de-Freitas
-78,Caminhavam Como Homens,Clifford D Simak,,1963,They Walked Like Men,Alfredo Augusto Margarido,,1962,Clifford-D-Simak,,Alfredo-Augusto-Margarido,,78-Caminhavam-Como-Homens,Lima de Freitas,202,Lima-de-Freitas
+73,Operação Vénus,Leonid Onochko,,1963,?? ????????? ???????,Rogério Fernandes,,1959,Leonid-Onochko,,Rogerio-Fernandes,,73-Operacao-Venus,Lima de Freitas,184,Lima-de-Freitas
+74,Colónias no Espaço,E C Tubb,,1963,Alien Dust,Elisa Lopes Ribeiro,,1955,E-C-Tubb,,Elisa-Lopes-Ribeiro,,74-Colonias-no-Espaco,Lima de Freitas,206,Lima-de-Freitas
+75,Plano 7,Mordecai Roshwald,,1963,Level Seven,Alfredo Augusto Margarido,,1959,Mordecai-Roshwald,,Alfredo-Augusto-Margarido,,75-Plano-7,Lima de Freitas,219,Lima-de-Freitas
+76,Degelo em 2157,Stefan Wul,,1963,La Peur Géante,André Varga,,1957,Stefan-Wul,,Andre-Varga,,76-Degelo-em-2157,Lima de Freitas,155,Lima-de-Freitas
+77,A Aldeia dos Malditos,John Wyndham,,1963,The Midwich Cuckoos,Álvaro Simões,,1957,John-Wyndham,,Alvaro-Simoes,,77-A-Aldeia-dos-Malditos,Lima de Freitas,244,Lima-de-Freitas
+78,Caminhavam Como Homens,Clifford D Simak,,1963,They Walked Like Men,Alfredo Augusto Margarido,,1962,Clifford-D-Simak,,Alfredo-Augusto-Margarido,,78-Caminhavam-Como-Homens,Lima de Freitas,203,Lima-de-Freitas
 79,A Máquina do Poder,A Higon,,1964,La Machine du Pouvoir,André Varga,,1960,A-Higon,,Andre-Varga,,79-A-Maquina-do-Poder,Lima de Freitas,182,Lima-de-Freitas
-80,Cidadão do Universo,Francis Carsac,,1964,Pour Patrie l'Espace,Alfredo Augusto Margarido,,1962,Francis-Carsac,,Alfredo-Augusto-Margarido,,80-Cidadao-do-Universo,Lima de Freitas,205,Lima-de-Freitas
-81,O Signo do Cão,Jean Hougron,,1964,Le Signe du Chien,André Varga,,1961,Jean-Hougron,,Andre-Varga,,81-O-Signo-do-Cao,Lima de Freitas,177,Lima-de-Freitas
-82,Emissários do Futuro,Gérard Klein,,1964,Le Temps n'a pas d'Odeur,Rogério Fernandes,,1963,Gerard-Klein,,Rogerio-Fernandes,,82-Emissarios-do-Futuro,Lima de Freitas,154,Lima-de-Freitas
-83,O Satélite Sombrio,Jérome Sériel,,1964,Le Satellite Sombre,Gomes dos Santos,,1962,Jerome-Seriel,,Gomes-dos-Santos,,83-O-Satelite-Sombrio,Lima de Freitas,180,Lima-de-Freitas
+80,Cidadão do Universo,Francis Carsac,,1964,Pour Patrie l'Espace,Alfredo Augusto Margarido,,1962,Francis-Carsac,,Alfredo-Augusto-Margarido,,80-Cidadao-do-Universo,Lima de Freitas,206,Lima-de-Freitas
+81,O Signo do Cão,Jean Hougron,,1964,Le Signe du Chien,André Varga,,1961,Jean-Hougron,,Andre-Varga,,81-O-Signo-do-Cao,Lima de Freitas,178,Lima-de-Freitas
+82,Emissários do Futuro,Gérard Klein,,1964,Le Temps n'a pas d'Odeur,Rogério Fernandes,,1963,Gerard-Klein,,Rogerio-Fernandes,,82-Emissarios-do-Futuro,Lima de Freitas,155,Lima-de-Freitas
+83,O Satélite Sombrio,Jérome Sériel,,1964,Le Satellite Sombre,Gomes dos Santos,,1962,Jerome-Seriel,,Gomes-dos-Santos,,83-O-Satelite-Sombrio,Lima de Freitas,181,Lima-de-Freitas
 84,A Nuvem Negra,Fred Hoyle,,1964,The Black Cloud,Artur Portela Filho,,1959,Fred-Hoyle,,Artur-Portela-Filho,,84-A-Nuvem-Negra,Lima de Freitas,242,Lima-de-Freitas
 85,O Templo do Passado,Stefan Wul,,1964,Le Temple du Passé,André Varga,,1957,Stefan-Wul,,Andre-Varga,,85-O-Templo-do-Passado,Lima de Freitas,149,Lima-de-Freitas
-86,Fundação e Império,Isaac Asimov,,1964,Foundation and Empire,Alfredo Margarido,,1952,Isaac-Asimov,,Alfredo-Margarido,,86-Fundacao-e-Imperio,Lima de Freitas,237,Lima-de-Freitas
+86,Fundação e Império,Isaac Asimov,,1964,Foundation and Empire,Alfredo Margarido,,1952,Isaac-Asimov,,Alfredo-Margarido,,86-Fundacao-e-Imperio,Lima de Freitas,238,Lima-de-Freitas
 87,A Astronave da Esperança,Edmund Cooper,,1964,Seed of Light,Fernanda Pinto Rodrigues,,1959,Edmund-Cooper,,Fernanda-Pinto-Rodrigues,,87-A-Astronave-da-Esperanca,Lima de Freitas,205,Lima-de-Freitas
-88,A Era dos Biocibs,Jimmy Guieu,,1964,L'Ére des Byocibs,Gomes dos Santos,,1960,Jimmy-Guieu,,Gomes-dos-Santos,,88-A-Era-dos-Biocibs,Lima de Freitas,178,Lima-de-Freitas
+88,A Era dos Biocibs,Jimmy Guieu,,1964,L'Ére des Byocibs,Gomes dos Santos,,1960,Jimmy-Guieu,,Gomes-dos-Santos,,88-A-Era-dos-Biocibs,Lima de Freitas,179,Lima-de-Freitas
 89,Segunda Fundação,Isaac Asimov,,1964,Second Foundation,Sousa Victorino,,1953,Isaac-Asimov,,Sousa-Victorino,,89-Segunda-Fundacao,Lima de Freitas,220,Lima-de-Freitas
 90,Armadilha em Zarkass,Stefan Wul,,1964,Piège sur Zarkass,Álvaro Simões,,1958,Stefan-Wul,,Alvaro-Simoes,,90-Armadilha-em-Zarkass,Lima de Freitas,181,Lima-de-Freitas
 91,A Guerra Contra o Rull,A E Van Vogt,,1965,The War Against the Rull,Fernanda Pinto Rodrigues,,1959,A-E-Van-Vogt,,Fernanda-Pinto-Rodrigues,,91-A-Guerra-Contra-o-Rull,Lima de Freitas,216,Lima-de-Freitas
