@@ -28,6 +28,10 @@ twitter_username: nunogand
 github_username: nunogand
 author: 
 
+# Performace according to https://forestry.io/blog/how-i-reduced-my-jekyll-build-time-by-61/
+exclude:
+  - .jekyll-cache
+
 # Build settings
 #plugins:
   #- jekyll-feed
