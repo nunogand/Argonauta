@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 gemspec
++ gem "liquid-c"
 
 group :jekyll_plugins do
     gem 'jekyll-categorize-pages'
