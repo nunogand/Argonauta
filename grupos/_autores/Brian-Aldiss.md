@@ -1,9 +1,9 @@
 ---
-layout: autores2
+layout: autores3
 Autor: Brian Aldiss
 alias: Brian-Aldiss
 ---
-layout: autores2
+layout: autores3
 When childhood dies
  its corpses are called adults and they enter society
  one of the politer names of hell. That is why we dread children

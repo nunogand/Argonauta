@@ -4,6 +4,7 @@ layout: default
 {% assign b = page.url | remove: "/autores/" %}
 {% assign autor = site.data.autores | find: "alias", b %}
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
+{% assign livros-autor = site.data.argonauta-alias | find: "alias", b %}
 
 
 <section class="container">
@@ -13,6 +14,7 @@ layout: default
       </div>
       <div class="column pb-6">
         <blockquote class="bloco"><p>
+            
           {{ site.data.autores.[b].quote }}
           </p>
       </blockquote>
@@ -52,28 +54,52 @@ layout: default
 
       {% for g in livros %}
       {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}      
-      
-      <div class="column is-full">
-            <article class="media box">
-      <figure class="media-left is-2by1">
-        <p class="image">
-          <a href="{{baseurl}}/livros/{{g.Titulo-link | append:".html"}}">
-          <img src="/assets/front/thumb100/{{ g.Titulo-link | append:".jpg"}}">
-        </a>
-        </p>
-      </figure>
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <strong>{{ g.Titulo }}</strong> <small>Publicado em</small> <small>{{g.Ano-de-Publicacao}}</small>
-            <br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-          </p>
+     
+      <div class="container is-fluid">
+        <div class="columns is-multiline centrado">
+
+      <!--início do cartão-->
+    <div class="capa">
+
+        <div class="book">
+          <div class="book__page book__page--1">
+            <img src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}">
+          </div>
+  
+          <div class="book__page book__page--2">
+            <div class="book__page-front">
+              <div class="page__content">
+                <hr class="borda_livro">
+                <h2 class="page__content-author">{{g.Autor}}</h2>
+                <h1 class="page__content-book-title">{{g.Titulo}}</h1>
+                
+  
+                <p class="page__content-credits">
+                  Tradução
+                  <span>{{g.Tradutor}}</span>
+                </p>
+  
+                <p class="page__content-credits">
+                  Capa
+                  <span>{{g.capa}}</span>
+                </p>
+   <hr class="borda_livro fundo">
+                <div class="page__content-copyright">
+                  <div class="logo-argonauta"></div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+  
         </div>
-        </div>
-      </article>
-      
+  
+    </div></div>
+  
       </div>
+
+
+
       {% endfor %}
         
       

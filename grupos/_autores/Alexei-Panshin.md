@@ -1,5 +1,5 @@
 ---
-layout: autores2
+layout: autores3
 title: Alexei Panshin
 alias: Alexei-Panshin
 ---

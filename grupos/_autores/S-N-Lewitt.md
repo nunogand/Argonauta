@@ -1,5 +1,5 @@
 ---
-layout: autores2
+layout: autores3
 title: S N Lewitt
 alias: S-N-Lewitt
 ---
