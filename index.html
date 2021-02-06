@@ -19,13 +19,17 @@ layout: default
 
             <div class="column is-one-quarter-desktop is-half-tablet">
                 <div class="card">
-                    <div class="card-header">{{dados.Numero}} - {{dados.Titulo}}</div>
+                    <div class="card-header has-text-weight-bold is-family-monospace">{{dados.Numero}}</div>
                     <div class="card-image">
                         <figure class="image is-3by4">
                             <a href="/livros/{{dados.Titulo-link | append: ".html" }}">
                                 <img src="/assets/front/{{dados.Titulo-link | append: ".jpg"}}"  alt="{{dados.Titulo}}">
                             </a>
                         </figure>
+                    </div>
+                    <div class="card-content">
+                        
+                        <p class="subtitle is-size-6 is-italic">{{dados.Autor}}</p>
                     </div>
                 </div>
             </div>
