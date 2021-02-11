@@ -20,12 +20,14 @@ title: Lista de Autores
                 <div class="card card1 card-equal-height">
                     <div class="card-image cardimg1">
                         <figure class="image is-1by1">
-                            <img src="https://picsum.photos/200" alt="a random image" class="is-rounded">
+                        <a href="/autores/{{ link.alias | append: ".html" }}">
+                            <img src="/assets/autores/{{ link.alias | append: ".jpg" }}" alt="{{ g.name }}" class="is-rounded">
+                            </a>
                         </figure>
                     </div>
                     <div class="card-content has-text-centered">
                         <a href="/autores/{{ link.alias | append: ".html" }}">
-                            <p class="title">{{ g.name }}</p>
+                            <p class="title is-size-4">{{ g.name }}</p>
                         </a>
 
                         <div class="content">
