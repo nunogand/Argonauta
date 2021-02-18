@@ -40,20 +40,20 @@ title: Lista de Autores
                     <div class="card-footer">
                         <p class="card-footer-item">
                             <span class="icon">
-                                <a href="{{site.data.autores.[link.alias].enciclopedia}}">
+                                <a href="{{site.data.autores[link.alias].enciclopedia}}">
                                     <img src="/assets/sfe.png"></a>
                             </span>
                         </p>
                         <p class="card-footer-item">
                             <span class="icon">
-                                <a href="{{site.data.autores.[link.alias].isfd}}">
+                                <a href="{{site.data.autores[link.alias].isfd}}">
                                     <img src="/assets/isfdb.png">
                                 </a>
                             </span>
                         </p>
                         <p class="card-footer-item">
                             <span class="icon">
-                                <a href="{{site.data.autores.[link.alias].wikipedia}}">
+                                <a href="{{site.data.autores[link.alias].wikipedia}}">
                                     <img src="/assets/w.png"></a>
                             </span>
                         </p>
