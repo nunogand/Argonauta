@@ -1,3 +1,4 @@
+---
 Numero: 79
 title: A Máquina do Poder
 Autor: A Higon
@@ -15,3 +16,4 @@ Titulo-link: 79-A-Maquina-do-Poder
 Capa: Lima de Freitas
 pags: 182
 Capa-link: Lima-de-Freitas
+---

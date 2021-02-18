@@ -1,3 +1,4 @@
+---
 Numero: 377
 title: Mensagem do Futuro
 Autor: James P Hogan
@@ -15,3 +16,4 @@ Titulo-link: 377-Mensagem-do-Futuro
 Capa: 
 pags: 
 Capa-link: 
+---

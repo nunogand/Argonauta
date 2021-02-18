@@ -1,3 +1,4 @@
+---
 Numero: 292
 title: Os Jogos do Capricórnio
 Autor: Robert Silverberg
@@ -15,3 +16,4 @@ Titulo-link: 292-Os-Jogos-do-Capricornio
 Capa: António Pedro
 pags: 178
 Capa-link: Antonio-Pedro
+---

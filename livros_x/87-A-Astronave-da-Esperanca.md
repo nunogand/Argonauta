@@ -1,3 +1,4 @@
+---
 Numero: 87
 title: A Astronave da Esperança
 Autor: Edmund Cooper
@@ -15,3 +16,4 @@ Titulo-link: 87-A-Astronave-da-Esperanca
 Capa: Lima de Freitas
 pags: 205
 Capa-link: Lima-de-Freitas
+---

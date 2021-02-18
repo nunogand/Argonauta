@@ -1,3 +1,4 @@
+---
 Numero: 282
 title: Terra Imperial 2º volume
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 282-Terra-Imperial-2-volume
 Capa: António Pedro
 pags: 174
 Capa-link: Antonio-Pedro
+---

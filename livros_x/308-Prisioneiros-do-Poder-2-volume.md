@@ -1,3 +1,4 @@
+---
 Numero: 308
 title: Prisioneiros do Poder 2º volume
 Autor: Arkadi Strugatski
@@ -15,3 +16,4 @@ Titulo-link: 308-Prisioneiros-do-Poder-2-volume
 Capa: António Pedro
 pags: 177
 Capa-link: Antonio-Pedro
+---

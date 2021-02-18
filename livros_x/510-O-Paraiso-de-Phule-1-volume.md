@@ -1,3 +1,4 @@
+---
 Numero: 510
 title: O Paraíso de Phule 1º volume
 Autor: Robert Asprin
@@ -15,3 +16,4 @@ Titulo-link: 510-O-Paraiso-de-Phule-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

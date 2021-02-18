@@ -1,3 +1,4 @@
+---
 Numero: 530
 title: A Reinvenção dos Dragões 1º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 530-A-Reinvencao-dos-Dragoes-1-volume
 Capa: Michael Whelan
 pags: 
 Capa-link: Michael-Whelan
+---

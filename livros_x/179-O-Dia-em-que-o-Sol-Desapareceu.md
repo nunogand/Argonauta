@@ -1,3 +1,4 @@
+---
 Numero: 179
 title: O Dia em que o Sol Desapareceu
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 179-O-Dia-em-que-o-Sol-Desapareceu
 Capa: Lima de Freitas
 pags: 189
 Capa-link: Lima-de-Freitas
+---

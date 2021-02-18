@@ -1,3 +1,4 @@
+---
 Numero: 170
 title: Um Cântico para Leibowitz 2º volume
 Autor: Walter M Miller Jr
@@ -15,3 +16,4 @@ Titulo-link: 170-Um-Cantico-para-Leibowitz-2-volume
 Capa: Lima de Freitas
 pags: 169
 Capa-link: Lima-de-Freitas
+---

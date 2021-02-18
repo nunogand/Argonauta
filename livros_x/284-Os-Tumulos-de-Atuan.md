@@ -1,3 +1,4 @@
+---
 Numero: 284
 title: Os Túmulos de Atuan
 Autor: Ursula K LeGuin
@@ -15,3 +16,4 @@ Titulo-link: 284-Os-Tumulos-de-Atuan
 Capa: António Pedro
 pags: 167
 Capa-link: Antonio-Pedro
+---

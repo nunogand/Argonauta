@@ -1,3 +1,4 @@
+---
 Numero: 95
 title: Náufragos da Lua
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 95-Naufragos-da-Lua
 Capa: Lima de Freitas
 pags: 171
 Capa-link: Lima-de-Freitas
+---

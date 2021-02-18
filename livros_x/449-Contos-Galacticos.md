@@ -1,3 +1,4 @@
+---
 Numero: 449
 title: Contos Galácticos
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 449-Contos-Galacticos
 Capa: António Pedro
 pags: 187
 Capa-link: Antonio-Pedro
+---

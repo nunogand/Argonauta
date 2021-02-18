@@ -1,3 +1,4 @@
+---
 Numero: 10
 title: Exploradores do Universo
 Autor: Jon J Deegan
@@ -15,3 +16,4 @@ Titulo-link: 10-Exploradores-do-Universo
 Capa: Cândido Costa Pinto
 pags: 173
 Capa-link: Candido-Costa-Pinto
+---

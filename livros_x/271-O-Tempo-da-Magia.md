@@ -1,3 +1,4 @@
+---
 Numero: 271
 title: O Tempo da Magia
 Autor: Randall Garrett
@@ -15,3 +16,4 @@ Titulo-link: 271-O-Tempo-da-Magia
 Capa: António Pedro
 pags: 240
 Capa-link: Antonio-Pedro
+---

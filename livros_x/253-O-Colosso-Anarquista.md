@@ -1,3 +1,4 @@
+---
 Numero: 253
 title: O Colosso Anarquista
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 253-O-Colosso-Anarquista
 Capa: Manuel Dias
 pags: 199
 Capa-link: Manuel-Dias
+---

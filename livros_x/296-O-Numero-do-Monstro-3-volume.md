@@ -1,3 +1,4 @@
+---
 Numero: 296
 title: O Número do Monstro 3º volume
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 296-O-Numero-do-Monstro-3-volume
 Capa: 
 pags: 190
 Capa-link: 
+---

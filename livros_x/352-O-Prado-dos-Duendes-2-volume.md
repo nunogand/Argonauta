@@ -1,3 +1,4 @@
+---
 Numero: 352
 title: O Prado dos Duendes 2º volume
 Autor: Paul Cook
@@ -15,3 +16,4 @@ Titulo-link: 352-O-Prado-dos-Duendes-2-volume
 Capa: António Pedro
 pags: 182
 Capa-link: Antonio-Pedro
+---

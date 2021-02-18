@@ -1,3 +1,4 @@
+---
 Numero: 526
 title: O Poço de Shiuan 2º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 526-O-Poco-de-Shiuan-2-volume
 Capa: António Pedro
 pags: 184
 Capa-link: Antonio-Pedro
+---

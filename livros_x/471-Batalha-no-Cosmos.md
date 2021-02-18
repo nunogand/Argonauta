@@ -1,3 +1,4 @@
+---
 Numero: 471
 title: Batalha no Cosmos
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 471-Batalha-no-Cosmos
 Capa: António Pedro
 pags: 185
 Capa-link: Antonio-Pedro
+---

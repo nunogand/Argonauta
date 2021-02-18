@@ -1,3 +1,4 @@
+---
 Numero: 539
 title: Renascer 1º volume
 Autor: Maureen F McHugh
@@ -15,3 +16,4 @@ Titulo-link: 539-Renascer-1-volume
 Capa: 
 pags: 256
 Capa-link: 
+---

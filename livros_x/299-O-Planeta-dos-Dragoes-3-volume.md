@@ -1,3 +1,4 @@
+---
 Numero: 299
 title: O Planeta dos Dragões 3º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 299-O-Planeta-dos-Dragoes-3-volume
 Capa: 
 pags: 237
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 160
 title: Sangue da Terra
 Autor: Keith Laumer
@@ -15,3 +16,4 @@ Titulo-link: 160-Sangue-da-Terra
 Capa: Lima de Freitas
 pags: 209
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 523
 title: A Porta da Montanha do Fogo
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 523-A-Porta-da-Montanha-do-Fogo
 Capa: António Pedro
 pags: 288
 Capa-link: Antonio-Pedro
+---

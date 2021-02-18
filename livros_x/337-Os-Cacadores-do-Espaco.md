@@ -1,3 +1,4 @@
+---
 Numero: 337
 title: Os Caçadores do Espaço
 Autor: E E Doc Smith
@@ -15,3 +16,4 @@ Titulo-link: 337-Os-Cacadores-do-Espaco
 Capa: António Pedro
 pags: 229
 Capa-link: Antonio-Pedro
+---

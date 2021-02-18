@@ -1,3 +1,4 @@
+---
 Numero: 419
 title: Há Mais Coisas no Céu
 Autor: John Brunner
@@ -15,3 +16,4 @@ Titulo-link: 419-Ha-Mais-Coisas-no-Ceu
 Capa: António Pedro
 pags: 211
 Capa-link: Antonio-Pedro
+---

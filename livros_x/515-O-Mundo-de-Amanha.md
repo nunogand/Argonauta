@@ -1,3 +1,4 @@
+---
 Numero: 515
 title: O Mundo de Amanhã
 Autor: Hunt Collins
@@ -15,3 +16,4 @@ Titulo-link: 515-O-Mundo-de-Amanha
 Capa: 
 pags: 
 Capa-link: 
+---

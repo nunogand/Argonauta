@@ -1,3 +1,4 @@
+---
 Numero: 370
 title: O Mundo de Rocannon
 Autor: Ursula K LeGuin
@@ -15,3 +16,4 @@ Titulo-link: 370-O-Mundo-de-Rocannon
 Capa: 
 pags: 
 Capa-link: 
+---

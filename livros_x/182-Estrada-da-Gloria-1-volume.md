@@ -1,3 +1,4 @@
+---
 Numero: 182
 title: Estrada da Glória 1º volume
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 182-Estrada-da-Gloria-1-volume
 Capa: Lima de Freitas
 pags: 212
 Capa-link: Lima-de-Freitas
+---

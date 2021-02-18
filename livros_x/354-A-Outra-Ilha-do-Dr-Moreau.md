@@ -1,3 +1,4 @@
+---
 Numero: 354
 title: A Outra Ilha do Dr Moreau
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 354-A-Outra-Ilha-do-Dr-Moreau
 Capa: António Pedro
 pags: 
 Capa-link: Antonio-Pedro
+---

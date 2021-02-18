@@ -1,3 +1,4 @@
+---
 Numero: 163
 title: Mundos Paralelos
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 163-Mundos-Paralelos
 Capa: Lima de Freitas
 pags: 171
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 269
 title: Cidadão da Galáxia
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 269-Cidadao-da-Galaxia
 Capa: António Pedro
 pags: 245
 Capa-link: Antonio-Pedro
+---

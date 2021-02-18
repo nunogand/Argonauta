@@ -1,3 +1,4 @@
+---
 Numero: 532
 title: Estrelas Semeadas
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 532-Estrelas-Semeadas
 Capa: 
 pags: 
 Capa-link: 
+---

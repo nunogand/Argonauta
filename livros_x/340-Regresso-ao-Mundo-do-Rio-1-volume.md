@@ -1,3 +1,4 @@
+---
 Numero: 340
 title: Regresso ao Mundo do Rio 1º volume
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 340-Regresso-ao-Mundo-do-Rio-1-volume
 Capa: António Pedro
 pags: 199
 Capa-link: Antonio-Pedro
+---

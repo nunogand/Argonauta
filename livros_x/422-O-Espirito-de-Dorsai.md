@@ -1,3 +1,4 @@
+---
 Numero: 422
 title: O Espírito de Dorsai
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 422-O-Espirito-de-Dorsai
 Capa: 
 pags: 
 Capa-link: 
+---

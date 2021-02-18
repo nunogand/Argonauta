@@ -1,3 +1,4 @@
+---
 Numero: 374
 title: Agente de Bizâncio 1º volume
 Autor: Harry Turtledove
@@ -15,3 +16,4 @@ Titulo-link: 374-Agente-de-Bizancio-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

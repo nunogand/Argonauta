@@ -1,3 +1,4 @@
+---
 Numero: 115
 title: O Mundo de Cristal
 Autor: J G Ballard
@@ -15,3 +16,4 @@ Titulo-link: 115-O-Mundo-de-Cristal
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
+---

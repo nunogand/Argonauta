@@ -1,3 +1,4 @@
+---
 Numero: 135
 title: A Última Fortaleza Terrestre
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 135-A-ultima-Fortaleza-Terrestre
 Capa: Lima de Freitas
 pags: 148
 Capa-link: Lima-de-Freitas
+---

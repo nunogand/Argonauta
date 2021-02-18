@@ -1,3 +1,4 @@
+---
 Numero: 55
 title: Os Frutos Dourados do Sol
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 55-Os-Frutos-Dourados-do-Sol
 Capa: Lima de Freitas
 pags: 182
 Capa-link: Lima-de-Freitas
+---

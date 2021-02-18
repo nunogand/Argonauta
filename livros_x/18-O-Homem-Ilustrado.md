@@ -1,3 +1,4 @@
+---
 Numero: 18
 title: O Homem Ilustrado
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 18-O-Homem-Ilustrado
 Capa: Cândido Costa Pinto
 pags: 262
 Capa-link: Candido-Costa-Pinto
+---

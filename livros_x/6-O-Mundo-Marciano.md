@@ -1,3 +1,4 @@
+---
 Numero: 6
 title: O Mundo Marciano
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 6-O-Mundo-Marciano
 Capa: Cândido Costa Pinto
 pags: 243
 Capa-link: Candido-Costa-Pinto
+---

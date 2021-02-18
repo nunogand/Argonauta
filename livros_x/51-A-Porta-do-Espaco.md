@@ -1,3 +1,4 @@
+---
 Numero: 51
 title: A Porta do Espaço
 Autor: Adrien Sobra
@@ -15,3 +16,4 @@ Titulo-link: 51-A-Porta-do-Espaco
 Capa: Lima de Freitas
 pags: 155
 Capa-link: Lima-de-Freitas
+---

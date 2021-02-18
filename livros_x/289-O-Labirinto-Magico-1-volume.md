@@ -1,3 +1,4 @@
+---
 Numero: 289
 title: O Labirinto Mágico 1º volume
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 289-O-Labirinto-Magico-1-volume
 Capa: António Pedro
 pags: 170
 Capa-link: Antonio-Pedro
+---

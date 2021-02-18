@@ -1,3 +1,4 @@
+---
 Numero: 503
 title: Passagem Para o Passado 2º volume
 Autor: Isidore Haiblum
@@ -15,3 +16,4 @@ Titulo-link: 503-Passagem-Para-o-Passado-2-volume
 Capa: António Pedro
 pags: 182
 Capa-link: Antonio-Pedro
+---

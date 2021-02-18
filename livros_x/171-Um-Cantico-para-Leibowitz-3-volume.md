@@ -1,3 +1,4 @@
+---
 Numero: 171
 title: Um Cântico para Leibowitz 3º volume
 Autor: Walter M Miller Jr
@@ -15,3 +16,4 @@ Titulo-link: 171-Um-Cantico-para-Leibowitz-3-volume
 Capa: Lima de Freitas
 pags: 175
 Capa-link: Lima-de-Freitas
+---

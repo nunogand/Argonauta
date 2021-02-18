@@ -1,3 +1,4 @@
+---
 Numero: 427
 title: O Homem do Castelo Alto 1º volume
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 427-O-Homem-do-Castelo-Alto-1-volume
 Capa: António Pedro
 pags: 177
 Capa-link: Antonio-Pedro
+---

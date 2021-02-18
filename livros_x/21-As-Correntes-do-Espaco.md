@@ -1,3 +1,4 @@
+---
 Numero: 21
 title: As Correntes do Espaço
 Autor: Isaac Asimov
@@ -15,3 +16,4 @@ Titulo-link: 21-As-Correntes-do-Espaco
 Capa: Cândido Costa Pinto
 pags: 268
 Capa-link: Candido-Costa-Pinto
+---

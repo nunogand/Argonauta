@@ -1,3 +1,4 @@
+---
 Numero: 342
 title: A Arma Impossível
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 342-A-Arma-Impossivel
 Capa: 
 pags: 
 Capa-link: 
+---

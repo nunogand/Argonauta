@@ -1,3 +1,4 @@
+---
 Numero: 195
 title: O Ponto Ómega
 Autor: George Zebrowski
@@ -15,3 +16,4 @@ Titulo-link: 195-O-Ponto-omega
 Capa: Lima de Freitas
 pags: 170
 Capa-link: Lima-de-Freitas
+---

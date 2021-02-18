@@ -1,3 +1,4 @@
+---
 Numero: 465
 title: As Luzes do Espaço
 Autor: Bob Shaw
@@ -15,3 +16,4 @@ Titulo-link: 465-As-Luzes-do-Espaco
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 411
 title: Bugs
 Autor: John Sladek
@@ -15,3 +16,4 @@ Titulo-link: 411-Bugs
 Capa: 
 pags: 217
 Capa-link: 
+---

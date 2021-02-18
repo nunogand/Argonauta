@@ -1,3 +1,4 @@
+---
 Numero: 285
 title: A Última Revolta na Terra
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 285-A-ultima-Revolta-na-Terra
 Capa: 
 pags: 
 Capa-link: 
+---

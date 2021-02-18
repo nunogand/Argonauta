@@ -1,3 +1,4 @@
+---
 Numero: 519
 title: O Espaço Exterior
 Autor: A Bertram Chandler
@@ -15,3 +16,4 @@ Titulo-link: 519-O-Espaco-Exterior
 Capa: 
 pags: 
 Capa-link: 
+---

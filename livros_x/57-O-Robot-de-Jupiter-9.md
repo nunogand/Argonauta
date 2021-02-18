@@ -1,3 +1,4 @@
+---
 Numero: 57
 title: O Robot de Júpiter-9
 Autor: Paul French
@@ -15,3 +16,4 @@ Titulo-link: 57-O-Robot-de-Jupiter-9
 Capa: Lima de Freitas
 pags: 134
 Capa-link: Lima-de-Freitas
+---

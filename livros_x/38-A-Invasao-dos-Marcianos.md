@@ -1,3 +1,4 @@
+---
 Numero: 38
 title: A Invasão dos Marcianos
 Autor: Pierre Versins
@@ -15,3 +16,4 @@ Titulo-link: 38-A-Invasao-dos-Marcianos
 Capa: Lima de Freitas
 pags: 178
 Capa-link: Lima-de-Freitas
+---

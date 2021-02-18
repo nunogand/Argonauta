@@ -1,3 +1,4 @@
+---
 Numero: 423
 title: Viagem Pelos Universos
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 423-Viagem-Pelos-Universos
 Capa: 
 pags: 
 Capa-link: 
+---

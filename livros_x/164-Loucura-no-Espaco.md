@@ -1,3 +1,4 @@
+---
 Numero: 164
 title: Loucura no Espaço
 Autor: Murray Leinster
@@ -15,3 +16,4 @@ Titulo-link: 164-Loucura-no-Espaco
 Capa: Lima de Freitas
 pags: 157
 Capa-link: Lima-de-Freitas
+---

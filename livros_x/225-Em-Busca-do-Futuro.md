@@ -1,3 +1,4 @@
+---
 Numero: 225
 title: Em Busca do Futuro
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 225-Em-Busca-do-Futuro
 Capa: Manuel Dias
 pags: 227
 Capa-link: Manuel-Dias
+---

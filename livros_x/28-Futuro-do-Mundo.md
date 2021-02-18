@@ -1,3 +1,4 @@
+---
 Numero: 28
 title: Futuro do Mundo
 Autor: Isaac Asimov
@@ -15,3 +16,4 @@ Titulo-link: 28-Futuro-do-Mundo
 Capa: Cândido Costa Pinto
 pags: 265
 Capa-link: Candido-Costa-Pinto
+---

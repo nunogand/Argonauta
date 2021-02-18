@@ -1,3 +1,4 @@
+---
 Numero: 344
 title: A Máquina da Paz
 Autor: Bob Shaw
@@ -15,3 +16,4 @@ Titulo-link: 344-A-Maquina-da-Paz
 Capa: António Pedro
 pags: 190
 Capa-link: Antonio-Pedro
+---

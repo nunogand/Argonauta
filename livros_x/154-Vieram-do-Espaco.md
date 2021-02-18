@@ -1,3 +1,4 @@
+---
 Numero: 154
 title: Vieram do Espaço
 Autor: Keith Roberts
@@ -15,3 +16,4 @@ Titulo-link: 154-Vieram-do-Espaco
 Capa: Lima de Freitas
 pags: 211
 Capa-link: Lima-de-Freitas
+---

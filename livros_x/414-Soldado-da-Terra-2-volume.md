@@ -1,3 +1,4 @@
+---
 Numero: 414
 title: Soldado da Terra 2º volume
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 414-Soldado-da-Terra-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

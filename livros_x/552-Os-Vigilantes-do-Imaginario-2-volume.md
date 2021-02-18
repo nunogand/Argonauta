@@ -1,3 +1,4 @@
+---
 Numero: 552
 title: Os Vigilantes do Imaginário 2º volume
 Autor: Pat Cadigan
@@ -15,3 +16,4 @@ Titulo-link: 552-Os-Vigilantes-do-Imaginario-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

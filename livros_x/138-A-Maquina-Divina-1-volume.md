@@ -1,3 +1,4 @@
+---
 Numero: 138
 title: A Máquina Divina 1º volume
 Autor: Martin Caidin
@@ -15,3 +16,4 @@ Titulo-link: 138-A-Maquina-Divina-1-volume
 Capa: Lima de Freitas
 pags: 205
 Capa-link: Lima-de-Freitas
+---

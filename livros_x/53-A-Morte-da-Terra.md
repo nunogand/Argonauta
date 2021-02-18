@@ -1,3 +1,4 @@
+---
 Numero: 53
 title: A Morte da Terra
 Autor: J H Rosny Aîné
@@ -15,3 +16,4 @@ Titulo-link: 53-A-Morte-da-Terra
 Capa: Lima de Freitas
 pags: 128
 Capa-link: Lima-de-Freitas
+---

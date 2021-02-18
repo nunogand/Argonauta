@@ -1,3 +1,4 @@
+---
 Numero: 405
 title: O Mundo de Midas 2º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 405-O-Mundo-de-Midas-2-volume
 Capa: António Pedro
 pags: 186
 Capa-link: Antonio-Pedro
+---

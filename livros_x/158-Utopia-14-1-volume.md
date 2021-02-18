@@ -1,3 +1,4 @@
+---
 Numero: 158
 title: Utopia 14 1º volume
 Autor: Kurt Vonnegut
@@ -15,3 +16,4 @@ Titulo-link: 158-Utopia-14-1-volume
 Capa: Lima de Freitas
 pags: 182
 Capa-link: Lima-de-Freitas
+---

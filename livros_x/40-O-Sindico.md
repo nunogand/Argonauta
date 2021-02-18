@@ -1,3 +1,4 @@
+---
 Numero: 40
 title: O Síndico
 Autor: C M Kornbluth
@@ -15,3 +16,4 @@ Titulo-link: 40-O-Sindico
 Capa: Lima de Freitas
 pags: 239
 Capa-link: Lima-de-Freitas
+---

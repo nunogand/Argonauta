@@ -1,3 +1,4 @@
+---
 Numero: 276
 title: O Feiticeiro de Terramar
 Autor: Ursula K LeGuin
@@ -15,3 +16,4 @@ Titulo-link: 276-O-Feiticeiro-de-Terramar
 Capa: António Pedro
 pags: 
 Capa-link: Antonio-Pedro
+---

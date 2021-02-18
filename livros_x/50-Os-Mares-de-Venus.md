@@ -1,3 +1,4 @@
+---
 Numero: 50
 title: Os Mares de Vénus
 Autor: Paul French
@@ -15,3 +16,4 @@ Titulo-link: 50-Os-Mares-de-Venus
 Capa: Lima de Freitas
 pags: 145
 Capa-link: Lima-de-Freitas
+---

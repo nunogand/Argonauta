@@ -1,3 +1,4 @@
+---
 Numero: 451
 title: Roderick à Solta 1º volume
 Autor: John Sladek
@@ -15,3 +16,4 @@ Titulo-link: 451-Roderick-à-Solta-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

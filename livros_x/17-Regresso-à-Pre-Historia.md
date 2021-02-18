@@ -1,3 +1,4 @@
+---
 Numero: 17
 title: Regresso à Pré-História
 Autor: J Leslie Mitchell
@@ -15,3 +16,4 @@ Titulo-link: 17-Regresso-à-Pre-Historia
 Capa: Cândido Costa Pinto
 pags: 190
 Capa-link: Candido-Costa-Pinto
+---

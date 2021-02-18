@@ -1,3 +1,4 @@
+---
 Numero: 254
 title: As Vozes de Marte
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 254-As-Vozes-de-Marte
 Capa: António Pedro
 pags: 174
 Capa-link: Antonio-Pedro
+---

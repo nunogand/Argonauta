@@ -1,3 +1,4 @@
+---
 Numero: 444
 title: Doutor Mirabilis 2º volume
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 444-Doutor-Mirabilis-2-volume
 Capa: António Pedro
 pags: 216
 Capa-link: Antonio-Pedro
+---

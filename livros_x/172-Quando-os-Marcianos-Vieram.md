@@ -1,3 +1,4 @@
+---
 Numero: 172
 title: Quando os Marcianos Vieram
 Autor: Edmund Cooper
@@ -15,3 +16,4 @@ Titulo-link: 172-Quando-os-Marcianos-Vieram
 Capa: Lima de Freitas
 pags: 185
 Capa-link: Lima-de-Freitas
+---

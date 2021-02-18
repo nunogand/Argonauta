@@ -1,3 +1,4 @@
+---
 Numero: 280
 title: A Teia do Tempo
 Autor: Michael Kurland
@@ -15,3 +16,4 @@ Titulo-link: 280-A-Teia-do-Tempo
 Capa: António Pedro
 pags: 221
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 306
 title: A Solução de Ceres
 Autor: Bob Shaw
@@ -15,3 +16,4 @@ Titulo-link: 306-A-Solucao-de-Ceres
 Capa: António Pedro
 pags: 187
 Capa-link: Antonio-Pedro
+---

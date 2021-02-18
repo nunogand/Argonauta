@@ -1,3 +1,4 @@
+---
 Numero: 139
 title: A Máquina Divina 2º volume
 Autor: Martin Caidin
@@ -15,3 +16,4 @@ Titulo-link: 139-A-Maquina-Divina-2-volume
 Capa: Lima de Freitas
 pags: 208
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 175
 title: O Mundo do Abismo
 Autor: James White
@@ -15,3 +16,4 @@ Titulo-link: 175-O-Mundo-do-Abismo
 Capa: Lima de Freitas
 pags: 227
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 102
 title: A Guerra das Salamandras
 Autor: Karel Capek
@@ -15,3 +16,4 @@ Titulo-link: 102-A-Guerra-das-Salamandras
 Capa: Lima de Freitas
 pags: 102
 Capa-link: Lima-de-Freitas
+---

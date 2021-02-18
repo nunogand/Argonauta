@@ -1,3 +1,4 @@
+---
 Numero: 2
 title: O Estranho Mundo de Kilsona
 Autor: Festus Pragnell
@@ -15,3 +16,4 @@ Titulo-link: 2-O-Estranho-Mundo-de-Kilsona
 Capa: Cândido Costa Pinto
 pags: 212
 Capa-link: Candido-Costa-Pinto
+---

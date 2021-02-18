@@ -1,3 +1,4 @@
+---
 Numero: 264
 title: A Nave Invencível
 Autor: Stanislaw Lem
@@ -15,3 +16,4 @@ Titulo-link: 264-A-Nave-Invencivel
 Capa: António Pedro
 pags: 216
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 226
 title: Os Manipuladores
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 226-Os-Manipuladores
 Capa: Manuel Dias
 pags: 208
 Capa-link: Manuel-Dias
+---

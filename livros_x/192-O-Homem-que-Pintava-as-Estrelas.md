@@ -1,3 +1,4 @@
+---
 Numero: 192
 title: O Homem que Pintava as Estrelas
 Autor: Lan Wright
@@ -15,3 +16,4 @@ Titulo-link: 192-O-Homem-que-Pintava-as-Estrelas
 Capa: Lima de Freitas
 pags: 201
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 472
 title: Fora de Jogo
 Autor: Isidore Haiblum
@@ -15,3 +16,4 @@ Titulo-link: 472-Fora-de-Jogo
 Capa: 
 pags: 
 Capa-link: 
+---

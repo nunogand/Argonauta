@@ -1,3 +1,4 @@
+---
 Numero: 202
 title: O Mundo dos Homens Perfeitos
 Autor: John Brunner
@@ -15,3 +16,4 @@ Titulo-link: 202-O-Mundo-dos-Homens-Perfeitos
 Capa: Lima de Freitas
 pags: 248
 Capa-link: Lima-de-Freitas
+---

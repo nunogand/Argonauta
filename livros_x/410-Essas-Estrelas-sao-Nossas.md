@@ -1,3 +1,4 @@
+---
 Numero: 410
 title: Essas Estrelas são Nossas
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 410-Essas-Estrelas-sao-Nossas
 Capa: António Pedro
 pags: 184
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 166
 title: Segredo Interstelar
 Autor: Alexei Panshin
@@ -15,3 +16,4 @@ Titulo-link: 166-Segredo-Interstelar
 Capa: Lima de Freitas
 pags: 176
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 187
 title: O Terceiro Ouvido
 Autor: Curt Siodmak
@@ -15,3 +16,4 @@ Titulo-link: 187-O-Terceiro-Ouvido
 Capa: Lima de Freitas
 pags: 181
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 438
 title: O Xadrez do Tempo
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 438-O-Xadrez-do-Tempo
 Capa: António Pedro
 pags: 181
 Capa-link: Antonio-Pedro
+---

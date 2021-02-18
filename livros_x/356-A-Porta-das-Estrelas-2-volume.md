@@ -1,3 +1,4 @@
+---
 Numero: 356
 title: A Porta das Estrelas 2º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 356-A-Porta-das-Estrelas-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

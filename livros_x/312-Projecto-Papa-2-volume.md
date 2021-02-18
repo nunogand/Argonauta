@@ -1,3 +1,4 @@
+---
 Numero: 312
 title: Projecto Papa 2º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 312-Projecto-Papa-2-volume
 Capa: 
 pags: 179
 Capa-link: 
+---

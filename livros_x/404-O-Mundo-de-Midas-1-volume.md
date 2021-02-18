@@ -1,3 +1,4 @@
+---
 Numero: 404
 title: O Mundo de Midas 1º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 404-O-Mundo-de-Midas-1-volume
 Capa: António Pedro
 pags: 192
 Capa-link: Antonio-Pedro
+---

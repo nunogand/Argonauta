@@ -1,3 +1,4 @@
+---
 Numero: 313
 title: Os Senhores do Vórtice
 Autor: E E Doc Smith
@@ -15,3 +16,4 @@ Titulo-link: 313-Os-Senhores-do-Vortice
 Capa: António Pedro
 pags: 188
 Capa-link: Antonio-Pedro
+---

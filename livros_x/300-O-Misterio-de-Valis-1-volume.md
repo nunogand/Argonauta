@@ -1,3 +1,4 @@
+---
 Numero: 300
 title: O Mistério de Valis 1º volume
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 300-O-Misterio-de-Valis-1-volume
 Capa: António Pedro
 pags: 160
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 527
 title: As Armas de Avalon
 Autor: Roger Zelazny
@@ -15,3 +16,4 @@ Titulo-link: 527-As-Armas-de-Avalon
 Capa: António Pedro
 pags: 240
 Capa-link: Antonio-Pedro
+---

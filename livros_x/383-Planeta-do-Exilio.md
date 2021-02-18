@@ -1,3 +1,4 @@
+---
 Numero: 383
 title: Planeta do Exílio
 Autor: Ursula K LeGuin
@@ -15,3 +16,4 @@ Titulo-link: 383-Planeta-do-Exilio
 Capa: 
 pags: 
 Capa-link: 
+---

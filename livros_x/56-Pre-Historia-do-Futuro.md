@@ -1,3 +1,4 @@
+---
 Numero: 56
 title: Pré-História do Futuro
 Autor: Stefan Wul
@@ -15,3 +16,4 @@ Titulo-link: 56-Pre-Historia-do-Futuro
 Capa: Lima de Freitas
 pags: 200
 Capa-link: Lima-de-Freitas
+---

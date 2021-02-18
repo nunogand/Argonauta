@@ -1,3 +1,4 @@
+---
 Numero: 297
 title: O Planeta dos Dragões 1º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 297-O-Planeta-dos-Dragoes-1-volume
 Capa: 
 pags: 206
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 265
 title: O Planeta Secreto
 Autor: E E Doc Smith
@@ -15,3 +16,4 @@ Titulo-link: 265-O-Planeta-Secreto
 Capa: António Pedro
 pags: 240
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 199
 title: A Última Arma
 Autor: Algis Budrys
@@ -15,3 +16,4 @@ Titulo-link: 199-A-ultima-Arma
 Capa: Lima de Freitas
 pags: 207
 Capa-link: Lima-de-Freitas
+---

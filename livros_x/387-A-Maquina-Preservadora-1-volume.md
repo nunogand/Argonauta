@@ -1,3 +1,4 @@
+---
 Numero: 387
 title: A Máquina Preservadora 1º volume
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 387-A-Maquina-Preservadora-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

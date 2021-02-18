@@ -1,3 +1,4 @@
+---
 Numero: 9
 title: Missão Interplanetária
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 9-Missao-Interplanetaria
 Capa: Cândido Costa Pinto
 pags: 283
 Capa-link: Candido-Costa-Pinto
+---

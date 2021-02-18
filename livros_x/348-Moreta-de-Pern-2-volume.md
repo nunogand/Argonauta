@@ -1,3 +1,4 @@
+---
 Numero: 348
 title: Moreta de Pern 2º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 348-Moreta-de-Pern-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

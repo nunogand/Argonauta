@@ -1,3 +1,4 @@
+---
 Numero: 480
 title: Renascimento
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 480-Renascimento
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 130
 title: Império Submarino
 Autor: Paul W Fairman
@@ -15,3 +16,4 @@ Titulo-link: 130-Imperio-Submarino
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
+---

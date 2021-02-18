@@ -1,3 +1,4 @@
+---
 Numero: 549
 title: O Inverno de Helliconia 1º volume
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 549-O-Inverno-de-Helliconia-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 157
 title: Plataforma Espacial
 Autor: Murray Leinster
@@ -15,3 +16,4 @@ Titulo-link: 157-Plataforma-Espacial
 Capa: Lima de Freitas
 pags: 152
 Capa-link: Lima-de-Freitas
+---

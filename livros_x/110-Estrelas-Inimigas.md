@@ -1,3 +1,4 @@
+---
 Numero: 110
 title: Estrelas Inimigas
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 110-Estrelas-Inimigas
 Capa: Lima de Freitas
 pags: 150
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 407
 title: Missão de Vingança
 Autor: A Bertram Chandler
@@ -15,3 +16,4 @@ Titulo-link: 407-Missao-de-Vinganca
 Capa: António Pedro
 pags: 170
 Capa-link: Antonio-Pedro
+---

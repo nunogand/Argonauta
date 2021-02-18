@@ -1,3 +1,4 @@
+---
 Numero: 353
 title: Bill o Herói Galáctico
 Autor: Harry Harrison
@@ -15,3 +16,4 @@ Titulo-link: 353-Bill-o-Heroi-Galactico
 Capa: António Pedro
 pags: 178
 Capa-link: Antonio-Pedro
+---

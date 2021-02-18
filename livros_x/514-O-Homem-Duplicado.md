@@ -1,3 +1,4 @@
+---
 Numero: 514
 title: O Homem Duplicado
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 514-O-Homem-Duplicado
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 533
 title: Os Renegados de Pern 1º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 533-Os-Renegados-de-Pern-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

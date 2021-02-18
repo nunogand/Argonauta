@@ -1,3 +1,4 @@
+---
 Numero: 258
 title: Os Cruzados do Espaço
 Autor: Pierre Barbet
@@ -15,3 +16,4 @@ Titulo-link: 258-Os-Cruzados-do-Espaco
 Capa: António Pedro
 pags: 181
 Capa-link: Antonio-Pedro
+---

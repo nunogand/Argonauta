@@ -1,3 +1,4 @@
+---
 Numero: 430
 title: O Mundo dos Anjos
 Autor: S N Lewitt
@@ -15,3 +16,4 @@ Titulo-link: 430-O-Mundo-dos-Anjos
 Capa: 
 pags: 314
 Capa-link: 
+---

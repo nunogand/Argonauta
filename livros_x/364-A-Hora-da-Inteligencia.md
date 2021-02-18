@@ -1,3 +1,4 @@
+---
 Numero: 364
 title: A Hora da Inteligência
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 364-A-Hora-da-Inteligencia
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 70
 title: Ameaça dos Robots
 Autor: Isaac Asimov
@@ -15,3 +16,4 @@ Titulo-link: 70-Ameaca-dos-Robots
 Capa: Lima de Freitas
 pags: 211
 Capa-link: Lima-de-Freitas
+---

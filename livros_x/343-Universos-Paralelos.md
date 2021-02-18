@@ -1,3 +1,4 @@
+---
 Numero: 343
 title: Universos Paralelos
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 343-Universos-Paralelos
 Capa: António Pedro
 pags: 216
 Capa-link: Antonio-Pedro
+---

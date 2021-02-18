@@ -1,3 +1,4 @@
+---
 Numero: 457
 title: Outros Dias Outros Olhos
 Autor: Bob Shaw
@@ -15,3 +16,4 @@ Titulo-link: 457-Outros-Dias-Outros-Olhos
 Capa: 
 pags: 
 Capa-link: 
+---

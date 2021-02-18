@@ -1,3 +1,4 @@
+---
 Numero: 124
 title: O Mundo que nos Espera 1º volume
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 124-O-Mundo-que-nos-Espera-1-volume
 Capa: Lima de Freitas
 pags: 220
 Capa-link: Lima-de-Freitas
+---

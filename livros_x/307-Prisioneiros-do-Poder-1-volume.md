@@ -1,3 +1,4 @@
+---
 Numero: 307
 title: Prisioneiros do Poder 1º volume
 Autor: Arkadi Strugatski
@@ -15,3 +16,4 @@ Titulo-link: 307-Prisioneiros-do-Poder-1-volume
 Capa: António Pedro
 pags: 205
 Capa-link: Antonio-Pedro
+---

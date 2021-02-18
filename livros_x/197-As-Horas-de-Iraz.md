@@ -1,3 +1,4 @@
+---
 Numero: 197
 title: As Horas de Iraz
 Autor: L Sprague de Camp
@@ -15,3 +16,4 @@ Titulo-link: 197-As-Horas-de-Iraz
 Capa: Lima de Freitas
 pags: 204
 Capa-link: Lima-de-Freitas
+---

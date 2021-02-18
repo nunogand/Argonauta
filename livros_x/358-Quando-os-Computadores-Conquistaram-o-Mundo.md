@@ -1,3 +1,4 @@
+---
 Numero: 358
 title: Quando os Computadores Conquistaram o Mundo
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 358-Quando-os-Computadores-Conquistaram-o-Mundo
 Capa: 
 pags: 
 Capa-link: 
+---

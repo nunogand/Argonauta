@@ -1,3 +1,4 @@
+---
 Numero: 11
 title: O Homem que Vendeu a Lua
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 11-O-Homem-que-Vendeu-a-Lua
 Capa: Cândido Costa Pinto
 pags: 198
 Capa-link: Candido-Costa-Pinto
+---

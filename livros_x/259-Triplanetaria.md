@@ -1,3 +1,4 @@
+---
 Numero: 259
 title: Triplanetária
 Autor: E E Doc Smith
@@ -15,3 +16,4 @@ Titulo-link: 259-Triplanetaria
 Capa: António Pedro
 pags: 260
 Capa-link: Antonio-Pedro
+---

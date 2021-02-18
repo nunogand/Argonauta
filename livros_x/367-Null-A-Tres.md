@@ -1,3 +1,4 @@
+---
 Numero: 367
 title: Null-A Três
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 367-Null-A-Tres
 Capa: 
 pags: 
 Capa-link: 
+---

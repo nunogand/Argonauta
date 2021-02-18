@@ -1,3 +1,4 @@
+---
 Numero: 390
 title: A Máquina Preservadora 2º volume
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 390-A-Maquina-Preservadora-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

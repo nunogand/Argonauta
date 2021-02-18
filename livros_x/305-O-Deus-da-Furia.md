@@ -1,3 +1,4 @@
+---
 Numero: 305
 title: O Deus da Fúria
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 305-O-Deus-da-Furia
 Capa: António Pedro
 pags: 182
 Capa-link: Antonio-Pedro
+---

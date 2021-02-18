@@ -1,3 +1,4 @@
+---
 Numero: 455
 title: Tempos Duros 1º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 455-Tempos-Duros-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

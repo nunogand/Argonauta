@@ -1,3 +1,4 @@
+---
 Numero: 142
 title: Terra Insólita 2º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 142-Terra-Insolita-2-volume
 Capa: Lima de Freitas
 pags: 153
 Capa-link: Lima-de-Freitas
+---

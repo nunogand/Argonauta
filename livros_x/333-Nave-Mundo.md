@@ -1,3 +1,4 @@
+---
 Numero: 333
 title: Nave-Mundo
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 333-Nave-Mundo
 Capa: António Pedro
 pags: 248
 Capa-link: Antonio-Pedro
+---

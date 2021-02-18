@@ -1,3 +1,4 @@
+---
 Numero: 122
 title: Bandeirantes num Novo Mundo
 Autor: Edmund Cooper
@@ -15,3 +16,4 @@ Titulo-link: 122-Bandeirantes-num-Novo-Mundo
 Capa: Lima de Freitas
 pags: 208
 Capa-link: Lima-de-Freitas
+---

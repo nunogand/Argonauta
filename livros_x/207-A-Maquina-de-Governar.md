@@ -1,3 +1,4 @@
+---
 Numero: 207
 title: A Máquina de Governar
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 207-A-Maquina-de-Governar
 Capa: Lima de Freitas
 pags: 173
 Capa-link: Lima-de-Freitas
+---

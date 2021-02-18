@@ -1,3 +1,4 @@
+---
 Numero: 222
 title: A Cidade do Céu
 Autor: Curt Siodmak
@@ -15,3 +16,4 @@ Titulo-link: 222-A-Cidade-do-Ceu
 Capa: Manuel Dias
 pags: 235
 Capa-link: Manuel-Dias
+---

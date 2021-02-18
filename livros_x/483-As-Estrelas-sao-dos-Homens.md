@@ -1,3 +1,4 @@
+---
 Numero: 483
 title: As Estrelas são dos Homens
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 483-As-Estrelas-sao-dos-Homens
 Capa: António Pedro
 pags: 180
 Capa-link: Antonio-Pedro
+---

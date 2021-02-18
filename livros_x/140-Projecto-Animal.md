@@ -1,3 +1,4 @@
+---
 Numero: 140
 title: Projecto Animal
 Autor: Charles Eric Maine
@@ -15,3 +16,4 @@ Titulo-link: 140-Projecto-Animal
 Capa: Lima de Freitas
 pags: 188
 Capa-link: Lima-de-Freitas
+---

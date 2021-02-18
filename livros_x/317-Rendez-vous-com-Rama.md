@@ -1,3 +1,4 @@
+---
 Numero: 317
 title: Rendez-vous com Rama
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 317-Rendez-vous-com-Rama
 Capa: António Pedro
 pags: 202
 Capa-link: Antonio-Pedro
+---

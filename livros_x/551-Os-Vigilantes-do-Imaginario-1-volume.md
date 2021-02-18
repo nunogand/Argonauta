@@ -1,3 +1,4 @@
+---
 Numero: 551
 title: Os Vigilantes do Imaginário 1º volume
 Autor: Pat Cadigan
@@ -15,3 +16,4 @@ Titulo-link: 551-Os-Vigilantes-do-Imaginario-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

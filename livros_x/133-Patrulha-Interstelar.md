@@ -1,3 +1,4 @@
+---
 Numero: 133
 title: Patrulha Interstelar
 Autor: Edmond Hamilton
@@ -15,3 +16,4 @@ Titulo-link: 133-Patrulha-Interstelar
 Capa: Lima de Freitas
 pags: 185
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 233
 title: O Homem que Via o Futuro
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 233-O-Homem-que-Via-o-Futuro
 Capa: Manuel Dias
 pags: 206
 Capa-link: Manuel-Dias
+---

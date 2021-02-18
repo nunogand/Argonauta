@@ -1,3 +1,4 @@
+---
 Numero: 391
 title: A Cidade das Ilusões
 Autor: Ursula K LeGuin
@@ -15,3 +16,4 @@ Titulo-link: 391-A-Cidade-das-Ilusoes
 Capa: 
 pags: 
 Capa-link: 
+---

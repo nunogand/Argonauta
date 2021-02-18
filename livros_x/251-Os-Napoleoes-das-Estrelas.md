@@ -1,3 +1,4 @@
+---
 Numero: 251
 title: Os Napoleões das Estrelas
 Autor: Pierre Barbet
@@ -15,3 +16,4 @@ Titulo-link: 251-Os-Napoleoes-das-Estrelas
 Capa: Karel Thole
 pags: 
 Capa-link: Karel-Thole
+---

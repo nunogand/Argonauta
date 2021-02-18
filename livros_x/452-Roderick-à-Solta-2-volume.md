@@ -1,3 +1,4 @@
+---
 Numero: 452
 title: Roderick à Solta 2º volume
 Autor: John Sladek
@@ -15,3 +16,4 @@ Titulo-link: 452-Roderick-à-Solta-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

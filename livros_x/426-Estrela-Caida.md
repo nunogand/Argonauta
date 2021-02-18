@@ -1,3 +1,4 @@
+---
 Numero: 426
 title: Estrela Caída
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 426-Estrela-Caida
 Capa: António Pedro
 pags: 201
 Capa-link: Antonio-Pedro
+---

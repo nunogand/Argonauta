@@ -1,3 +1,4 @@
+---
 Numero: 529
 title: As Labaredas de Azeroth 2º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 529-As-Labaredas-de-Azeroth-2-volume
 Capa: António Pedro
 pags: 192
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 227
 title: O Outro Lado do Tempo
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 227-O-Outro-Lado-do-Tempo
 Capa: Manuel Dias
 pags: 225
 Capa-link: Manuel-Dias
+---

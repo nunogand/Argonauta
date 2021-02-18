@@ -1,3 +1,4 @@
+---
 Numero: 145
 title: Bomba H Sobre Los Angeles
 Autor: Robert M Williams
@@ -15,3 +16,4 @@ Titulo-link: 145-Bomba-H-Sobre-Los-Angeles
 Capa: Lima de Freitas
 pags: 172
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 516
 title: A Conquista da Imortalidade
 Autor: Robert Sheckley
@@ -15,3 +16,4 @@ Titulo-link: 516-A-Conquista-da-Imortalidade
 Capa: 
 pags: 
 Capa-link: 
+---

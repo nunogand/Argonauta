@@ -1,3 +1,4 @@
+---
 Numero: 268
 title: Viagem Para Além da Morte
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 268-Viagem-Para-Alem-da-Morte
 Capa: António Pedro
 pags: 253
 Capa-link: Antonio-Pedro
+---

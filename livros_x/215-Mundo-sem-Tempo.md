@@ -1,3 +1,4 @@
+---
 Numero: 215
 title: Mundo sem Tempo
 Autor: Charles Eric Maine
@@ -15,3 +16,4 @@ Titulo-link: 215-Mundo-sem-Tempo
 Capa: Lima de Freitas
 pags: 259
 Capa-link: Lima-de-Freitas
+---

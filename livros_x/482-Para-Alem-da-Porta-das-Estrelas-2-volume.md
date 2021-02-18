@@ -1,3 +1,4 @@
+---
 Numero: 482
 title: Para Além da Porta das Estrelas 2º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 482-Para-Alem-da-Porta-das-Estrelas-2-volume
 Capa: António Pedro
 pags: 184
 Capa-link: Antonio-Pedro
+---

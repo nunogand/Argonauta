@@ -1,3 +1,4 @@
+---
 Numero: 52
 title: Atenção aos Robots!
 Autor: Jean-Gaston Vandel
@@ -15,3 +16,4 @@ Titulo-link: 52-Atencao-aos-Robots
 Capa: Lima de Freitas
 pags: 168
 Capa-link: Lima-de-Freitas
+---

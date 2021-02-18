@@ -1,3 +1,4 @@
+---
 Numero: 341
 title: Regresso ao Mundo do Rio 2º volume
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 341-Regresso-ao-Mundo-do-Rio-2-volume
 Capa: António Pedro
 pags: 199
 Capa-link: Antonio-Pedro
+---

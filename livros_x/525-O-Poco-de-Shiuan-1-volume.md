@@ -1,3 +1,4 @@
+---
 Numero: 525
 title: O Poço de Shiuan 1º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 525-O-Poco-de-Shiuan-1-volume
 Capa: António Pedro
 pags: 185
 Capa-link: Antonio-Pedro
+---

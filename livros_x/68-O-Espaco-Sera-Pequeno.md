@@ -1,3 +1,4 @@
+---
 Numero: 68
 title: O Espaço Será Pequeno
 Autor: Fredric Brown
@@ -15,3 +16,4 @@ Titulo-link: 68-O-Espaco-Sera-Pequeno
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
+---

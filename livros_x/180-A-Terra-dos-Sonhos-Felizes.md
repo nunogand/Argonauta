@@ -1,3 +1,4 @@
+---
 Numero: 180
 title: A Terra dos Sonhos Felizes
 Autor: John Brunner
@@ -15,3 +16,4 @@ Titulo-link: 180-A-Terra-dos-Sonhos-Felizes
 Capa: Lima de Freitas
 pags: 181
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 325
 title: A Conquista das Estrelas 1º volume
 Autor: James P Hogan
@@ -15,3 +16,4 @@ Titulo-link: 325-A-Conquista-das-Estrelas-1-volume
 Capa: António Pedro
 pags: 214
 Capa-link: Antonio-Pedro
+---

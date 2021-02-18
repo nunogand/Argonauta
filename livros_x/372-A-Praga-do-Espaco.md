@@ -1,3 +1,4 @@
+---
 Numero: 372
 title: A Praga do Espaço
 Autor: Harry Harrison
@@ -15,3 +16,4 @@ Titulo-link: 372-A-Praga-do-Espaco
 Capa: 
 pags: 
 Capa-link: 
+---

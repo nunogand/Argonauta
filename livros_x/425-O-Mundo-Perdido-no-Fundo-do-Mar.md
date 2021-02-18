@@ -1,3 +1,4 @@
+---
 Numero: 425
 title: O Mundo Perdido no Fundo do Mar
 Autor: Arthur Conan Doyle
@@ -15,3 +16,4 @@ Titulo-link: 425-O-Mundo-Perdido-no-Fundo-do-Mar
 Capa: 
 pags: 
 Capa-link: 
+---

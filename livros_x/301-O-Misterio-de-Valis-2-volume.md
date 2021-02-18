@@ -1,3 +1,4 @@
+---
 Numero: 301
 title: O Mistério de Valis 2º volume
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 301-O-Misterio-de-Valis-2-volume
 Capa: António Pedro
 pags: 176
 Capa-link: Antonio-Pedro
+---

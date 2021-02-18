@@ -1,3 +1,4 @@
+---
 Numero: 239
 title: A Sexta Parte do Mundo
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 239-A-Sexta-Parte-do-Mundo
 Capa: Manuel Dias
 pags: 227
 Capa-link: Manuel-Dias
+---

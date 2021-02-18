@@ -1,3 +1,4 @@
+---
 Numero: 528
 title: As Labaredas de Azeroth 1º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 528-As-Labaredas-de-Azeroth-1-volume
 Capa: António Pedro
 pags: 192
 Capa-link: Antonio-Pedro
+---

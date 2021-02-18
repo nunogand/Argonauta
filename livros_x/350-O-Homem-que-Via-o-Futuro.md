@@ -1,3 +1,4 @@
+---
 Numero: 350
 title: O Homem que Via o Futuro
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 350-O-Homem-que-Via-o-Futuro
 Capa: António Pedro
 pags: 218
 Capa-link: Antonio-Pedro
+---

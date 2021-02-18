@@ -1,3 +1,4 @@
+---
 Numero: 496
 title: Além do Mar dos Sóis 1º volume
 Autor: Gregory Benford
@@ -15,3 +16,4 @@ Titulo-link: 496-Alem-do-Mar-dos-Sois-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

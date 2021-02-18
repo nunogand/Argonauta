@@ -1,3 +1,4 @@
+---
 Numero: 117
 title: As Cidades Mortas
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 117-As-Cidades-Mortas
 Capa: Lima de Freitas
 pags: 253
 Capa-link: Lima-de-Freitas
+---

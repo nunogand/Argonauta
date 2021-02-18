@@ -1,3 +1,4 @@
+---
 Numero: 26
 title: A Idade do Ouro
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 26-A-Idade-do-Ouro
 Capa: Cândido Costa Pinto
 pags: 236
 Capa-link: Candido-Costa-Pinto
+---

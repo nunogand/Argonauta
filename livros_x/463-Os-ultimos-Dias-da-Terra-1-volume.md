@@ -1,3 +1,4 @@
+---
 Numero: 463
 title: Os Últimos Dias da Terra 1º volume
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 463-Os-ultimos-Dias-da-Terra-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

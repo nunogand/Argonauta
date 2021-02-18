@@ -1,3 +1,4 @@
+---
 Numero: 104
 title: Perdido no Espaço 2º volume
 Autor: Martin Caidin
@@ -15,3 +16,4 @@ Titulo-link: 104-Perdido-no-Espaco-2-volume
 Capa: Lima de Freitas
 pags: 213
 Capa-link: Lima-de-Freitas
+---

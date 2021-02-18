@@ -1,3 +1,4 @@
+---
 Numero: 240
 title: Os Permutadores de Mundos
 Autor: John Brunner
@@ -15,3 +16,4 @@ Titulo-link: 240-Os-Permutadores-de-Mundos
 Capa: Manuel Dias
 pags: 184
 Capa-link: Manuel-Dias
+---

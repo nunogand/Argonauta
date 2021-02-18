@@ -1,3 +1,4 @@
+---
 Numero: 406
 title: Necromante
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 406-Necromante
 Capa: António Pedro
 pags: 178
 Capa-link: Antonio-Pedro
+---

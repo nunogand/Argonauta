@@ -1,3 +1,4 @@
+---
 Numero: 489
 title: A Terra é uma Ideia Boa 2º volume
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 489-A-Terra-e-uma-Ideia-Boa-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

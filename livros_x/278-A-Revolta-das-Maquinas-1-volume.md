@@ -1,3 +1,4 @@
+---
 Numero: 278
 title: A Revolta das Máquinas 1º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 278-A-Revolta-das-Maquinas-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

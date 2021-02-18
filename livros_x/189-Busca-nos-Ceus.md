@@ -1,3 +1,4 @@
+---
 Numero: 189
 title: Busca nos Céus
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 189-Busca-nos-Ceus
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
+---

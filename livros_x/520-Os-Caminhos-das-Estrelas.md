@@ -1,3 +1,4 @@
+---
 Numero: 520
 title: Os Caminhos das Estrelas
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 520-Os-Caminhos-das-Estrelas
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 111
 title: Escala no Tempo
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 111-Escala-no-Tempo
 Capa: Lima de Freitas
 pags: 241
 Capa-link: Lima-de-Freitas
+---

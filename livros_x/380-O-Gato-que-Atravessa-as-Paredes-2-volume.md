@@ -1,3 +1,4 @@
+---
 Numero: 380
 title: O Gato que Atravessa as Paredes 2º volume
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 380-O-Gato-que-Atravessa-as-Paredes-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

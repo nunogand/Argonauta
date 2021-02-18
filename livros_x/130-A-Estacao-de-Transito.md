@@ -1,3 +1,4 @@
+---
 Numero: 130-A
 title: Estação de Trânsito
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 130-A-Estacao-de-Transito
 Capa: Infante do Carmo
 pags: 220
 Capa-link: Infante-do-Carmo
+---

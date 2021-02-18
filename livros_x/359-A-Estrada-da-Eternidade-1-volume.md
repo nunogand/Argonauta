@@ -1,3 +1,4 @@
+---
 Numero: 359
 title: A Estrada da Eternidade 1º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 359-A-Estrada-da-Eternidade-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

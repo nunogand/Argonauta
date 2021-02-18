@@ -1,3 +1,4 @@
+---
 Numero: 388
 title: Os Olhos de Heisenberg
 Autor: Frank Herbert
@@ -15,3 +16,4 @@ Titulo-link: 388-Os-Olhos-de-Heisenberg
 Capa: 
 pags: 
 Capa-link: 
+---

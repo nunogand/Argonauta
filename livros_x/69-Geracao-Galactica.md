@@ -1,3 +1,4 @@
+---
 Numero: 69
 title: Geração Galáctica
 Autor: E C Tubb
@@ -15,3 +16,4 @@ Titulo-link: 69-Geracao-Galactica
 Capa: Lima de Freitas
 pags: 202
 Capa-link: Lima-de-Freitas
+---

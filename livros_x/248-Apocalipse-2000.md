@@ -1,3 +1,4 @@
+---
 Numero: 248
 title: Apocalipse 2000
 Autor: Guy Snyder
@@ -15,3 +16,4 @@ Titulo-link: 248-Apocalipse-2000
 Capa: Frank Kelly Freas
 pags: 192
 Capa-link: Frank-Kelly-Freas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 543
 title: O Castelo de Lorde Valentine 2º volume
 Autor: Robert Silverberg
@@ -15,3 +16,4 @@ Titulo-link: 543-O-Castelo-de-Lorde-Valentine-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

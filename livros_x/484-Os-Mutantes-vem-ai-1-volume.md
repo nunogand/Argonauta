@@ -1,3 +1,4 @@
+---
 Numero: 484
 title: Os Mutantes vêm aí! 1º volume
 Autor: Isidore Haiblum
@@ -15,3 +16,4 @@ Titulo-link: 484-Os-Mutantes-vem-ai-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

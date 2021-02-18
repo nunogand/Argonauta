@@ -1,3 +1,4 @@
+---
 Numero: 33
 title: Fahrenheit 451
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 33-Fahrenheit-451
 Capa: Lima de Freitas
 pags: 182
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 393
 title: Metrófago 2º volume
 Autor: Richard Kadrey
@@ -15,3 +16,4 @@ Titulo-link: 393-Metrofago-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

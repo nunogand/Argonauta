@@ -1,3 +1,4 @@
+---
 Numero: 208
 title: O Amanhã Está Muito Longe
 Autor: James White
@@ -15,3 +16,4 @@ Titulo-link: 208-O-Amanha-Esta-Muito-Longe
 Capa: Lima de Freitas
 pags: 203
 Capa-link: Lima-de-Freitas
+---

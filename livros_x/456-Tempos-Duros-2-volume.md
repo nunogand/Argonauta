@@ -1,3 +1,4 @@
+---
 Numero: 456
 title: Tempos Duros 2º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 456-Tempos-Duros-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

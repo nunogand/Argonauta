@@ -1,3 +1,4 @@
+---
 Numero: 147
 title: Partida sem Chegada
 Autor: Lloyd Biggle Jr
@@ -15,3 +16,4 @@ Titulo-link: 147-Partida-sem-Chegada
 Capa: Lima de Freitas
 pags: 175
 Capa-link: Lima-de-Freitas
+---

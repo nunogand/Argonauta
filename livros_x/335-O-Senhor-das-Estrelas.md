@@ -1,3 +1,4 @@
+---
 Numero: 335
 title: O Senhor das Estrelas
 Autor: Robert Sheckley
@@ -15,3 +16,4 @@ Titulo-link: 335-O-Senhor-das-Estrelas
 Capa: 
 pags: 
 Capa-link: 
+---

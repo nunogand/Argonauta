@@ -1,3 +1,4 @@
+---
 Numero: 8
 title: O Veneno de Marte
 Autor: Paul French
@@ -15,3 +16,4 @@ Titulo-link: 8-O-Veneno-de-Marte
 Capa: Cândido Costa Pinto
 pags: 176
 Capa-link: Candido-Costa-Pinto
+---

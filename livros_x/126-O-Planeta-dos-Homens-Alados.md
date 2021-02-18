@@ -1,3 +1,4 @@
+---
 Numero: 126
 title: O Planeta dos Homens Alados
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 126-O-Planeta-dos-Homens-Alados
 Capa: Lima de Freitas
 pags: 207
 Capa-link: Lima-de-Freitas
+---

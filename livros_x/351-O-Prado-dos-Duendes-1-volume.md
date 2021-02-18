@@ -1,3 +1,4 @@
+---
 Numero: 351
 title: O Prado dos Duendes 1º volume
 Autor: Paul Cook
@@ -15,3 +16,4 @@ Titulo-link: 351-O-Prado-dos-Duendes-1-volume
 Capa: António Pedro
 pags: 
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 78
 title: Caminhavam Como Homens
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 78-Caminhavam-Como-Homens
 Capa: Lima de Freitas
 pags: 202
 Capa-link: Lima-de-Freitas
+---

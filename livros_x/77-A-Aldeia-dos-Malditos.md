@@ -1,3 +1,4 @@
+---
 Numero: 77
 title: A Aldeia dos Malditos
 Autor: John Wyndham
@@ -15,3 +16,4 @@ Titulo-link: 77-A-Aldeia-dos-Malditos
 Capa: Lima de Freitas
 pags: 243
 Capa-link: Lima-de-Freitas
+---

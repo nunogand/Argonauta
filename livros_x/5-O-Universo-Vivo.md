@@ -1,3 +1,4 @@
+---
 Numero: 5
 title: O Universo Vivo
 Autor: Jimmy Guieu
@@ -15,3 +16,4 @@ Titulo-link: 5-O-Universo-Vivo
 Capa: Cândido Costa Pinto
 pags: 149
 Capa-link: Candido-Costa-Pinto
+---

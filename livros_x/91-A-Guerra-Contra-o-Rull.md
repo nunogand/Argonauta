@@ -1,3 +1,4 @@
+---
 Numero: 91
 title: A Guerra Contra o Rull
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 91-A-Guerra-Contra-o-Rull
 Capa: Lima de Freitas
 pags: 216
 Capa-link: Lima-de-Freitas
+---

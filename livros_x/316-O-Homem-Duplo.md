@@ -1,3 +1,4 @@
+---
 Numero: 316
 title: O Homem Duplo
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 316-O-Homem-Duplo
 Capa: 
 pags: 
 Capa-link: 
+---

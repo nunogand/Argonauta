@@ -1,3 +1,4 @@
+---
 Numero: 462
 title: As Estrelas Como Palco
 Autor: James Blish
@@ -15,3 +16,4 @@ Titulo-link: 462-As-Estrelas-Como-Palco
 Capa: 
 pags: 
 Capa-link: 
+---

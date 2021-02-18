@@ -1,3 +1,4 @@
+---
 Numero: 155
 title: Ultimato à Terra
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 155-Ultimato-à-Terra
 Capa: Lima de Freitas
 pags: 187
 Capa-link: Lima-de-Freitas
+---

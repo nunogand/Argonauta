@@ -1,3 +1,4 @@
+---
 Numero: 417
 title: Cemitério de Lunáticos 1º volume
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 417-Cemiterio-de-Lunaticos-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

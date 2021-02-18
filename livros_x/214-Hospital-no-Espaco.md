@@ -1,3 +1,4 @@
+---
 Numero: 214
 title: Hospital no Espaço
 Autor: James White
@@ -15,3 +16,4 @@ Titulo-link: 214-Hospital-no-Espaco
 Capa: Lima de Freitas
 pags: 199
 Capa-link: Lima-de-Freitas
+---

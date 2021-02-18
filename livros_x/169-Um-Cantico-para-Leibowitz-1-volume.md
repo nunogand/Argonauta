@@ -1,3 +1,4 @@
+---
 Numero: 169
 title: Um Cântico para Leibowitz 1º volume
 Autor: Walter M Miller Jr
@@ -15,3 +16,4 @@ Titulo-link: 169-Um-Cantico-para-Leibowitz-1-volume
 Capa: Lima de Freitas
 pags: 152
 Capa-link: Lima-de-Freitas
+---

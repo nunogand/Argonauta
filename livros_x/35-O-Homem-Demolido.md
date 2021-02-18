@@ -1,3 +1,4 @@
+---
 Numero: 35
 title: O Homem Demolido
 Autor: Alfred Bester
@@ -15,3 +16,4 @@ Titulo-link: 35-O-Homem-Demolido
 Capa: Lima de Freitas
 pags: 254
 Capa-link: Lima-de-Freitas
+---

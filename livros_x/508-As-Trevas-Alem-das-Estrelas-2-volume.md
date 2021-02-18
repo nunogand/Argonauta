@@ -1,3 +1,4 @@
+---
 Numero: 508
 title: As Trevas Além das Estrelas 2º volume
 Autor: Frank M Robinson
@@ -15,3 +16,4 @@ Titulo-link: 508-As-Trevas-Alem-das-Estrelas-2-volume
 Capa: 
 pags: 312
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 365
 title: Para Além do Acontecer 1º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 365-Para-Alem-do-Acontecer-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

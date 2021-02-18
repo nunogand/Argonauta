@@ -1,3 +1,4 @@
+---
 Numero: 98
 title: Ameaça de Andrómeda
 Autor: Fred Hoyle
@@ -15,3 +16,4 @@ Titulo-link: 98-Ameaca-de-Andromeda
 Capa: Lima de Freitas
 pags: 242
 Capa-link: Lima-de-Freitas
+---

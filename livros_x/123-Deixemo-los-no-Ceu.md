@@ -1,3 +1,4 @@
+---
 Numero: 123
 title: Deixemo-los no Céu
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 123-Deixemo-los-no-Ceu
 Capa: Lima de Freitas
 pags: 210
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 83
 title: O Satélite Sombrio
 Autor: Jérome Sériel
@@ -15,3 +16,4 @@ Titulo-link: 83-O-Satelite-Sombrio
 Capa: Lima de Freitas
 pags: 180
 Capa-link: Lima-de-Freitas
+---

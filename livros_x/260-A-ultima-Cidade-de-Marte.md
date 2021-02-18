@@ -1,3 +1,4 @@
+---
 Numero: 260
 title: A Última Cidade de Marte
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 260-A-ultima-Cidade-de-Marte
 Capa: António Pedro
 pags: 197
 Capa-link: Antonio-Pedro
+---

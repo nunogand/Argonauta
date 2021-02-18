@@ -1,3 +1,4 @@
+---
 Numero: 382
 title: Quando o Céu Caiu
 Autor: John Barnes
@@ -15,3 +16,4 @@ Titulo-link: 382-Quando-o-Ceu-Caiu
 Capa: 
 pags: 
 Capa-link: 
+---

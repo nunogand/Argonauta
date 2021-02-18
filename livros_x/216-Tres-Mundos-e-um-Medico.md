@@ -1,3 +1,4 @@
+---
 Numero: 216
 title: Três Mundos e um Médico
 Autor: Murray Leinster
@@ -15,3 +16,4 @@ Titulo-link: 216-Tres-Mundos-e-um-Medico
 Capa: Lima de Freitas
 pags: 196
 Capa-link: Lima-de-Freitas
+---

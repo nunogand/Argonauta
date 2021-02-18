@@ -1,3 +1,4 @@
+---
 Numero: 152
 title: Piratas do Espaço
 Autor: Murray Leinster
@@ -15,3 +16,4 @@ Titulo-link: 152-Piratas-do-Espaco
 Capa: Lima de Freitas
 pags: 174
 Capa-link: Lima-de-Freitas
+---

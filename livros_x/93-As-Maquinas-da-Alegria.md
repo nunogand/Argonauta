@@ -1,3 +1,4 @@
+---
 Numero: 93
 title: As Máquinas da Alegria
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 93-As-Maquinas-da-Alegria
 Capa: Lima de Freitas
 pags: 171
 Capa-link: Lima-de-Freitas
+---

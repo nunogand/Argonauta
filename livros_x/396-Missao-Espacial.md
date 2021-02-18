@@ -1,3 +1,4 @@
+---
 Numero: 396
 title: Missão Espacial
 Autor: Chris Claremont
@@ -15,3 +16,4 @@ Titulo-link: 396-Missao-Espacial
 Capa: 
 pags: 
 Capa-link: 
+---

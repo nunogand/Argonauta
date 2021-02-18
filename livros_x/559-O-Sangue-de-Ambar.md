@@ -1,3 +1,4 @@
+---
 Numero: 559
 title: O Sangue de Âmbar
 Autor: Roger Zelazny
@@ -15,3 +16,4 @@ Titulo-link: 559-O-Sangue-de-Ambar
 Capa: 
 pags: 
 Capa-link: 
+---

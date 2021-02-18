@@ -1,3 +1,4 @@
+---
 Numero: 322
 title: A Conquista de Marte 2º volume
 Autor: William Rollo
@@ -15,3 +16,4 @@ Titulo-link: 322-A-Conquista-de-Marte-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

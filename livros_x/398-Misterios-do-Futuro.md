@@ -1,3 +1,4 @@
+---
 Numero: 398
 title: Mistérios do Futuro
 Autor: John E Stith
@@ -15,3 +16,4 @@ Titulo-link: 398-Misterios-do-Futuro
 Capa: 
 pags: 
 Capa-link: 
+---

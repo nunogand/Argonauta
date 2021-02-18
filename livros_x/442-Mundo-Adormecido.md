@@ -1,3 +1,4 @@
+---
 Numero: 442
 title: Mundo Adormecido
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 442-Mundo-Adormecido
 Capa: António Pedro
 pags: 205
 Capa-link: Antonio-Pedro
+---

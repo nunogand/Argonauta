@@ -1,3 +1,4 @@
+---
 Numero: 309
 title: Depois da Bomba
 Autor: Philip K Dick
@@ -15,3 +16,4 @@ Titulo-link: 309-Depois-da-Bomba
 Capa: António Pedro
 pags: 248
 Capa-link: Antonio-Pedro
+---

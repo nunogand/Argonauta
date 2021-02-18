@@ -1,3 +1,4 @@
+---
 Numero: 485
 title: Os Mutantes vêm aí! 2º volume
 Autor: Isidore Haiblum
@@ -15,3 +16,4 @@ Titulo-link: 485-Os-Mutantes-vem-ai-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

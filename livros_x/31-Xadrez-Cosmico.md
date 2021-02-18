@@ -1,3 +1,4 @@
+---
 Numero: 31
 title: Xadrez Cósmico
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 31-Xadrez-Cosmico
 Capa: Cândido Costa Pinto
 pags: 240
 Capa-link: Candido-Costa-Pinto
+---

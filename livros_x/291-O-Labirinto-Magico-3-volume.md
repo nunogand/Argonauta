@@ -1,3 +1,4 @@
+---
 Numero: 291
 title: O Labirinto Mágico 3º volume
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 291-O-Labirinto-Magico-3-volume
 Capa: António Pedro
 pags: 184
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 513
 title: O Planeta das Virgens
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 513-O-Planeta-das-Virgens
 Capa: António Pedro
 pags: 210
 Capa-link: Antonio-Pedro
+---

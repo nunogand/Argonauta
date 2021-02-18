@@ -1,3 +1,4 @@
+---
 Numero: 355
 title: A Porta das Estrelas 1º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 355-A-Porta-das-Estrelas-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

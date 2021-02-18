@@ -1,3 +1,4 @@
+---
 Numero: 25
 title: O Reino das Mulheres
 Autor: Jerry Sohl
@@ -15,3 +16,4 @@ Titulo-link: 25-O-Reino-das-Mulheres
 Capa: Cândido Costa Pinto
 pags: 173
 Capa-link: Candido-Costa-Pinto
+---

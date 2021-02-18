@@ -1,3 +1,4 @@
+---
 Numero: 470
 title: As Vozes do Céu 2º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 470-As-Vozes-do-Ceu-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

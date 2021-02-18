@@ -1,3 +1,4 @@
+---
 Numero: 108
 title: A Cidade Fantástica
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 108-A-Cidade-Fantastica
 Capa: Lima de Freitas
 pags: 243
 Capa-link: Lima-de-Freitas
+---

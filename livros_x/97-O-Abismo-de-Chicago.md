@@ -1,3 +1,4 @@
+---
 Numero: 97
 title: O Abismo de Chicago
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 97-O-Abismo-de-Chicago
 Capa: Lima de Freitas
 pags: 146
 Capa-link: Lima-de-Freitas
+---

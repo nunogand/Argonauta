@@ -1,3 +1,4 @@
+---
 Numero: 298
 title: O Planeta dos Dragões 2º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 298-O-Planeta-dos-Dragoes-2-volume
 Capa: 
 pags: 231
 Capa-link: 
+---

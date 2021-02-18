@@ -1,3 +1,4 @@
+---
 Numero: 241
 title: Tigre! Tigre!
 Autor: Alfred Bester
@@ -15,3 +16,4 @@ Titulo-link: 241-Tigre!-Tigre!
 Capa: David Pelham
 pags: 200
 Capa-link: David-Pelham
+---

@@ -1,3 +1,4 @@
+---
 Numero: 395
 title: A Nave das Sombras
 Autor: Vários
@@ -15,3 +16,4 @@ Titulo-link: 395-A-Nave-das-Sombras
 Capa: 
 pags: 
 Capa-link: 
+---

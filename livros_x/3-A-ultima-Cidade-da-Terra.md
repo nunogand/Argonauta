@@ -1,3 +1,4 @@
+---
 Numero: 3
 title: A Última Cidade da Terra
 Autor: Edmond Hamilton
@@ -15,3 +16,4 @@ Titulo-link: 3-A-ultima-Cidade-da-Terra
 Capa: Cândido Costa Pinto
 pags: 234
 Capa-link: Candido-Costa-Pinto
+---

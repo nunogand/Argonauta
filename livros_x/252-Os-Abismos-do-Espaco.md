@@ -1,3 +1,4 @@
+---
 Numero: 252
 title: Os Abismos do Espaço
 Autor: Fred Hoyle
@@ -15,3 +16,4 @@ Titulo-link: 252-Os-Abismos-do-Espaco
 Capa: Manuel Dias
 pags: 228
 Capa-link: Manuel-Dias
+---

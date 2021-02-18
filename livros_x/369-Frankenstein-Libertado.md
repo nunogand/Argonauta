@@ -1,3 +1,4 @@
+---
 Numero: 369
 title: Frankenstein Libertado
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 369-Frankenstein-Libertado
 Capa: 
 pags: 
 Capa-link: 
+---

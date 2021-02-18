@@ -1,3 +1,4 @@
+---
 Numero: 531
 title: A Reinvenção dos Dragões 2º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 531-A-Reinvencao-dos-Dragoes-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

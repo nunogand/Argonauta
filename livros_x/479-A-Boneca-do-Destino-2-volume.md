@@ -1,3 +1,4 @@
+---
 Numero: 479
 title: A Boneca do Destino 2º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 479-A-Boneca-do-Destino-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

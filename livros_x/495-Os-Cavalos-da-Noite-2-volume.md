@@ -1,3 +1,4 @@
+---
 Numero: 495
 title: Os Cavalos da Noite 2º volume
 Autor: C J Cherryh
@@ -15,3 +16,4 @@ Titulo-link: 495-Os-Cavalos-da-Noite-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

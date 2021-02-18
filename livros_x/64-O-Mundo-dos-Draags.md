@@ -1,3 +1,4 @@
+---
 Numero: 64
 title: O Mundo dos Draags
 Autor: Stefan Wul
@@ -15,3 +16,4 @@ Titulo-link: 64-O-Mundo-dos-Draags
 Capa: Lima de Freitas
 pags: 155
 Capa-link: Lima-de-Freitas
+---

@@ -1,3 +1,4 @@
+---
 Numero: 236
 title: Equipagem Espacial
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 236-Equipagem-Espacial
 Capa: Manuel Dias
 pags: 218
 Capa-link: Manuel-Dias
+---

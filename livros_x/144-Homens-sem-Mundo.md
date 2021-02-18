@@ -1,3 +1,4 @@
+---
 Numero: 144
 title: Homens sem Mundo
 Autor: Poul Anderson
@@ -15,3 +16,4 @@ Titulo-link: 144-Homens-sem-Mundo
 Capa: Lima de Freitas
 pags: 180
 Capa-link: Lima-de-Freitas
+---

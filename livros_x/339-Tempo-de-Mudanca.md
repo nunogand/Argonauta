@@ -1,3 +1,4 @@
+---
 Numero: 339
 title: Tempo de Mudança
 Autor: Robert Silverberg
@@ -15,3 +16,4 @@ Titulo-link: 339-Tempo-de-Mudanca
 Capa: 
 pags: 
 Capa-link: 
+---

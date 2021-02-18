@@ -1,3 +1,4 @@
+---
 Numero: 281
 title: Terra Imperial 1º volume
 Autor: Arthur C Clarke
@@ -15,3 +16,4 @@ Titulo-link: 281-Terra-Imperial-1-volume
 Capa: António Pedro
 pags: 171
 Capa-link: Antonio-Pedro
+---

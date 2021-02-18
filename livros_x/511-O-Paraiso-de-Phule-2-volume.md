@@ -1,3 +1,4 @@
+---
 Numero: 511
 title: O Paraíso de Phule 2º volume
 Autor: Robert Asprin
@@ -15,3 +16,4 @@ Titulo-link: 511-O-Paraiso-de-Phule-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

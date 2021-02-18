@@ -1,3 +1,4 @@
+---
 Numero: 420
 title: Desvio Para o Vermelho 1º volume
 Autor: John E Stith
@@ -15,3 +16,4 @@ Titulo-link: 420-Desvio-Para-o-Vermelho-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

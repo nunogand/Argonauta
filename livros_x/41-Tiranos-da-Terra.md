@@ -1,3 +1,4 @@
+---
 Numero: 41
 title: Tiranos da Terra
 Autor: Christian Russel
@@ -15,3 +16,4 @@ Titulo-link: 41-Tiranos-da-Terra
 Capa: Lima de Freitas
 pags: 201
 Capa-link: Lima-de-Freitas
+---

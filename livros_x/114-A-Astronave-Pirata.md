@@ -1,3 +1,4 @@
+---
 Numero: 114
 title: A Astronave Pirata
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 114-A-Astronave-Pirata
 Capa: Lima de Freitas
 pags: 211
 Capa-link: Lima-de-Freitas
+---

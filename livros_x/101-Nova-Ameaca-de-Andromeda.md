@@ -1,3 +1,4 @@
+---
 Numero: 101
 title: Nova Ameaça de Andrómeda
 Autor: Fred Hoyle
@@ -15,3 +16,4 @@ Titulo-link: 101-Nova-Ameaca-de-Andromeda
 Capa: Lima de Freitas
 pags: 246
 Capa-link: Lima-de-Freitas
+---

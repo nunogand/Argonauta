@@ -1,3 +1,4 @@
+---
 Numero: 275
 title: Heróis Galácticos
 Autor: E E Doc Smith
@@ -15,3 +16,4 @@ Titulo-link: 275-Herois-Galacticos
 Capa: 
 pags: 
 Capa-link: 
+---

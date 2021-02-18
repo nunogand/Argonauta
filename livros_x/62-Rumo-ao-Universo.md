@@ -1,3 +1,4 @@
+---
 Numero: 62
 title: Rumo ao Universo
 Autor: A E Van Vogt
@@ -15,3 +16,4 @@ Titulo-link: 62-Rumo-ao-Universo
 Capa: Lima de Freitas
 pags: 156
 Capa-link: Lima-de-Freitas
+---

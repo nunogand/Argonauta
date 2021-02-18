@@ -1,3 +1,4 @@
+---
 Numero: 176
 title: O Outro Lado do Espaço
 Autor: Fred Hoyle
@@ -15,3 +16,4 @@ Titulo-link: 176-O-Outro-Lado-do-Espaco
 Capa: Lima de Freitas
 pags: 173
 Capa-link: Lima-de-Freitas
+---

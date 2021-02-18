@@ -1,3 +1,4 @@
+---
 Numero: 255
 title: Salvamento no Espaço
 Autor: Cleve Cartmill
@@ -15,3 +16,4 @@ Titulo-link: 255-Salvamento-no-Espaco
 Capa: António Pedro
 pags: 200
 Capa-link: Antonio-Pedro
+---

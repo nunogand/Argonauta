@@ -1,3 +1,4 @@
+---
 Numero: 274
 title: A Irmandade do Talismã
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 274-A-Irmandade-do-Talisma
 Capa: 
 pags: 
 Capa-link: 
+---

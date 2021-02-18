@@ -1,3 +1,4 @@
+---
 Numero: 272
 title: Desígnio Negro 1º volume
 Autor: Philip José Farmer
@@ -15,3 +16,4 @@ Titulo-link: 272-Designio-Negro-1-volume
 Capa: António Pedro
 pags: 228
 Capa-link: Antonio-Pedro
+---

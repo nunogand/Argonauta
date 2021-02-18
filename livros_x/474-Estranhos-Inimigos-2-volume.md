@@ -1,3 +1,4 @@
+---
 Numero: 474
 title: Estranhos Inimigos 2º volume
 Autor: Robert Asprin
@@ -15,3 +16,4 @@ Titulo-link: 474-Estranhos-Inimigos-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

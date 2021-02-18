@@ -1,3 +1,4 @@
+---
 Numero: 346
 title: O Beco dos Malditos
 Autor: Roger Zelazny
@@ -15,3 +16,4 @@ Titulo-link: 346-O-Beco-dos-Malditos
 Capa: 
 pags: 
 Capa-link: 
+---

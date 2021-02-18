@@ -1,3 +1,4 @@
+---
 Numero: 345
 title: A Mais Bela da Lua
 Autor: Larry Niven
@@ -15,3 +16,4 @@ Titulo-link: 345-A-Mais-Bela-da-Lua
 Capa: 
 pags: 
 Capa-link: 
+---

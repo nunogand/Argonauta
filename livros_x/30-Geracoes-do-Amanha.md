@@ -1,3 +1,4 @@
+---
 Numero: 30
 title: Gerações do Amanhã
 Autor: Robert A Heinlein
@@ -15,3 +16,4 @@ Titulo-link: 30-Geracoes-do-Amanha
 Capa: Cândido Costa Pinto
 pags: 262
 Capa-link: Candido-Costa-Pinto
+---

@@ -1,3 +1,4 @@
+---
 Numero: 311
 title: Projecto Papa 1º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 311-Projecto-Papa-1-volume
 Capa: António Pedro
 pags: 181
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 242
 title: O Planeta de Shakespeare
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 242-O-Planeta-de-Shakespeare
 Capa: Manuel Dias
 pags: 193
 Capa-link: Manuel-Dias
+---

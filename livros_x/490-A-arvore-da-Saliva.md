@@ -1,3 +1,4 @@
+---
 Numero: 490
 title: A Árvore da Saliva
 Autor: Brian Aldiss
@@ -15,3 +16,4 @@ Titulo-link: 490-A-arvore-da-Saliva
 Capa: 
 pags: 
 Capa-link: 
+---

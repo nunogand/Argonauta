@@ -1,3 +1,4 @@
+---
 Numero: 418
 title: Cemitério de Lunáticos 2º volume
 Autor: Ray Bradbury
@@ -15,3 +16,4 @@ Titulo-link: 418-Cemiterio-de-Lunaticos-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

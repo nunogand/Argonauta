@@ -1,3 +1,4 @@
+---
 Numero: 338
 title: Onde Mora o Mal
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 338-Onde-Mora-o-Mal
 Capa: 
 pags: 
 Capa-link: 
+---

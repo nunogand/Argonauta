@@ -1,3 +1,4 @@
+---
 Numero: 460
 title: Os Cantores do Tempo 2º volume
 Autor: Frederik Pohl
@@ -15,3 +16,4 @@ Titulo-link: 460-Os-Cantores-do-Tempo-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

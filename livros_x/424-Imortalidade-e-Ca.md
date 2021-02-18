@@ -1,3 +1,4 @@
+---
 Numero: 424
 title: Imortalidade e Cª
 Autor: Robert Sheckley
@@ -15,3 +16,4 @@ Titulo-link: 424-Imortalidade-e-Ca
 Capa: António Pedro
 pags: 200
 Capa-link: Antonio-Pedro
+---

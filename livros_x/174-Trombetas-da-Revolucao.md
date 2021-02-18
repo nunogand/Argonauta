@@ -1,3 +1,4 @@
+---
 Numero: 174
 title: Trombetas da Revolução
 Autor: Lloyd Biggle Jr
@@ -15,3 +16,4 @@ Titulo-link: 174-Trombetas-da-Revolucao
 Capa: Lima de Freitas
 pags: 183
 Capa-link: Lima-de-Freitas
+---

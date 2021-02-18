@@ -1,3 +1,4 @@
+---
 Numero: 347
 title: Moreta de Pern 1º volume
 Autor: Anne McCaffrey
@@ -15,3 +16,4 @@ Titulo-link: 347-Moreta-de-Pern-1-volume
 Capa: 
 pags: 
 Capa-link: 
+---

@@ -1,3 +1,4 @@
+---
 Numero: 357
 title: O Dia em que a Terra Gritou
 Autor: Arthur Conan Doyle
@@ -15,3 +16,4 @@ Titulo-link: 357-O-Dia-em-que-a-Terra-Gritou
 Capa: António Pedro
 pags: 173
 Capa-link: Antonio-Pedro
+---

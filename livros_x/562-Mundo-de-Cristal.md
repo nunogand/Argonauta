@@ -1,3 +1,4 @@
+---
 Numero: 562
 title: Mundo de Cristal
 Autor: Isidore Haiblum
@@ -15,3 +16,4 @@ Titulo-link: 562-Mundo-de-Cristal
 Capa: Rogério Silva
 pags: 230
 Capa-link: Rogerio-Silva
+---

@@ -1,3 +1,4 @@
+---
 Numero: 435
 title: Tácticas de Engano 2º volume
 Autor: Gordon R Dickson
@@ -15,3 +16,4 @@ Titulo-link: 435-Tacticas-de-Engano-2-volume
 Capa: 
 pags: 
 Capa-link: 
+---

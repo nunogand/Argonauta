@@ -1,3 +1,4 @@
+---
 Numero: 431
 title: O Senhor dos Sonhos
 Autor: Roger Zelazny
@@ -15,3 +16,4 @@ Titulo-link: 431-O-Senhor-dos-Sonhos
 Capa: António Pedro
 pags: 197
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 256
 title: Trevas nas Estrelas
 Autor: Edmond Hamilton
@@ -15,3 +16,4 @@ Titulo-link: 256-Trevas-nas-Estrelas
 Capa: António Pedro
 pags: 216
 Capa-link: Antonio-Pedro
+---

@@ -1,3 +1,4 @@
+---
 Numero: 141
 title: Terra Insólita 1º volume
 Autor: Clifford D Simak
@@ -15,3 +16,4 @@ Titulo-link: 141-Terra-Insolita-1-volume
 Capa: Lima de Freitas
 pags: 147
 Capa-link: Lima-de-Freitas
+---

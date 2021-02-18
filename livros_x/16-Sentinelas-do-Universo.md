@@ -1,3 +1,4 @@
+---
 Numero: 16
 title: Sentinelas do Universo
 Autor: Eric Frank Russell
@@ -15,3 +16,4 @@ Titulo-link: 16-Sentinelas-do-Universo
 Capa: Cândido Costa Pinto
 pags: 235
 Capa-link: Candido-Costa-Pinto
+---
