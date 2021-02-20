@@ -1,0 +1,143 @@
+---
+Número: 337
+Título: Os Caçadores do Espaço
+Autor1: E. E. "Doc" Smith
+Autor2: 
+Ano-Publicacao: 1985
+Titulo-original: Spacehounds of IPC
+Tradutor1: Eurico da Fonseca
+Tradutor2: 
+Ano-edicao: 1947
+---
+texto1
+"
+
+
+
+
+
+
+
+
+
+Autor: E.E. Doc. Smith
+
+Título original: Spacehounds of IPC
+
+1ª Edição: 1947
+
+Publicado na Colecção Argonauta em 1985
+
+Capa: A. Pedro
+
+Tradução: Eurico da Fonseca 
+
+
+
+Súmula - Foi apresentada no livro 
+nº336 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
+ do próximo volume da Colecção Argonauta"":
+
+
+
+Os Caçadores do Espaço, é a versão portuguesa de Spacehounds of IPC, a obra que faltava na série Patrulha Galáctica, de E.E. Doc. Smith. Um clássico, portanto - um novo exemplo da Space Opera, que trouxe à ficção-científica tantos e tantos adeptos e que ainda hoje surpreende pelas suas previsões e pelo seu estilo peculiar. Como sempre, a acção é constante, entontecedora. Tudo começa numa nave de passageiros, que voa para Marte. Sem qualquer novidade... até que o gigantesco foguete estremece e parte-se ao meio! O Arcturus, paquete-cruzador tão luxuoso como invencível, está a ser cortado em fatias por ""planos de luz que cegam quem os vê"". Steve e Nadia, separados do resto da nave, observam as ""mortais tesouras de luz"", despedaçando, a pouco e pouco, os destroços. Depois, são capturados por um inimigo terrível... os super-cientistas de Júpiter!
+
+É surpreendente ter ""Doc"" Smith previsto, quando da sua primeira edição do seu livro em 1931, o invento do raio laser, que só apareceria muito mais tarde.
+
+Eis como se inicia este empolgante romance:
+
+
+
+A Arcturus Parte para Marte
+
+ 
+
+Como uma bola de râguebi feita de aço, a Arturus erguia-se na plataforma de largada, como um ovo na sua taça. Com trinta metros de largura e cinquenta de fundo, o berço tinha a superfície interna revestida de fibra e as paredes suportadas pelo aço e o betão da doca. Muito alto, no ar, subia a metade superior da nave espacial - uma massa enorme, cinzenta, de couraça de aço de um metro e vinte e cinco de espessura, curvando-se suavemente até uma proa afilada. Incontáveis centenas de finos riscos verticais cobriam toda a superfície, e aqui e ali o metal apresentava sulcos de centímetros de profundidade - cada risco e cada sulco o registo de qualquer meteorito que quisera discutir o direito de passagem com o cruzador do espaço. 
+
+Um jovem forte abriu caminho através da multidão que se acumulava à entrada. Acenou com a cabeça despreocupadamente ao guarda e juntou-se à torrente de passageiros que fluía através das portas triplas da dupla escotilha e seguia pelo corredor para o centro da nave. No entanto, em vez de entrar por um dos elevadores que transportavam os passageiros para os seus camarotes na parte superior da enorme nave, ele fez abrir sem se saber como uma passagem numa parede de aço aparentemente nua e foi por ela até à sala de comando.
+
+- Olá, Breck! - gritou o jovem, ao aproximar-se da consola do piloto-chefe, atirando ao mesmo tempo o seu saco para um canto. - Salve o seu computador de carne e osso! Porque é que fazes tanto barulho sobre os electrónicos?
+
+- Olá, Steve! - disse o piloto-chefe, ao apertar cordialmente a mão ao jovem. - Estou contente por voltar a ver-te, mas não tentes brincar com o velhote. Sou tão ingénuo que acredito em quase tudo, mas algumas coisas não estão a ser feitas devidamente. Temos estado a gritar bem alto, por bons computadores desde que começaram a exigir-nos uma precisão de um centímetro em cada mudança de aceleração. mas tu és tanto um computador de bordo como eu sou um índio. Não se abatem andorinhas com peças de artilharia de costa!
+
+- Obrigado pelo cumprimento, Breck, mas vou ser o teu computador nesta viagem. Newton, o velho patife, sabe o que vocês têm pela frente e vai fazer qualquer coisa sobre isso, mesmo que tenha de lamber o resto dos directores para o conseguir. Soube que ia estar à solta um par de semanas e pediu-me para seguir nesta viagem e ver o que pudesse. Vou verificar os dados do observatório - eles não sabem que estou a bordo -  eliminar os montes e vales da tua curva de aceleração, se possível informar Newton do que encontrar e do que penso que deva ser feito sobre isso. Vim demasiado cedo?
+
+- Enquanto o recém-chegado falava, tirara a cobertura de um modelo à escala do sistema solar e pusera-o a funcionar sem perda de um momento, colocando à escala do modelo as várias estações de rastreio e procedendo a longos e complicados cálculos. 
+
+O outro homem olhou as largas costas do jovem, curvado enquanto procedia aos cálculos, e no seu rosto preocupado surgiu um sorriso quase paternal, ao responder:
+
+ - Cedo? Tu? Foste sempre assim. Faltam quinze segundos para o zero. Estamos no momento final. - Ligou o gravador automático e o altifalante a um circuito designado por ""Observatório"", aguardou até que uma pequena luz por cima mudasse para verde, e disse:
+
+- Nave Interplanetária Arcturus: Piloto-Chefe Breckenridge; Viagem número quatro três dois nove. Pronto para o rumo final suplementar e dados de voo, Tellus para Marte.
+
+- Os enxames de meteoróides ainda são demasiado numerosos para se viajar com segurança ao longo do rumo estabelecido - ouviu-se imediatamente através do altifalante. - Deve afastar-se mais do plano da elíptica. O éter estará livre para si ao longo da rota E2-P6-W41-K3-R19-S7-M14. Manterá uma aceleração constante de 981,27 metros por segundo entre as estações inicial e de rastreio. A sua largada não terá praticamente qualquer obstáculo, mas terá de usar das maiores precauções ao descer em Marte, porque, para evitar um desvio no estado de ausência de peso e uma perda de trinta e um minutos, deve passar muito perto de dois satélites marcianos. Para fazer isso com segurança deve passar a última estação meteorológica, M14, à hora marcada mais ou menos cinco segundos, à velocidade calculada mais ou menos dez metros, o que dará exactamente a aceleração negativa de 981,27 centímetros por segundo, exactamente sobre o raio-piloto que M14 enviará para si.
+
+- Tudo bem. - Breckenridge observou atentamente o cronómetro triplo e depois desligou e olhou em volta da sala de comando, para as várias partes em que meia dúzia de assistentes mandriavam nos seus postos.
+
+- Comando e energia: verificar! - berrou ele. - Conversores de direcção e propulsão!
+
+O primeiro assistente observou os seus indicadores com atenção, enquanto fazia rodar rapidamente um comutador multipolar. - Conversor: eficiência 100; Projector: reactividade 100; em cada um dos números uma a quarenta e cinco inclusive. Tudo bem.
+
+- Projectores de direcção!
+
+Dois outros comutadores foram rodados de extremo a extremo. - Conversor: eficiência 100; projector: reactividade 100; dirigibilidade: 100; em cada um dos números de um a trinta inclusive, da banda superior, e em cada um dos números um a trinta e dois, inclusive, da banda inferior. Tudo bem.
+
+- Giroscópios!
+
+- 35.000. Em equilíbrio a dez graus. Tudo bem.
+
+- Luzes superiores e placas avisadoras""
+
+O segundo assistente pareceu galvanizado e num visor na frente dele surgiu uma imagem como se ele estivesse a olhar da proa para cima. O ar por cima deles estava cheio de naves de todos os tamanhos e feitios, e de vez em quando a imagem de um dos membros daquela horda voadora brilhava num esplendor violeta quando era apanhado por um dos doze projectores de ultraluz em ensaio.
+
+Luzes superiores e placas avisadoras!
+
+- tudo bem - informou o segundo assistente, e os outros assistentes foram respondendo enquanto a verificação continuou.
+
+Luzes inferiores e placas avisadoras!
+
+- Tudo bem. - Foi a resposta, depois de cada uma das doze ultraluzes da popa ter virado sobre os seus suportes, iluminando todos os reacessos do poço do berço e projectando a imagem noutro visor, num brilhante relevo violeta.
+
+- Detectores laterais e verticais!
+
+- Laterais XP2710 - tudo bem. Verticais AJ4290 - tudo bem.
+
+- Receptores?
+
+- 15270 quilofranks - tudo bem. 
+
+- Acumuladores?
+
+- 700.000 quilofranks-horas - tudo bem.
+
+Depois de tudo verificado, Breckenridge ligou para ""Capitão"" e, quando a luz verde se acendeu, disse:
+
+- Verificação do piloto-chefe - tudo bem.
+
+- Tudo bem - repetiu o altifalante, e o piloto-chefe desligou. Faltavam quinze minutos, durante os quais todos os chefes de departamento foram informando o capitão da nave que tudo quanto se encontrava a seu cargo estava tudo em ordem.
+
+- Tudo bem, Steve? - perguntou Breckenridge ao computador. - Como é que conferes a aceleração e o impulso com o observatório?
+
+- Não muito bem, meu velho. - O jovem franziu a testa. - Eles pensam como astrónomos e não como navegadores. Não fazem desconto algum, nem mesmo para a inversão, e eu conto com quatro milésimos para isso e para os desvios menores. Há os erros das estações de rastreio...
+
+- Erros das estações de rastreio? Mas elas são sempre correctas... é para isso que servem!...
+
+
+
+Nota: embora a sinopse do livro faça menção a este livro como a obra que faltava na série Patrulha Galáctica, a verdade é que segundo outras fontes esta obra não está directamente relacionada com essa saga, não fazendo portanto parte dela. Deixo o link relativos a este facto: Spacehounds of IPC
+
+
+
+""...Earlier ""Doc"" Smith had written the first great novels of interstellar exploration, the Skylark series, and later he created another sweeping multi-volume series about the Galactic Patrol in the Lensman series. But this story, Spacehounds of IPC,
+ stands alone. Although it has many similarities to the Lensmen series, 
+the technology and the lifeforms in the story cannot be reconciled with 
+the universe of the Lensmen. It is possible that Smith may have been 
+planning this story as the beginning of a new series, but he was never 
+to return to this setting (mainly Jupiter and its moons) or to the characters in this story. The story was the first to use the term ""tractor beam"", a name and concept that has been adopted by many subsequent literary works of fiction and other media until present day.""
+
+
+
+
+
+
+"

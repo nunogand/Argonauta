@@ -1,0 +1,75 @@
+---
+Número: 443
+Título: Doutor Mirabilis, 1º volume
+Autor1: James Blish
+Autor2: 
+Ano-Publicacao: 1994
+Titulo-original: Doctor Mirabilis
+Tradutor1: António Porto
+Tradutor2: 
+Ano-edicao: 1964
+---
+texto1
+"
+
+
+
+
+
+
+Autor: James Blish
+
+Título original: Doctor Mirabilis
+
+1ª Edição: 1964
+
+Publicado na Colecção Argonauta em 1994
+
+Capa: A. Pedro
+
+Tradução: António Porto
+
+
+
+Súmula - Foi apresentada no livro 
+nº442 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
+ do próximo volume da Colecção Argonauta"":
+
+
+Na sequência de O Dia Depois do Juízo Final (nº402) e de Páscoa Negra (nº433), completa-se agora a famosíssima trilogia de James Blish intitulada After Such Knowledge, a qual lhe granjeou inúmeros admiradores, graças ao estilo da sua escrita e à qualidade e profundidade dos seus temas.
+
+A figura central de Doutor Mirabilis - obra dividida em dois volumes - é Roger Bacon, o monge herético, ocultista e genial, que o autor considera um homem dotado de uma visão que se estendia para além do nosso tempo, um homem que se arriscava a ser condenado e executado por heresia e magia quando em busca da verdade científica. 
+
+No Prólogo explica James Blish: ...""embora Roger Bacon seja geralmente considerado uma das maiores figuras da História Medieval e, em especial, um dos precursores da ciência moderna, espantosamente poucos factos da sua vida são conhecidos (...) O que resta como conhecimento razoavelmente certo sobre a vida de Roger Bacon dificilmente preencheria um pequeno panfleto e, quanto mais intensivamente se persegue o homem, mais o que, em tempos, foi considerado como correcto a seu respeito tem tendência a fundir-se com a dúvida.""
+
+Teve, assim, James Blish de pôr, mais uma vez, à prova os seus dotes excepcionais para recriar ambientes e épocas, dando sempre amplas mostras da sua cultura e do seu humanismo. Em Doutor Mirabilis, é o século XIII vivido na Inglaterra, em Paris e em Roma, que surge com todo o seu esplendor.
+
+É raro que uma revista científica tão prestigiada como a New Scientist conceda o seu espaço à crítica de uma obra de ficção. Doutor Mirabilis foi uma excepção, e os louvores não faltaram: ""Extraordinariamente poderosa, uma obra plena de interesse e que faz pensar. Blish é um mestre a tecer os factos e a fantasia de uma maneira inextricável.""
+
+Prólogo:
+
+Embora Roger Bacon seja geralmente considerado uma das maiores figuras da História Medieval e, em especial, um dos precursores da ciência moderna, espantosamente poucos factos da sua vida são conhecidos. Existe uma notável lenda sobre ele, mas disso o Bacon histórico foi apenas repositório temporário: a famosa história da cabeça de latão, por exemplo, é uma lenda árabe que surgiu pela primeira vez na Europa no século X, na forma de um conto sobre o poderoso Gerbert (posteriormente Papa Silvestre II), pela mão de William de Malmesbury. Na época do próprio Roger Bacon, era contada a respeito de Alberto Magno. Foi ligada a Bacon somente em finais do século XVI, por intermédio de uma peça do esquecido rival de Shakespeare, Roberto Greene, a qual tinha por título Frei Bacon e Frei Bungay. (A peça em si tem sido considerada uma tentativa de imitar o ""Doutor Fausto"", de Marlowe, mas parece existirem seguros indícios de que a obra de Greene surgiu primeiro; seja como for, merece ser lida, apesar de tudo.) Desde 1589 que a brônzea cabeça tem levado uma vida clandestina como o golem, monstro de Frankenstein, os ""robots"" de Karel Capek e sua inumerável prole e, hoje em dia, talvez com o jogador mecânico de inerte xadrez do Dr. Claude Shannon (segundo Poe). O amanhã adverte-nos, o Dr. Norbert Weiner é impensável para todos nós... e o Dr. Isaac Asimov acha que, provavelmente, será uma boa coisa.
+Todavia, a aparição de Roger Bacon como herói da peça de Greene, não é uma lenda acidental. O histórico Dr. Fausto (figura, na verdade, obscura) transformou-se, de modo idêntico, num veículo de preocupações intemporais da mente humana, o que nos diz bastante sobre nós mesmos, mas quase nada sobre o próprio Fausto. A lenda de Bacon, que não é o tema deste romance, assombrou a Europa da mesma maneira, até finais do século XVII.
+O que resta como conhecimento razoavelmente certo sobre a vida de Roger Bacon, dificilmente preencheria um pequeno panfleto e, quanto mais intensivamente se persegue o homem, mais o que, em tempos, foi considerado como correcto a seu respeito tem tendência a fundir-se com a dúvida. O pouco que sabemos sobre ele como pessoa, vem-nos inteiramente do seu próprio testemunho, em particular na ""Opus Tertium"", no ""Compendium Studil Theologicae"" e numa obra sem título, escrita com a evidente intenção de capear o envio das suas obras ao Papa, a qual costuma ser designada por ""fragmento de Gasquet"". O ""Compendium"", como mostra o meu último capítulo, dá claras indicações da memória lhe estar a falhar e quanto às outras duas obras, destinavam-se a impressionar o seu patrono, não sendo pois inteiramente fiáveis como autobiografia, por estarem eivadas de contradições. 
+À excepção de um escritor anónimo, que viu Bacon numa reunião como a descrita no Capítulo VII, nem uma única alma, no decorrer do seu tempo de vida, conseguiu mencioná-lo pelo nome em escrito que tenha sobrevivido, nem sequer pessoas que ele, obviamente, conhecia na intimidade; e dispõe-se do texto de uma única carta que ""lhe"" foi dirigida, sendo esta o mandado de 1266, do Papa Clemente IV. Um certo Roger Bacon aparece realmente numa das notas de rodapé da ""Chronica Majora"", de Mattew Paris, mas nenhum académico acredita que essa anedota se possa referir a Roger Bacon. (Eu discordo, como consta do Capítulo III, mas não existe, pura e simplesmente forma de levantar esta questão, a não ser por intuição.)
+Está em falta uma quantidade desconhecida da obra propriamente dita de Bacon, para além do facto de nem tudo o que é conhecido ter sido ainda publicado. Ele menciona dois tratados, ""De Generatione"" e ""De Radii"", que ainda não foram encontrados, bem como os muitos manuscritos impublicados não atribuídos do período inicial de Bacon; o manuscrito ""Voynich"", no qual W. R. Newbold afirmou ter descoberto uma descrição elaborada, que esconde um conhecimento da anatomia humana, surpreendente, mesmo para Bacon, foi em tempos considerado escrito pela sua própria mão, mas os eruditos modernos desacreditaram tanto a redacção como a autoria (e as cifras, como dolorosamente aprendemos com Ignatius Connelly e seus seguidores, não constituem pistas fiáveis, em relação à autoria do que quer que seja). O único exemplar autenticado da caligrafia de Bacon são as correcções (não o texto) do pedaço da ""Opus Majus"" existente na Biblioteca do Vaticano.
+Finalmente, só o corpo da obra de Bacon já publicado é tão vasto (uns vinte e dois espessos volumes e outras peças mais pequenas) que nunca ninguém tentou algum dia a publicação de uma colecção completa definitiva e as parciais existentes, as de Steele e Brewer, não estão dispostas numa ordem racional. Além do mais, para o leitor que não se entenda bem com o latim medieval, apenas a ""Opus Majus"" e algumas outras obras mais reduzidas foram traduzidas e as respectivas traduções há muito se encontram fora do prelo. É mais fácil havermo-nos com um charlatão como Giambattista della Porta, cuja ""Natural Magick"" pode, actualmente, ser comprada  num fac-símile encadernado da bela impressão inglesa de 1658. Mas um génio universal nasceu rebelde e desordenado, assim permanecendo setecentos anos mais tarde.
+Trata-se de uma situação perfeitamente convidativa para um romancista, desde que ele disponha ao menos de cabeça de latão, para acreditar que é capaz de transformar um génio universal em personagem credível; só não deve fingir que o livro que está a escrever com base nisso é uma biografia de carácter fictício. Dadas as circunstâncias, ser-lhe-ia impossível escrever semelhante obra acerca de Roger Bacon. O que se segue é ficção. Tão fiel em relação à época de Bacon quanto fui capaz de a fazer; pelo menos não há falta de dados sobre o século treze... o problema é escolhê-los de modo selectivo. O próprio Roger Bacon, contudo, é irrecuperável apenas pelos eruditos. O resto é, ou devia ser, uma visão. 
+
+Uma palavra acerca da linguagem:
+O leitor pode perguntar a si mesmo por que motivo é que eu recorri, aqui e ali, a citações em latim, em especial pondo os personagens a falar essa língua grande parte do seu tempo, e eu me ter permitido ter traduzido para inglês o que eles dizem. A razão é que essas excepções, essas ideias e opiniões escritas há sete séculos poderiam, de outro modo, tornarem-se suspeitas de serem interpolações de um autor do século XX. Há sempre uma paráfrase inglesa por perto, mas as citações directas destinam-se a demonstrar que não modernizei a minha figura central, nem necessitei de o fazer.
+Cumpre-me, no entanto, admitir que fiz uma modernização, sendo ela uma adaptação de ""De Multiplicatione Specierum"", incluída no Capítulo XII. Pareceu-me aqui que a terminologia aristotélica que Bacon emprega seria pior que impenetrável à maioria dos leitores modernos. Daí ter seguido o exemplo de Sarton e outros, ao transformar aquilo a que Bacon chama ""a multiplicação das espécies"" (o que, hoje em dia, sugere que ele devia estar a falar de Biologia) em ""a propagação da acção"", o que indica que o assunto de que fala é a Física. Vários outros termos aristotélicos, como ""agente"" e ""paciente"", sofreram às minhas mãos idêntica conversão.
+Quanto ao inglês, segui duas regras: 1) Onde os personagens estão a falar inglês médio, usei um discurso sintético, que preserva grosseiramente a respectiva sintaxe, uma das suas diversas glórias, mas pouco tenta seguir a sua métrica ou o seu vocabulário (e de certeza que não a sua ortografia, a qual era do tipo salve-se-quem-puder). 2) Onde os personagens usam o francês ou o latim, o que sucede na maior parte do tempo, usei o inglês moderno, excepto para indicar se está a ser empregada a forma ""you"", distinção que não deverá causar problemas a ninguém. (A palavra inglesa referida serve tanto para a segunda pessoa do singular ocmo do plural, enquanto que em francês, existem as formas ""tu"" e ""vous"", sendo simultaneamente esta última uma forma de deferência do singular - N. do T.) 
+Sinto-me grandemente em dívida para com W.O. Hassall, da Biblioteca Bodleian, Oxford, por me ter auxiliado a localizar manuscritos pertinentes; para com L. Sprague de Camp, cujos vastos conhecimentos de História da Tecnologia pirateei impiedosamente; para com Ann Corlett, Algis Budrys; L. D. Cole; Virgínia Kidd; Wily Levy, e Henry Kenneth S. White, por me terem, para começar, empurrado para este projecto. 
+
+Arrowhead, Milford.
+Pennsylvania                                                                                                           James Blish
+
+Nota do Tradutor:
+
+No intuito de não tornar fastidiosa a leitura e na sequência da explicação dada pelo Autor no Prólogo, optou-se por não incluir notas de rodapé com traduções de frases latinas, a menos que isso seja indispensável à compreensão do texto. Pelos mesmos motivos se procurará modernizar, sem prejuízo do ""sabor à época"", o inglês arcaico. Assim, não deverá o Leitor estranhar que determinadas frases e citações pareçam escritas num português um tanto invulgar.  
+
+
+
+
+"

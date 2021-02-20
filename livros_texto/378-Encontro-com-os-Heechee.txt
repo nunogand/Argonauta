@@ -1,0 +1,85 @@
+---
+Número: 378
+Título: Encontro com os Heechee
+Autor1: Frederik Pohl
+Autor2: 
+Ano-Publicacao: 1989
+Titulo-original: Heechee Rendezvous
+Tradutor1: Raul de Sousa Machado
+Tradutor2: 
+Ano-edicao: 1984
+---
+texto1
+"
+
+
+
+
+
+
+
+Autor: Frederik Pohl
+
+Título original: Heechee Rendez-Vous
+
+1ª Edição: 1984
+
+Publicado na Colecção Argonauta em 1989
+
+Capa: A. Pedro
+
+Tradução: Raul de Sousa Machado
+
+
+
+Súmula - Foi apresentada no livro 
+nº377 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
+ do próximo volume da Colecção Argonauta"":
+
+
+
+Encontro com os Heechee, de Frederik Pohl, é o novo êxito da Ficção-Científica a publicar na Colecção Argonauta. Pohl é mundialmente considerado como um dos grandes autores da ficção de antecipação e não necessita de apresentações preliminares, tão conhecido é dos leitores portugueses.
+
+Eis como Frederik Pohl concebeu o prólogo de Encontro com os Heechee, que reproduzimos parcialmente:
+
+
+
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...   
+
+
+
+Não sou nenhum Hamlet. Sou um escudeiro, ou melhor, sê-lo-ia se fosse humano. Não o sou. Sou um programa de computador. É um estatuto honroso que em nada me envergonha, em especial porque (como irá ver) sou um programa assaz sofisticado, preparado não só para engendrar uma progressão ou iniciar uma ou duas cenas, como também capaz de citar obscuros poetas do século vinte - sobre os quais falarei mais tarde. 
+
+Falo-lhe agora para iniciar uma cena. Chamo-me Albert, e a minha especialidade são as apresentações, pelo que começarei por me apresentar a mim próprio.
+
+Sou amigo de Robinette Broadhead. Bom, não será bem assim; não tenho a certeza de me poder considerar um amigo do Robin, apesar de me esforçar com denodo por ser amigo dele. Foi com este propósito que eu este ""seu"" em particular) fui criado. Basicamente, sou um simples programa de recolha de informações que foi programado com muitas das características do falecido Albert Einstein. É por isso que o Robin me chama Albert. Há ainda uma outra área de grande ambiguidade: ultimamente tornou-se discutível o facto de o objecto da minha amizade ser mesmo o Robinette Broadhead, pois essa meta assenta na questão de quem (ou o quê) é agora Robinette Broadhead - mas isso é um problema difícil e complicado que teremos de ir resolvendo aos poucos.
+
+Sei que o assunto pode parecer complicado e não posso deixar de sentir que, porventura, não estou a cumprir as minhas funções da melhor maneira, já que as tarefas que me competem (tal como as concebo) consistem na preparação da cena para aquilo que o próprio Robin tem para dizer. É muito possível que nem precise de fazer isso, pois o leitor talvez já saiba aquilo que tenho para lhe comunicar. Se assim é, não me importo de o repetir. Como qualquer máquina, sou bastante paciente. Contudo, você é capaz de preferir saltar por cima destas palavras e seguir direito ao próprio Robin - o que este sem dúvida preferiria.
+
+Façamo-lo pois sob a forma de perguntas e respostas; para o efeito, vou construir dentro do meu programa uma sub-rotina que me irá entrevistar:
+
+P. - Quem é Robinette Broadhead?
+
+R. - Robin Broadhead é um ser humano que foi para o asteróide Gateway e, depois de passar por grandes riscos e traumas, conseguiu iniciar uma imensa fortuna e um ainda maior sentimento de culpa.
+
+P. - Não te ponhas com divagações, Albert, limita-te aso factos. O que é o asteróide Gateway?
+
+R. - É um artefacto deixado pelos Heechee. Há cerca de um meio milhão de anos, aproximadamente, os Heechee abandonaram uma espécie de garagem orbital cheia de naves espaciais em boas condições. Essas naves podiam levar-nos a qualquer ponto da Galáxia, mas os passageiros não tinham a liberdade de escolher o seu destino. (Para mais detalhes, consultar a imagem; criei-a para te mostrar o quão sofisticado sou como programa de tratamento de dados.)
+
+P. - Cuidado, Albert. Só os factos, por favor. Quem são esses Heechee?
+R. - Olha, vamos lá a esclarecer uma coisa! Se ""tu"" me vais fazer perguntas a ""mim"" - e mesmo que não passes de uma sub-rotina do programa que ""eu"" sou-, terás de me deixar responder da melhor maneira possível. Os ""factos"" só por si não chegam. ""Factos"" são aquilo que os programas de recolha e tratamento de dados primitivos produzem, e eu sou bom de mais para perder tempo com isso; tenho de te dar os antecedentes e o contexto da cena. Por exemplo, para te explicar bem o que são os Heechee, tenho de te contar primeiro a história do seu aparecimento na Terra. É assim:
+Aconteceu mais ou menos há meio milhão de anos, nos finais do Pleistoceno. A primeira criatura viva terrestre que se apercebeu da sua existência foi um tigre dentes-de-sabre fêmea. O animal deu à luz um casal de crias, lambeu-as, rosnou para afastar o macho curioso e adormeceu. Ao acordar, descobriu que uma das crias tinha desaparecido. Os carnívoros não...
+P. - Albert, por favor! Estamos a ver a história do Robinette e não a tua, por isso salta o ponto em que ele começa a falar. 
+R. - Já te disse! Se me voltas a interromper, sub-rotina, desligo-te pura e simplesmente! Vamos fazer as coisas à minha maneira, ouviste? Adiante.
+Os carnívoros não sabem contar bem, mas a fêmea era suficientemente esperta para saber a diferença entre um e dois. Infelizmente para as crias, os carnívoros também têm um temperamento levado da breca. A perda de uma cria enfureceu-a e, num paroxismo de fúria, acabou por destruir a outra. É instrutivo observarmos que esta foi a única fatalidade entre os mamíferos a resultar da primeira visita dos Heechee à Terra.
+Os Heechee regressaram uma década depois. Devolveram alguns dos exemplares que tinham levado, incluindo um tigre macho agora crescido e gordo, e levaram novos lotes, desta feita sem serem de quatro pernas. Os Heechee tinham aprendido a destrinçar os vários predadores, e a espécie que escolheram desta vez era um grupo de criaturas peludas com cerca de metro e meio de altura, de caminhar hesitante, testa estreita e sem queixo. Os seus muitos remotos descendentes colaterais, nomeadamente vocês, humanos, chamar-lhes-iam Australopithecus afarensis. Os Heechee não os devolveram. Do seu ponto de vista, estas criaturas pertenciam à espécie terrestre com mais possibilidades de evoluir até à inteligência. Os Heechee interessavam-se extraordinariamente por este tipo de animal, e como tal começaram a sujeitá-los a um programa concebido para forçar a sua evolução em direcção a esse objectivo.
+Como é natural, os Heechee não limitaram as suas explorações ao planeta Terra, mas não descobriram no sistema solar nenhum tesouro tão interessante como aquele. Procuraram por todo o lado. Exploraram Marte e Mercúrio, navegaram no meio da camada de nuvens dos gigantes gasosos para lá da cintura de asteróides, descobriram Plutão lá muito ao fundo, mas nem sequer se deram ao trabalho de o visitar. Escavaram um asteróide excêntrico para aí construírem uma espécie de hangar para as suas naves espaciais, e encheram o planeta Vénus com uma rede de túneis extremamente bem isolados. Não se concentraram em Vénus porque preferiam o clima da Terra; na verdade, detestavam a superfície de Vénus tanto como os humanos; foi por isso que fizeram todas as suas instalações no subsolo. Construíram-nas ali pela simples razão de quem em Vénus, não havia nada vivo que pudesse ser molestado, e os Heechee nunca, mas nunca molestavam quaisquer seres vivos evoluídos - excepto quando a isso se viam obrigados.  
+
+ ... ... ... ... ... ... ... ... ... ... ... ... 
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
+... ... ... ... ... ... ... ... ... ... 
+
+
+
+
+"

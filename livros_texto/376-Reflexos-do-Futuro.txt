@@ -1,0 +1,212 @@
+---
+Número: 376
+Título: Reflexos do Futuro
+Autor1: vários
+Autor2: Bruce Sterling (org.)
+Ano-Publicacao: 1988
+Titulo-original: Mirrorshades
+Tradutor1: Eduardo Saló
+Tradutor2: 
+Ano-edicao: 1986
+---
+texto1
+"
+
+
+
+
+
+
+
+Autor: Bruce Sterling
+
+Título original: Mirrorshades
+
+1ª Edição: 1986
+
+Publicado na Colecção Argonauta em 1988
+
+Capa: A. Pedro
+
+Tradução: Eduardo Saló
+
+
+
+Súmula - Foi apresentada no livro 
+nº375 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
+ do próximo volume da Colecção Argonauta"":
+
+
+
+Desde a Nova Vaga da Ficção-Científica que, como movimento, se impôs na década de 60, que não surge um livro tão ousadamente inovador como Reflexos do Futuro, de Bruce Sterling. Pode afirmar-se que, com esta obra, Sterling atinge o acúmen da imaginação, classificando-se como um dos melhores autores modernos neste género literário. Beleza e tecnicidade - ou, talvez, tecnologia - dão-se as mãos nos contos de Sterling, propondo-nos temas de carácter universal nos quais se espelham uma invulgar ou quase inimaginável inteligência e uma extraordinária argúcia criativa. Reflexos do Futuro é uma obra maior da literatura de antecipação e um jogo no qual um dos parceiros, porventura o mais privilegiado, é o leitor. Não é sem razão que os autores que Sterling apresenta são conhecidos como o grupo dos Neuromatics, uma geração amplamente inovadora que o próprio Isaac Asimov fez incluir no seu célebre magazine de ficção-científica. 
+
+Prefácio:
+
+Este livro apresenta escritores que adquiriram proeminência na década corrente. A sua fidelidade à cultura inglesa distinguiu-os como um grupo - um novo movimento no campo da ficção-científica.
+Este movimento foi reconhecido rapidamente  recebeu muitos rótulos: FC Dura Radical, Tecnólogos, À Margem da Lei, Vaga dos Anos Oitenta, Neuromânticos, Grupo dos Óculos Escuros Espelhados.
+No entanto, de entre todos os que lhes atribuíram e retiraram ao longo do princípio dos anos oitenta, houve um que perdurou: cibermaníacos. 
+Poucos escritores ficam contentes com rótulos - em particular um de ressonância peculiar como cibermaníaco. As etiquetas literárias contêm um tipo curioso de duplo carácter obnóxio: os seus alvos sentem-se classificados e os outros ignorados. E, curiosamente, a rotulagem de grupos nunca se adapta por completo ao indivíduo, o que origina um permanente desconforto. Daí resulta, pois, que o escritor cibermaníaco típico não existe - essa pessoa constitui apenas uma ficção platónica. No tocante ao resto de nós, o rótulo é um incómodo leito de Procustes - (salteador de Ática, que não satisfeito em despojar os viajantes, obrigava-os a deitarem-se num leito de ferro e cortava-lhes os pés, quando excediam o comprimento deste ou esticava-os com cordas, no caso de não o atingirem) - onde nos aguardam os escritores satânicos para nos fazer cair nele e nos adaptarem à sua medida.
+É não obstante, possível desenvolver largas afirmações sobre o cibermaníaco e estabelecer os seus traços característicos. Também o farei dentro de instantes, porque a tentação é demasiado forte para lhe resistir. Os críticos, entre os quais eu próprio, persistem na fabricação de rótulos, mau grado todas as advertências. Temos de proceder assim, porque representa uma fonte válida de discernimento... assim como de grande divertimento.
+Espero apresentar neste meu trabalho uma panorâmica completa do movimento cibermaníaco, com a inclusão das suas primeiras balbuciações e a actual situação da arte. Reflexos do Futuro deve proporcionar aos leitores iniciados no Movimento uma ampla introdução aos princípios, temas, e tópicos da cibermania. A meu ver, trata-se de um mostruário de histórias: exemplos vigorosos e característicos do trabalho de cada autor até à data. Evitei as que já foram mesmo largamente divulgadas em antologias, para que mesmo os devotos inabaláveis encontrem nelas novas visões. 
+A cibermania é um produto do meio social dos anos oitenta - de certo modo, como espero demonstrar mais adiante, um produto definitivo. Mas as suas raízes acham-se profundamente embebidas na tradição sexagenária da ficção-científica popular moderna. 
+Os cibermaníacos como grupo estão entranhados na erudição e tradição do campo da FC. Os seus precursores são uma verdadeira legião. Os escritores cibermaníacos individuais diferem nas suas dúvidas literárias, mas alguns dos mais velhos, porventura ancestrais, revelam uma clara e surpreendente influência.
+Da Nova Vaga: a marginalidade de rua de Harlan Ellison. O clarão difuso de visionário de Samuel Delany. A liberdade alucinante de Norman Spinrad, a estética dura de Michael Moorcock, o arrojo intelectual de Brian Aldiss e, sempre, J.G. Ballard.
+Da tradição mais dura: a concepção cósmica de Olaf Stapledon, a ciência política de H.G.Wells, a extrapolação acerada de Larry Niven, Poul Andersen, e Robert Heinlein. 
+E os cibermaníacos manifestam um carinho especial pelos visionários nativos da FC: a inventiva borbulhante de Philip José Farmer, o brio de John Varley, os jogo da realidade de Philip K.Dick, a elevada e excitante técnica beatnik de Alfred Bester. Com uma admiração especial por um autor cuja integração da tecnologia e literatura se mantém insuperável: Thomas Pynchon.
+Durante os anos sessenta e setenta, o impacto do chamado último movimento da Nova Vaga provocou uma nova preocupação pelo esmero literário na FC. Muitos cibermaníacos escrevem uma prosa assaz escorreita e graciosa - estão apaixonados pelo estilo e revelam-se (segundo alguns afirmam) instintivamente conscientes ao mínimo lapso. À semelhança dos maníacos de 1977, todavia, atribuem grande valor à sua estética tipo banda de garagem. Adoram abordar a medula cura da ficção-científica: as suas ideias. Alguns críticos opinam que o cibermaníaco está a libertar a FC da influência do seu curso central, mais ou menos como o maníaco despiu o rock and roll das elegâncias sinfónicas do ""rock progressista"" da década de 1970. (E outros - os tradicionalistas da linha dura da FC com firme desconfiança da ""ausência da arte"" - discordam com veemência.)
+Tal como o músico-maníaco, o cibermaníaco constitui, até certo ponto, um regresso às raízes. Os cibermaníacos são provavelmente a primeira geração de FC que cresce não só no meio da tradição literária da ficção-científica, mas também num mundo verdadeiramente de ciência-ficção. Para eles, as técnicas de ""FC dura"" - extrapolação, capacidade de divulgação tecnológica - representam não apenas ferramentas literárias como igualmente um auxiliar para a vida quotidiana.
+Na cultura pop, a prática figura em primeiro lugar e a teoria segue, coxeando, na sua esteira. Antes da era dos rótulos, a cibermania era simplesmente o Movimento - um nexo ""geracional"" livre de escritores jovens e ambiciosos que trocavam correspondência, manuscritos, ideias, encómios acalorados e críticas contundentes. Esses autores - Gibson, Rucker, Shiner, Shirley, Sterling - encontravam uma unidade cordial na sua concepção  e temas comuns e até alguns símbolos singularmente comuns, que pareciam brotar do seu trabalho com vida própria. Os Óculos Escuros Espelhados, por exemplo.
+Os óculos escuros espelhados têm sido um totem do Movimento desde os primeiros dias de 1982. As razões do facto não são difíceis de abarcar. Ao ocultarem os olhos, os vidros espelhados evitam que as forças da normalidade se apercebam de que uma pessoa enlouqueceu e é possivelmente perigosa. São o símbolo do visionário de olhos fixos no Sol, do ciclista, do rocker, do  polícia e outros marginais similares. Os óculos escuros espelhados - de preferência amarelos e pretos baços, cores estandarte do Movimento - apareciam em história após história, como uma espécie de emblema literário.
+Esses protocibermaníacos eram designados sucintamente por Grupo dos Óculos Espelhados. No entanto, outros jovens escritores, de igual talento e ambição, não tardaram a produzir trabalhos que os ligaram inconfundivelmente à nova FC. Eram exploradores independentes, cujas produções reflectiam algo de inerente à década, ao espírito dos tempos. 
+Daí o cibermaníaco - rótulo que nenhum deles escolheu. Não obstante, o termo parece actualmente um facto consumado, e existe alguma justiça nele. Com efeito, contém algo de crucial para o trabalho desses escritores, para a década no seu conjunto: um novo tipo de integração. A sobreposição de mundos até então separados: o reino da alta tecnologia e o moderno pop underground. 
+Essa integração tornou-se na fonte crucial de energia cultural da nossa década. A obra dos cibermaníacos desenrola-se paralelamente à cultura pop ao longo dos anos oitenta: no vídeo rock; no underground profundo; na trepidante técnica de rua da música hip-hop e scratch; no rock de sintetizador de Londres e Tóquio. Este fenómeno, esta dinâmica, tem um âmbito global - o cibermaníaco - (N. do T. - ciberpunk) na sua encarnação literária.
+Noutra era, essa combinação poderia parecer forçada e artificial. Do ponto de vista tradicional, tem-se registado um profundo abismo cultural entre as ciências e os estudos humanísticos - entre a cultura literária, o mundo formal da arte e política e a cultura da ciência, o mundo da engenharia e a indústria.
+No entanto, a lacuna esboroa-se de um modo inesperado. A cultura técnica tornou-se incontrolável. Os avanços da ciência são tão profundamente radicais, tão surpreendentes, inquietantes e revolucionários, que já não se podem dominar. Irrompem na cultura em geral, são invasores, encontram-se em toda a parte. A estrutura do poder tradicional, as instituições tradicionais perderam o domínio do ritmo da mudança.
+E, de súbito, torna-se evidente uma nova aliança: uma integração da tecnologia e da contracultura dos anos oitenta. Uma aliança profana do mundo técnico e do mundo da dissensão organizada - o mundo subterrâneo da cultura pop, a fluidez visionária e a anarquia ao nível da rua. 
+A contracultura dos anos sessenta era rural, romantizada, anti-ciência e anti-técnica. Mas havia sempre uma contradição latente no seu âmago, simbolizada pela viola eléctrica. A tecnologia rock era o gume estreito da cunha. Com o rolar dos anos, a técnica do rock tornou-se cada vez mais perfeita, expandindo-se na gravação de alta tecnologia, vídeo por satélite e gráficos de computador. Está a revolucionar lentamente a cultura rock de dentro para fora, até que os artistas de gume cortante do pop são, com notável frequência, também técnicos de gume cortante. Constituem magos de efeitos especiais, mestres de mistura, técnicos de efeitos de gravação, autoridades em gráficos, que se salientam através dos novos órgãos da Comunicação para deslumbrar a sociedade com extravagâncias insólitas, como o cinema FX e as récitas globais do Live Aid. A contradição tornou-se uma integração. 
+E agora que essa tecnologia atingiu um novo auge febril, a sua influência escapou aos controlo e atingiu o nível da rua. Como Alvin Toffler salientou em A Terceira Vaga - uma bíblia para muitos cibermaníacos -, a revolução técnica que reformula a nossa sociedade não se baseia na hierarquia, mas na descentralização; não na rigidez, mas na fluidez.  
+O hacker e o rocker são os ídolos da cultura pop da década, e o cibermaníaco pode considerar-se, em grande parte, um fenómeno pop; espontâneo, enérgico, apegado à suas raízes. Provém do reino em que o hacker do computador e o rocker se sobrepõem, numa iguaria Petri cultural cujos cordões de genes em contorções se unem. Uns consideram os resultados bizarros e mesmo monstruosos, enquanto para outros, a integração é uma poderosa fonte de esperança. 
+A ficção-científica - pelo menos, segundo o seu dogma oficial - tem-se debruçado sempre sobre o impacto da tecnologia. Mas os tempos mudaram desde a era confortável de Hugo Gernsback, quando a ciência permanecia solidamente guardada em relicário - e isolada - numa torre de marfim.A tecnofilia despreocupada desses dias pertence a uma época ociosa extinta, em que a autoridade ainda dispunha de uma margem de controlo confortável.
+Em profundo contraste, para os cibermaníacos, a tecnologia é uma coisa visceral. Não constitui o génio encerrado numa garrafa de remotos luminares da Grande Ciência - é subtil, totalmente íntima. Não fora de nós, mas junto de nós. Sob a nossa pele; com frequência, nas nossas mentes. 
+Ela modificou-se. Já não nos interessam as gigantescas e espectaculares maravilhas do passado: a Barragem Hoover, o Empire State Building, a central de energia nuclear. A técnica dos anos oitenta permanece junto da pele, responde ao contacto: o computador pessoal, o Walkman da Sony, o telefone portátil, as lentes de contacto suaves. 
+Alguns temas centrais surgem repetidamente na cibermania. O da invasão do corpo: membros prostéticos, circuitos implantados, cirurgia cosmética, alteração genética. O tema ainda mais poderoso da invasão da mente: computadores cerebrais interfaciais, inteligência artificial, neuroquímica - técnicas que redefinem radicalmente a natureza do ego.  
+Como Norman Spinrad referiu no seu ensaio sobre a cibermania, muitas drogas, como o rock and roll, são produtos de alta tecnologia indiscutível. Nenhuma contra-cultura da Terra-Mãe nos deu o ácido lisérgico - proveio de um laboratório da Sandoz, e quando brotou, propagou-se através da sociedade como um incêndio incontrolável. Não foi sem justificação que Timothy Leary proclamou os computadores pessoais como sendo ""o LSD dos anos oitenta"" - são ambos tecnologias de potencial radical assustador. E, como tais, constituem pontos de referência constante para a cibermania.
+Como os cibermaníacos também são híbridos, sentem-se fascinados pelas interzonas: áreas onde, segundo as palavras de William Gibson, ""a rua encontra a sua própria utilidade das coisas"". Irritantes, irresistíveis desenhos de rua do clássico artefacto industrial, a lata de spray. O potencial subversivo da impressora doméstica e da fotocopiadora. Música áspera, cujos inovadores de gueto convertem o fonógrafo num instrumento que produz uns acordes arquetípicos dos anos oitenta, em que o funk se mistura com o seco método Burroughs. ""Tudo depende da mescla"" - Isto aplica-se à maior parte da arte dos anos oitenta e é tão extensivo à cibermania como à mania da moda de mistura-e-adapta e à gravação digital de faixas múltiplas.
+Os anos oitenta são uma era de reavaliação, de integração, de influências hibridizadas, de velhas noções libertadas e reinterpretadas com uma nova sofisticação, uma perspectiva mais larga. Os cibermaníacos têm em mente um ponto de vista global de amplo alcance.
+O Neuromancer, de William Gibson, sem dúvida a quinta-essência do romance do cibermaníaco, desenrola-se em Tóquio, Istambul e Paris. O Frontera, de Lewis Shiner, situa cenas na Rússia e no México - assim como na superfície de Marte. O Eclipse, de John Shirley, descreve a Europa Ocidental em efervescência. O Blood Music, de Greg Bear, é global, cósmico mesmo, no seu âmbito.
+As ferramentas de integração global - a rede dos meios de Comunicação via satélite, a corporação multinacional - fascinam os cibermaníacos e figuram constantemente no seu trabalho. O cibermaníaco tem pouca paciência par as fronteiras. O Hayakawa's SF Magazine, de Tóquio, foi a primeira publicação que produziu uma edição ""totalmente cibermaníaca"", em Novembro de 1986. A revista de FC inovadora britânica Interzone também tem constituído um ninho de actividade da cibermania, incluindo trabalhos de Shirley, Gibson e Sterling, assim como uma série de palpitantes artigos de fundo, entrevistas e manifestos. A consciência global é mais do que um artigo de fé para os cibermaníacos - representa uma busca deliberada.
+A acção da cibermania caracteriza-se pela sua intensidade visionária. Os seus escritores enaltecem o bizarro, o surreal, o outrora impensável. Mostram-se propensos - e ansiosos mesmo - para pegar numa ideia e levá-la firmemente para além dos seus limites. À semelhança de J.G.Ballard - modelo idolatrado por muitos cibermaníacos -, empregam com frequência uma objectividade inabalável, quase clínica. É uma análise friamente objectiva, uma técnica inspirada na ciência e depois passada à utilização literária para o valor de choque classicamente da cibermania.
+Com essa intensidade de visão, surge uma forte concentração imaginativa. O cibermaníaco é largamente conhecido pelo seu revelador recurso ao pormenor, à intriga construída com meticulosidade, à tendência para introduzir a extrapolação no tecido da vida quotidiana. Mostra inclinação para  prosa ""apinhada"": erupções rápidas, estonteantes, de informação nova, numa sobrecarga sensorial que mergulha o leitor no equivalente literário da ""parede de som"" do rock duro. 
+A cibermania é uma extensão natural de elementos já presentes na ficção científica, por vezes enterrados, mas sempre ferventes de potencial. Surgiu no interior do género da FC; não constitui uma invasão, mas uma reforma moderna. Em virtude disso, o seu efeito no seio do género foi rápido e poderoso.
+O seu futuro representa uma incógnita em aberto. À semelhança dos artistas do punk e da Nova Vaga, os escritores cibermaníacos, à medida que se desenvolvem podem em breve galopar numa dúzia de direcções simultaneamente. 
+Parece improvável que qualquer rótulo os contenha por muito tempo. A ficção-científica de hoje encontra-se num raro estado de fermentação. É muito possível que o resto da década assista a uma praga de movimentos generalizada, conduzida por uma geração dos anos oitenta cada vez mais volátil e numerosa. Os onze autores incluídos no presente trabalho, constituem apenas uma parte dessa ampla vaga de escritores, e o grupo no seu conjunto já revela sinais de actividade militante e rebeldia. Impulsionados por uma nova noção do potencial da FC, debatem, repensam, ensinam novos truques e velhos dogmas. Entretanto, as ondulações da cibermania continuam a propagar-se, uma excitantes, provocatórias outras - e algumas ""escandalosas"", cujos penosos protestos ainda não se ouvem plenamente.
+O futuro continua por escrever, embora não por falta de tentativas.
+E isto representa uma singularidade da nossa geração de FC: o facto de, para nós, a literatura do futuro ter um longo e honroso passado. Como escritores, temos uma dívida para aqueles que nos precederam, os autores de ficção-científica cuja convicção, empenho e talento nos deliciaram e, na realidade, alteraram as nossas vidas. Essas dívidas nunca são pagas, apenas reconhecidas e - esperamos - transmitidas como um legado aos que nos seguirão.
+Mas são devidas outras referências. O Movimento está largamente em dívida para com a acção paciente dos editores da actualidade. Uma parte substancial do material que segue foi obtido da Omni, uma irmã compiladora do género de histórias na vanguarda do ideologicamente correcto, cuja contribuição para esta antologia se revelou inapreciável. Gardner Dozois figurou entre os primeiros a chamar a atenção da crítica par o Movimento em embrião. Juntamente com Shawna McCarthy, tornou a Isaac Asimov's Science Fiction Magazine, um foco de energia e controvérsia neste campo. A Fantasy and Science Fiction de Edward Ferman constitui sempre uma fonte de alto nível. Interzone, a publicação periódica de ficção-científica mais radical de hoje, já foi mencionada, mas o seu quadro editorial merece um agradecimento especial. Assim como Yoshio Kobayashi, nosso elemento de ligação em Tóquio, tradutor de Schismatrix e Blood Music, por favores demasiados numerosos para referir aqui.
+E, agora, passemos ao espectáculo.
+
+
+                                                                                                                    Bruce Sterling  
+
+
+
+
+
+Contos Publicados: 
+
+
+
+O Contínuo de Gernsback (William Gibson) - pág. 15
+
+
+
+Este conto foi o primeiro trabalho profissional de Gibson publicado.
+
+Nos anos subsequentes, desenvolveu uma produção altamente influente, caracterizada por uma brilhante fusão de ambiente e extrapolação. Os seus romances Neuromancer e Count Zero, contemporâneos da sua Série Sprawn de contos curtos, granjearam-lhe elogios generalizados pela narrativa empolgante, prosa polida e evocativa e representação do futuro pormenorizada e pungente. Estas obras são consideradas textos centrais da ficção-científica contemporânea.
+
+Mas a presente história abriu o caminho. Constituía uma percepção friamente rigorosa dos obstinados elementos do passado - e um toque de clarim de uma nova estética de FC dos anos oitenta.
+
+
+
+Olhos de Serpente (Tom Maddox) - pág. 28
+
+
+
+Em 1986, a nova estética dos anos oitenta encontrava-se no auge. O estado da sua arte acha-se representado brilhantemente por este conto do escritor virginiano Tom Maddox. 
+
+O autor é professor assistente de línguas e literatura da Universidade Estatal da Virgínia. Não se trata de um escritor prolífico, pois a sua produção até à data consiste num punhado de histórias curtas. Não obstante, o seu domínio da dinâmica da cibermania é inexcedível.
+
+Neste conto de ritmo veloz, intensamente visionário, Maddox move-se, rápida e incisivamente, através de uma vasta gama dos temas e obsessões do Movimento. Olhos de Serpente constitui um exemplo notável da cibermania hardcore moderna. 
+
+
+
+A Pecadora (Pat Cadigan) - pág. 52
+
+
+
+A carreira de Pat Cadigan principiou com a década. Os seus trabalhos têm revelado uma larga variedade, desde a fantasia negra e terror à ficção-científica mordaz e original.
+
+O seu estilo reveste-se com frequência de um vigor implacável e correntes subterrâneas de humor negro - uma sensibilidade dos anos oitenta cuja designação só pode ser punk. A sua Série Pathosfinder (que inclui histórias desse tipo, como Nearly Departed), notabilizou-se pelo clima visionário sinistro. 
+
+O seu multifacetado talento contém um dom pronunciado para a cibermania hardcore indiscutível. O presente conto, publicado pela primeira vez em 1985, constitui uma franca colisão de alta técnica com os ambientes obscuros.
+
+O seu primeiro romance intitula-se The Pathosfinder. Actualmente, reside no Kansas.
+
+
+
+Contos de Houdini (Rudy Rucker) - pág. 62
+
+
+
+Rudy Rucker, professor associado de ciência de computadores na Universidade Estatal de San José, é porventura o escritor de ficção-científica mais arrojadamente visionário da actualidade. Desloca-se contra a corrente de muitos autores da especialidade no facto de os seus trabalhos reflectirem, em vez da técnica dura tipo parafusos e porcas, visões radicais inspiradas nos meandros esotéricos da matemática. Alguns dos seus romances mais enaltecidos, como White Light e Software, devem o seu poder imaginativo ao estudo de Rucker da teoria da informação, topológicamente multidimensional e infinitos enquadramentos.
+
+Todavia, a sua obra distingue-se, não por uma aridez filosófica, mas por uma humanidade muito terra-a-terra. E a sua capacidade de narrativa e imaginação fértil estendem-se para além da ideia metafísica. A história que se segue é uma breve, porém perfeitamente construída fantasia. Extraída da sua colectânea de contos curtos intitulada The 57th Franz Kafka, revela a originalidade largamente inventiva do autor no seu clima mais divertido. 
+
+O seu último livro, Mind Tools, quarto trabalho de ciência popular, ocupa-se das raízes conceptuais da matemática e da teoria da informação.
+
+
+
+400 Rapazes (Marc Laidlaw) - pág. 70
+
+
+
+Os escritores cibermaníacos são conhecidos por conceitos bizarros e uma tendência generalizada para o estranho. Marc Laidlaw consegue distinguir-se, mesmo em semelhante companhia. Os seus trabalhos caracterizam-se por justaposições singulares, ângulos de visão inesperados e um humor negro que descamba para o ultravioleta. Obtém inspiração de uma variedade de influências contemporâneas, com particular carinho por tudo o que é misterioso e intuitivo.
+
+O presente conto demonstra a sua inspirada fusão de elementos, misturando ingredientes de mito apocalíptico com as lendas modernas dos bandos de rua urbanos. 400 Rapazes constitui uma mescla temerária genuinamente sinistra, que se aprecia com muito maior facilidade do que se descreve.
+
+Marc Laidlaw vive em São Francisco e o seu último romance intitula-se Dad's Nuke.
+
+
+
+Solstício (James Patrick Kelly) - pág. 89
+
+
+
+O primeiro trabalho de James Patrick Kelly foi publicado em 1975. A sua carreira acelerou-se nos primeiros anos da década de 1980, e escreveu quase duas dezenas de contos curtos e dois romances. O seu segundo livro, Freedom Beach, foi escrito com John Kessel e mereceu encómios pela inventiva original e erudição literária divertida. 
+
+À semelhança de Kessel, Kelly tem sido mencionado a par de um grupo despretensioso de escritores de FC dos anos oitenta, em geral identificados como a nova ala esquerda da ficção-científica, oposta (em teoria) aos interesses técnicos mais duros dos cibermaníacos. 
+
+Em 1985, complicou alegremente as coisas ao publicar o conto que se segue, uma extravaganza de alta técnica e arrojo visionário. Produziu depois mais dois, igualmente inventivos e originais, numa auto-proclamada trilogia cibermaníaca. Com o seu exemplo, Kelly demonstrou uma verdade indiscutível na FC: enquanto os críticos dividem e analisam, os escritores unem e sintetizam. 
+
+
+
+Petra (Greg Bear) - pág. 132  (nota: achei este conto verdadeiramente excepcional!)
+
+Greg Bear vendeu o seu primeiro conto curto em 1966... aos dezasseis anos. Continuou a singrar pelo bom caminho no final dos anos setenta e princípio dos anos oitenta, quando uma revoada de contos e romances o estabeleceu como um escritor a ter em mente.
+A sua obra acha-se fortemente enraizada na melhor tradição intelectual da FC. Autor prolífico, embora disciplinado, orgulha-se do rigor especulativo e respeito pelo facto científico, atitude que o ligou à FC dura tradicional... mau grado os seus enaltecidos trabalhos no campo da fantasia.
+À medida que a sua carreira se desenvolvia, os notáveis dons imaginativos acudiram vigorosamente à superfície e receberam ainda maior impacto graças à perícia disciplinada que aprendeu nos primeiros tempos. A combinação produziu uma FC dura genuinamente radical, de extremo poder visionário, facto demonstrado em romances largamente elogiados, como Blood Music e Eon. 
+O conto que se segue, publicado em princípios de 1982, assinalou o salto arrojado de Bear dos limites tradicionais para um novo reino propício à confusão da mente. Com o seu profundo e pormenorizado desenvolvimento de um conceito verdadeiramente fantástico, apresenta a sua técnica no ponto mais alto.
+
+Até que as Vozes Humanas nos Acordem (Lewis Shiner) - pág. 154
+
+Desde a sua primeira publicação, Lewis Shiner escreveu um largo espectro de contos curtos: mistérios, fantasias e terror, assim como FC. Mas a aparição do seu primeiro romance, em 1984, Frontera, demonstrou o seu papel importante na ficção do Movimento. Frontera combina a estrutura da FC dura e clássica com um quadro pungente da sociedade pós-industrial em princípios do século XXI. O poderoso realismo e tratamento pouco encomiástico dos ícones da ficção-científica, suscitaram acesos comentários.
+A obra de Shiner caracteriza-se por uma pesquisa profunda e construção friamente meticulosa. A prosa vigorosa e rectilínea revela a sua fidelidade à ficção de mistério rígido, assim como a autores importantes como Ellmore Leonard e Robert Stone. 
+Filho de um antropólogo, manifesta predilecção especial pelas estruturas de crenças singulares, como Zeno, a física do quanto e arquétipos míticos. Embora capaz de voos de fantasia bizarros, os seus trabalhos recentes tendem para o realismo directo, despido de sentimentalismos, e um interesse crescente pela política global. O conto que se segue, de 1984, combina imagens míticas e política técnico-social numa mistura cibermaníaca clássica.
+
+Zona Livre (John Shirley) - pág. 169
+
+John Shirley foi com frequência o primeiro a transpor fronteiras que mais tarde se tornaram relva cibermaníaca largamente pisada. Como intérprete do rock, envolveu-se pesadamente na primeira eclosão virulenta do punk na Costa Ocidental. Escritor prolífico, cuja obra inclui romances como City Come A-Walking, The Brigade e a extravaganza de terror Cellars, é bem conhecido pelo seu poder de imaginação pungente e surrealista e explosões de extrema intensidade visionária. 
+Zona Livre, é um excerto independente do seu último projecto - a trilogia Eclipse. De âmbito global, narra um estonteante futuro próximo em que o pop, a política e a paranóia colidem pela sobrevivência numa luta de alta técnica. Sempre pioneiro, com uma influência underground de larga gama, a sua utilização das situações globais pode perfeitamente deixar prever um forte fluxo da política radical na ficção-científica.
+Vive actualmente em Los Angeles, onde actua com a sua banda. 
+
+Vidas de Pedra  (Paul Di Filippo) - pág. 209 
+
+Paul Di Filippo é um escritor com trabalhos publicados de aparição recente, mas uma obra ainda reduzida. Não obstante, começa a atrair as atenções com o seu âmbito ambicioso e imagística sinistramente visionária. 
+A peça que se segue, vinda a lume pela primeira vez em 1985, foi o seu terceiro conto publicado. Com o tema da transformação, mudança social radical e impacto de novas tecnologias, demonstra o firme domínio do autor da dinâmica da cibermania. Vive em Providence, Rhode Island. 
+
+Estrela Vermelha, Órbita de Inverno (Bruce Sterling e William Gibson) - pág. 236
+
+Os contos colaborativos são uma tradição na ficção-científica. E o trabalho colaborativo tem florescido na cibermania, à medida que os escritores que já trabalham estreitamente uns com os outros em conceito e crítica, dão o passo lógico imediato: a criação em conjunto. A colaboração, pela combinação de vozes, permite até certo ponto que o Movimento se exprima com voz própria. 
+Reflexos do Futuro termina com duas colaborações. O presente conto, de 1983, constitui o único trabalho em conjunto, até à data, da autoria de William Gibson e Bruce Sterling - considerados largamente figuras centrais da cibermania. Estrela Vermelha, Órbita de Inverno, demonstra o ponto de vista global dos cibermaníacos, assim como o seu apego ao pormenor meticulosamente investigado e inteiramente conseguido.
+William Gibson escreveu O Contínuo de Gernsback, que abre esta antologia. 
+O primeiro romance de Bruce Sterling foi publicado em 1977, e, até ao momento, escreveu três contos curtos. A sua obra varia através de todos os campos da FC, sem excluir as sátiras cómicas e as fantasias históricas. É porventura mais conhecido pela sua Série Shaper, que inclui o romance Schismatrix, e pela tendência para a ironia, o que o leva por vezes a falar de si próprio na terceira pessoa.
+Vive em Austin, Texas.  
+
+Mozart de Óculos Espelhados (Bruce Sterling e Lewis Shiner) - pág. 259
+
+Esta fantasia despretensiosa de viagem no tempo, emergiu num alegre espírito de camaradagem do Movimento. A sua energia impetuosa e sátira política agressiva constituem sinais inequívocos de escritores que consideram que têm pontos de vista a estabelecer: sobre a América, sobre o Terceiro Mundo, sobre o ""desenvolvimento"" e ""exploração"". E sobre a ficção-científica: de que a energia e divertimento são seus direitos de património naturais.
+A figura de Wolfgang Amadeus Mozart parece revestir-se de uma ressonância especial na presente década, aparecendo no cinema, em peças da Broadway, e em vídeos de rock, assim como na FC. É um caso interessante de sincronismo cultural. Anda algo à solta, nos anos oitenta. E estamos todos envolvidos. 
+
+
+
+"
