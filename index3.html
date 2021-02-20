@@ -23,7 +23,7 @@ layout: default
                     <div class="card-image">
                         <figure>
                             <a href="/livros/{{dados.Titulo-link | append: ".html" }}">
-                                <img src="/assets/front/{{dados.Titulo-link | append: ".jpg"}}"  alt="{{dados.Titulo}}">
+                                <img loading=lazy src="/assets/front/{{dados.Titulo-link | append: ".jpg"}}"  alt="{{dados.Titulo}}">
                             </a>
                         </figure>
                         <p class="subtitle is-size-5 has-text-weight-semibold has-text-white is-family-monospace date">{{dados.Numero}}</p>

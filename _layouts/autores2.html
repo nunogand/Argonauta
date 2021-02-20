@@ -33,13 +33,13 @@ layout: default
             <ul>
               <li>
                 <span class="icon-text">
-                  <span class="icon"><img src="/assets/icons/nascimento.svg" alt="nascimento">
+                  <span class="icon"><img loading=lazy src="/assets/icons/nascimento.svg" alt="nascimento">
                     
                   </span><span>
                 {{ site.data.autores.[b].nascido}}</span></li>
               <li>
                 <span class="icon-text">
-                  <span class="icon"><img src="/assets/icons/morte.svg" alt="morte">
+                  <span class="icon"><img loading=lazy src="/assets/icons/morte.svg" alt="morte">
                     
                   </span>
                 {{ site.data.autores.[b].obito}}</span></span></li>
@@ -58,7 +58,7 @@ layout: default
       <figure class="media-left is-2by1">
         <p class="image">
           <a href="{{baseurl}}/livros/{{g.Titulo-link | append:".html"}}">
-          <img src="/assets/front/thumb100/{{ g.Titulo-link | append:".jpg"}}">
+          <img loading=lazy src="/assets/front/thumb100/{{ g.Titulo-link | append:".jpg"}}">
         </a>
         </p>
       </figure>

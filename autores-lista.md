@@ -21,7 +21,7 @@ title: Lista de Autores
                     <div class="card-image cardimg1">
                         <figure class="image is-1by1">
                         <a href="/autores/{{ link.alias | append: ".html" }}">
-                            <img src="/assets/autores/{{ link.alias | append: ".jpg" }}" alt="{{ g.name }}" class="is-rounded">
+                            <img loading=lazy src="/assets/autores/{{ link.alias | append: ".jpg" }}" alt="{{ g.name }}" class="is-rounded">
                             </a>
                         </figure>
                     </div>
@@ -41,20 +41,20 @@ title: Lista de Autores
                         <p class="card-footer-item">
                             <span class="icon">
                                 <a href="{{site.data.autores[link.alias].enciclopedia}}">
-                                    <img src="/assets/sfe.png"></a>
+                                    <img loading=lazy src="/assets/sfe.png"></a>
                             </span>
                         </p>
                         <p class="card-footer-item">
                             <span class="icon">
                                 <a href="{{site.data.autores[link.alias].isfd}}">
-                                    <img src="/assets/isfdb.png">
+                                    <img loading=lazy src="/assets/isfdb.png">
                                 </a>
                             </span>
                         </p>
                         <p class="card-footer-item">
                             <span class="icon">
                                 <a href="{{site.data.autores[link.alias].wikipedia}}">
-                                    <img src="/assets/w.png"></a>
+                                    <img loading=lazy src="/assets/w.png"></a>
                             </span>
                         </p>
                     </div>
