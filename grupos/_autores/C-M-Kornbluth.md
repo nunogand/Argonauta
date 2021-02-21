@@ -1,5 +1,5 @@
 ---
-layout: autores3
+layout: autores4
 title: C M Kornbluth
 alias: C-M-Kornbluth
 ---

@@ -1,5 +1,5 @@
 ---
-layout: autores3
+layout: autores4
 title: Jack Vance
 alias: Jack-Vance
 ---

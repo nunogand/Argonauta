@@ -1,5 +1,5 @@
 ---
-layout: autores3
+layout: autores4
 title: A E Van Vogt
 alias: A-E-Van-Vogt
 ---

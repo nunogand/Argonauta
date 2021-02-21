@@ -1,98 +1,104 @@
+---
+layout: default
+---
+
+
 {% assign b = page.url | remove: "/autores/" %}
 {% assign autor = site.data.autores | find: "alias", b %}
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
 {% assign livros-autor = site.data.argonauta-alias | find: "alias", b %}
 
+<style>
+  body {
+    background-color: #ffb53d;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23e59a09' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23af7000' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23e9da01' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23d79915' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23c54e4e' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%23af3145' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23b82678' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23c57338' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23b47a11' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%23b3544f' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23ae6f14' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%238a0485' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+  }
+</style>
 
 
 <section class="container">
-    <div class="columns">
-      <div class="column is-one-quarter has-text-centered"> <hr>
-          <figure class="image is-128x128 is-inline-block">
-      <img class="is-rounded"  src="/assets/autores/{{b |append:".jpg"}}" alt="{{ site.data.autores[b].nome-real}}">
-    </figure><p>
-        <h1 class="is-size-3 is-inline-mobile">{{ site.data.autores[b].nome-real }}</h1>
-      </div>
-      <div class="column is-flex is-align-items-center">
-        
-        <blockquote class="bloco"><p>content </blockquote>
-      </div>
+  <div class="columns">
+    <div class="column is-one-quarter has-text-centered">
+      <hr>
+      <figure class="image is-128x128 is-inline-block">
+        <img class="is-rounded" src="/assets/autores/{{b |append:".jpg"}}" alt="{{ site.data.autores[b].nome-real}}">
+      </figure>
+      <h1 class="is-size-3">{{ site.data.autores[b].nome-real }}</h1>
+      <hr>
     </div>
-    
-      <div class="columns">
-      <div class="column is-one-quarter">
-        <hr>
-        
-        <div class="columns pl-3">
-        <div class="column is-full">
-            <br>Lorem qualquer<br>Lorem qualquer<br>Lorem qualquer<br>
-        </div>
-        </div>
-      </div>
+    <div class="column is-flex is-align-items-center has-text-centered">
+
+      <blockquote class="bloco is-inline-block">content </blockquote>
+    </div>
+  </div>
+
+
+  <div class="container is-fluid">
+    <div class="columns is-multiline is-centered is-mobile">
+
+
+
+
+
+      {% for g in livros %}
+      {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
       <div class="column">
-        <hr>
-    <div class="columns is-vcentered is-mobile is-multiline">
-          <div class="column is-full">
-            <article class="media box">
-      <figure class="media-left is-2by1">
-        <p class="image">
-          <img src="https://picsum.photos/100/150">
-        </p>
-      </figure>
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
-            <br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-          </p>
+
+
+        <!--início do cartão-->
+        <div class="capa">
+
+          <div class="book">
+            <div class="book__page book__page--1">
+              <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}">
+            </div>
+
+            <div class="book__page book__page--2">
+              <div class="book__page-front">
+                <div class="page__content">
+                  <hr class="borda_livro">
+                  <h2 class="page__content-author">{{g.Autor}}</h2>
+                  <h1 class="page__content-book-title">{{g.Titulo}}</h1>
+
+
+                  <p class="page__content-credits">
+                    Tradução
+                    <span>{{g.Tradutor}}</span>
+                  </p>
+
+                  <p class="page__content-credits">
+                    Capa
+                    <span>{{g.capa}}</span>
+                  </p>
+                  <hr class="borda_livro fundo">
+                  <div class="page__content-copyright">
+                    <div class="logo-argonauta"></div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
         </div>
-        </div>
-      </article>
-      
       </div>
-    
-        <div class="column is-full">
-            <article class="media box">
-      <figure class="media-left is-2by1">
-        <p class="image">
-          <img src="https://picsum.photos/100/150">
-        </p>
-      </figure>
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
-            <br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-          </p>
-        </div>
-        </div>
-      </article>
-      </div>
-        
-        
-       <div class="column is-full">
-            <article class="media box">
-      <figure class="media-left is-2by1">
-        <p class="image">
-          <img src="https://picsum.photos/100/150">
-        </p>
-      </figure>
-      <div class="media-content">
-        <div class="content">
-          <p>
-            <strong>John Smith</strong> <small>@johnsmith</small> <small>31m</small>
-            <br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-          </p>
-        </div>
-        </div>
-      </article>
-      
-      </div>
-      
-      
-        
+      {% endfor %}
+
+
+
+
+
+
+
+
+
     </div>
-    </div>
+
+
+
+
+  </div>
+</section>

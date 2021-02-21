@@ -1,5 +1,5 @@
 ---
-layout: autores3
+layout: autores4
 title: Gordon R Dickson
 alias: Gordon-R-Dickson
 ---

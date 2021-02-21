@@ -8,102 +8,105 @@ layout: default
 
 
 <section class="container">
-    <div class="columns autores-hero">
-      <div class="column is-5 is-offset-1 is-align-self-flex-end has-text-centered">
-        <h1 class="is-size-1 is-inline-mobile has-text-weight-bold">{{ site.data.autores[b].nome-real }}</h1>
-      </div>
-      <div class="column pb-6">
-        <blockquote class="bloco"><p>
-            
+  <div class="columns autores-hero">
+    <div class="column is-5 is-offset-1 is-align-self-flex-end has-text-centered">
+      <h1 class="is-size-1 is-inline-mobile has-text-weight-bold">{{ site.data.autores[b].nome-real }}</h1>
+    </div>
+    <div class="column pb-6">
+      <blockquote class="bloco">
+        <p>
+
           {{ site.data.autores[b].quote }}
-          </p>
+        </p>
       </blockquote>
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="column is-one-quarter">
+      <div class="columns">
+        <div class="column is-full baixo">
+          <figure class="image">
+            <img class="is-rounded cima" src="/assets/autores/{{b |append:".jpg"}}"
+              alt="{{ site.data.autores[b].nome-real}}">
+          </figure>
+        </div>
+      </div>
+      <div class="columns pl-3">
+        <div class="column is-full">
+          <ul>
+            <li>
+              <span class="icon-text">
+                <span class="icon"><img loading=lazy src="/assets/icons/nascimento.svg" alt="nascimento">
+
+                </span><span>
+                  {{ site.data.autores[b].nascido}}</span></li>
+            <li>
+              <span class="icon-text">
+                <span class="icon"><img loading=lazy src="/assets/icons/morte.svg" alt="morte">
+
+                </span>
+                {{ site.data.autores[b].obito}}</span></span></li>
+          </ul>
+        </div>
       </div>
     </div>
-    
-      <div class="columns">
-      <div class="column is-one-quarter">
-        <div class="columns">
-          <div class="column is-full baixo">
-      <figure class="image">
-      <img class="is-rounded cima" src="/assets/autores/{{b |append:".jpg"}}" alt="{{ site.data.autores[b].nome-real}}">
-    </figure>
-         </div>
-         </div>
-        <div class="columns pl-3">
-        <div class="column is-full">
-            <ul>
-              <li>
-                <span class="icon-text">
-                  <span class="icon"><img loading=lazy src="/assets/icons/nascimento.svg" alt="nascimento">
-                    
-                  </span><span>
-                {{ site.data.autores[b].nascido}}</span></li>
-              <li>
-                <span class="icon-text">
-                  <span class="icon"><img loading=lazy src="/assets/icons/morte.svg" alt="morte">
-                    
-                  </span>
-                {{ site.data.autores[b].obito}}</span></span></li>
-            </ul>
-        </div>
-        </div>
-      </div>
-      <div class="column">
-    <div class="columns is-vcentered is-mobile is-multiline borda">
+    <div class="column">
+      <div class="columns is-vcentered is-mobile is-multiline borda">
 
-      {% for g in livros %}
-      {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}      
-     
-      <div class="container is-fluid">
-        <div class="columns is-multiline centrado">
+        {% for g in livros %}
+        {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
 
-      <!--início do cartão-->
-    <div class="capa">
+        <div class="container is-fluid">
+          <div class="columns is-multiline centrado">
 
-        <div class="book">
-          <div class="book__page book__page--1">
-            <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}">
-          </div>
-  
-          <div class="book__page book__page--2">
-            <div class="book__page-front">
-              <div class="page__content">
-                <hr class="borda_livro">
-                <h2 class="page__content-author">{{g.Autor}}</h2>
-                <h1 class="page__content-book-title">{{g.Titulo}}</h1>
-                
-  
-                <p class="page__content-credits">
-                  Tradução
-                  <span>{{g.Tradutor}}</span>
-                </p>
-  
-                <p class="page__content-credits">
-                  Capa
-                  <span>{{g.capa}}</span>
-                </p>
-   <hr class="borda_livro fundo">
-                <div class="page__content-copyright">
-                  <div class="logo-argonauta"></div>
-                  
+            <!--início do cartão-->
+            <div class="capa">
+
+              <div class="book">
+                <div class="book__page book__page--1">
+                  <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}">
                 </div>
+
+                <div class="book__page book__page--2">
+                  <div class="book__page-front">
+                    <div class="page__content">
+                      <hr class="borda_livro">
+                      <h2 class="page__content-author">{{g.Autor}}</h2>
+                      <h1 class="page__content-book-title">{{g.Titulo}}</h1>
+
+
+                      <p class="page__content-credits">
+                        Tradução
+                        <span>{{g.Tradutor}}</span>
+                      </p>
+
+                      <p class="page__content-credits">
+                        Capa
+                        <span>{{g.capa}}</span>
+                      </p>
+                      <hr class="borda_livro fundo">
+                      <div class="page__content-copyright">
+                        <div class="logo-argonauta"></div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
               </div>
+
             </div>
           </div>
-  
+
         </div>
-  
-    </div></div>
-  
+
+
+
+        {% endfor %}
+
+
+
+
       </div>
-
-
-
-      {% endfor %}
-        
-      
-      
-        
-    </div>
 </section>

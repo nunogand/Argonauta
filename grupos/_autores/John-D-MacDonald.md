@@ -1,5 +1,5 @@
 ---
-layout: autores3
+layout: autores4
 title: John D MacDonald
 alias: John-D-MacDonald
 ---
