@@ -10,7 +10,7 @@ Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1951
 review: |
-  Escrito em 1951. O mundo tinha poucos anos antes descoberto o poder do átomo. O livro, esse, explora um possível cenário pós-atómico onde o homem é masculino e a mulher é feminina. Com tudo o que isso implicava na década de 50.
+  Escrito em 1951. O mundo tinha poucos anos antes descoberto o poder do átomo. O livro, esse, explora um possível cenário pós-atómico onde o homem é masculino e a mulher é feminina. Porque era assim na década de 50.
 ---
   
 Autor: Edmond Hamilton (a capa tem uma gralha no nome do autor)Título original: The City At Worldtitle:s End
