@@ -9,6 +9,8 @@ Titulo-original: The Green Man of Graypec
 Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1935
+review: |-
+  Na realidade o título original diz respeito à primeira publicação do romance na revista Wonder Stories de Julho a Setembro de 1935. O livro já saiu com o nome The Green Man of Kilsona.
 ---
 Autor: Festus Pragnell
 Título original: The Green Man of Graypec
@@ -119,7 +121,3 @@ ficção, obra essa que na América constituiu um dos grandes êxitos
 literários deste ano.
 
 Por tudo isto, é natural que desperte enorme interesse. 
-
-
-Nota: este livro é uma das minhas memórias mais gratas relativamente à Colecção Argonauta. Devo tê-lo comprado quando tinha para aí uns 15 ou 16 anos e andei a juntar dinheiro para o conseguir. Custou-me na altura (1977-1978) mil escudos num senhor que tinha uma barraquinha de livros em segunda-mão no Beco dos Peixinhos, em Sapadores, onde já tinha comprado vários livros. Foi muito caro, na altura. E foi por esse tempo que eu decidi que um dia havia de ter a Colecção Argonauta toda. E consegui. Demorei foi mais de 40 anos a consegui-lo. 
-.
