@@ -5,10 +5,11 @@ title: O Universo Vivo
 Autor1: Jimmy Guieu
 Autor2: 
 Ano-Publicacao: 1954
-Titulo-original: Ltitle:Univers Vivant
+Titulo-original: L'Univers Vivant
 Tradutor1: Rui Bandeira
 Tradutor2: 
 Ano-edicao: 1953
+review: |
 ---
 
 Autor: Jimmy Guieu
