@@ -5,10 +5,12 @@ title: A Última Cidade da Terra
 Autor1: Edmond Hamilton
 Autor2: 
 Ano-Publicacao: 1954
-Titulo-original: The City at Worldtitle:s End
+Titulo-original: The City at Worldtitle's End
 Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  Escrito em 1951. O mundo tinha poucos anos antes descoberto o poder do átomo. O livro, esse, explora um possível cenário pós-atómico onde o homem é masculino e a mulher é feminina. Com tudo o que isso implicava na década de 50.
 ---
   
 Autor: Edmond Hamilton (a capa tem uma gralha no nome do autor)Título original: The City At Worldtitle:s End
