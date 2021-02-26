@@ -9,6 +9,8 @@ Titulo-original: The Martian Chronicles
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  Uma das obras-primas de Bradbury em que se conta a história da colonização de marte pelo Homem e sua subsequente destruição.
 ---
 Autor: Ray Bradbury
  
@@ -31,5 +33,3 @@ Janeiro de 1999. Os homens persistem na sua luta para a conquista de Marte. Os m
 Fevereiro de 1999. O senhor e a senhora K vivem numa casa com pilares de cristal mesmo à borda de um mar extinto. Os seus antepassados tinham vivido na mesma casa, que girava sobre si e seguia o Sol, como as flores o fizeram, durante séculos. O senhor e a senhora K não eram velhos, tinham a pele de um loiro escuro, próprio de verdadeiros marcianos, olhos de um amarelo doirado e vozes suavemente musicais.
 Já o ano 2009 rondava, quando se deu o choque das duas civilizações. O casal K - como milhares de outros marcianos, puderam assistir à chegada de uns seres estranhos, com olhos azuis e castanhos, cabeços pretos e loiros, vestindo trajes que eles jamais viram. Os homens atingiram Marte e a partir daí começaria uma luta constante, cada um com a sua mentalidade. A nova conquista foi sentida de várias formas e provocou reacções diferentes, e os  marcianos puderam assistir, apavorados, a um mar de paixões que se entrechocaram... O estudioso, sempre atento a novas descobertas e vivendo alheio aos interesses materiais; o militarista, que tudo destrói na sua paasagem para conquistar o novo planeta; o comerciante, que procura novas formas de negócio com as maravilhas postas ao seu alcance; o antropologista, que encontrava ao seu dispôr um novo manancial de estudo - todos, cada um seguindo os seus sentimentos, procuram alojar-se no novo planeta.
 Os homens da Terra, tinham finalmente conquistado o fantástico.
-
-Nota: Ray Bradbury, é considerado por muitos como ""O Poeta da Ficção Científica"", tendo a Colecção Argonauta publicado algumas das suas obras mais extraordinárias.
