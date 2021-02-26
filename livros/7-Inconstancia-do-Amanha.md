@@ -9,18 +9,9 @@ Titulo-original: Tomorrow Sometimes Comes
 Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  O título francês é bem mais sugestivo: "Le lendemain de la machine". Porque é disso que se trata.
 ---
-Autor: F. G. Rayer
- 
-Título original: Tomorrow Sometimes Comes
- 
-1ª Edição: 1951
- 
-Publicado na Colecção Argonauta em 1954
-Capa: Cândido Costa Pinto 
- 
-Tradução: Fernando Moutinho
-
 Súmula
  - foi apresentada no livro nº6 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":."...Perto de campo de aviação, não havia o mais pequeno sinal de vida. O Inverno cobria tudo com o seu manto branco, e as ruínas e os destroços dos edifícios, deformados na sua perspectiva pela alvura da neve pareciam negar a sua origem humana...
