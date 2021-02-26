@@ -10,6 +10,9 @@ Tradutor1: Rui Bandeira
 Tradutor2: 
 Ano-edicao: 1953
 review: |
+  Grand Prix du Roman Science-Fiction 1954
+  Prix du Roman Esotérique 1969
+  Grand Prix du Roman S.F. Claude Auvray 1973
 ---
 
 Autor: Jimmy Guieu
