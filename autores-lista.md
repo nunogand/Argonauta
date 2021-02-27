@@ -16,8 +16,8 @@ title: Lista de Autores
             {% for g in autores %}
             {% assign link = site.data.argonauta-autores | find: "Autor" , g.name %}
 
-            <div class="column is-one-fifth-desktop is-one-quarter-tablet is-half-mobile">
-                <div class="card card1 card-equal-height">
+            <div class="column is-one-fifth-desktop is-one-quarter-tablet">
+                <div class="card card-equal-height">
                     <div class="card-image cardimg1">
                         <figure class="image is-1by1">
                         <a href="/autores/{{ link.alias | append: ".html" }}">
