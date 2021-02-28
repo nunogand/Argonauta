@@ -13,6 +13,16 @@ review: |-
   O livro, um claro produto do ano em que foi escrito, lembra-nos uma era em que a possibilidade de construir uma nave espacial no celeiro lá de casa não era visto como uma impossibilidade futura. 
   
   O autor, um conceituado engenheiro e inventor da Inglaterra do início do século XX, escreveu muitos livros de divulgação científica embora apenas 4 romances de ficção científica destinados a um público mais jovem, um dos quais este. Era à data presidente da British Interplanetary Society.
+
+  lista:
+  <div class="content">
+  <ol type="i">
+  <li>a</li>
+  <li>b</li>
+  <li>c</li>
+  <li>c</li>
+  </ol>
+  </div>
 ---
 # Prefácio:
 
