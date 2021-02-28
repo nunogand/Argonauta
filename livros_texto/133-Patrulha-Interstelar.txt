@@ -8,17 +8,9 @@ Titulo-original: Crashing Suns
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Edmond Hamilton
 
 Título original: Crashing Suns
@@ -47,8 +39,5 @@ Edmond Hamilton é um dos mais antigos e maiores nomes da Ficção-Científica. 
 A ele se deve a criação do chamado ""sentido da maravilha"", que floresceu nos cinco anos que se seguiram ao início da publicação da primeira revista de Ficção-Científica, por Hugo Gernsback, e que se caracterizava pela descrição de estranhos mundos e de estranhas civilizações, e de aventuras épicas, ocorridas nas sete partidas do Universo. A esse período - o ""período clássico"" de Hamilton - seguiu-se um interregno, caracterizado pela produção de obras para a rádio - então nascente. E ainda que as aventuras do ""Capitão Futuro"", imaginadas por Hamilton, fossem essencialmente destinadas ao público juvenil e o houvessem afastado durante muitos anos da sua verdadeira carreira, certo é que contribuiram para chamar a atenção de muitos jovens norte-americanos para a carreira científica e para a aventura do espaço, formando a mentalidade da geração que viria a construir as  primeiras naves lunares. 
 Depois da segunda guerra mundial, Edmond Hamilton iniciou uma carreira com a publicação de uma pequena novela - How Was It Like Out There? - em que, em poucas páginas, descrevia num tom profundamente humano, que viria a fazer escola, o drama de uma expedição ao planeta Marte, recordado por um dos sobreviventes, não um herói, como os do seu ""período clássico"", mas sim um homem como qualquer outro. E anos mais tarde, surgiria A Última Cidade na Terra (nº3), uma obra inesquecível, a que outras e outras se seguiram. Até que em 1964 a Convenção Mundial da Ficção-Científica o designou como seu convidado de honra, por ser o autor que mais influíu no progresso de tal género literário, tanto no passado como no presente.
 Tal como na sua obra Luta Intergaláctica (nº92), a Patrulha Interstelar - a célebre Patrulha Interstelar da Federação dos Sóis, que tornou Edmond Hamilton no mais popular autor de Ficção-Científica durante muitos anos - pertence ao ""período clássico"". Os pormenores científicos, nela, têm uma importância secundária, perante a riqueza da imaginação do autor - imaginação que pode ser surpreendente, mas que, no fim, em nenhum momento é sinónimo da impossibilidade e da fantasia. Porque ninguém, ontem, hoje e talvez durante muitos e muitos séculos, poderá dizer se os mundos, as raças e os costumes descritos por Hamilton existem ou não. 
-
-
-
 
 "

@@ -8,18 +8,11 @@ Titulo-original: The Vortex Blaster
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: E.E.""Doc"" Smith
-
-
 Título original: The Vortex Blaster 
 
 1ª Edição: 1960
@@ -29,15 +22,9 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº312 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Os Senhores do Vórtice - no original The Vortex Blaster e mais tarde Masters of The Vortex, é considerado por alguns como o último volume da célebre série dos Portadores da Lente (Lensman) de E.E. ""Doc"" Smith, cujos volumes anteriores já foram publicados na Colecção Argonauta (Triplanetária, nº 259; O Planeta Secreto, nº 265; Patrulha Galáctica, nº 270; Heróis Galácticos, nº 275; A Lei do Espaço, nº 288 e Os Filhos do Cosmos, nº 302). Outros, todavia, discordam dessa inclusão, porque as figuras principais são outras, sem ligação com as anteriores.
 
 Mas o estilo é o mesmo - um estilo ímpar, que maravilhou aqueles que, nos anos 30, ainda antes do começo da exploração do espaço cósmico, sonhavam com maravilhas. Ainda que ""Doc"" Smith tivesse escrito esta última obra muito mais tarde, já nos anos 50, e a tivesse dedicado a Robert A. Heinlein.
@@ -45,14 +32,9 @@ Mas o estilo é o mesmo - um estilo ímpar, que maravilhou aqueles que, nos anos
 Quanto ao resto, bastará dizer que a Patrulha Galáctica continua presente. Boskone desapareceu, mas o mal persiste. A luta contra o mal tem de continuar e é a vez de Storm Cloude, o ""génio da nucleónica"" - como diz ""Doc"" Smith -, intervir com a sua nave Vortex Blaster, perseguindo e destruindo os vórtices, os turbilhões de ""fogo nuclear"" que surgem não se sabe de onde e, em número incontável, ameaçam os planetas por toda a Galáxia.
 
 Eis o começo deste volume:
-
-
 ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Dispositivos de segurança que não protegem.
 
 Navios
@@ -122,13 +104,8 @@ Mesmo
 Três"", ou ""Tellus do Sol"", ou simplesmente ""Tellus"" - a questão era 
 desprezível. Um homem morrera, mas ao morrer acrescentara uma página 
 negativa ao espesso volume de resultados negativos já reunidos.
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ...  
-
-
-
 
 "

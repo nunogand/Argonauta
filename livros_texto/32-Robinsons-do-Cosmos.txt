@@ -8,15 +8,9 @@ Titulo-original: Les Robinsons du Cosmos
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Francis Carsac Título original: Les Robinsons du Cosmos
 
@@ -30,14 +24,9 @@ Para que escrever este livro? Poucos de entre vós, sem dúvida, o lerão. Já c
 Na época em que começa  a minha história, não era eu o velho curvado e um pouco tonto que hoje sou. Tinha então vinte e três anos e, depois disso, já passaram sessenta! Sessenta anos que deslizaram como rápida onda. Sei que estou a decair: os meus movimentos estão longe de ter a precisão de outrora, canso-me rápidamente e não ligo importância a muitas coisas, salvo aos meus filhos e aos meus netos e também um pouco à geologia e a aquecer-me ao Sol - ou antes, aos Sóis, visto que há dois que nos iluminam. Assim, trato de ditar aos meu neto Pierre - pois as mãos tremem-me demais para escrever - a história magnífica e única de um destino humano. Auxilio-me, para isso, com o diário que durante toda a minha vida escrevi e que destruirei, uma vez a minha tarefa acabada. Tudo o que tem importância, será dito aqui. Para o resto, não estou para entregar à curiosidade, por vezes um pouco sádica, dos historiadores, aquilo que foram as minhas humildes alegrias ou penas.
 
 Enquanto isto, vejo pela janela o trigo ao vento, e parece-me por um momento ter voltado à minha Terra natal, até ao momento em que noto que as árvores têm duas sombras...
-
-
-
 Com este prólogo inicia Jean Bournat o seu livro, espantosa história de um punhado de homens lançados num mundo desconhecido por um inexplicável cataclismo. As suas espantosas descobertas, o seu encontro com outros seres pensantes, habitantes desse estranho mundo baptizado Tellus, as suas lutas e progressivas explorações de um novo universo, tornam Robinsons do Cosmos um dos mais atraentes livros de ficção-científica publicados nesta colecção.
 
 Nota sobre Cândido Costa Pinto (1911-1977):
-
-
 Entre o início dos anos 20 e o início dos anos 70, Cândido Costa Pinto
  desenvolveu uma obra imensa explorando, com notável virtuosismo, 
 diferentes suportes, meios e linguagens da pintura à publicidade, da 
@@ -70,11 +59,7 @@ catálogo da exposição de 1951 no SNI escrevia que “se o pintor tem
 fundamentalmente dever de pintar bem, acompanhar de perto os problemas 
 gerais da sua geração é também da sua obrigação.”
 Esquecido durante a década de 1980, a Fundação Calouste Gulbenkian dedicou-lhe uma importante exposição retrospectiva em 1995. Porém, nos últimos dez anos, Costa Pinto, “um homem complicado” (como a si próprio se retratou) e um artista gráfico notável voltou a cair num desconhecimento tão incompreensível quanto injusto.
-
-
 Fonte:
 
 http://reactor-reactor.blogspot.pt/2008/07/cndido-costa-pinto-1911-1977-entre-o.html
-
-
 "

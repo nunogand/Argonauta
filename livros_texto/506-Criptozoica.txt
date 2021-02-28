@@ -8,14 +8,9 @@ Titulo-original: An Age
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 Título original: Cryptozoic
@@ -23,15 +18,9 @@ Título original: Cryptozoic
 Publicado na Colecção Argonauta em 1999 
 Capa: António Pedro
 Tradução: Alexandra Santos Tavares
-
-
-
 Súmula -
  foi apresentada no livro nº505 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Brian Aldiss é um dos mestres, um autor de ficção-científica com um estilo sem igual em beleza e significado, que sabe escolher temas de uma profundidade tal que põem em causa não apenas o futuro da espécie humana para além de todos os horizontes, mas também a sua própria razão de ser.
 
 Criptozóica - cujo primeiro volume agora se apresenta - constitui a versão portuguesa de Cryptozoic e não foge à regra, sendo uma das obras mais importantes que alguma vez se escreveram, no género e além dele. A história, em si, parece simples: Edward Bush é um perito em viagens no tempo e também um assassino recrutado por um regime totalitário para ir até às origens dos tempos. 
@@ -40,8 +29,5 @@ Estavam por ali amontoados ao acaso, e, no entanto, com um significado terrível
 Aquelas formas copromórficas sugeriam elefantes, focas, diplodocos, estranhos animais de escamas e saurópodes, escaravelhos, morcegos, fragmentos de octópodes, pinguins, vermes da madeira, hipopótamos, vivos ou mortos.  
 Surgiram também desajeitadas recordações da psique humana: torsos, ancas, virilhas ligeiramente côncavas, colunas vertebrais, peitos, uma sugestão de mãos e dedos, ombros maciços, formas fálicas: todas diferentes e no entanto todas bem fundidas com as anatomias estranhas em volta naquela agonia solitária da natureza - e todas moldadas ao acaso no betume cinzento, e ao acaso para serem obliteradas.  
 Estendiam-se a perder de vista, empilhadas umas sobre as outras, como se tivessem enchido todo o Criptozóico... ou como se fossem as sinistras previsões daquilo em que se iriam tornar, assim como as pós-imagens daquilo que fora havia muito o passado...  
-
-
-
 
 "

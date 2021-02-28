@@ -8,14 +8,9 @@ Titulo-original: Search the Sky
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Frederik Pohl e C.M. Kornbluth
 
@@ -30,9 +25,6 @@ Tradução: Eurico da Fonseca
 Súmula - foi
  apresentada no livro nº188 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Havia qualquer coisa errada no planeta de Halsey. Qualquer coisa terrível, indefinida. Uma espécie de fadiga mortal e de apodrecimento. Ross sentia-a. Queria fugir dali. Procurar outros horizontes.
 
 Foi então que surgiu, vinda da Terra, uma nave interstelar. Ao ver os descendentes da tripulação original, ao ouvir as histórias por eles contadas, ao fim de uma viagem que demorara séculos, Ross sentiu que tinha que partir - imediatamente!
@@ -40,18 +32,9 @@ Foi então que surgiu, vinda da Terra, uma nave interstelar. Ao ver os descenden
 Porque os outros mundos povoados por colonos idos da Terra não tinham respondido aos sinais da nave interstelar. Talvez a decadência que se respirava em Halsey os tivesse atingido. Seria uma missão difícil,longa e perigosa. Mas havia que procurar a solução do mistério.
 
 Eis o tema de BUSCA NOS CÉUS, uma das obras mais célebres de Frederik Pohl e C.M. Kornbluth - um verdadeiro clássico. - A continuação, num tempo muito distante, de OS MERCADORES DO ESPAÇO.
-
-
-
 Introdução:
-
-
-
 Em Os Mercadores do Espaço, Pohl e Kornbluth descreveram, numa sátira amarga, os extremos a que poderá um dia chegar a sociedade de consumo. Mas mostraram também que a verdadeira aventura do Espaço - a colonização planetária - poderá depender do desenvolvimento de uma civilização mercantil.
 
 Em Busca nos Céus, essa civilização mercantil surge com todos os seus defeitos e com todas as suas vantagens, já não limitada ao Sistema Solar, mas disseminada pelo Universo. Acima de tudo, o problema das viagens interstelares - indispensáveis para a continuidade da existência humana - aparece tratado de uma maneira invulgar. Em vez das imagens clássicas dos impérios galácticos, são as limitações das colónias da Terra, isoladas entre as estrelas, que Pohl e Kornbluth descrevem. Como nenhum outro autor os fez antes ou depois. 
-
-
-
 
 "

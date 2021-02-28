@@ -8,14 +8,9 @@ Titulo-original: Two Hundred Million A. D.
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1943
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: A.E. Van Vogt
 Título original: Two Hundred Million A.D.
@@ -43,14 +38,8 @@ Introdução: 
 A.E. Van Vogt é um dos mais extraordinários autores de ficção-científica. Extraordinário pela sua imaginação, pela versatilidade do seu estilo, umas vezes claro e simples, outras simbólico e enigmático, outras, ainda, brilhante - com um brilho e uma elegância que seria suficiente para o destacar, em qualquer outro género literário.
 
 A Guerra dos Deuses - o célebre Book of Ptath - é um exemplo da luminosidade desse estilo e de uma imaginação que, sendo prodigiosa, não se afasta do razoável. Obra profundamente humana, ainda que situada num futuro longínquo e desumano, relembra na forma e no contexto as velhas lendas egípcias, hindus e aztecas, sugerindo uma pergunta profunda e talvez sem resposta: teriam os tempos nelas descritos sido o reflexo de civilizações superiores, perdidas na noite dos séculos, nas trevas em que a nossa um dia se perderá?
-
-
-
 Obras do autor até agora publicadas na Colecção Argonauta: Slan (nº23), Xadrez Cósmico (nº31), Rumo ao Universo (nº62), A Guerra Contra o Rull (nº91), A Astronave Pirata (nº114), Colónia de Marte (nº127), e A Última Fortaleza Terrestre (nº135).
 
 Nota: Segundo a pesquisa que efectuei, The Book of Ptath era o título original, quando a obra foi publicada na Unknown Worlds em 1947. A obra seria publicada novamente em 1976, com o título Ptath. 
-
-
-
 
 "

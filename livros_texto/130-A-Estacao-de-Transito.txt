@@ -8,72 +8,9 @@ Titulo-original: Way Station
 Tradutor1: Gilberto Almeida
 Tradutor2: 
 Ano-edicao: 1963
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -94,9 +31,6 @@ Publicado na Colecção Argonauta em 1968
  Tradução: Gilberto de Freitas 
 
 Súmula - não foi apresentada qualquer súmula deste livro no livro anterior, nº 130, intitulado O Império Submarino. 
-
-
-
 
 Notas:
 
@@ -119,17 +53,6 @@ O Signo do Cão, de Jean Hougron, é, como Estação de Trânsito, de Clifford D
 Jean Hougron é um nome a reter pelos apreciadores de ficção-científica. Jean Hougron é um escritor da estirpe de Cyrano de Bergerac, Balzac, Chapek (o nome correcto é ""Capek""), Asimov, Bedbury (o editor referia-se obviamente a Bradbury), Heinlein e Simak.
 
 Independentemente de toda esta problemática e mistério, a Estação de Trânsito e O Outro Lado do Tempo (nº 227), constituem para mim as obras mais bonitas que Clifford D. Simak escreveu. Tudo o que o caracteriza como autor está reunido nestas duas obras, da melhor maneira. Belíssimas obras! Fiquem também com o vídeo, onde falo um pouco sobre este tema:
-
-
-
-
-
-
-
-
-
-
-
 
 
 "

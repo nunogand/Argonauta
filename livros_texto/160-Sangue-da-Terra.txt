@@ -8,14 +8,9 @@ Titulo-original: Earthblood
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Keith Laumer e Rosel George Brown
 Título original: Earthblood
@@ -47,16 +42,9 @@ O Sol é apenas uma das muitas e muitas estrelas da Galáxia. A Galáxia é apen
 Mas se o Homem um dia descobrir a maneira de chegar a esses mundos e a essas humanidades, como será diferente a sua missão, o seu destino! Hoje fala-se muito na Glorious Fiction como sendo um novo género literário, em que os aspectos científicos são secundários - sem serem esquecidos, e em que acima de tudo se procura o sentido do belo e do magnífico - da verdadeiras grandeza da missão humana. A verdade, porém, é que nada há de novo nisso - é um desejo que vem desde que os homens aprenderam a falar e a contar histórias. Estava no cantar dos bardos e, antes deles, no Ramayana, na Ilíada, nos Lusíadas e, antes deles, em tantas outras obras, poéticas ou não, que exprimiram o anseio ou o orgulho de raças que tiveram - e por vezes ainda têm - uma missão no mundo.
 As epopeias de hoje já não falam do passado. Porque o progresso faz agora parte da vida humana e constitui também ele uma epopeia. O Homem sonha com o futuro. E é no futuro que imagina a glória. Primeiro foi Edmund Hamilton, com as suas histórias de estranhos seres em estranhos mundos, num universo que já não era o do Sistema Solar, pois que se estendia por todo o céu. Depois vieram as Space Operas, ingénuas, como os romances de cavalaria. E agora, quando tudo já parecia dito sobra a Ficção Gloriosa, ou sobre as Epopeias no Espaço, eis que Keity Laumer e Rosel George Brown apresentam Sangue da Terrra (Earthblood), a mais gloriosa história, a maior epopeia de sempre - e a mais humana de todas. De uma humanidade que se estende além dos próprios humanos.
 Sangue da Terra é um poema heróico. Um poema em prosa. O facto de se situar no futuro em nada o diminui. Antes pelo contrário, porque só quando o Homem ignora os horizontes - do espaço, do tempo, e nele próprio - é verdadeiramente poeta. E herói.  
-
-
-
-
-
 Nota: um livro inesquecível, para mim um dos melhores da Colecção Argonauta.
  Dava um filme espectacular, na minha opinião. Uma obra que me encantou 
 completamente e que povoou e continua a povoar o meu imaginário embora 
 já tenham passado 26 anos desde a primeira vez que a li. Lembrar-me-ei 
 sempre dos Gracis, de Rohan e da sua Stellaraire... e também do Roberto de Ferro!
-
-
 "

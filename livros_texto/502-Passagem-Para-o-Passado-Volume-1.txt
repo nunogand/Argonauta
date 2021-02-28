@@ -8,14 +8,9 @@ Titulo-original: Transfer to Yesterday
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Isidore Haiblum
 Título original: Transfer to Yesterday
@@ -27,14 +22,8 @@ Tradução: Alexandra Santos Tavares
 Súmula -
  foi apresentada no livro nº501 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Todas as reconhecidas qualidades que caracterizam Isidore Haiblum - grande sentido de humor, fértil imaginação e um estilo invulgar - encontram-se patentes neste seu romance, cuja acção decorre no pós-Apocalipse, com o mundo transformado num acampamento militar, repleto de medo e suspeitas.
 
 O poder está nas mãos de facções totalitárias que se enfrentam numa paz podre e os jornais de parede da Cidade falam da ""verdade"" da Associação e da ""benevolência"" da Aliança e do seu chefe, o jovial Padre Pen. No entanto, fora da Cidade, entre as ruínas da civilização, reinam o terror e a morte, a ponto que mesmo James N. Norton, que alterara os livros de História, acabou por transformar-se num foragido. 
-
-
-
 
 "

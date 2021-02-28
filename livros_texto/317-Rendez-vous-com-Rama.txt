@@ -8,14 +8,9 @@ Titulo-original: Rendez-vous With Rama
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Arthur C. Clarke
 
@@ -28,15 +23,9 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº316 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Às 09.46 da manhã de 11 de Setembro, no Verão excepcionalmente belo do ano de 2077, a maior parte dos habitantes da Europa viram uma bola de fogo de um brilho encadeante aparecer no céu, a leste. Segundos depois, era mais brilhante do que o Sol, e enquanto se movia através dos céus - a princípio em absoluto silêncio - deixou atrás dela um turbilhão de poeira e fumo.
 
 Quando passava por cima da Áustria começou a desintegrar-se, produzindo uma série de estrondos tão violentos, que mais de um milhão de pessoas ficaram com a sua audição permanentemente afectada. Foram as mais felizes.
@@ -56,10 +45,5 @@ Chamaram-lhe ""Rama"".
 Mas ""Rama"" não era um meteoro. Nem um asteróide.  
 
 Era um imenso cilindro de metal.O primeiro produto de uma civilização alienígena encontrado pelo Homem.
-
-
-
 Eis o tema de Encontro com Rama. A versão portuguesa de Rendez-Vous with Rama, uma das mais célebres obras de Arthur C. Clarke. Uma das mais célebres obras de ficção-científica, em todos os tempos.
-
-
 "

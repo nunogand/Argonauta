@@ -8,14 +8,9 @@ Titulo-original: The Clocks of Iraz
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: L.Sprague de Camp
 
@@ -42,8 +37,5 @@ Depois das obras de Bradbury - que são pura ficção especulativa e que ningué
 Introdução: (a introdução da obra reproduz todo o texto da súmula, acrescentandto o parágrafo que transcrevo em baixo)
 
 A ironia e o simbolismo juntam-se a cada passo de uma narrativa que decorre no mundo onde as nossas almas teriam existido, antes de descer ao mundo mecânico em que vivemos. Mas a análise crítica de Sprague de Camp, une esses dois mundos, nos seus defeitos e nas suas qualidades. 
-
-
-
 
 "

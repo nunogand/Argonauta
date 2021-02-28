@@ -8,14 +8,9 @@ Titulo-original: Helliconia Spring
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -26,21 +21,12 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº543 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Este é o primeiro volume de uma trilogia. O segundo irá chamar-se O Verão de Helliconia, e o terceiro, O Inverno de Helliconia. 
 
 Uma obra preciosa de um autor consagrado, diversas vezes publicado na Colecção Argonauta, A Primavera de Helliconia começa assim:
-
-
-
 Foi assim que Yuli, filho de Alehaw, chegou a um local chamado Oldorando, onde os seus descendentes prosperaram nos dias melhores que estavam para vir.
 
 Yuli tinha sete anos, era virtualmente um rapaz crescido, quando se agachou sob uma cobertura de pelo com o seu pai e olhou para a imensidão de uma terra conhecida até nessa altura como sendo Campanniat. Tinha despertado de um sono breve com o cotovelo do pai nas suas costelas e a sua vez grossa a dizer:
@@ -91,8 +77,6 @@ Os ""biyelks"" em especial, que avançavam cercados pelos seus irmãos mais pequ
 A multidão de animais estava a atravessar o rio congelado, a fazer agitar a neve. O som que causavam surgiu claro aos dois observadores, não só o som dos seus cascos como o som áspero das suas respirações, e um coro contínuo de grunhidos, do seu resfolegar, e tosse, o tinir dos chifres contra chifres, o batimento claro das orelhas a serem agitadas para afastarem as moscas sempre persistentes. 
 Três ""biyelks"" avançaram juntos sobre o rio gelado. Com um som agudo, o gelo quebrou-se. Fragmentos com quase um metro de espessura surgiram à vista assim que os pesados animais caíram para a frente. Os ""yelks"" entraram em pânico. Os que se encontravam sobre o gelo tentaram dispersar-se em todas as direcções. Muitos deles tropeçaram e foram trucidados pelos outros. O estalar do gelo começou a espalhar-se. A água, cinzenta e feroz, ergueu-se no ar - rápida e friamente, o rio estava ainda a fluir. Avançou, quebrou-se e ergueu-se em espuma, como se estivesse satisfeito por estar livre, e os animais afundaram-se com as bocas abertas, a bramirem.
 Nada deteve os animais que continuavam a avançar. Eram uma força tão natural como o rio. Não paravam de avançar, esquecendo-se dos seus companheiros que tinham caído, esquecendo-se dos ferimentos demasiado profundos abertos no Vark, fazendo uma ponte de corpos caídos, até emergirem na margem seguinte. 
-
-
 *** 
 
 Meu caro Clive,  
@@ -106,8 +90,5 @@ Dedico-te então este livro para teu divertimento, esperando que o aprecies mais
 
 Do teu carinhoso Pai
 Begbroke, Oxford 
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Enchanted Pilgrimage
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1975
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 Título original: Enchanted Pilgrimage
@@ -37,7 +32,4 @@ Clifford D. Simak é um dos autores de ficção-científica mais traduzidos na l
 Sendo o verdadeiro criador daquilo a que hoje se dá o nome de ""ficção especulativa"" - (Speculative Fiction), todos os seus trabalhos, nos tempos modernos, se caracterizam por uma visão muito peculiar da sociedade, voltada menos para a ciência do que para o homem e para todas as criaturas. Simak torna a lenda em realidade, a magia em saber positivo. Por vezes, parece enveredar pela fantasia - mas apenas para explorar melhor, de uma maneira infinitamente filosófica, as teses clássicas da ficção-científica: o mundo do impossível tornado possível. É o que acontece com a presente obra - Enchanted Pilgrimage - que na nossa língua tomou o título de O Outro Lado do Tempo, e que tem por base, mais uma vez, a interdependência das coisas vivas (e até das coisas que julgamos míticas), num mundo que parecerá maravilhoso a uns e que a outros parecerá de pesadelo - num mundo que todos dirão imaginário, mas que bem pode ser paralelo ao nosso.
 
 Nota: se tivesse que escolher uma obra preferida do Clifford D. Simak, tinha várias possibilidades, mas de certeza que acabava por escolher esta... ou a Estação de Trânsito (nº130-A). Este livro para mim reúne da melhor maneira tudo aquilo que aprecio imenso nas obras deste autor. Duendes, Gnomos, Natureza, Bosques, percursos aventurosos acompanhados por seres mágicos da floresta, pântanos, bibliotecas, romance, amizade... neste livro está isso tudo. Escrito daquela maneira especial que só o Clifford conseguia escrever. Um livro mágico!
-
-
-
 "

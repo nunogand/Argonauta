@@ -8,41 +8,19 @@ Titulo-original: Renaissance
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: A.E.Van Vogt
 Título original: Renaissance
-
-
-
 1ª Edição: 1979
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº284 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 De A.E.Van Vogt nada é necessário dizer - excepto que mais uma vez estará representado na Colecção Argonauta, agora com A Última Revolta na Terra, versão portuguesa de Renaissance, uma das suas últimas obras. 
 
 Suponha-se um mundo do futuro - um mundo dominado pelas mulheres e em que os homens usam obrigatoriamente óculos que os tornam passivos e submissos.
@@ -52,9 +30,6 @@ Um dia, o Dr. Peter Grayson descobre acidentalmente uma maneira de se libertar d
 Mas a fenda terá surgido de facto por um simples acidente? Sem que Grayson o saiba, a sua libertação está a ser vigiada por uma organização revolucionária que pretende servir-se dos seus poderes para expulsar os dominadores do mundo. Dominadores esses que não são mulheres - nem humanos!
 
 Eis um pequeno extracto do início desta empolgante obra:
-
-
-
 O físico Grayson ouviu o ruído peculiar - dois estalidos em sucessão rápida.
 
 Ping... Ping - qualquer coisa como isso.
@@ -106,8 +81,5 @@ Deu conta de que o seu pensamento voltara a Miss Haskett. Perguntou-lhe:
 - Por vezes.
 
 - Vai ao cinema? 
-
-
-
 
 "

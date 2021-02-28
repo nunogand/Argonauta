@@ -8,14 +8,9 @@ Titulo-original: Entry to Elsewhen
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Brunner
 
@@ -30,14 +25,9 @@ Tradução: Maria Emília Ferros Moura
 Súmula - foi
  apresentada no livro nº201 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 Um admirável romance de ficção-científica, que vai marcar um ponto alto na Colecção Argonauta e de que damos em seguida um pequeno excerto:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
 Antes de conseguir aceitar a realidade, Cecil Clifford olhou longamente o rosto estragado, em que ainda se discerniam restos da antiga beleza e o cabelo escuro espalhado na almofada. Os olhos encheram-se-lhe súbitamente de lágrimas, que reteve encolerizado. As lágrimas de nada valiam ante a presença da morte.
 
 Finalmente, fez sinal à enfermeira para que cobrisse com o lençol o rosto que outrora amara, e ela obedeceu. Voltou-se de costas e começou a reunir os instrumentos cirúrgicos: reparou que a assistente o fitava com um olhar interrogativo, mas compreensivo. Sentiu a necessidade de explicar.
@@ -107,12 +97,5 @@ Recostou-se na cadeira e cerrou os olhos. Quando os voltou a abrir, viu recortad
 - Sim, recordo-me. Estava inconsciente quando o comboio chegou à última estação e não voltou a falar antes de morrer. Tivemos vários casos semelhantes. Julgo que o nosso pessoal da Secretaria lhes fornece todas as informações, ou não?
 - Sim, de facto - retorquiu Thackeray um tanto mal humorado. - É esse o nosso problema. Quando diz que houve vários casos semelhantes, está a menosprezar um pouco os factos. Houve mais de cem pessoas na cidade de Londres até este momento que ou pediram boleia e morreram nos carros que as transportavam, ou não conseguiram sequer sair dos comboios e autocarros e estavam já em coma quando as tentaram transportar.
 - Centenas? É realmente um número elevado. Mas o que posso fazer pessoalmente?
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
-
-
 "

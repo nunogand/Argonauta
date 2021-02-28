@@ -8,17 +8,9 @@ Titulo-original: Time Out of Joint
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Philip K. Dick
@@ -32,15 +24,9 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº335 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O Homem Mais Importante do Mundo, é a versão portuguesa de Time Out of Joint, de Philip K. Dick. É, pois, uma obra célebre de um autor célebre.
 
 Ragle Gumm tem uma vida calma, fácil. Mora em casa de uns parentes e arranja o bastante para se manter, solucionando problemas e enigmas em jornais... ganhando sempre. No fundo, é um mandrião... mas um mandrião feliz. 
@@ -48,14 +34,6 @@ Ragle Gumm tem uma vida calma, fácil. Mora em casa de uns parentes e arranja o 
 Então, subitamente, começam a acontecer-lhe coisas... Uma barraca de refrigerantes desaparece em frente dos seus olhos, enquanto um pedaço de papel dizendo ""Barraca de Refrigerantes"" flutua no ar na sua direcção. No velho receptor de cristal de galena do sobrinho, ouvem-se mensagens dirigidas a ele... e numa velha revista, encontra referências a coisas que ele sabe nunca terem existido - tais como uma artista supostamente famosa, chamada Marilyn Monroe!
 
 Estaria Ragle Gumm a endoidecer? Ou seria o Universo que estava louco?  
-
-
-
-
-
-
-
-
 
 
 "

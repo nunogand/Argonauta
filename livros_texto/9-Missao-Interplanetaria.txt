@@ -8,14 +8,9 @@ Titulo-original: The Voyage of the Space Beagle
 Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: A. E. Van Vogt
  
 Título original: The Voyage of  the Space Beagle
@@ -42,6 +37,4 @@ Na heterógena equipagem daquele navio do espaço, em que cada homem era um espe
 A incontáveis anos-luz do seu globo natal, lá longe entre as estrelas, aqueles homens viram-se rodeados por estranhars formas de vida que ultrapassavam os seus mais horríveis pesadelos - um monstro de aparência felina, com uma coroa de tentáculos saindo-lhe dos ombros, que se alimentava de seres vivos; uma raça de criaturas com o aspecto de aves e de extraordinários poderes hipnóticos; uma ""Coisa"" diabólica e pavorosa que podia atravessar a matéria sólida e que pretendia fazer do navio a sua própria habitação; e, por último, um ""Ser"" ilimitado e difuso, gasoso e inteligente, que preenchia totalmente o espaço duma galáxia.
 Nas desesperadas lutas que travaram, com essas formidáveis e poderosas formas vivas, os exploradores constataram variadíssimos defeitos básicos nas suas ciências terrestres. E Grosvenor - o único de entre eles que lhes podia valer - quando se viu impedido de aplicar os seus conhecimentos, verificou com amargura que no espaço, como na Terra, o maior inimigo do Homem é o próprio Homem. 
 Eis o ambiente rico de peripécias e expressão verdadeiramente humana em que decorre a viagem do ""Galgo do Espaço"" na sua ""Missão Interplanetária"". 
-
-
 "

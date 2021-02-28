@@ -8,15 +8,9 @@ Titulo-original: Jack of Eagles
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: James Blish
 
@@ -39,10 +33,5 @@ James Blish é um dos mais conhecidos e admirados autores de ficção-científic
 Nota: uma das obras que mais apreciei ler na Colecção Argonauta.
 
 Colecção Argonauta do nº301 ao nº350
-
-
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Timeliner
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Charles Eric MaineTítulo original: Timeliner1ª Edição: 1955Publicado na Colecção Argonauta em 1961 Capa: Lima de FreitasTradução: Mário Henrique Leiria Súmula
  - foi apresentada no livro nº64 da Colecção, com a indicação de ""Ler 
@@ -65,7 +60,4 @@ fundamental de Eric Maine: não declara, propõe. O leitor aceita ou não o
 incontroláveis por ele próprio criadas, dum homem lutando nas épocas 
 mais remotas do futuro longínquo para regressar à sua época e ao seu 
 mundo, que se oferece ao leitor no próximo volume da Colecção Argonauta.
-
-
-
 "

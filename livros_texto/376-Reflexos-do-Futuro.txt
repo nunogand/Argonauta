@@ -8,15 +8,9 @@ Titulo-original: Mirrorshades
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1986
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Bruce Sterling
 
@@ -29,15 +23,9 @@ Publicado na Colecção Argonauta em 1988
 Capa: A. Pedro
 
 Tradução: Eduardo Saló
-
-
-
 Súmula - Foi apresentada no livro 
 nº375 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Desde a Nova Vaga da Ficção-Científica que, como movimento, se impôs na década de 60, que não surge um livro tão ousadamente inovador como Reflexos do Futuro, de Bruce Sterling. Pode afirmar-se que, com esta obra, Sterling atinge o acúmen da imaginação, classificando-se como um dos melhores autores modernos neste género literário. Beleza e tecnicidade - ou, talvez, tecnologia - dão-se as mãos nos contos de Sterling, propondo-nos temas de carácter universal nos quais se espelham uma invulgar ou quase inimaginável inteligência e uma extraordinária argúcia criativa. Reflexos do Futuro é uma obra maior da literatura de antecipação e um jogo no qual um dos parceiros, porventura o mais privilegiado, é o leitor. Não é sem razão que os autores que Sterling apresenta são conhecidos como o grupo dos Neuromatics, uma geração amplamente inovadora que o próprio Isaac Asimov fez incluir no seu célebre magazine de ficção-científica. 
 
 Prefácio:
@@ -84,46 +72,21 @@ O futuro continua por escrever, embora não por falta de tentativas.
 E isto representa uma singularidade da nossa geração de FC: o facto de, para nós, a literatura do futuro ter um longo e honroso passado. Como escritores, temos uma dívida para aqueles que nos precederam, os autores de ficção-científica cuja convicção, empenho e talento nos deliciaram e, na realidade, alteraram as nossas vidas. Essas dívidas nunca são pagas, apenas reconhecidas e - esperamos - transmitidas como um legado aos que nos seguirão.
 Mas são devidas outras referências. O Movimento está largamente em dívida para com a acção paciente dos editores da actualidade. Uma parte substancial do material que segue foi obtido da Omni, uma irmã compiladora do género de histórias na vanguarda do ideologicamente correcto, cuja contribuição para esta antologia se revelou inapreciável. Gardner Dozois figurou entre os primeiros a chamar a atenção da crítica par o Movimento em embrião. Juntamente com Shawna McCarthy, tornou a Isaac Asimov's Science Fiction Magazine, um foco de energia e controvérsia neste campo. A Fantasy and Science Fiction de Edward Ferman constitui sempre uma fonte de alto nível. Interzone, a publicação periódica de ficção-científica mais radical de hoje, já foi mencionada, mas o seu quadro editorial merece um agradecimento especial. Assim como Yoshio Kobayashi, nosso elemento de ligação em Tóquio, tradutor de Schismatrix e Blood Music, por favores demasiados numerosos para referir aqui.
 E, agora, passemos ao espectáculo.
-
-
                                                                                                                     Bruce Sterling  
-
-
-
-
-
 Contos Publicados: 
-
-
-
 O Contínuo de Gernsback (William Gibson) - pág. 15
-
-
-
 Este conto foi o primeiro trabalho profissional de Gibson publicado.
 
 Nos anos subsequentes, desenvolveu uma produção altamente influente, caracterizada por uma brilhante fusão de ambiente e extrapolação. Os seus romances Neuromancer e Count Zero, contemporâneos da sua Série Sprawn de contos curtos, granjearam-lhe elogios generalizados pela narrativa empolgante, prosa polida e evocativa e representação do futuro pormenorizada e pungente. Estas obras são consideradas textos centrais da ficção-científica contemporânea.
 
 Mas a presente história abriu o caminho. Constituía uma percepção friamente rigorosa dos obstinados elementos do passado - e um toque de clarim de uma nova estética de FC dos anos oitenta.
-
-
-
 Olhos de Serpente (Tom Maddox) - pág. 28
-
-
-
 Em 1986, a nova estética dos anos oitenta encontrava-se no auge. O estado da sua arte acha-se representado brilhantemente por este conto do escritor virginiano Tom Maddox. 
 
 O autor é professor assistente de línguas e literatura da Universidade Estatal da Virgínia. Não se trata de um escritor prolífico, pois a sua produção até à data consiste num punhado de histórias curtas. Não obstante, o seu domínio da dinâmica da cibermania é inexcedível.
 
 Neste conto de ritmo veloz, intensamente visionário, Maddox move-se, rápida e incisivamente, através de uma vasta gama dos temas e obsessões do Movimento. Olhos de Serpente constitui um exemplo notável da cibermania hardcore moderna. 
-
-
-
 A Pecadora (Pat Cadigan) - pág. 52
-
-
-
 A carreira de Pat Cadigan principiou com a década. Os seus trabalhos têm revelado uma larga variedade, desde a fantasia negra e terror à ficção-científica mordaz e original.
 
 O seu estilo reveste-se com frequência de um vigor implacável e correntes subterrâneas de humor negro - uma sensibilidade dos anos oitenta cuja designação só pode ser punk. A sua Série Pathosfinder (que inclui histórias desse tipo, como Nearly Departed), notabilizou-se pelo clima visionário sinistro. 
@@ -131,45 +94,24 @@ O seu estilo reveste-se com frequência de um vigor implacável e correntes subt
 O seu multifacetado talento contém um dom pronunciado para a cibermania hardcore indiscutível. O presente conto, publicado pela primeira vez em 1985, constitui uma franca colisão de alta técnica com os ambientes obscuros.
 
 O seu primeiro romance intitula-se The Pathosfinder. Actualmente, reside no Kansas.
-
-
-
 Contos de Houdini (Rudy Rucker) - pág. 62
-
-
-
 Rudy Rucker, professor associado de ciência de computadores na Universidade Estatal de San José, é porventura o escritor de ficção-científica mais arrojadamente visionário da actualidade. Desloca-se contra a corrente de muitos autores da especialidade no facto de os seus trabalhos reflectirem, em vez da técnica dura tipo parafusos e porcas, visões radicais inspiradas nos meandros esotéricos da matemática. Alguns dos seus romances mais enaltecidos, como White Light e Software, devem o seu poder imaginativo ao estudo de Rucker da teoria da informação, topológicamente multidimensional e infinitos enquadramentos.
 
 Todavia, a sua obra distingue-se, não por uma aridez filosófica, mas por uma humanidade muito terra-a-terra. E a sua capacidade de narrativa e imaginação fértil estendem-se para além da ideia metafísica. A história que se segue é uma breve, porém perfeitamente construída fantasia. Extraída da sua colectânea de contos curtos intitulada The 57th Franz Kafka, revela a originalidade largamente inventiva do autor no seu clima mais divertido. 
 
 O seu último livro, Mind Tools, quarto trabalho de ciência popular, ocupa-se das raízes conceptuais da matemática e da teoria da informação.
-
-
-
 400 Rapazes (Marc Laidlaw) - pág. 70
-
-
-
 Os escritores cibermaníacos são conhecidos por conceitos bizarros e uma tendência generalizada para o estranho. Marc Laidlaw consegue distinguir-se, mesmo em semelhante companhia. Os seus trabalhos caracterizam-se por justaposições singulares, ângulos de visão inesperados e um humor negro que descamba para o ultravioleta. Obtém inspiração de uma variedade de influências contemporâneas, com particular carinho por tudo o que é misterioso e intuitivo.
 
 O presente conto demonstra a sua inspirada fusão de elementos, misturando ingredientes de mito apocalíptico com as lendas modernas dos bandos de rua urbanos. 400 Rapazes constitui uma mescla temerária genuinamente sinistra, que se aprecia com muito maior facilidade do que se descreve.
 
 Marc Laidlaw vive em São Francisco e o seu último romance intitula-se Dad's Nuke.
-
-
-
 Solstício (James Patrick Kelly) - pág. 89
-
-
-
 O primeiro trabalho de James Patrick Kelly foi publicado em 1975. A sua carreira acelerou-se nos primeiros anos da década de 1980, e escreveu quase duas dezenas de contos curtos e dois romances. O seu segundo livro, Freedom Beach, foi escrito com John Kessel e mereceu encómios pela inventiva original e erudição literária divertida. 
 
 À semelhança de Kessel, Kelly tem sido mencionado a par de um grupo despretensioso de escritores de FC dos anos oitenta, em geral identificados como a nova ala esquerda da ficção-científica, oposta (em teoria) aos interesses técnicos mais duros dos cibermaníacos. 
 
 Em 1985, complicou alegremente as coisas ao publicar o conto que se segue, uma extravaganza de alta técnica e arrojo visionário. Produziu depois mais dois, igualmente inventivos e originais, numa auto-proclamada trilogia cibermaníaca. Com o seu exemplo, Kelly demonstrou uma verdade indiscutível na FC: enquanto os críticos dividem e analisam, os escritores unem e sintetizam. 
-
-
-
 Petra (Greg Bear) - pág. 132  (nota: achei este conto verdadeiramente excepcional!)
 
 Greg Bear vendeu o seu primeiro conto curto em 1966... aos dezasseis anos. Continuou a singrar pelo bom caminho no final dos anos setenta e princípio dos anos oitenta, quando uma revoada de contos e romances o estabeleceu como um escritor a ter em mente.
@@ -206,7 +148,4 @@ Mozart de Óculos Espelhados (Bruce Sterling e Lewis Shiner) - pág. 259
 
 Esta fantasia despretensiosa de viagem no tempo, emergiu num alegre espírito de camaradagem do Movimento. A sua energia impetuosa e sátira política agressiva constituem sinais inequívocos de escritores que consideram que têm pontos de vista a estabelecer: sobre a América, sobre o Terceiro Mundo, sobre o ""desenvolvimento"" e ""exploração"". E sobre a ficção-científica: de que a energia e divertimento são seus direitos de património naturais.
 A figura de Wolfgang Amadeus Mozart parece revestir-se de uma ressonância especial na presente década, aparecendo no cinema, em peças da Broadway, e em vídeos de rock, assim como na FC. É um caso interessante de sincronismo cultural. Anda algo à solta, nos anos oitenta. E estamos todos envolvidos. 
-
-
-
 "

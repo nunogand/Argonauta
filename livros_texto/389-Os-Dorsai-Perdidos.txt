@@ -8,14 +8,9 @@ Titulo-original: Lost Dorsai
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gordon R. Dickson
 
@@ -32,11 +27,6 @@ Tradução: Raul de Sousa Machado
 Súmula - Foi apresentada no livro 
 nº388 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
-
-
 Os Dorsai Perdidos, mercenários do Espaço, combatem por quem os contrata, vivendo ou morrendo de acordo com o rígido código de honra que nada nem ninguém os obrigará a quebrar.
 
 Em Os Dorsai Perdidos, Gordon R. Dickinson, no seu estilo altamente eficaz e ardiloso, criador de situações de grande poder de concentração, deparam-se-nos três episódios distintos, cada qual exemplo da forma como a mentalidade dos Dorsai marca toda a acção. Nesta obra, que decorre num espaço e tempo longínquo em que os diversos planetas colonizados pela raça humana se debatem com novas perspectivas, novas formas de sobrevivência, é mais uma vez transposta para uma realidade mágica a sedução de poder contra a força bruta, da honra e da coragem contra a crueldade.
@@ -44,6 +34,4 @@ Em Os Dorsai Perdidos, Gordon R. Dickinson, no seu estilo altamente eficaz e ard
 Habituados às mais árduas lutas, os Dorsai, soldados intrépidos e imbatíveis, vêem-se perante problemas que ultrapassam o código de combatente. Revolução e Exército entram em choque.
 
 Os Dorsai Perdidos é um epíteto que não se aplica àqueles que tinham escolhido outra profissão que não a carreira das armas; era reservado para os descendentes Dorsai, que depois de escolhida a vocação dos seus antepassados, a abandonavam subitamente sem qualquer razão aparente. 
-
-
 "

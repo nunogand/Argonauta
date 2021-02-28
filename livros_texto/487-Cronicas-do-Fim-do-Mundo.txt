@@ -8,14 +8,9 @@ Titulo-original: The Horn of Time
 Tradutor1: A. Maldonado Domingues
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Poul Anderson
 
 Título original: The Horn of Time
@@ -51,6 +46,4 @@ O Homem que Chegou Cedo - (pág. 84) 
 Marius - (pág. 116) 
 
 Progresso - (pág. 133)  
-
-
 "

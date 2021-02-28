@@ -8,36 +8,17 @@ Titulo-original:
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
 Título original: Dragonflight
-
-
-
 1ª Edição: 1968
-
-
-
 Publicado na Colecção Argonauta em 1982
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº296 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -49,27 +30,12 @@ Mas passara-se muito tempo desde que Pern necessitara alguma defesa e as memóri
 E um dia eles viriam...
 
 Eis o resumo de O Planeta dos Dragões, versão portuguesa da cèlebre série The Dragonriders of Pern, de Anne McCaffrey, que será publicada nos próximos 3 volumes da Colecção Argonauta.
-
-
-
 Nota do Editor: 
-
-
-
 Anne McCaffrey é um dos poucos autores de ficção-científica que receberam os dois maiores prémios literários do género: o Hugo e o Nebula.
 
 A obra que celebrizou Anne McCaffrey tem o título original de The Dragonriders of Pern e é uma das mais célebres da ficção-científica. Dividida originalmente em duas partes, - Dragonflight e Dragonquest - será na versão portuguesa, por razões técnicas, publicada em três volumes.
-
-
-
 Dedicatória:
-
-
-
 Querido Deus
-
-
-
 Sim, aqui está uma Virgínia que
 
 me ajudou a criar este planeta e
@@ -77,10 +43,5 @@ me ajudou a criar este planeta e
 as maravilhas nele. E pelas quais vos
 
 estou grata.
-
-
-
 AMJ
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Dragonsdawn
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1988
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -26,15 +21,9 @@ Capa: António Pedro
 Tradução: Alexandra Santos Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº530 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 O seu olhar susteve o de Nora Sejby. Ela não era certamente o tipo de pessoa que ele teria achado indicada para impressionar um dragão, mas Tenneth tinha-a escolhido, e teriam de se aguentar. Nora era propensa a acidentes e Tenneth tinha já arrastado a sua colega para fora da terra e impedido que esta caísse nos buracos e fendas que existiam nos montes em volta das Cavernas de Catherine. Por outro lado, Nora tinha navegado pela Baía do Mónaco desde que tinha tido forças para lidar com a cana do leme e tinha-se especializado tanto em deslizadores como em barcos. 
 
 - Para já, temos o ar em nosso redor. Se cairmos, caímos numa superfície dura e que nos irá ferir - Sean fez os gestos, apropriados, batendo com uma mão na palma da outra, sobressaltando Nora com o ruído. 
@@ -58,8 +47,5 @@ Fez uma apresentação menos dramática na reunião improvisada quando lhe pedir
 O almirante acenou sabiamente com a cabeça, mas a expressão surpreendida do rosto de Jim Tillek e a atenção súbita de Ongola indicaram a Sean que tinha dito algo errado. 
 
 - Eu podia arriscar o meu próprio pescoço, mas não o de outros - prosseguiu ele - de forma que temos de levar algum tempo para conseguirmos preparar outros cavaleiros para voar. Eu próprio já cavalguei muito e dirigi deslizadores, mas voar num dragão não é a mesma coisa, e não irei tentá-lo novamente até que Carenath tenha alguns cintos de segurança para pôr. E em mim.   
-
-
-
 
 "

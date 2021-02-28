@@ -8,14 +8,9 @@ Titulo-original: Helliconia Summer
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -26,9 +21,6 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº546 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -46,8 +38,5 @@ A rainha acenou com a cabeça com gravidade ao ver o deleite da sua filha com as
 Daquele reservatório de vida provinham as ondas que encantavam Tatro. Para a criança, cada vaga era um acontecimento separado, experimentado sem qualquer relação com o que tinha passado e o que estava por vir. Cada onda era única. Tatro ainda se encontrava naquele presente eterno da infância.
 Para a rainha, as ondas representavam uma operação contínua, não apenas do oceano, mas do processo do mundo. Este processo incluía a rejeição do seu marido, os exércitos em marcha para além do horizonte, a expansão do calor, e a vela que ela esperava todo os dias ver no horizonte. Passado ou futuro, ambos se encontravam contidos no seu arriscado presente.
 Dizendo adeus a Tatro, a rainha correu em frente e mergulhou na água. Tinha-se separado da pequena figura hesitante nos baixios, para desposar o oceano. O anel cintilou no seu dedo quando as suas mãos deslizaram sobre a superfície e ela começou a nadar.   
-
-
-
 
 "

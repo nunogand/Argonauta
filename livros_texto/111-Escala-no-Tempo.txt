@@ -8,17 +8,9 @@ Titulo-original: The Door into Summer
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: The Door Into Sumer
@@ -44,12 +36,6 @@ Traduzido em numerosos países, o presente romance de Robert A. Heinlein é uma 
 Um enredo sábiamente entretecido na base das modernas concepções científicas do Tempo, apresenta-nos situações complexas e inesperadas que nos envolvem e arrebatam a atenção. Por isso não é surpreendente que já se tenha afirmado que Robert A. Heinlein alcançou, com este romance, um dos mais elevados pontos da sua carreira, realizando um dos livros mais perturbantes da FC norte-americana.
 
 A tradução de Escala no Tempo, foi confiada à proficiência de Eurico da Fonseca.  
-
-
-
 Nota: outra das minhas obras preferidas da Colecção Argonauta. Um livro de ficção científica muito bem conseguido por parte de Robert A. Heinlein, que na minha opinião daria um belíssimo filme, com algo de noir... e com viagens no Tempo e também um gato chamado Petrónio!
-
-
-
 
 "

@@ -8,20 +8,12 @@ Titulo-original: La Mort de la Terre
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1910
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
  
 
 Autor: J. H. Rosny AîneTítulo original: La Mort De La Terre 1ª Edição: 1910 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº52 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
-
-
 
 ""J. H. Rosny é o maior desconhecido do nosso tempo"". Assim começa Daniel Halevy o seu posfácio à Morte da Terra.Também os conhecidos críticos e historiadores da literatura francesa Albert Thibaudet e Henry Clouard reconhecem que ""cerca de 1890, era ele o homem de quem mais se esperava, o mais opulento temperamento de romancista da sua época"".
 
@@ -46,8 +38,5 @@ Targ parte em procura do precioso líquido, como um novo cavaleiro do Graal. Ser
 Asim termina o posfácio de Daniel Halevy. 
 
 É esta obra de J. H. Rosny, um dos maiores escritores franceses do fim do passado século e dos primeiros anos deste, um escritor desconhecido do grande público mas presente na literatura francesa de sempre, que a Colecção Argonauta se honra em apresentar ao leitor português interessado.
-
-
-
 
 "

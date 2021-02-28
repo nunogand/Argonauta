@@ -8,23 +8,15 @@ Titulo-original: Portes Sur l'Inconnu
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Adrien Sobra 
 
 Título original: Portes Sur L'Inconnu 1ª Edição: 1956 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Mário Henrique Leiria
 
 Súmula - foi apresentada no livro nº50 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
-
-
 Hoc I, no planeta U 16, martelava, cantando, um grosso bloco de aço na bigorna. Era a peça final da sua máquina que, quase terminada, se erguia numa oficina ao ar livre onde se atarefavam milhares de Robots. Os Robots executavam todos os trabalhos manuais, mas Hoc I não desdenhava dar também o seu auxílio. Os seus músculos poderosos faziam cair cadenciadamente o malho sobre o bloco fulgurante, donde saltava uma nuvem de faíscas.
 
 Hoc I era um ""jovem"" de 60 anos. Era jovem naquele planeta onde a idade normal era de seiscentos anos. Estava feliz. Ia provar aos Antigos que sabia fazer qualquer coisa. Havia muito tempo que a teoria da ""translacção espacial"" tinha sido estabelecida, mas ninguém tinha ainda conseguido pô-la em prática. Graças à sua intervenção, HocI ia abrir à curiosidade dos cientistas uma infinidade de Universos.
@@ -52,20 +44,6 @@ E assim, Hoc I encontrou um dia a Terra. Encontrou a Terra através da sua porta
 E encontrou também a Matéria V, que tão necessária era no Universo de Hoc I e tão abundante na Terra. Como conseguir que os Terrestres cedessem essa matéria? Como chegar a um acordo para transferir os Terrestres do seu planeta natal para o outro Universo que necessitava do oxigénio e da Matéria V da Terra?
 
 Todos estes estranhos acontecimentos nos conta, como o seu senso de humor latino, o jovem escritor de ficção-científica Adrien Sobra, no seu curiosíssimo romance. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 "

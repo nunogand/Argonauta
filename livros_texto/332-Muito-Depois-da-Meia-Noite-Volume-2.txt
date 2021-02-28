@@ -8,14 +8,9 @@ Titulo-original: Long After Midnight
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury 
 
@@ -28,9 +23,6 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº331 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -38,12 +30,7 @@ nº331 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 O segundo volume e último de Muito Depois da Meia-Noite contém também onze histórias surpreendentes - onze histórias como só Ray Bradury pode escrever. 
 Eis como começa a primeira:
  .. ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
 Intervalo à Luz do Sol
-
-
-
 Entraram no Hotel de Las Flores numa tarde quente e verde dos fins de Outubro. O pátio interior ardia com flores vermelhas, amarelas e brancas, como chamas, que iluminavam o pequeno quarto deles. O marido era alto, de cabelos negros e pálido, e parecia que tinha andado vinte mil quilómetros para dormir: atravessou o pátio de tijoleira, levando consigo alguns cobertores, atirou-se para o pequeno leito do pequeno quarto com um suspiro de fadiga e ficou ali. Quando cerrou os olhos, a mulher de cerca de vinte e quatro anos, com cabelos amarelos e óculos de tartaruga, sorrindo ao gerente, Mr. Gonzales, correio do quarto para o carro e deste para o quarto. Primeiro transportou duas malas, depois uma máquina de escrever, agradecendo a Mr. Gonzales, mas recusando com firmeza a sua ajuda. E depois transportou um grande pacote de máscaras mexicanas que tinha arranjado na vila do lago de Patzcuaro, e voltou ao carro outra vez para ir buscar mais caixas e pacotes pequenos, e até um pneu sobresselente que eles tinham medo que algum nativo fizesse rolar pela rua empedrada, durante a noite. O rosto corado do esforço, cantarolou baixinho quando fechou o carro, examinou as janelas e correu de volta para o quarto onde o marido estava deitado, os olhos fechados, numa das duas camas.
 
 - Meu Deus - disse ele, sem abrir os olhos. - Disse-te para escolheres um colchão ""Simmons"". - Deu uma palmada fatigada na cama. - É duro como uma pedra.
@@ -105,8 +92,6 @@ Ele não disse nada. 
 - Será muito justo se deixares de te queixar por causa da cama; não é tão duro como isso, meu Deus, e dormirás se estiveres de facto cansado. Jesus, Joseph!  
 
  .. ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
 Nota do Editor: neste segundo e último volume de Muito Depois da Meia-Noite, Ray Bradbury afasta-se algumas vezes da ficção-científica pura, entrando no domínio do insólito. Mas Bradbury é Bradbury...
 
 Índice dos Contos:
@@ -122,8 +107,5 @@ Os Jogos de Outubro ........................................................... 
 O Pão de Centeio ................................................................... ....... 153
 Muito Depois da Meia-Noite ................................. .................... ..... 159
 Trouxe Uma Barra de Chocolate para Si .............................. .......... 167 
-
-
-
 
 "

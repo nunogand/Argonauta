@@ -8,47 +8,22 @@ Titulo-original: Skirmish
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 Título original: Skirmish
-
-
-
 1ª Edição: 1977
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº278 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O segundo volume da colectânea A Revolta das Máquinas (Skirmish), de Clifford D. Simak, inclui histórias clássicas como The Big Front Yard, The Thing in the Stone, The Autumn Land e The Ghost of a Model T.
 
 Desta última, que tem por figura central um velho carro Ford modelo T, reproduzem-se algumas passagens: 
-
-
-
 O carro chegou junto dele e parou. Não havia nada de mal nele. A porta direita da frente (a única porta da frente, porque não havia porta do lado esquerdo - abriu-se sozinha, porque não havia ninguém no carro para a abrir. O facto de a porta se abrir não o surpreendeu, porque tanto quando se lembrava, ninguém que possuísse um modelo T conseguira manter essa porta fechada. Era presa por um simples trinco e cada vez que o carro saltava (e eram poucas as ocasiões em que ele não andava aos saltos, devido ao estado das estradas desses dias, à dureza dos pneus e à construção das molas) - cada vez que o carro saltava a maldita porta da frente abria-se. 
 
 No entanto daquela vez - após tantos anos - parecia haver qualquer coisa especial na maneira como a porta se abrira. Parecia uma espécie de convite, o carro parara e a porta não se abrira subitamente, mas sim com um floreado, como se o convidasse a entrar no carro. 
@@ -56,13 +31,7 @@ No entanto daquela vez - após tantos anos - parecia haver qualquer coisa especi
 Portanto ele entrou e sentou-se no lugar da frente do lado direito e assim que entrou e se sentou a porta fechou-se e o carro começou a rolar pela estrada. Começou a mover-se para se colocar atrás do volante porque não havia ninguém a conduzir e estavam a aproximar-se de uma curva, e o carro necessitava de alguém para o guiar através da curva. Mas antes que pudesse mudar de lugar e pôr as mãos no volante, o carro começou a descrever a curva com tanta perfeição com se houvesse alguém a guiá-lo. Ficou estupefacto e não tocou em nada, e para além da curva havia uma subida comprida e íngreme, e o motor esforçou-se bravamente por alcançar a velocidade necessária para vencer a subida. 
 
 O que havia de curioso naquilo, disse ele a si próprio, ainda meio agachado para pegar no volante mas ainda sem o tocar, era o facto de conhecer perfeitamente aquela estrada, e saber que não havia curva nem rampa. A estrada prolongava-se por quase cinco quilómetros antes de  entroncar na River Road, e não havia qualquer curva ou cotovelo nela, e sem dúvida nenhuma rampa. Mas ali houvera uma curva e agora havia uma rampa, pois que o carro ao subi-la perder rapidamente a sua velocidade e tivera de mudar para primeira. 
-
-
-
 Da novela Um Pátio Enorme, se dá um breve extracto:  
-
-
-
 Taine ficou na sombra, a ver o vulto escuro de Henry atravessar o pátio da Viúva Taylor até à rua atrás da sua casa. Encheu os pulmões com o ar fresco da noite e abanou a cabeça para eliminar o zumbido que sentia nela, mas o zumbido continuou.
 
 Tinham acontecido demasiadas coisas. Demasiadas para um só dia - primeiro o tecto e agora o receptor de TV. Depois de um bom sono talvez ficasse em estado de tentar compreender aquilo.
@@ -132,8 +101,5 @@ Taine tirou os pés de debaixo do cão e levantou-se para se vestir. Ainda era c
 ""Towser"" continuou a dormir.
 
 Taine dirigiu-se à cozinha, um tanto a custo, e ao espreitar pela janela, viu Beasly, o homem dos sete ofícios dos Horton, acocorado no patamar traseiro.  
-
-
-
 
 "

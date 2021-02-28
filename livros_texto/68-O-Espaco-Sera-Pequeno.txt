@@ -8,15 +8,9 @@ Titulo-original: Space on my Hands
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Fredric Brown
 Título original: Space On My Hands
@@ -46,15 +40,9 @@ Crise 1999, o primeiro conto a abrir a colectânea, é bem o exemplo de como Fre
 Fredric Brown introduz um novo elemento, típicamente policiário, no Universo da ficção-científica: a expectativa, o mistério, a descoberta. E é por isso que, quando o leitor chegar ao fim deste conto não se sentirá logrado com a solução que, ao invés do que frequentemente acontece, não depende dum trunfo escondido na manga do investigador e que no final sómente é revelado ao leitor. Trata-se dum problema mais fundo e que já hoje em dia é sériamente estudado pelos psicanalistas e criminologistas. É, simultâneamente, uma revolução total, mas possível e provável, com elementos de que já hoje dispomos. 
 
 Um outro conto desta colectânea, principia desta forma:
-
-
-
 O último homem sobre a terra encontrava-se sentado numa sala. Era uma sala muito especial. Acabava de reparar na estranheza que a fazia parecer assim tão especial e procurava saber por que motivo dava essa impressão. A conclusão não o aterrorizou, mas aborreceu-o.   
 
 Não era a aparência da sala que o preocupava. Naquele momento, de resto, as suas impressões eram limitadas. Abstractamente, ELE SABIA QUE, DOIS DIAS ANTES, NO ESPAÇO DE UMA HORA, TODA A RAÇA HUMANA FORA DESTRUÍDA EXCEPTO ELE E UMA MULHER; ALGURES... UMA MULHER... 
-
-
-
 Dificilmente se encontrará processo de iniciar um conto ou um romance de forma a atrair mais e a satisfazer a atenção e as exigências do leitor. Mas as conclusões, os desenvolvimentos, progressos e meandros das histórias, sabê-los-á o leitor, com completa satisfação, quando ler O ESPAÇO SERÁ PEQUENO.
 
 Introdução (do autor) 
@@ -73,20 +61,9 @@ E, caro leitor, apenas mais um voto: que sinta tanto prazer na leitura destes co
   
 
 Sinceramente vosso,
-
-
-
 FREDRIC BROWN     
-
-
-
 Contos publicados na obra:
-
-
 1 - Verde
 
 2 - Crise 19993 - Mecânica Celeste4 - O Último Homem5 - Sirius Coisa Nenhuma6 - Vem e Endoidece     
-
-
-
 "

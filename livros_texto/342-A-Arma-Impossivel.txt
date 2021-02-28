@@ -8,15 +8,9 @@ Titulo-original: The Zap Gun
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Philip K.Dick
 
@@ -29,22 +23,14 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 Tradução: Eurico da Fonseca
 
-
-
-
 Súmula - Foi apresentada no livro 
 nº341 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Philip K. Dick é um dos autores preferidos dos leitores da Colecção Argonauta, pela profundidade das suas obras que atinge o mistério, o simbolismo. Mas Philip K.Dick foi também um humorista de primeira classe, à sua maneira, com um humor que constitui uma crítica inteligente e pertinente a muitos dos aspectos da nossa sociedade. Um exemplo dessa faceta menos conhecida de Dick, mas não menos importante, é The Zap Gun, uma história que decorre num futuro relativamente próximo - no ano 2004 - e que tem por base a corrida aos armamentos. Proibidas as armas atómicas, acordado o banimento de muitas armas convencionais, nem por isso a corrida aos armamentos pára - os fabricantes, os militares, os políticos, não estão dispostos a deter-se. A corrida já não se faz no sentido de procurar armas cada vez mais poderosas, mas sim cada vez mais inesperadas - armas diferentes. É a imaginação que conta (e quem pode ser mais imaginativo do que Philip K.Dick?). Daí, a formação de verdadeiros ciclos, como os da moda - o o advento das modas de armamentos, com os seus grandes desenhadores, semelhantes aos grandes costureiros.
 
 Fantasia a mais? Não tanto como isso - a moda, nos armamentos, já existe, só que nem todos dão por isso... Mas Philip K.Dick foi mais além: os desenhadores de modas de armamentos, ou designers, se assim se preferir, apresentam ideias que lhes surgem em transe. Essas ideias, serão deles? 
 
 Eis como se inicia The Zap Gun  - A Arma Impossível, na versão portuguesa:
-
-
-
 - Mr. Lars, senhor. Receio que tenha só um momento para falar aos seus expectadores. Desculpe. - começou ele a dizer, mas o entrevistador autonómico da TV, de câmara na mão, cortou-lhe as palavras. O sorriso de metal da criatura luzia confiante.
 
 -  Sente um transe a aproximar-se, senhor? - inquiriu, esperançado, o entrevistador autonómico, como se isso pudesse acontecer, perante uma das lentes alternadas ""multifax"" da câmara portátil.
@@ -78,16 +64,7 @@ As portas de ""Mr. Lars, Incorporated"" fecharam-se, sintonizadas, como estavam,
 - Sim, Miss Bedouin. - Lars parou. 
 
 - Bem sei. O departamento de desenho pensa que o esboço 285 não tem pés nem cabeça. - A isso estava ele resignado...
-
-
-
 Introdução
-
-
-
 Quando nos videojogos - sejam de computador, sejam os das máquinas de arcada - os alienígenas surgem de todos os lados para serem abatidos um a um, a arma que os destrói de uma maneira quase mágica é algo mais do que um simples laser, é algo que excede até a imaginação dos criadores da ""Guerra das Estrelas"", nos filmes e na realidade. É uma arma impossivelmente destruidora, uma arma que num simples e rápido movimento - zap - tudo elimina. The Zap Gun é uma das obras mais controversas de Phillip K.Dick. Uma obra que se passa num tempo futuro muito diferente dos que são de norma na ficção-científica - um futuro em que o mundo continua dividido em dois blocos... na aparência. Porque depois da assinatura dos Protocolos que evitaram o holocausto nuclear, os governantes acordaram numa farsa que lhes permite manter a sua autoridade, o seu prestígio, e as principais estruturas. Em vez de falarem de paz, falam de guerra, como nunca. O Leste, para que os seus espiões continuassem a ser temidos, tomou a designação de Espieste - mas é uma organização privada, a KACH, que assegura a troca de informações com o Oesbloco, dirigido a partir de uma imensa fortaleza subterrânea - a Festung, que em Washington substituíu o velho Pentágono. Uns e outros - Espieste e Oesbloco - dispõem de ""especialistas de modas de armas"" que - caindo em transe - apresentam esboços de coisas estranhas, que se dizem ser mortíferas, cada vez mais mortíferas, e que são também cada vez mais loucas, mas susceptíveis de serem ""semeadas"" - disfarçadas como coisas vulgares, seguindo a norma dos Protocolos, de tornar os canhões em arados. Os homens comuns, os ""papalvos"", sentem-se muito felizes por isso, supõem-se defendidos como nunca, e orgulham-se de, através dos seus representantes - os concomandos -, tomarem parte no comando das operações de ""sementeira de armas"", sugerindo disfarces para elas. Mas os membros da classe dominante, os entendidos - os entes -, sabem que tudo isso é uma farsa. Até que... 
-
-
-
 
 "

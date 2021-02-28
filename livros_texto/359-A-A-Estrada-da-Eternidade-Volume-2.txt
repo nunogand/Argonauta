@@ -8,15 +8,9 @@ Titulo-original: Highway of Eternity
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1986
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -33,15 +27,9 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº359 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 As obras de Clifford D. Simak são sempre um acontecimento. Nenhumas as superam em imaginação. Tem um verdadeiro culto pela Natureza. Muito antes da Ecologia se ter tornado numa preocupação universal, já as obras de Simak eram um hino à harmonia entre o homem e o ambiente. A Estrada da Eternidade é possivelmente a melhor de todas. E se o primeiro volume é uma surpresa, o segundo excede-o, como o demonstra o seguinte trecho:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Algumas nuvens, que mais pareciam farrapos de algodão, tinham coberto o Sol. Os reflexos brilhantes da rede de cristal  que cobria os montes e subia até ao céu tornaram-se menos luminosos.
 
 Timothy lançou-lhes um olhar especulativo e disse: 
@@ -52,10 +40,5 @@ Timothy lançou-lhes um olhar especulativo e disse: 
 
 Ouviram o ruído de qualquer coisa a ser esmagada no monte, mais acima, pela encosta. Os três voltaram-se para o lugar de onde aquilo vinha. Um robot descia a encosta na direcção deles. O seu corpo de metal tinha um brilho largo baço sob a fraca luz do Sol, e sobre o ombro dele via-se um machado.
 
-
-
-
 Nota: alguém nos Livros do Brasil teve a ideia (para mim descabida) de em vez de numerar esta obra como a nº 360, optar por manter o nº 359 e acrescentar-lhe um ""A"". Enfim... pelo menos este ""A"" faz parte das listas oficiais, ao contrário do que sucede com o outro ""A""... o 130A (Estação de Trânsito), claro, que não aparece em lista nenhuma... a não ser nesta! :)
-
-
 "

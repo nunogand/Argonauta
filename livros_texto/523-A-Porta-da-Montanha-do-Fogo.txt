@@ -8,14 +8,9 @@ Titulo-original: Gate of Ivrel
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: C.J. Cherryh
 Título original: The Morgaine Saga Omnibus - The Gate of Ivrel
@@ -40,9 +35,6 @@ pelo fiel Vânya, o guerreiro solitário que jurou servi-la? Será ela
 capaz de chegar à Montanha do Fogo, à terrível Ivrel, e de aí fechar a 
 última das portas? 
 A Porta da Montanha do Fogo dá início à trilogia de A Saga de Morgana, uma obra prima da ficção-científica e da literatura de fantasia, que a Livros do Brasil se orgulha de apresentar aos leitores portugueses. 
-
-
-
 Ao cair do crepúsculo, chegaram novamente a uma floresta de pinheiros. As nuvens acinzentadas iam encobrindo a lua com uma frequência cada vez maior, à medida que a noite se tornava mais profunda, mas eles continuavam o seu caminho, receosos de novas tempestades, receosos pelos cavalos, porque restava pouca aveia nos alforges das selas, e pretendiam avançar o mais depressa possível, na esperança de alcançar o terreno mais baixo antes que o Inverno se apoderasse dos desfiladeiros. O claro luar mostrava-lhes o caminho.
 
 Mas por fim as nuvens adensaram-se e o caminho tornou-se difícil, com as árvores muito próximas e a obscurecer o céu com as suas sombras eriçadas. Uma árvore caída, junto ao caminho, prometia-lhes, pelo menos, um local mais seco para repousar a lenha para a fogueira. Pararam e Vanye partiu pequenos ramos e amontoou-os na forma devida para fazer uma boa fogueira com a lenha húmida. 
@@ -78,8 +70,5 @@ Não - disse ela. - Eu sei onde se encontra.
 - Para Ivrel. - E quando, receoso, ele abriu a boca para protestar que era loucura. - Ainda não vos disse que serviço pretendo de vós. 
 - Não - concordou ele. - Ainda não.
 É isto, ""illin"". Matar Thiye, o senhor Hjemur e destruir a cidadela se eu morrer.  
-
-
-
 
 "

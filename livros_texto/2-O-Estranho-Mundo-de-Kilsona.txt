@@ -8,14 +8,9 @@ Titulo-original: The Green Man of Graypec
 Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1935
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Festus Pragnell
 Título original: The Green Man of Graypec
@@ -23,13 +18,9 @@ Título original: The Green Man of Graypec
 Publicado na Colecção Argonauta em 1954 
 Capa: Cândido Costa Pinto 
 Tradução: José da Natividade Gaspar 
-
-
 Súmula
  - apresentada no livro nº1 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Quando o cientista Charles Spofforth 
 afirmou à Imprensa que inventara um poderoso microscópio, ninguém teve 
 dúvidas em acreditá-lo. Porém, quando ajuntou que, graças a tão 
@@ -126,9 +117,5 @@ ficção, obra essa que na América constituiu um dos grandes êxitos
 literários deste ano.
 
 Por tudo isto, é natural que desperte enorme interesse. 
-
-
 Nota: este livro é uma das minhas memórias mais gratas relativamente à Colecção Argonauta. Devo tê-lo comprado quando tinha para aí uns 15 ou 16 anos e andei a juntar dinheiro para o conseguir. Custou-me na altura (1977-1978) mil escudos num senhor que tinha uma barraquinha de livros em segunda-mão no Beco dos Peixinhos, em Sapadores, onde já tinha comprado vários livros. Foi muito caro, na altura. E foi por esse tempo que eu decidi que um dia havia de ter a Colecção Argonauta toda. E consegui. Demorei foi mais de 40 anos a consegui-lo. 
-
-
 "

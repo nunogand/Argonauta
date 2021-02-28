@@ -8,14 +8,9 @@ Titulo-original: Retour a "O"
 Tradutor1: Maria Adelaide Correia Freire
 Tradutor2: Raul Correia
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Stefan Wul
 Título original: Retour à ""O"" 1ª Edição: 1956 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Maria Adelaide Correia Freire e Raúl Correia  
 Súmula
@@ -31,6 +26,4 @@ Só havia um único sistema: enviar um espião à Lua, um espião que fosse simu
 ...Por isso Jà Benal foi condenado à pena capital...
 É este o primeiro romance de Stefan Wul, nóvel autor francês de ficção-científica considerado por Igor B. Maslovski, crítico especialista de ""Fiction"", como um autor que pode ombrear com a maior parte dos mestres anglo-saxónicos e americanos e até suplantá-los. Com este romance, obteve o autor o ""Prémiod e Ficção-Científica de 1957"".
 ""Livros do Brasil"", sempre interessados em oferecer ao leitor o melhor em cada ramo literário, esperam continuar a apresentar na sua ""Colecção Argonauta"" os magníficos romances de Stefan Wul.
-
-
 "

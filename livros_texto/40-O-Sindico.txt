@@ -8,14 +8,9 @@ Titulo-original: The Syndic
 Tradutor1: H. dos Santos Carvalho
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: C. M. Kornbluth
 Título original: The Síndic
 1ª Edição: 1953
@@ -45,6 +40,4 @@ O leitor prefere, é claro, a verdadeira F.C. É por isso que após nomes como R
 Com a publicação de ""O Síndico"", dá-se a conhecer em Portugal mais um grande nome, o de C.M. Kornbluth, que não deixará de receber o mesmo caloroso acolhimento que recebeu em todos os países onde foi publicado. Se o leitor é apreciador de boa ficção-científica, não deve deixar de ler ""O Síndico"" e terá uma surpresa. O que se possa dizer sobre este livro nada faz prever do que realmente ele é. 
 As peripécias sucedem-se num ritmo tão rápido que empolga o leitor até à última página, prendendo-lhe a atenção, dominando-o, subjugando-o já pelo estilo, já pelo assunto. Imagine-se o leitor num mundo onde os mais adiantados progressos técnicos, tais como a iluminação pública atómica vão de par com uma religião que exige sacrifícios de animais uma vez por mês e sacrifícios humanos duas vezes por ano, e terá uma pálida ideia do mundo onde C.M. Kornbluth o transportará.
 A Colecção Argonauta orgulha-se pois, a justo título, de apresentar pela primeira vez em Portugal o nome de C.M. Kornbluth, encimando uma obra de extraordinário interesse e emoção. ""O Síndico"", a tal personagem de espírito prátio, que só se preocupa com o bem estar dos seus filiados, receberá sem dúvida a melhor recepção por parte do público.
-
-
 "

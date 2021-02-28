@@ -8,17 +8,9 @@ Titulo-original: Starman
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Stuart J. Byrne
 Título original: Starman
 1ª Edição: 1969
@@ -43,7 +35,4 @@ Há um horizonte distante. A ressureição do Homem é inevitável. Haverão nov
 STUART JAMES BYRNE
 
 Nota: uma grande surpresa, esta obra! Agradou-me imenso. Combina romance com aventuras espaciais, mas com extremo bom gosto e um grande nível narrativo, que nos prende do princípio ao fim. É daquelas obras que no final, ficamos com pena que tenha acabado e com saudades do que nos fez sentir. É o maior elogio que posso fazer.
-
-
-
 "

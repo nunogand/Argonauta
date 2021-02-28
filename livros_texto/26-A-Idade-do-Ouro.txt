@@ -8,14 +8,9 @@ Titulo-original: Childhood's End
 Tradutor1: Carlos Vieira
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Arthur C. Clarke 
 
 Título original: Childhood' s End1ª Edição: 1953  Publicado na Colecção Argonauta em 1955  Capa: Cândido Costa Pinto  Tradução: Carlos Vieira 
@@ -28,6 +23,4 @@ Arthur C. Clarke é, além de bacharel em Física e Matemática, membro da Real 
 Arthur C. Clarke é um escritor que tenta resolver com poesia e honestidade inexcedível o Futuro da raça humana, como também nos faz lembrar como somos pequenos perante o Universo. Quando o Homem se preparava para ir até às estrelas, um Intruso poderoso toma posse da resolução dos problemas que o Homem ia deixar em branco, na sua ânsia de novidade. As estrelas são, entretanto, esquecidas na felicidade material que esse Intruso espalha em torno de si; e, no entanto, o espírito não morre assoberbado pelo materialismo. Os idealistas continuam a procurar, pelos meios que têm ao alcance, uma ponte para a realização total do Homem.
 Um jovem astrónomo, apropria-se acidentalmente de um segredo dos Intrusos por meios pouco ortodoxos, e resolve explorá-lo na insatisfação antiga por não poder ir às estrelas. Então descobre porque é que ""as estrelas não são para os homens..."" E volta ao princípio, numa compreensão da verdade que finalmente lhe dá a certeza e a plenitude de não ter vivido em vão. 
  Este livro é definitivo dentro da ficção científica. O seu estilo é perfeito e as suas ideias desenrolam-se com a lógica de que só um Clarke é capaz. Não há herói no livro, a não ser os próprios factos; e a fé no destino dos homens, que ele mostra, só uma sólida formação humana a pode dar.
-
-
 "

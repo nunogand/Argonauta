@@ -8,14 +8,9 @@ Titulo-original: Long After Midnight
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury 
 
@@ -28,15 +23,9 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº330 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Uma obra de Bradbury, é sempre um acontecimento.
 
 Ray Bradbury é o mais celebrado autor de ficção-científica - diz-se frequentemente. Não obstante, o aspecto científico, sem ser puramente negado, não é fundamental no seu trabalho. Os outros mundos, os progressos da tecnologia - mais do que os da ciência -, são simultâneamente o pano de fundo e a mola real dos problemas humanos que ele analisa com um toque de poesia jamais igualado.
@@ -46,9 +35,6 @@ Muito Depois da Meia-Noite - a versão portuguesa de Long After Midnight - cont�
 Eis como se inicia a presente colectânea: 
 
  ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Os relógios de sol tinham-se tornado em pedrinhas brancas. As aves do ar voavam agora em velhos céus de rocha e areia, enterradas, as suas canções paradas. Os fundos do mar morto eram atravessados por correntes de poeira que inundavam a terra quando o vento decidia reviver uma velha lenda de absorção. As cidades estavam no fundo de celeiros de silêncio, onde o tempo era armazenado e mantido, lagoas e fontes de quietude e memória.
 
 Marte estava morto.
@@ -84,17 +70,8 @@ Beck saíu do carro.
 - É o que diz a lenda. E como ninguém sabe o que ela contém... bem, isso desperta a fome de um homem.
 
 - A tua e não a minha - notou Craig. A sua boca mal se moveu; tinha os olhos meio-fechados, um pouco divertidos. Espreguiçou-se. - Vim somente pelo passeio. É melhor observar-te do que estar aí ao calor.
-
-
-
  ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 Indice dos Contos:
-
-
-
 A Garrafa Azul ................................................................... 5
 
 Uma Primavera Intemporal .............................................. 21
@@ -116,13 +93,8 @@ Castigo Sem Crime ................................................. ....... 121
 Passando o Domingo de Algum Modo ............................ 135 
 
 Beba Tudo: Contra a Loucura das Multidões....... ..... ..... 149  
-
-
  
 
 Nota: esta obra é uma das melhores colectâneas de contos do Poeta da Ficção Científica, Ray Bradbury. Absolutamente imperdivel. 
-
-
-
 
 "

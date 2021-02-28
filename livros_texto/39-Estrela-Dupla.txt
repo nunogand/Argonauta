@@ -8,14 +8,9 @@ Titulo-original: Double Star
 Tradutor1: H. dos Santos Carvalho
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Robert Heinlein
 Título original: Double Star
 1ª Edição: 1955
@@ -35,6 +30,4 @@ Lorenzo não o podia saber. Estando desempregado, sem casa, estava disposto a ac
 Como poderia Lorenzo, que nunca se metera em políticas - como ele dizia - levar a cabo a sua tarefa: combater e vencer esses poderosos inimigos? Em primeiro lugar, ele fora contratado para um simples trabalho artístico: dobrar uma estrela do firmamento político, John Joseph Bonforte, o homem mais amado e mais odiado de todo o Sistema Solar, raptado pelos seus adversários. Mas o pior quando se tem uma gata, é que ela tem gatinhos... E Lorenzo Smythe, o actor, encontrou-se adoptado pelo Ninho Kkkah, em Marte, tornando-se assim cidadão marciano, com todas as prerrogativas e deveres que isso comportava. Depois, após uma viagem atormentada, em queda livre em pleno espaço, Lorenzo é recebido pelo próprio Imperador, e obrigado a formar governo, devido aos princípios constitucionais que regiam o Império. Vivendo em New Batávia, na Lua, a capital Imperial, Lorenzo é posto diante da necessidade de tomar a decisão mais importante da sua vida, uma decisão que tinha importância para oito biliões de seres...
 ""Estrela Dupla"", o novo romance de Robert A. Heinlein que a Colecção Argonauta agora traz a público, é a fascinante história de um actor desconhecido que, a mercê das circunstâncias, chega a ocupar a mais elevada posição do Império: Supremo Ministro de Sua Magestade Imperial Willem, Príncipe de Orange, Duque de Nassau, Grão Duque do Luxemburgo, Cavaleiro da Comenda do Santo Império Romano, Almirante General das Forças Imperiais, Conselheiro dos Ninhos Marcianos, Protector dos Pobres e, Pela Graça de Deus, Rei das Terras Baixas e Imperador dos Planetas e dos Espaços Intermédios.
 Robert A. Heinlein, cientista, engenheiro, antigo oficial da marinha, viajante, autor de argumentos cinematográficos, novelista e crítico, é um dos mais fecundos e considerados escritores de ficção científica dos Estados Unidos. ""Estrela Dupla"" é um romance de trama imaginosa e extraordinariamente bem urdida, com um desenho de persongens que coloca o seu autor à altura de um dos mestres da escola americana de ficção-científica. Estilo quente, um apurado sentido de humor, um romance que prende e não desilude até ao seu inesperado desfecho.
-
-
 "

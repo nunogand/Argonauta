@@ -8,14 +8,9 @@ Titulo-original: The Big Wheel
 Tradutor1: Elsa T. S. Vieira
 Tradutor2: 
 Ano-edicao: 1984
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: William Rollo
 
@@ -33,9 +28,6 @@ Alexandra Rolão Tavares, e na página nº5 informa que a tradução é de
 Elsa T. S. Vieira. Foi confirmado pelo Jorge Candeias e pela Elsa Vieira que a tradução é mesmo da Elsa T. S. Vieira)
 
 Revisão: Dália Moniz
-
-
-
 
 Súmula -
  foi apresentada no livro nº552 da Colecção, com a indicação de ""Ler nas
@@ -68,12 +60,7 @@ Durante os trinta e cinco minutos seguintes, a Tenente Honeywell correu programa
 - A Real Força Aérea. Encorajam-nos a praticar muito desporto, e esse tipo de coisas.
 - Bom, suponho que será essa a justificação. 
 Desta vez, Morgan reparou no tom de desafio na voz dela. Reparou também que ela parecia ter mudado. Há cinquenta minutos, abalara as suas cautelas com uma torrente inócua de tagarelice: agora as palavras dela era calibradas. Classificou-a na categoria ""Ameaças"", com um ponto de interrogação para posterior avaliação. 
-
-
 (A Nota do Editor repete-se, igual à do número anterior) 
-
-
-
 
 Nota do Editor 
 
@@ -91,14 +78,6 @@ gráfico, passando além disso a comportar a existência de volumes simples
  e duplos, consoante a dimensão de cada uma das obras nelas contidas. 
 
 *** 
-
-
-
 Nota pessoal
-
-
 Tristemente, acabam a partir desta edição as súmulas relativas às apresentações das obras seguintes, pelo que os leitores deixam de saber qual é o autor e o título do próximo livro. Sinais dos tempos. O final da colecção sucederia apenas nove números depois.
-
-
-
 "

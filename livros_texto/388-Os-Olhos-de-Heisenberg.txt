@@ -8,34 +8,9 @@ Titulo-original: The Eyes of Heisenberg
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -58,6 +33,4 @@ nº387 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Frank Herbert, autor de Dune, tem electrizado gerações de leitores de FC ao criar seres complexos, terríficos e bizarros que pela sua imaginativa e complexa capacidade de acção desencadeiam limites de emoção. 
 Em Os Olhos de Heisenberg, estão presentes os elementos de perturbação, de terror e de expectativa que fazem das suas narrativas obras de terrífico poder de sedução. 
 Quanto Totter pela primeira vez o viu, ao microscópio, o que sentiu foi o horror do impossível tornado realidade. Por motivos inexplicáveis, apesar de séculos de aperfeiçoamento genético, dois genes proibidos - o da inteligência e o da fertilidade - tinham produzido o seu efeito: um monstro, que era preciso destruir! 
-
-
 "

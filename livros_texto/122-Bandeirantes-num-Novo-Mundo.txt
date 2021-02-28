@@ -8,14 +8,9 @@ Titulo-original: Transit
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Edmund Cooper
 Título original: Transit
 1ª Edição: 1964
@@ -25,29 +20,13 @@ Título original: Transit
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº121 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O mito de Robinson Crusoe, continua habitando o coração dos homens. Anelo paradoxal, na época em que as criações humanas desmentem, a cada passo, a solidão. Cidades tentaculares, grande vaga demográfica, avião supersónico, a solidão é um paraíso perdido ou, quando muito, uma nostalgia. Ao mesmo tempo não se ouve, porventura, o lamento dos que a sofrem como um destino cruel e frequentemente insuportável?
 
 Até para gozar da própria solidão o Homem necessita do Homem. Num universo em que a solidão não tivesse remédio, sentiriamos, cedo ou tarde, a aridez do deserto. O homem necessita do homem para sobreviver. Robinson sem Sexta-Feira, não era Robinson.
 
 Bandeirantes num Novo Mundo de Edmund Cooper, soube restituir-nos, em novo contexto, o prestígio do mito e o sentido profundo da sua significação. No século XX, a ilha deserta transforma-se, todavia, em planeta, astro errante num céu que, de tão imenso, quase perdeu a dimensão redutível à escala humana. Evolados, súbitamente, do cenário habitual das suas vidas, algumas criaturas vêem-se lançada num mundo novo, onde terão que subsistir. É um mundo a descobrir e a entender, numa viagem de pioneiros em que o mais importante é o que os homens descobrem neles próprios: em que os enigmas mais significativos dizem respeito às suas vidas, reacções, comportamento; em que a lição mais autêntica é o aprendizado de uma nova inocência e de uma nova sabedoria.
-
-
-
-
-
-
-
-
-
-
-
 
 "

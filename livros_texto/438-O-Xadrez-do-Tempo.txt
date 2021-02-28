@@ -8,14 +8,9 @@ Titulo-original: The Quincunx of Time
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -50,8 +45,5 @@ As histórias de ficção-científica saem, por vezes assim,. Esse é, quanto a 
 
 Treetops, Woodlands Road Harpsden (Henley)
 Oxon., England, 1970                                                                                              James Blish  
-
-
-
 
 "

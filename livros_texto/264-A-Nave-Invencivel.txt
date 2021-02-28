@@ -8,29 +8,16 @@ Titulo-original: Niezwyciezony
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Stanislaw Lem
 
 Título original: Niezwyciezony
-
-
 1ª Edição: 1964
-
-
 Publicado na Colecção Argonauta em 1979
-
-
 Capa: A. Pedro
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -56,9 +43,5 @@ Stanislaw Lem, nasceu em 12
 de Setembro de 1921, em Lemberg, na Polónia. Começou por estudar 
 Medicina, antes da Segunda Guerra Mundial, depois foi mecânico, voltou a estudar Medicina e acabou por se diplomar, mas por pouco tempo exerceu a profissão de médico. Dedicou-se à carreira literária e tornouse num dos mais conhecidos autores, não apenas no campo da ficção-científica, mas também no da prospectiva, nomeadamente quanto aos seus ensaios sobre as relações entre a ética e a tecnologia. 
 Stanislaw Lem é o autor de Solaris, uma obra bem conhecida pela sua adaptação cinematográfica soviétic. No entanto, A Nave Invencível - (Niezwyciezony), obra traduzida em várias línguas, é considerada como a mais representativa dos seus trabalhos. Na verdade, trata-se de uma das poucas obras do género em que uma descrição técnica impecável, que se poderia até considerar didáctica, é acompanhada por uma acção tão enigmática quanto empolgante, em que a ciência e a tecnologia não prejudicam de modo nenhum a ficção nem esta prejudica aquelas. A Nave Invencível é um livro exemplar, profundamente sério, mas também profundamente emotivo. 
-
-
 Nota: uma grande obra de Ficção Científica, e um livro importantíssimo para mim, de uma memória muito grata, pois foi-me oferecido pelo meu Avô. 
-
-
 "

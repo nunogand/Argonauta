@@ -8,15 +8,9 @@ Titulo-original: The Olympus Gambit
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor:William Rollo
 
@@ -29,27 +23,15 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº321 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O segundo volume de A Conquista de Marte, ou seja The Olympus Gambit, de William Rollo, mantém o nível de estilo e de precisão técnica da primeira. Tem, no entanto, um aliciante suplementar: um final absolutamente inesperado, mas terrivelmente lógico. De uma lógica sem par, na história da ficção-científica.
 
 Eis como se inicia a maravilhosa aventura:
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...
-
-
-
 No dia quarenta e quatro, Sylvester cometeu o seu erro de programação.
 
 Ao fim de seis semanas de missão os delgados crescentes da Terra e da Lua tinham diminuído de tal modo que a olho nú não eram mais do que pontos de luz - a Lua muito fraca. Além disso, estavam a entrar lentamente na inobservável influência do Sol. Eris - ou Athene como por convenção se gostava de dizer - estava verdadeiramente sózinha no sistema solar. Já não fazia parte de qualquer planeta. Na sua longa transferência orbital, o director fizera-a avançar lentamente em torno do Sol até que o seu propulsor iónico a começou a retardar par a levar à órbita menos rápida de Marte. Marte agora não parecia maior do que a Terra porque a sua face iluminada estava virada para a Athene e mostrava-se como um ponto salmão-rosado entre as estrelas - uma cabeça de alfinete entre outras cabeças de alfinete.
@@ -71,24 +53,12 @@ Gabrielle olhou apressadamente por cima do ombro. Não estava a mostrar o seu ha
 Há muita actividade entre o FOE e o executivo. Estão a falar de mudança de chefia no Kremlin e creio que se trata de uma mudança radical. Romanov desapareceu ou talvez esteja morto e parece que nada conseguimos com Petrovski. Isto faz parte de um verdadeiro saco de problemas que se aceleraram nos últimos dias. Parecem não estar relacionados. É difícil ver o panorama completo a menos que se esteja ao nível de chefe de departamento.
 
 O tráfego diplomático entre Moscovo e Pequim tem aumentado. E há qualquer coisa que eu não sei o que seja, prestes a estoirar no Sudoeste Asiático. Mas já muitos jogos de computador sem acção e os cenários fazem as pessoas dar pulos. Há crise. O FOE acabou agora mesmo de rever os dados sobre a missão a Marte, mas não faço ideia de qual o aspecto que lhes interessa.
-
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...
-
-
-
 Introdução:
-
-
-
 Eis o segundo volume de A Conquista de Marte, a versão portuguesa de The Olympus Gambit, de William Rollo, uma obra invulgar porque nela se encontra uma descrição primorosa, científica e técnicamente correcta do que poderá ser o envio da primeira expedição humana ao planeta Marte.
 
 Uma advertência se faz ao leitor: por favor, não corra a ler as últimas páginas. Aguarde calmamente a evolução do tema. Porque o final é dos mais surpreendentes - ainda que dos mais lógicos - que alguma vez surgiram numa obra de ficção-científica.   
-
-
-
 
 "

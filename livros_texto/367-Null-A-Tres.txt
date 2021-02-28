@@ -8,14 +8,9 @@ Titulo-original: Null-A 3
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1984
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: A.E.Van Vogt
 
@@ -40,9 +35,6 @@ A minha obra sobre a Semântica Geral, O Mundo de Null-A Três, foi originalment
 Naqueles dias, os directores das revistas que publicavam novelas sob a forma de série, tinham ou uma baixa opinião, ou uma opinião correcta, da capacidade dos seus leitores para recordarem as partes anteriores. Assim, esperava-se que o autor fornecesse um sumário da Primeira Parte como uma preliminar da Segunda Parte, e os sumários da Primeira Parte e Segunda Parte quando a Terceira Parte fosse publicada um mês depois. 
 
 No que se segue, combinei as ""melhores"" partes dos sumários originais das duas primeiras partes e acrescentei um da terceira:
-
-
-
 ""No ano 2560, a filosofia semântica de Null-A Três dominava a existência humana. Anualmente, nos jogos da máquina, centenas de milhares de jovens dos dois sexos competiam durante um mês sem polícia, tentando ser dignos de Vénus. Os vencedores secundários eram todos contemplados com bons empregos na Terra. Os vencedores principais, eram enviados para o maravilhoso planeta Vénus, onde se tornavam cidadãos de uma civilização inteiramente Null-A.
 
 Gilbert Gosseyn recebeu o seu primeiro choque na véspera do primeiro dia dos Jogos. Foi afastado do grupo de protecção mútua do hotel onde se encontrava - porque um detector de mentiras indicara que ele não era Gilbert Gosseyn. As forças de segurança do hotel expulsaram-no imediatamente do seu quarto.
@@ -101,8 +93,5 @@ E assim, agora que o leitor se tornou consciente do que aconteceu nas partes ant
 Introdução:
 
 A introdução que consta da obra é precisamente o mesmo texto da súmula, curiosamente com pequenas variações de algumas palavras, que podem significar terem sido traduzidas por pessoas diferentes. Com efeito a obra anterior, que tem a súmula, foi traduzida por Eurico da Fonseca enquanto a obra que tem a introdução foi traduzida por Eduardo Saló. 
-
-
-
 
 "

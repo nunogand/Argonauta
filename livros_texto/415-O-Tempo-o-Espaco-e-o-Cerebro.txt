@@ -8,14 +8,9 @@ Titulo-original: The Big Time
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Fritz Leiber
 
@@ -32,9 +27,6 @@ Tradução: António Porto
 Súmula - Foi apresentada no livro 
 nº414 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Fritz Leiber ocupa na literatura de ficção-científica um lugar de privilégio, graças ao seu enorme talento narrativo, consagrado plenamente com a atribuição do Prémio Hugo a este inesquecível romance.
 
 O pano de fundo da história é a guerra temporal travada entre as Aranhas e as Serpentes.
@@ -44,8 +36,5 @@ Uma das personagens explica: ""Outrora, eu vivia em Chicago. Era tão humano com
 De facto, esta Guerra Modificadora utiliza como soldados homens e mulheres captados em todas as épocas da Humanidade; o seu local de acção é uma estação isolada do Cosmos, espécie de microcosmo que se assemelha a um night-club.
 
 O objectivo da guerra é modificar o tempo para fazer viver o universo que assegurará a cada um dos combatentes a vitória final... se alguma vez o Homem for capaz de se libertar da sua angústia congénita e de vencer o absurdo da frágil posição que ocupa num Universo implacável que o faz agir descontroladamente e num desamparo absoluto.   
-
-
-
 
 "

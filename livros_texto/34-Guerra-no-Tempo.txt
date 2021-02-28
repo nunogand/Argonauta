@@ -8,14 +8,9 @@ Titulo-original: Time and Again
 Tradutor1: Carlos Vieira
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Clifford D. Simak Título original: Time and Again
 
 1ª Edição: 1951 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas Tradução: Carlos Vieira 
@@ -27,6 +22,4 @@ Mas Sutton não era já ele próprio um ser humano: era um super-homem. Os seus 
 A guerra era inevitável entre humanos e andróides, estes últimos sonhando sempre com a igualdade prometida pelo grande Asher Sutton. Para evitar-se que o egoísmo dos homens transformasse o património espiritual da galáxia um tesouro  apenas reservado aos humanos, impunha-se o domínio perfeito da 4ª dimensão: o tempo!
 E as peripécias sucedem-se... Sutton é o herói para quem apelam os andróides. Os homens de Trevor, o director omnipotente da Corporação Galáctica, movem-lhe uma perseguição sem tréguas, que culmina com o seu assassínio. Mas, quem possui o domínio da 4ª dimensão - do tempo! - pode escapar à morte, e pode executar os seus próprios assassinos! E assim procede Sutton: a arma no tempo, um terrível emboscada em que os apanha  e aniquila.
 Lutas terriveis, perseguições no passado, no presente, no futuro, pela terra e pelos espaços infinitos, eis o quadro imenso em que se desenrola o drama extraordinário em que se vê envolvido Asher Sutton, o libertador da vida, libertador das galáxias, do universo inteiro.
-
-
 "

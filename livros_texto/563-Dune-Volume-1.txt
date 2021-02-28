@@ -8,15 +8,9 @@ Titulo-original: Dune
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Frank Herbert
 
@@ -31,29 +25,16 @@ Capa: Rogério Silva
 Tradução: Eurico da Fonseca
 
 Revisão: Dália Moniz
-
-
-
 Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula 
 relativas à próxima obra, pelo que os leitores deixaram de ter 
 disponíveis nas obras que adquiriam qualquer informação sobre a 
 publicação seguinte ou o autor da mesma. A informação relativa à obra, 
 passou a reduzir-se às poucas linhas que constam da contracapa da mesma.
-
-
 *****
-
-
-
 Nota pessoal 
-
-
-
 A Colecção Argonauta teve o seu início em 1953, com a publicação da obra Perdidos na Estratosfera, escrita por A. M. Low, e teve o seu fim em Julho de 2006 com esta última obra intitulada Dune, de Frank Herbert. Curiosamente, esta obra já tinha sido publicada na sua totalidade (é uma trilogia) na Colecção Argonauta Gigante, na primeira série.
 
 A Colecção Argonauta foi a maior e mais duradoura colecção de ficção-científica em Portugal, e a meu ver, a mais importante. Durante 53 anos, divulgou os melhores autores do género e encantou gerações de leitores.
 
 Três anos e dois meses, foi o tempo que demorei a escrever todas as súmulas da Colecção Argonauta. Iniciei o projecto das capas e das súmulas a 04 de Agosto de 2011 e terminei  a 10 de Novembro de 2014. Agradeço a todos os muitos emails, comentários e, agradecimentos que tiveram a atenção de escrever e de me enviar. Foi muito gratificante para mim conseguir realizar este projecto, que constitui uma homenagem à Colecção Argonauta, e ao menino de dez anos que eu fui e que ficou encantado desde o primeiro livro que dela leu. E em memória do meu pai, que muito me ajudou a conseguir completar esta colecção. 
-
-
 "

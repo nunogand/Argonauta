@@ -8,14 +8,9 @@ Titulo-original: The Mutants Are Coming
 Tradutor1: Alexandra Tavares
 Tradutor2: 
 Ano-edicao: 1984
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Isidore Haiblum
 
@@ -36,8 +31,5 @@ nº483 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Os leitores desta Colecção já puderam conhecer os méritos de Isidore Haiblum através da obra Fora de Jogo (nº472). Agora em Os Mutantes Vêm Aí! - romance que será apresentado em dois volumes - o autor demonstra novamente por que é considerado um dos mais originais criadores de literatura de ficção-científica.
 
 A história situa-se em 2075, quando a Terra dispunha de tudo quanto era necessário à existência de uma sociedade perfeita. Assim, as máquinas haviam libertado a maior parte das pessoas das fadigas do trabalho e abundavam os lazeres para os gostos mais variados. 
-
-
-
 
 "

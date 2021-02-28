@@ -8,14 +8,9 @@ Titulo-original: Starship Troopers
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Starship Troopers
@@ -54,9 +49,4 @@ Assim se compreende que Soldado no Espaço haja merecido o tão cobiçado prémi
 
 Nota: uma obra de referência do Robert A. Heinlein, de 
 que gostei muito como relato de aventuras. Esta obra foi a deu origem muitos anos depois, em 1997, ao filme de Paul Verhoeven, com o mesmo título da obra: Starship Troopers:
-
-
-
-
-
 "

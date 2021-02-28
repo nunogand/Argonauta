@@ -8,17 +8,9 @@ Titulo-original: Brain Wave
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Poul Anderson
 
 Título original: Brain Wave
@@ -34,9 +26,6 @@ Tradução: Raul Sousa Machado
 Súmula - Foi apresentada no livro 
 nº363 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Sabe-se que nem toda a capacidade do cérebro é utilizada, mesmo pelos mais inteligentes dos homens. Provavelmente, o mesmo acontece com os animais...
 
 Suponha-se que isso era consequência do facto de a Terra estar no interior de um campo de forças que retardava a propagação da luz e do mesmo modo afectava os processos electromagnéticos e electroquímicos. 
@@ -52,10 +41,5 @@ Mas a inteligência não daria sentimentos humanos aos animais.
 E nem todos os homens se tornariam igualmente inteligentes. Seriam mais inteligentes. Uns mais, muito mais do que os outros - a uma distância nunca vista.
 
 Acima de tudo, no dia em que super-inteligência humana permitisse encontrar soluções para todos os problemas, em que ocupariam os homens o seu tempo? 
-
-
-
 Nota: uma das obras que mais me maravilhou na Colecção Argonauta. Um acidente natural faz com que a inteligência aumente desmesuradamente nos homens e até nos animais. Gostei imenso desta obra, que reli várias vezes. 
-
-
 "

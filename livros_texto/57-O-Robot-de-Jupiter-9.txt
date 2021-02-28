@@ -8,14 +8,9 @@ Titulo-original: Lucky Starr and the Moons of Jupiter
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Paul French (pseudónimo de Isaac Asimov)
 Título original: Lucky Starr and The Moons of Jupiter 1ª Edição: 1957 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
 
@@ -36,6 +31,4 @@ Perante tal estado de coisas, o Conselho das Ciências, responsável pelas reali
 É nessas condições que Lucky Starr tem de agir, entre hostilidades, falta de informações e nítida má vontade.
 
 Sigam mais esta aventura de Lucky Starr e de Bigman Jones, talvez a mais emocionante de todas, através do próximo livro da ""Colecção Argonauta"". É mais um livro de Isaac Asimov, sob o pseudónimo de Paul French.
-
-
 "

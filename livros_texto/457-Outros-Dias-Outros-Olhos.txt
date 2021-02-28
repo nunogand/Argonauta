@@ -8,14 +8,9 @@ Titulo-original: Other Days, Other Eyes
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Bob Shaw
 
 Título original: Other Days, Other Eyes
@@ -43,8 +38,5 @@ A sua mulher tinha ficado previsível e instantaneamente alerta. 
 - Nada.
 - Mas por que motivo abrandaste?
 Esther gostava de controlar todas as suas propriedades, categoria em que incluía o marido, e o seu chapéu de aba larga rigidamente envernizada fez alguns movimentos de investigação, como a antena parabólica de um radar.   
-
-
-
 
 "

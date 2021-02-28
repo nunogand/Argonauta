@@ -8,14 +8,9 @@ Titulo-original: The Man With a Thousand Names
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1974
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: A.E. Van Vogt
 
@@ -32,14 +27,8 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº233 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Steven Masters participara na primeira expedição a Mittend e, por isso, era a única pessoa na Terra que tinha alguma experiência desse estranho lugar. Mas tudo quanto ele sabia era que regressara à Terra a uma velocidade maior do que a luz - e como outro homem.
 
 A única maneira de voltar a ser ele próprio seria a de voltar a Mittend e ali libertar a sua verdadeira personalidade da confusa situação em que se enredara. Mas Steven era ""o homem dos mil nomes"". Uma designação que A.E. Van Vogt - um dos autores mais conhecidos no campo da ficção-científica e um dos mais representados na Colecção Argonauta - explica na obra do mesmo nome, que constituirá o próximo volume desta Colecção. 
-
-
-
 
 "

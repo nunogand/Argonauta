@@ -8,17 +8,9 @@ Titulo-original: This World is Taboo
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Murray Leinster
@@ -31,30 +23,17 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº142 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 
 Murray Leinster é um dos escritores norte-americanos de ficção-científica que mais celebridade alcançou não só no seu país como nas demais nações em que a sua obra está editada.
 
 Em Portugal tem sido através da Colecção Argonauta que Murray Leinster tem sido divulgado mediante uma selecção criteriosa das suas obras mais significativas.
 
 Em Planeta Proibido, a vigorosa imaginação desdobra-se em toda a sua fecundidade, criando as mais inesperadas situações e peripécias, cujo defecho deixa o leitor confuso e maravilhado...
-
-
-
 Introdução:
-
-
-
 Esta obra é a segunda da série dedicada por Murray Leinster aos problemas da medicina da biologia e da fiscalização sanitária, quando um dia a espécie humana se possa espalhar pelos muitos mundos da Galáxia. Nela se volta a encontrar a personalidade curiosa - desenhada com raro vigor e pormenor - de Calhoun, o Médico das Estrelas (nº134) e do seu fiel tormal, Murgatroyd.
 
 O cuidado, o sentido humano e a profundidade dos conceitos que Leinster soube sempre unir a um estilo breve, simples mas emocionante, estão mais uma vez presentes. E essa constância e essa rara reunião de qualidades e características revelam bem a arte e experiência do autor.
-
-
 "

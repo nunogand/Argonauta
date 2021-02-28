@@ -8,20 +8,9 @@ Titulo-original: Andromeda Breakthrough
 Tradutor1: Jorge Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 Autor: Fred Hoyle e John Elliot Título original: Andromeda Breakthrough
 
 1ª Edição: 1965
@@ -81,12 +70,7 @@ Correu à vivenda de Fleming. Uma sentinela postada à entrada da porta, barrou-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... 
-
-
 A Colecção Argonauta, orgulha-se de apresentar ao público português esta nova obra de Fred Hoyle e John Elliot que, para lá dos valores indesmentíveis do estilo e do suspense, levanta alguns dos problemas mais sérios que se põem à consciência contemporânea, num mundo em que a Ciência assume uma importância cada vez mais decisiva.
 
 Nota: inicia-se aqui a segunda fase das capas da Colecção Argonauta (do nº 101 ao nº 224), abandonando aquelas que foram as minhas preferidas, e que eu costumo apelidar de ""aguarelas"". Iniciam-se aqui as capas de cores múltiplas, deixando geralmente o branco de constituir a cor de fundo, como era típico da série anterior. De qualquer modo, esta segunda série de capas é a minha segunda preferida, a seguir à série das ""aguarelas"".
-
-
-
 "

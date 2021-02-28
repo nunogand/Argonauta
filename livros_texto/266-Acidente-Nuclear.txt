@@ -8,33 +8,17 @@ Titulo-original: Nerves
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Lester del Rey
 
 Título original: Nerves
-
-
 1ª Edição: 1956
-
-
 Publicado na Colecção Argonauta em 1979
-
-
 Capa: A. Pedro
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -51,10 +35,5 @@ Nerves receberá na sua tradução portuguesa, integral e anotada, o título de 
 Introdução:
 
 A introdução que consta do livro, é precisamente o mesmo texto da súmula. 
-
-
-
-
-
 
 "

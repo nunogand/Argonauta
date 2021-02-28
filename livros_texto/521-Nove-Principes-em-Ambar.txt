@@ -8,14 +8,9 @@ Titulo-original: Nine Princes in Amber
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1970
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Roger Zelazny
 Título original: Nine Princes in Ambar
@@ -29,24 +24,6 @@ Revisão: Dália Moniz
 Súmula -
  foi apresentada no livro nº520 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Nota: a obra anterior não traz a costumada súmula relativa à obra seguinte, pelo que a única informação disponibilizada é a que se pode ler na contracapa. Em vez disso, as edições Livros do Brasil aproveitaram as páginas seguintes para efectuarem publicidade a várias das suas colecções, como se pode verificar nas imagens em baixo. A página da esquerda da primeira foto está desfocada, pois corresponde à última página da obra. De salientar também que passa neste número a ser incluída uma ""revisão"" na parte informativa, como podem verificar no texto em cima, logo a seguir à capa.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 "

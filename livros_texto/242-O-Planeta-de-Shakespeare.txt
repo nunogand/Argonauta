@@ -8,15 +8,9 @@ Titulo-original: Shakespeare's Planet
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Clifford D. Simak
 Título original: Shakespeare's Planet
@@ -50,6 +44,4 @@ There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
 
 Hamlet, Act I, scene V
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: City
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Clifford D. Simak
 Título original: City
 
@@ -26,8 +21,6 @@ Título original: City
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº116 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -43,8 +36,5 @@ A presente obra, pela sua forma estranha e pelo seu tema perturbador, ocupa um l
 E isso compreende-se, porque o drama do Homem - o divórcio entre o progresso material e a maturidade espiritual - em caso algum foi estudado tão profundamente e tão longe, quanto às suas consequências. Tão longe que a existência do Homem, perdido entre o conhecimento daquilo que o cercava e o desconhecimento do que havia dentro de si, já nem sequer era uma lenda, mas sim aquilo que os cães - seus herdeiros sobre a Terra - consideravam como ""um artifício de narração"".  
 
 Nota: uma das muitas obras de referência de Clifford D. Simak.
-
-
-
 
 "

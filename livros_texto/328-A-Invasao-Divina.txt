@@ -8,14 +8,9 @@ Titulo-original: The Divine Invasion
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1981
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip K. Dick
 
@@ -28,14 +23,9 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº327 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Philip K. Dick é um dos autores mais apreciados entre aqueles que têm tido as suas obras incluídas na Colecção Argonauta. Dele disse Ursula K. Le Guin, comparando-o a José Luís Borges:
 
 ""O facto de que Dick nos fala é a realidade e a loucura, o tempo e a morte, o pecado e a salvação - e escapou à maior parte dos críticos. Ninguém nota que temos o nosso próprio Borges, e tivemo-lo trinta anos.""
@@ -47,11 +37,5 @@ Mas ao chegarem à Terra surge um acidente. Rybys morre, Emmanuel, o Filho de De
 O que depois acontece, só a imaginação de Philip K. Dick poderia ter concebido.
 
 Nota: para mim esta é uma das obras mais bonitas e bem conseguidas do Phillip K.(Kindred) Dick. Aborda a ficção científica e a Religião, tendo por pano de fundo sobretudo os afectos humanos. É uma obra de uma grande profundidade, lindíssima e também bastante triste.
-
-
-
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: ...And All the Stars a Stage
 Tradutor1: J. Santos Tavares
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -32,14 +27,9 @@ Tradução: J. Santos Tavares
 Súmula - Foi apresentada no livro 
 nº461 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 James Blish é um dos grandes mestres da ficção-científica, e como tal amplamente representado na Colecção Argonauta. As Estrelas como Palco é a versão portuguesa de ...and All the Stars a Stage, uma das suas mais belas obras, com uma história que, como todas as de Blish, dá muito que pensar.
 
 Para John Birch, tudo começara como uma forma de quebrar a monotonia de ser um homem solteiro num mundo dominado por mulheres, mas o programa de exploração do espaço interestelar foi subitamente alterado pela pior das notícias: o Sol estava a extinguir-se rapidamente e dentro de nove anos toda a vida desapareceria.
 
 Toda a vida menos as das 75.000 pessoas seleccionadas entre os 25 mil milhões de habitantes da Terra para embarcarem nas naves apressadamente construídas e nem sequer testadas, que as levariam através de milhares de anos-luz, até um novo mundo. A impiedosa selecção começou, mas mesmo para os eleitos não havia garantia alguma de salvação...
-
-
 "

@@ -8,17 +8,9 @@ Titulo-original: Rogue Star
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Frederik Pohl e Jack Williamson
@@ -42,12 +34,4 @@ Eis, apenas, alguns apontamenteos do clima narrativo que perpassa neste livro, c
 Introdução:
 
 Depis de Missão Impossível (nº151) e de Ultimato à Terra (nº155), Frederik Pohl e Jack Williamson apresentam uma nova obra sobre o seu estranho universo das estrelas que pensam, dos seres que vivem no espaço e dos homens e das mulheres que com o seu auxílio foram além do mundo, conhecer outros mundos estranhos. Mas sempre sem dominar o eterno problema da compreensão do destino humano. 
-
-
-
-
-
-
-
-
 "

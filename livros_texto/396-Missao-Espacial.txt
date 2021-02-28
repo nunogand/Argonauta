@@ -8,14 +8,9 @@ Titulo-original: First Flight
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1987
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Chris Claremont
 
@@ -32,14 +27,8 @@ Tradução: Raul de Sousa Machado
 Súmula - Foi apresentada no livro 
 nº395 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Missão Espacial, é a versão portuguesa de First Flight, uma obra de Chris Claremont, um autor novo na Colecção Argonauta, que por certo vai tornar-se notado pela sua imaginação, a qual nos transporta de novo aos tempos áureos da ficção-científica, quando as viagens no Espaço ainda não haviam sido tentadas e se esperava que existissem seres inteligentes em Vénus e Marte.
 
 As fronteiras estão hoje muito mais longe, mas quem poderia prever que, logo na sua primeira missão, a jovem Tenente O' Shea se visse perante o que podia ser a sua última possibilidade de sobreviver - a sua e a de toda a Humanidade? 
-
-
-
 
 "

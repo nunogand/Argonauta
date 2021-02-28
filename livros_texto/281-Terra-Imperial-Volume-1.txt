@@ -8,46 +8,21 @@ Titulo-original: Imperial Earth
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1975
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Arthur C. Clarke
 Título original: Imperial Earth
-
-
-
 1ª Edição: 1975
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº280 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Uma obra de Arthur C. Clarke é sempre um acontecimento. Terra Imperial - versão portuguesa de Imperial Earth - A Fantasy of Love and Discord - é um grande acontecimento. Obra dedicada a um ""amigo perdido"" - Ernest Hemingway -, é a história da expansão imperial da Terra através do Sistema Solar, e da revolta dos colonos de Titã contra o imperialismo terrestre. Mas é mais do que uma ""fantasia de amor e discórdia"".
 
 Arthur C. Clarke é o homem a quem se deve a invenção dos satélites de comunicações e é o homem que teve a ideia de utilizar a própria atracção dos planetas para impelir as naves e as sondas em novas e mais longas trajectórias - uma ideia já usada na exploração de Vénus, Mercúrio, Júpiter e Saturno. Em Terra Imperial, Clarke teve a colaboração de cientistas do maior renome: o Professor Carl Sagan - a maior autoridade mundial em exobiologia (a ciência que estuda a possibilidade da existência de vida fora da Terra) - até ao Dr. Robert Forward, da Hughes Research Laboratory, autor da teoria dos mini-buracos negros; o Dr. Grote Reber - o pai da radioastronomia -; o Dr. Adrian Webster, do Observatório de Radioastronomia de Cavendish; e o Dr. Bernard Oliver, presidente e director de investigação da Hewlett-Packard; o Dr. Solomon W. Colomb, professor de Engenharia Eléctrica e Matemática da Universidade do Sul da Califórnia. 
-
-
-
 
 "

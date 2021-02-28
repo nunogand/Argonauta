@@ -8,14 +8,9 @@ Titulo-original: Sleepwalker's World
 Tradutor1: J. Santos Tavares
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gordon R. Dickson
 
@@ -28,19 +23,11 @@ Publicado na Colecção Argonauta em 1994
 Capa: A. Pedro
 
 Tradução: J. Santos Tavares
-
-
-
 Súmula - Foi apresentada no livro 
 nº441 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Gordon R. Dickson é um autor bem conhecido dos leitores da Colecção Argonauta e este seu Mundo Adormecido foi considerado pela revista Tulsa World como ""ficção-científica de elevada categoria"". 
 
 Rafe Arnaul Harald fazia parte do grupo de seis astronautas que tinham ido à Lua treinar-se para a primeira viagem às estrelas. Entretanto, a Terra tornara-se num mundo adormecido em consequência da difusão da energia destinada ao fabrico dos produtos alimentares. Como, porém, Rafe ficara imune a este efeito, coube-lhe combater as forças ocultas que não permitiam o início da viagem às estrelas.
-
-
-
 
 "

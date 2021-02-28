@@ -8,14 +8,9 @@ Titulo-original: The Werewolf Principle
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -27,14 +22,9 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº141 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 
 Com este volume, concluímos este excepcional romance de Clifford D. Simak, Terra Insólita, de que damos, seguidamente, um dos seus excertos mais expressivos:
 
@@ -85,6 +75,4 @@ Introdução:
 
 Andrew Blake foi encontrado numa cápsula espacial num planeta distante e trazido a uma Terra diferente da que conhecera - uma Terra insólita em que o automatismo e a biologia progrediram de uma maneira inconcebível.
 Esta é a segunda parte da sua espantosa aventura. O dramatismo que Clifford D. Simak soube imprimir ao primeiro volume - cuja leitura é indispensável para a compreensão da obra - acentua-se ainda mais, ampliando-se à própria natureza das relações entre a Humanidade e o Universo, com uma nobreza e elevação poucas vezes atingidas em qualquer género literário.  
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Galactic Effectuator
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Jack Vance
 
@@ -28,30 +23,15 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº328 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Jack Vance não é um desconhecido dos leitores da Colecção Argonauta: foi o autor de O Homem Sem Rosto (The Anome), publicado com o nº 310 - indubitavelmente uma das histórias mais curiosas da Colecção, não só pelo enredo mas também pela mestria com que Vance descreve um mundo diferente, mas humano, e deixa ao leitor mil e uma coisas a pensar, a imaginar...
 
 Jack Vance nasceu em 1920, serviu durante a Segunda Guerra Mundial na marinha mercante dos EUA e teve mil e um empregos, desde operário da construção civil a músico de Jazz. Agora é um dos mais lidos e respeitados autores de FC, tendo publicado cerca de quarenta novelas  e setenta e cinco contos, não só na especialidade, mas também nos ramos da fantasia, e do mistério e do horror. É um dos poucos autores que obreve até hoje a Coroa Tripla - o Prémio Hugo por The Dragon Masters, em 1963; o Prémio Nebula, por The Last Castle (1996), e o Prémio Edgar, dos Mystery Writers of America, por The Man in the Cage (1960).  
 
 Não é de admirar, portanto, que em Detective Galáctico (Galactic Effectuator) tenham sido reunidas duas novelas que não são só um exemplo de ficção-científica de primeira água, mas também de mistério. Nenhum outro autor, além de Vance, poderia imaginar a figura de Vu Hetzel, o detective galáctico - um homem que, na verdade, é mais que um detective: é um solucionador.
-
-
-
 Introdução (é uma transcrição da súmula com excepção do terceiro parágrafo, ligeiramente diferente, que se reproduz abaixo):
-
-
-
 Em Detective Galáctico (Galactic Effectuator), reuniram-se duas novelas distintas, ligadas pela figura de Miro Hetzel, um homem que, na verdade, é mais do que um detective, é um solucionador de problemas, de situações delicadas. Não é de surpreender que essas histórias sejam não só exemplos de ficção-cientifica de primeira água, mas também de mistério, de igual qualidade. Nenhum outro autor poderia conseguir uma combinação tão perfeita. 
-
-
-
 
 "

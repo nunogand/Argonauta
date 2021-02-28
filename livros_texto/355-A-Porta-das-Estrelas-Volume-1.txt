@@ -8,17 +8,9 @@ Titulo-original: Gateway
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -35,12 +27,7 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº354 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A Porta das Estrelas é o título da versão portuguesa de Gateway, uma das mais célebres obras da FC, a primeira parte da Trilogia dos Heechee. Ben Bova escreveu, na Analog Magazine, que Gateway é uma jóia rara: uma história profundamente gravada sobre as maravilhas e a beleza do universo estrelado e infinito. Fred Pohl, o Velho Mestre que é, abriu novos horizontes para a novela de ficção-científica. Depois dos homens terem herdado dos misteriosos Heechee as naves abandonadas que lhes permitem sulcar os abismos do Espaço, a corrida para as estrelas tornou-se a esperança de todos. Mas só um terço das naves volta com os tripulantes vivos... E os que regressam vivos e ricos podem, como Bob Broadhead, considerar a vida insuportável. Porquê?
 
 Em que estrela, em que planeta, está a felicidade?
-
-
 "

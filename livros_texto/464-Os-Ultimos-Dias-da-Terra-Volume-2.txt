@@ -8,14 +8,9 @@ Titulo-original: The Long Afternoon of Earth
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -33,13 +28,7 @@ Súmula - Foi apresentada no livro
 nº463 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
 No segundo e último volume desta obra magistral, Brian Aldiss - um dos grandes mestres da ficção-científica contemporânea - prossegue a recriação de uma Terra onde a vida animal quase desapareceu por inteiro e em que os poucos humanos sobreviventes sofreram mutações drásticas. A certa altura porém, e movidos por um natural sentimento de revolta, decidiram tentar empreender a grande ascensão até ao nosso satélite, na esperança de nele descobrir um asilo mais hospitaleiro. 
-
-
-
 Vendo que estavam a ser arrastados para longe, os Pescadores iniciaram um coro de lamentos. Yattmur passeou-se diante deles com a faca na mão, esforçando-se por não mostrar compaixão pelos seus ferimentos. 
 
 - Homens da árvore-barriga! Filhos de cauda longa de plantas inchadas! Parai com essa berraria! Morreu uma pessoa verdadeira, e vós tereis que respeitar essa morte, senão atiro-vos pela borda fora com as minhas próprias mãos.
@@ -57,6 +46,4 @@ Ouvindo isto, os Pescadores caíram num silêncio abjecto. Humildemente encostad
 - Escuta, Gren...
 
 Elevou-se um grito entre os Pescadores. Aparentavam uma espécie de interesse apático, apontando para a frente e chamando, o que foi suficiente para pôr Yattmur e Gren de pé imediatamente. O barco estava a ser arrastado de um lado para outro. 
-
-
 "

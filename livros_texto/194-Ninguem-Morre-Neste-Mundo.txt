@@ -8,14 +8,9 @@ Titulo-original: The Age of the Pussyfoot
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Frederik Pohl
 
 Título original: The Age of the Pussyfoot
@@ -24,15 +19,9 @@ Publicado na Colecção Argonauta em 1973
 
 Capa: Lima de Freitas
 Tradução: Eurico da Fonseca
-
-
-
 Súmula - foi
  apresentada no livro nº193 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
-
-
-
 Quando Charles Forrester despertou, teve a maior surpresa que um homem poderia ter. Recordou-se de que morrera quinhentos anos antes, num fogo.
 
 Coisas da ciência... Estava no ano de 2527. Todos os seus órgãos queimados haviam sido substituídos. Os olhos pareciam um pouco mais azuis. O nariz, dir-se-ia um pouco mais direito. Mas que importava isso?
@@ -42,9 +31,4 @@ Tinha um quarto de milhão de dólares no seguro acumulado. Uma mulher bela envi
 Charles Forrester devia ser o homem mais feliz do Mundo. Mas valeria a pena viver num Mundo onde não se podia morrer?
 
 Eis o tema curioso e aliciante da obra de Frederik Pohl, NINGUÉM MORRE NESTE MUNDO.
-
-
-
-
-
 "

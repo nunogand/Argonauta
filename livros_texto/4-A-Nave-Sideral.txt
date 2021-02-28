@@ -8,25 +8,9 @@ Titulo-original: The Last Space Ship
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1949
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Autor: Murray LeinsterTítulo original: The Last Space Ship
 1ª Edição: 1949
@@ -55,6 +39,4 @@ Mas diverti-me imenso mais escrevendo isto.
 
 Murray Leinster
 ""Ardudwy"" - Gloucester Coutry - VA 
-
-
 "

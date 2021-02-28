@@ -8,17 +8,9 @@ Titulo-original: Aux Armes d'Ortog
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Kurt Steiner
 Título original: Aux Armes d'Ortog
 1ª Edição: 1960
@@ -44,6 +36,4 @@ Mas não havia duas opiniões concordantes, nessa futura sociedade feudal do sé
 Mas a resignação não era para Dâl. Perante o corpo do pai, eliminado por ter atingido o limite oficial da longevidade, dâl Ortog, pastor de Galankar, jurou lutar pelo futuro da Raça. E, com a sua rebelião, começou uma nova Odisseia. Dâl, que de pastor se eleva ao mais alto grau da nobreza pelos seus feitos, Dâl, o adolescente, comandante duma Expedição, Dâl, o Cavaleiro-Nauta, fundador das Ordens Perfeitas, é encarregado pelos Sofiarcas de aportar ao planeta dos Arcanjos, de descobrir o Profeta Imortal e, com ele, o remédio para a salvação da Raça.
 É com este tema, e num romance recheado de acção, que prenderá o leitor da primeira à última página, que Kurt Steinher nos apresenta a maravilhosa aventura de Dâl Ortog, sem dúvida um dos mais poderosos heróis que a Ficção-Científica tem apresentado.
 ORTOG, de Kurt Steiner, é o próximo volume desta colecção. 
-
-
 "

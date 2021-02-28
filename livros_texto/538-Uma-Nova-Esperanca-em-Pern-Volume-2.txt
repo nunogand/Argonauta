@@ -8,14 +8,9 @@ Titulo-original: All the Weyrs of Pern
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1991
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -26,9 +21,6 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº537 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -54,8 +46,5 @@ Jaxom suspirou, e aceitou a repreensão suave do seu dragão branco. 
 Jaxom desatou a rir-se, provocado pela adulação maliciosa do seu dragão. Mas a lógica desse seu dragão tinha-o feito sair da depressão. 
 - E que haja uma altura para cada objectivo sob os céus! - gritou para o ar que os envolvia. O que Ruth dizia era verdade: apenas ele, Jaxom, Senhor do Baluarte de Ruatha, e Ruth, o dragão branco, podiam ter feito o que tinha de ser feito para libertar Pern para sempre dos Fios, servindo o seu mundo como apenas um dragão e o seu cavaleiro podiam, unidos na mente e no coração na realização de um objectivo.
 Jaxom e Ruth regressaram então ao Baluarte da Enseada, prontos para examinar o legado de conhecimento que o Svidia lhes tinha deixado.   
-
-
-
 
 "

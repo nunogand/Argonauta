@@ -8,12 +8,9 @@ Titulo-original: The Ceres Solution
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1981
+review: |
+  
 ---
-texto1
-"
-
-
-
 
 Autor: Bob Shaw
 Título original: The Ceres Solution
@@ -22,22 +19,13 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº305 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Ainda que seja considerado como um dos maiores autores de ficção-científica britânicos - e um dos mais fecundos - Bob Shaw é virtualmente desconhecido entre nós. Uma lacuna que vai desaparecer com a publicação de A Solução de Ceres, versão portuguesa de The Ceres Solution, a última obra de Shaw.
 
 Trata-se de uma história da confrontação entre duas civilizações humanas muito diferentes: uma na Terra, no princípio do século XXI - sofrendo do excesso de população frenética, correndo para a auto-extinção nuclear; a outra no mundo distante de Mollian, cujos habitantes conseguiram uma grande longevidade e poderes fantásticos que incluem a capacidade de se transportarem instantâneamente de uma estrela para outra. Os Mollonianos seguem uma estrita política de isolamento para preservar a sua sociedade fria, introspectiva, mas as duas culturas estão destinadas a ter um profundo efeito, uma sobre a outra...
 
 Em A Solução de Ceres, Shaw descreve milhares de anos da História da Terra e atravessa milhares de anos-luz através do espaço, mas fá-lo através de personagens que são inteiramente humanas nas suas qualidades e nas suas fraquezas. Como Denny Hargate, de língua ácida e amarga, confinado a uma doença que o consome, mas cuja coragem indomável o levará a alterar o curso da História. E Gretana ty Iltha, agente secreta de Mollian, que sonha com o regresso às delícias do seu mundo ultra-avançado, mas que se vê envolvida numa aventura como nenhuma outra.   
-
-
-
 
 "

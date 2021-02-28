@@ -8,20 +8,10 @@ Titulo-original: The Anarchistic Colossus
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: A.E. Van Vogt
-
-
 Título original: The Anarchistic Colossus
 
 1ª Edição: 1977

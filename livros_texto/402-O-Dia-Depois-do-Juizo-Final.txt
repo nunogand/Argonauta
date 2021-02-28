@@ -8,14 +8,9 @@ Titulo-original: The Day After Judgement
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -50,8 +45,5 @@ Para a maior parte dos leitores, este aviso é quanto basta. Os mais conhecedore
 Alexandria (Virgínia) - 1968                                                                                        James Blish
 
 Nota: uma obra absolutamente perturbadora para quem gosta de assuntos ligados ao sobrenatural. É formada por dois grandes capítulos, tendo sido posteriormente um deles, a Páscoa Negra, publicado novamente mais tarde com o nº 402, penso que por lapso. 
-
-
-
 
 "

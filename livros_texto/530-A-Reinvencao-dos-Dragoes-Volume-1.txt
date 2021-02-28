@@ -8,14 +8,9 @@ Titulo-original: Dragonsdawn
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1988
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -26,22 +21,13 @@ Capa: António Pedro
 Tradução: Alexandra Santos Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº529 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 O deslumbrante planeta Pern parecia um verdadeiro paraíso para os seus novos colonizadores - até que um terror inimaginável o transformou em inferno. De súbito, uma chuva de esporos mortais começou a cair do céu como se de fios de prata se tratasse, e esses esporos devoravam tudo - e todos - à sua passagem. Então todos se convenceram de que a colónia, isolada da Terra como estava e carente dos recursos necessários para enfrentar aquela ameaça, estava condenada. 
 
 Foi nessa altura que alguns dos colonos notaram que os pequenos lagartos-dragões que habitavam o planeta se tinham juntado à luta contra o inimigo, incendiando-o com o seu bafo e teleportando-se depois, rapidamente, para lugar seguro. Lembraram-se então de que o ideal seria que esses dragõezinhos crescessem o suficiente para poderem ser montados por homens e se tornassem suficientemente inteligentes para trabalharem em equipa com os seus cavaleiros.
 
 E assim, pediram à mais talentosa das suas geneticistas que tentasse criar o tipo de criaturas de que o planeta Pern tão desesperadamente necessitava - os Dragões! 
-
-
-
 
 "

@@ -8,29 +8,16 @@ Titulo-original: Citizen of the Galaxy
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
 Título original: Citizen of the Galaxy
-
-
 1ª Edição: 1957
-
-
 Publicado na Colecção Argonauta em 1979
-
-
 Capa: A. Pedro
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -45,6 +32,4 @@ O rapaz sentiu-se tonto e meio agoniado por causa da sensação de ter terra deb
 Agora ele era de novo ninguém e nada, agora ia de novo ser vendido.
 
 Nota: uma das obras de Robert A. Heinlein que mais gostei. Lembro-me sempre da figura do Vô e do percurso efectuado pelo jovem vagabundo na sua ascensão.
-
-
 "

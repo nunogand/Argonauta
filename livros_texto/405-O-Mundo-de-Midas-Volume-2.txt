@@ -8,15 +8,9 @@ Titulo-original: Midas World
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -33,9 +27,6 @@ Tradução: Samuel Soares 
 Súmula - Foi apresentada no livro 
 nº404 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Quando Amalfi Amadeus aperfeiçoou o reactor de fusão, transformou-se numa lenda vida. E o mundo, por meio da energia ilimitada que ele lhe oferecera, prosperou. Com energia de sobra, toda a gente na Terra possuía mais do que conseguia concebívelmente gastar. Era um sonho tornado realidade... ou quase.
 
 Cada pau tem dois bicos e a avalancha de produtos a serem manufacturados por indústrias robotizadas ameaça afogar a Humanidade.
@@ -43,8 +34,5 @@ Cada pau tem dois bicos e a avalancha de produtos a serem manufacturados por ind
 Mas o novo e precário equilíbrio da oferta e da procura é posto em perigo por consumidores descontrolados como Sonny Trumie, que satisfaz os seus caprichos infantis mandando fabricar palácios e armadas de naves de batalha em pão de gengibre. Outros, como Michel Pellica-Perkins, vivem em colossais habitats em órbita.
 
 A Terra é uma abrasadora ruína amarelada, até ao dia em que... 
-
-
-
 
 "

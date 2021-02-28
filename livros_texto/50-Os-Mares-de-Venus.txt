@@ -8,25 +8,16 @@ Titulo-original: Lucky Starr and the Oceans of Venus
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Paul French - (Pseudónimo de Isaac Asimov, que continua as aventuras de Lucky Starr) 
 Título original: Lucky Starr and the Oceans of Venus
 1ª Edição: 1954
 Publicado na Colecção Argonauta em 1959 
 Capa: Lima de Freitas
 Tradução: Mário Henrique Leiria
-
-
 Súmula - foi apresentada no livro nº48 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
-
 Desta vez, o nosso já conhecido Lucky Starr e o seu companheiro, o pequeno marciano Bigman, vêem-se envolvidos em misteriosos acontecimentos, no mundo fantástico de Vénus. 
 Lucky Starr é encarregado pelo Conselho das Ciência de uma delicada missão na unidade de Afrodite, a principal das unidades industriais submarinas estabelecidas pelos Terrestres nesse planeta totalmente submerso. Depois de vários incidentes bizarros e inquietantes, um primeiro investigador tinha sido enviado, Evans, um antigo camarada universitário de Lucky Starr. Mas uma mensagem recebida no Conselho e assinada por Morris, o Delegado do Conselho de Vénus, pedia a chamada imediata de Evans, acusado de corrupção. Estava envolvida no caso a segurança dos grupos industriais estabelecidos sob o oceano venusiano que, com os seus formidáveis meios técnicos, transformavam a exuberante vegetação submarina em produtos alimentares sintéticos, os famosos fermentos de Vénus, recurso vital para a Confederação Solar.
 Com o seu inseparável companheiro, Bigman, Lucky atinge o Satélite 2 que gira na órbita de Vénus, donde uma astronave anfíbia lhe permitirá atingir o planeta.
@@ -35,10 +26,5 @@ Porque razão abandonam os pilotos os comandos, quase arrastando Lucky e o seu c
 Envolvidos em todos estes aspectos aparentemente contraditórios do mesmo caso, Lucky Starr e Bigman vivem mais uma alucinante aventura em ""Os Mares de Vénus"".
 
 Vídeo: a minha apresentação em vídeo dos primeiros cinquenta livros. De 50 em 50 números, ficará disponível um vídeo, onde partilho mais algumas memórias minhas e pormenores relativos às obras.
-
-
-
-
-
 
 "

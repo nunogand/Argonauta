@@ -8,14 +8,9 @@ Titulo-original: Pebble in the Sky
 Tradutor1: A. Maldonado Domingues
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Isaac Asimov
 Título original: Peeble in the Sky
 1ª Edição: 1950
@@ -25,13 +20,7 @@ Tradução: A. Maldonado Rodrigues
 
 Súmula - foi apresentada no livro nº27 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 
-
-
-
 Dois minutos antes de desaparecer para sempre da superfície da Terra, Joseph Schwartz, alfaiate de sessenta anos de idade, passeava pelas agradáveis ruas dos arredores de Chicago, recitando Browning. Ergueu um pé para passar por cima de uma boneca de trapos abandonada no meio da rua. Ainda não tinha posto o pé no chão quando a coisa aconteceu...
-
-
-
 O Instituto de Pesquisas Nucleares de Chicago encontrava-se em plena actividade. O dr. Smith nunca soube quem tinha sido atingido pelos raios radioactivos resultantes de uma explosão sem importância acontecida no seu laboratório.
 
 Para Joseph Schwartz o acontecimento deu-se entre dois passos sucessivos. Tinha levantado o pé direito para evitar a boneca de trapos. Por uns momentos, sentiu-se aturdido como se, durante um ínfimo espaço de tempo, um turbilhão o tivesse envolvido. Quando tornou a abrir os olhos, encontrava-se sentado na relva, no mesmo sítio onde, momentos antes, caminhava sobre o cimento. Onde se encontrava? Que lhe tinha acontecido?
@@ -41,6 +30,4 @@ Assim se viu Joseph Schwartz atirado para milhões de anos no futuro, para um mu
 Sem saber como, Joseph Schwartz viu-se envolvido nas lutas que se desenrolavam na superfície da Terra. A própria ""lei dos sessenta"", que não permitia a existência a ninguém com mais de sessenta anos para evitar uma super-população que o planeta não podia sustentar, o obrigou a tomar contacto com vários meios de defesa por ele ignorados. E uma estranha qualidade, um sexto sentido que lentamente nele se ia desenvolvendo, colocou-o em situação de se envolver nas intrigas que entre o governo da Terra, racista, rancoroso e vingativo, e o governo galáctico, universalista e tolerante, se desenrolavam a caminho de um fim violento.
 
 Foi quando Balkis, secretário dos Antigos e membro da Fraternidade, tentou pôr em prática o seu plano de destruição do Império como meio de colocar a Terra à cabeça desse Império - que seria então um um império de morte, dor e ruínas - que Joseph Schwarz interveio. Joseph Schwartz, um homem anacrónico, com milhões de anos de idade, um homem deslocado num mundo desconhecido, um alfaiate do século XX vindo de uma época já esquecida nesse futuro distante, põe o seu estranho poder ao serviço da justiça, para que um Universo seja salvo do aniquilamento. E assim, quando a nuvem de ódio cego foi dominada e os seus instigadores desmascarados viu-se que Sanloo tinha sido destruída... mas os homens continuavam a viver, a existir nos restantes planetas da Galáxia, a caminhar para um futuro ainda melhor e mais distante...
-
-
 "

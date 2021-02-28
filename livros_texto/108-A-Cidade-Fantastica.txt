@@ -8,14 +8,9 @@ Titulo-original: Dandelion Wine
 Tradutor1: Jorge Rosa
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Ray Bradbury
 
  Título original: Dandelion Wine
@@ -27,14 +22,9 @@ Autor: Ray Bradbury
  Capa: Lima de Freitas
 
  Tradução: Jorge Rosa
-
-
 Súmula - foi apresentada no livro 
 nº107 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
-
 
 No seu estilo vigoroso e poético, reminiscente de Caldwell e Steinbeck, Ray Bradbury dá-nos em traços sóbrios o retrato de uma pequena cidade perdida na planura escaldante do Illinois, nos anos vinte. Através de uma galeria de personagens típicas de recorte magistral, revela o que de fantástico alberga em cada alma humana, em cada comunidade, desde que se tenha bem apurada a faculdade cada vez mais rara de ver para além do aspecto exterior, comezinho, das coisas. Um aglomerado banal surge-nos assim como um caleidoscópio fascinante de destinos humanos, interactuando no enquadramento físico da pradaria deserta, coberta de erva calcinada pelo Sol ardente. O sentimento de solidão e mistério é, por vezes, esmagador. Dois garotos, os irmãos Tom e Douglas Spaulding, servem de traço de união entre episódios sem qualquer relação entre si, que eles comentam e em que intervêm. Oscilando entre o trágico e o cómico, ora sério, ora faceto, mas sempre profundo e absorvente, Ray Bradbury vai traçando em pinceladas seguras, de notável fidelidade psicológica, um quadro inolvidável da epopeia do quotidiano, com as suas grandezas e misérias, num contraponto constante entre o sonho e a realidade. Leo Auffmann e a máquina da felicidade, o Corolnel Freeleigh e a sua nostalgia da juventude irremediávelmente perdida, as irmãs Fern e Roberta e a sua máquina verde, a tocante despedida de John Huff e Douglas Spalding, Elmira Brown e a sua magia negra, o extraordinário episódio de amor entre Helen Loomis e Bill Forrester, Lavinia e o Solitário, a boneca de cera que predizia o futuro, o ferro-velho e a sua milagrossa faculdade de curar, e, como uma constante sinistra, a presença ameaçadora da ravina - nestes e noutros episódios Ray Bradbury afirma-se como um escritor de garra, em que a sobriedade corre parelhas com um estilo altamente  poético e acentua a sua visão subtil e profunda da vida.
 
@@ -48,10 +38,5 @@ Digamos desde já, que as fronteiras da Ficção-Científica não se encontram d
 O mesmo sucede no campo da Ficção-Científica e desse facto é Ray Bradbury um dos exemplos mais assinalados. A Ficção-Científica não se caracteriza, se não estamos em erro, nem pela antecipação nem pelo facto de a acção - quando existe - se desenrolar em planetas diferentes da Terra ou em zonas do Universo que se não confinam às nossas dimensões de seres terrestres. Tão pouco se caracteriza pelo tipo de episódios e de heróis que habitualmente, e de forma predominante, povoam as criações dos seus cultores. Além desse tipo de obras, aliás devidamente representadas na Colecção Argonauta, na qual têm  por igual o seu devido lugar, há obras lídimamente de Ficção-Científica que, representando uma incursão no reino do possível, do ainda não-realizado, podem com justos motivos incluir-se neste novo género literário.
 Estão nesse caso os livros mais recentes de Ray Bradbury, o escritor a quem já se chamou ""o Poeta da ficção-científica"". Pelo que respeita à Cidade Fantástica, parece ter sido preocupação essencial do seu Autor o mostrar até que ponto o real quotidiano esconde o maravilhoso e o  possível, até que ponto a imaginação e a sensibilidade podem revelar o fantástico existente, sem disso nos apercebermos, na nossa experiência quotidiana. Foi desse ângulo que, por nossa parte, lemos A Cidade Fantástica e decidimos da sua inclusão na Colecção Argonauta, certos de que a sua publicação viria contribuir para o conhecimento mais profundo de uma das suas linhas dominantes. Além disso, como seria possível ficarmos insensíveis à beleza de um estilo cujo valor se impõe a qualquer leitura, de um estilo que é dos mais puros e da mais rara beleza entre os mais belos e mais puros da Literatura Contemporânea?
 Os caminhos da Ficção-Científica são vários e diversos. Esforçamo-nos por que todos eles tenham na Argonauta o seu lugar: desde o romance de acção e aventura nos astros ignotos, em sistemas desconhecidos, até aos romances-previsão, aos romances-problemas, e também aos livros de Ficção-Científica poética, como são os de Ray Bradbury, e entre os quais avulta A Cidade Fantástica, que temos a honra e o prazer de apresentar.  
-
-
-
 Nota: uma obra fantástica do Poeta da ficção-cientifica... e uma capa lindíssima, na minha opinião!
-
-
 "

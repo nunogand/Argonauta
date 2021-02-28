@@ -8,15 +8,9 @@ Titulo-original: The Enemy Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Poul Anderson
 Título original: The Enemy Stars
@@ -28,8 +22,6 @@ Título original: The Enemy Stars
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº109 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -39,8 +31,5 @@ Com a edição deste romance de Poul Anderson, tem a Colecção Argonauta o praz
 Poul Anderson, autor norte-americano, dá-nos no presente romance uma obra de vigor empolgante, através de um entrecho de caracteristicas invulgares. Poul Anderson, com efeito, afirma-se no sector da FC com a plena originalidade de uma imaginação viva e exuberante, que prefere seguir o seu próprio caminho a trilhar as rotas já desbravadas pelos seus antecessores. 
 
 Estrelas Inimigas é uma obra que marca uma data e que vem comprovar o imenso talento de Poul Anderson, um autor que, através deste romance, entra na Colecção Argonauta, enfileirando ao lado dos melhores escritores do género.  
-
-
-
 
 "

@@ -8,12 +8,9 @@ Titulo-original: The City at World's End
 Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
 
   
 Autor: Edmond Hamilton (a capa tem uma gralha no nome do autor)Título original: The City At World's End
@@ -33,6 +30,4 @@ Nessa cidade, nem um sopro de vida, mas é evidente que ali, há muitos anos atr
 O moço John Kinston incansávelmente transmite para o espaço constantes apelos pelo rádio, mas cada vez mais todos se convencem, ante o siêncio que os rodeia, sem captarem qualquer resposta aquelas chamadas, que mais ninguém ficou na Terra para os ouvir. E pertinaz, persistente, lutando contra o desespero e o desânimo, de toda a hora, da misteriosa cidade das cúpulas, sobe ainda periódico o apelo de Kinston: - ""Middletown chama! Middletown chama!...""
 Silêncio, Mutismo. Nem um som para além daquele deserto enregelado e cor de oca. A noite eterna parecia ter descido sobre aquele último e desgraçado povo da Terra. Até que um dia...
 Mas não prejudiquemos o natural interesse com que o leitor da ""Colecção Argonauta"" desejará conhecer a sorte e o insuspeito destino daquele povo de ""A Última Cidade da Terra"". 
-
-
 "

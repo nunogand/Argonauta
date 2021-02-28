@@ -8,14 +8,9 @@ Titulo-original: Metrophage
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1988
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Richard Kadrey
 
@@ -32,14 +27,8 @@ Tradução: Eduardo Saló
 Súmula - Foi apresentada no livro 
 nº391 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Numa cidade do futuro, numa civilização que pode ser a do crime, do medo, do horror, da  prostituição e da droga, Johnny, habitante de Los Angeles, a urbe dos marginais, dos criminosos, dos leprosos, dos vendedores ambulantes, vive uma existência à beira do abismo onde só conta a sobrevivência.
 
 Neste caos humano surge a epidemia: uns culpam as minorias rácicas; outros lançam suspeitas sobre os Alpha Rats, pretendendo que eles visam com os seus raios leprosos destruir o planeta Terra.  
-
-
-
 
 "

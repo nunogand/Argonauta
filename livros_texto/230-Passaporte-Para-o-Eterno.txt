@@ -8,14 +8,9 @@ Titulo-original: Passport to Eternity
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1963
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: J.G. Ballard
 
@@ -24,8 +19,6 @@ Título original: Passport to Eternety
 Publicado na Colecção Argonauta em 1976
 Capa: Manuel Dias 
 Tradução: Maria Emília Ferros Moura 
-
-
 Súmula - Foi apresentada no livro 
 nº229 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":  
@@ -33,9 +26,6 @@ nº229 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Forbis passara o dia inteiro a tentar subir ao 100º andar. Acocorado junto da pequena escada, por detrás do elevador, fitava abatido a porta de metal giratória que dava para o telhado, tentando tomar a iniciativa fosse de que maneira fosse. Havia onze degraus estreitos, o terraço vazio do telhado, as altas grades servindo de barreira ao suicídio e o céu aberto. De três em três minutos passava um avião de passageiros, lançando uma sombra momentânea sobre os degraus; os jactos abafavam momentâneamente o pânico que o dominava e de cada vez fazia nova tentativa para alcançar a porta.
 
 Onze degraus. Contara-os milhares de vezes, há horas, desde que entrara pela primeira vez no edifício às dez horas daquela manhã e subira de elevador até ao 95º andar. Subira os restantes quatro andares a pé - que não passavam de simulações, escritórios sem janelas e sem utilização, destinados meramente a conferir ao edifício a totalidade numérica correspondente a um século - e depois esperara sem fazer o mínimo ruído junto às últimas escadas, escutando os elevadores que subiam e desciam e tentando acalmar-se. Como habitualmente, porém, a pulsação tinha-se-lhe acelerado e dois ou três minutos depois passara a cento e vinte por minuto. Sempre que se erguia e estendia a mão para o corrimão, algo lhe apanhava os centros nervosos, o cérebro ressoava-lhe e ficava colado ao chão como se fosse de chumbo.
-
-
-
 Eis o início de um livro sensacional de J.C. Ballard, Passaporte para o Eterno, o próximo volume da Colecção Argonauta.
 
 Ballard, um dos génios da ficção-científica, é um autor bem conhecido dos leitores portugueses e que bem dispensa apresentações. Mas o seu romance Passaporte para o Eterno, ultrapassa toda a expectativa e situa-se entre aquelas obras realmente magnas que fundamentam o prestígio de um escritor e de um género literário.
@@ -55,9 +45,4 @@ Nota: a edição lamentavelmente não possui um índice. Os contos apresentados 
 9 - Passaporte para a Eternidade
 
 Chamo a atenção para o conto intitulado Escape, que acho muitissimo perturbador e absolutamente extraordinário.
-
-
-
-
-
 "

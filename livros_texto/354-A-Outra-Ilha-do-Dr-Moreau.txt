@@ -8,14 +8,9 @@ Titulo-original: Moreau's Other Island
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -32,16 +27,10 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº353 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Brian Aldiss é um dos mais brilhantes autores britânicos de FC - talvez o mais notável. Que ele tenha retomado um dos mais célebres temas de Herbert George Wells - A Ilha do Dr. Moreau - é um acontecimento, não só na ficção-científica, mas também na literatura em geral. Mais importante ainda, porque Aldiss, sem imitar precisamente o espírito de Wells, respeitou-o.
 
 Poderá perguntar-se que interesse houve - para além do literário - em reviver a estranha história do médico louco que transformava os animais em homens. Sem desvendar um segredo que, como é hábito de Aldiss, se mantém impenetrável até final, notaremos apenas que, depois de Wells, muita coisa mudou no mundo e pode ainda mudar.
 
 Que papel poderá ter a engenharia genética numa futura guerra global? O que era uma fábula, pode um dia tornar-se numa terrível realidade.   
-
-
-
 
 "

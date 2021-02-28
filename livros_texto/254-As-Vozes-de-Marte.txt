@@ -8,35 +8,16 @@ Titulo-original: I Sing the Body Electric
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Ray Bradbury
-
-
-
 Título original: I Sing the Body Electric
-
-
 1ª Edição: 1969
-
-
 Publicado na Colecção Argonauta em 1978
-
-
 Capa: A. Pedro - (começam neste número as capas idealizadas por A. Pedro) 
-
-
 Tradução: Maria Emília Ferros Moura
-
-
 Súmula - Foi apresentada no livro 
 nº253 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -67,6 +48,4 @@ As Vozes de Marte, constitui uma obra ímpar, que o leitor dificilmente poderá 
 
 Nota: A primeira parte de uma excelente colectânea de contos que li e reli imensas vezes. Chamo a atenção para o conto Uma Criança do Amanhã, muito original e de uma grande sensibilidade, que me impressionou bastante. Esta é a segunda parte de uma antologia de contos referente à obra de Ray Bradbury intitulada I Sing the Body Electric, publicada na Colecção Argonauta em dois volumes. O segundo é o nº260, publicado com o nome A Última Cidade de Marte. Li estes livros em várias férias grandes imensas vezes.
 Deixo o link que fala mais sobre o original: I Sing the Body Electric
-
-
 "

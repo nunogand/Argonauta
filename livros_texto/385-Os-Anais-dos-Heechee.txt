@@ -8,15 +8,9 @@ Titulo-original: The Annals of the Heechee
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1987
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -35,15 +29,8 @@ nº384 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
  do próximo volume da Colecção Argonauta"": 
 
 Nota: a sinopse apresentada a seguir, é mais uma falha dos editores da Colecção Argonauta. Com efeito, a sinopse que aparece na obra anterior, Dorsai, como sendo relativa a este título, refere a obra O Signo do Unicórnio, de Roger Zelazny, que introduziria a série Amber deste autor. Em vez dela foi publicada esta obra relativa à saga dos Heechee, de Frederik Pohl. Não foi apresentada nesta obra qualquer explicação para o facto de ter sido publicado este título em vez do anunciado, o que em meu entender traduz falta de profissionalismo e de respeito para com os leitores. Curiosamente, muito mais tarde, a obra de Roger Zelazny viria a ser publicada, no nº546, pouco antes da colecção ter terminado. E de O Signo do Unicórnio, passou a ser O Sinal do Unicórnio. 
-
-
 De qualquer modo, apresentamos aqui a sinopse publicada no obra Dorsai, relativa à obra anunciada de Roger Zelazny como sendo o título nº385, O Signo do Unicórnio: 
-
-
-
 Roger Zelazny - já conhecido dos leitores da Colecção Argonauta - introduz com O Signo do Unicórnio a mais do que célebre série Amber, fantasticamente popular, ricamente lírica e repleta de suspense e de maravilhoso.
 
 Esta série fabulosa, que fez e faz os encantos de milhões e milhões de leitores, antecipada por uma colecção de contos, Unicorn Variations, que a Colecção Argonauta em breve editará, representa a quinta essência da moderna ficção-científica - um género que com Zelazny regressa ao impulso originário da grande literatura, a um estilo espectacular e inovador e a um ambiente simultaneamente fantástico e poético. 
-
-
 "

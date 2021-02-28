@@ -8,14 +8,9 @@ Titulo-original: Vulcan's Hammer
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip K. Dick
 
@@ -28,9 +23,6 @@ Tradução: Eurico da Fonseca 
 Súmula - foi
  apresentada no livro nº206 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 Em A Máquina de Governar, Philip K. Dick, o famoso escritor de ficção-científica, apresenta-nos o estranho mudo futuro em que uma poderosa organização governamental se vê ameaçada pelos aspectos mais atávicos das populações submetidas. 
 
 Obra básica das modernas tendências da literatura de antecipação, A Máquina de Governar, concebida nos limites do fantástico, cria um universo em que a angústia, o desespero e o terror incontroláveis dominam uma intriga verdadeiramente clássica.
@@ -38,6 +30,4 @@ Obra básica das modernas tendências da literatura de antecipação, A Máquina
 Técnicamente perfeito e altamente organizado, o Poder é, não obstante, contestado por uma massa amorfa de populações cuja miséria e primitivismo não fazem supôr que sejam capazes de reacções que ultrapassem os instintos... No entanto, Arthur Pitt, o agente massacrado em Alabama, é vitimado por algo de muito mais poderoso do que o ódio incontrolável das populações. Efectivamente, entre os assassinos actua, em silêncio, uma organização eficaz e inteligente, conhecedora de todas as novas técnicas e suficientemente apta para lhes fazer frente. Quais serão os seus objectivos? Quem ""assassinou"" Arthur Pitt? Como reagirão o Governo e os seus agentes? Que terríveis sucessos foram planeados pelos chefes de uma nova mística que dirige a revolta das populações? Até quando poderá sobreviver uma sociedade só aparentemente estável? Quais são os verdadeiros frutos da desconfiança e da suspeita, mesmo quando esta se manifesta no seio de uma organização estatal altamente desenvolvida?
 
 É indispensável ler A Máquina de Governar para obtermos as respostas certas a problemas que são, afinal, do nosso tempo.
-
-
 "

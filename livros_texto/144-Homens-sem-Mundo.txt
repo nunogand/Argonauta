@@ -8,17 +8,9 @@ Titulo-original: No World of Their Own
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Poul Anderson
 
 Título original: No World of Their Own
@@ -29,8 +21,6 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº143 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
@@ -46,8 +36,6 @@ Romance emocionante, dele extractamos algumas das suas páginas, através das qu
 ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...  ...
-
-
 A nave saíu como um relâmpago do ultravoo e ficou suspensa nas trevas onde ardiam as estrelas. Durante um momento fez-se silêncio, e então ouviu-se: 
 
 - Onde está o Sol?
@@ -109,8 +97,6 @@ Langley encolheu os ombros. Ao fim de semanas de vida em comum, ainda não se co
 - Muito bem, filho - disse ele. - Então vou pôr em ordem o diário de bordo. Empurrou a parede com um pé e abriu a porta. Atravessou um corredor estreito. No fim, fez uso das suas mãos experientes, girou em volta de um pilar, entrou num pequeno compartimento e dobrou as pernas em volta de uma cadeira presa  a uma secretária. 
 
 O diário de bordo estava aberto, preso pelo magnetismo das suas ferragens. Com uma preguiça que era a melhor arma contra a sua furiosa impaciência, começou a folheá-lo.
-
-
  ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...  ...  
@@ -120,13 +106,5 @@ Introdução:
 Poul Anderson nasceu em Bristol, na Pensilvânia, e licenciou-se em Física na Universidade de Minnesota. Escrevia por divertimento e publicou algumas histórias, ainda quando estudante. Depois, como lhe fosse difícil obter um emprego adequado, continuou a escrever. Até que, com sua surpresa, verificou que não era um cientista, mas sim um escritor nato.
 A ficção-científica não é o único género literário a que Poul Anderson se dedica. As suas obras realistas e históricas são também bem conhecidas. Mas a habilidade e a elegância com que descreve a vida no futuro - num futuro quase sempre muito longínquo - em muitos povoados por criaturas não humanas, é absolutamente incomparável. Nenhum autor do género é capaz como ele, de expresar em todos os seus pormenores mentalidades e civilizações que não têm qualquer ponto de contacto com aquelas que conhecemos, sem abandonar a lógica mais pura e sem recorrer a artifícios dúbios ou excessivamente imaginosos.
 Por isso se compreende que muitas das suas obras tenham sido traduzidas nas mais diversas línguas e que algumas delas figurem na Colecção Argonauta (nº110 - Estrelas Inimigas; nº126 - O Planeta dos Homens Alados). Em Homens sem Mundo, Poul Anderson leva-nos porém ainda mais longe. Porque a civilização estranha que descreve é a da própria Terra. Num futoro que, felizmente, estará bem longe de nós.  
-
-
-
-
-
-
-
-
 
 "

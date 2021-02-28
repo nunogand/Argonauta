@@ -8,14 +8,9 @@ Titulo-original: Sixth Column
 Tradutor1: Manuel de Sepúlveda
 Tradutor2: 
 Ano-edicao: 1941
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Robert Heinlein Título original: Sixth Column  1ª Edição: 1941 Publicado na Colecção Argonauta em 1955 Capa: Cândido Costa Pinto 
 Tradução de: Manuel de Sepúlveda
 Súmula - foi apresentada no livro nº19 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -25,6 +20,4 @@ E Ardmore encontra-se perante a inesperada situação: em vez de um grande e esc
 Mas em Ardmore personifica-se o indomável espírito de luta da América e das suas ordens nasce uma alma nova, que afasta os sobreviventes do desânimo inicial. Sabido que os Panasiáticos apenas concedem aos americanos a liberdade religiosa, tendo eliminado todos os vestígios de cultura e educação tipicamente americanos, ao mesmo tempo que eliminam todo o espírito de revolta pelos massacres a que procedem, quando surge qualquer protesto, funda-se uma nova religião. Religião que, abandonada a Casa-Mãe, alastra por todo o território dos Estados Unidos. Religião que tem como mais poderoso auxiliar a máquina de Ledbetter (que Calhoun e Wilker tinham conseguido ultimar e que passara a designar-se o ""Ledbetter"") e que consegue a protecção oficial dos Panasiáticos. Religião que entre os seus sacerdotes e os seus fiéis forma uma poderosa rede de espionagem: A Sexta Coluna. Rede de espionagem que penetra pelas mínimas frinchas do sistema de ocupação e que consegue penetrar no palácio imperial. E alcançado o palácio, abre-se uma nova perspectiva para a luta.
 A Sexta Coluna encontrou soluções inesperadas para o combate e a ordem de Washington pôde continuar viva. E o ""Ledbetter"" e a audácia, o engenho, criam o inesperado, o fantásticamente real em que se move toda a população de uma grande potência.
 E são estes valores que fazem do livro de Robert Heinlein uma leitura apaixonante e instrutiva, onde se ligam os valores científicos aos valores humanos, em que o fantástico imbrica com o real.
-
-
 "

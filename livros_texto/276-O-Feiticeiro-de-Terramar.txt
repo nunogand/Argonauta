@@ -8,33 +8,16 @@ Titulo-original: A Wizard of Earthsea
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ursula Le Guin
 
 Título original: A Wizard of Earthsea
-
-
-
 1ª Edição: 1968
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -51,13 +34,7 @@ No entanto, a Trilogia de Terramar foi apenas o começo de uma carreira que se p
 
 Em 1974 surgiu a obra máxima de Le Guin: The Dispossessed. Tendo por subtítulo Uma Utopia Ambígua,  é a descrição de uma sociedade anarquista - e é uma obra  perfeitamente integrada na corrente tradicional - científica - da SF.  The Dispossessed obteve os prémios Hugo e Nebula. Não vulgar que uma obra consiga obter os dois prémios, mas mais raro ainda é que isso aconteça pela segunda vez a um mesmo autor: Ursula Le Guin obtivera cinco anos antes os mesmos galardões com The Left Hand of Darkness! Dito isso, tudo estará dito. 
 
-
-
-
 Introdução: (reproduz com ligeiras diferenças a súmula)
-
-
-
 A chamada American New Wave, 
 que teve como figuras de vanguarda autores como Thomas Disch, Samuel R. 
 Delany, Roger Zelasny, etc, é por muitos considerada como uma reacção à 
@@ -90,12 +67,6 @@ integrando-se todavia perfeitamente na corrente tradicional - científica
 ""pedra-de-toque"", o padrão máximo de qualidade - de tal género 
 literário.
 
-
-
-
 Nota: a saga de Ged, o jovem feiticeiro, acompanhou-me durante toda a minha infância e juventude. Este livro e os dois que se seguem na saga, Os Túmulos de Atuan (nº 284) e O Outro Lado do Mundo (nº 293), foram talvez os livros que li mais vezes da Colecção Argonauta. Tenho sempre saudades desta saga e releio-a sempre com imenso gosto. Posteriormente, foram lançados pela Ursula Le Guin um 4º livro e depois um 5º que revisitam a saga, mas que ainda não li. Sinceramente, até tenho medo de os ler. Estes três livros formam um conjunto perfeito. E por vezes não se deve mexer no que é perfeito.
 Também me questionei algumas vezes sobre se a J.K.Rowling não se terá inspirado neste livro para criar a história de Harry Potter.
-
-
-
 "

@@ -8,19 +8,11 @@ Titulo-original: The Goblin Reservation
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
-
-
-
 
 Título original: The Goblin Reservation
 
@@ -30,21 +22,13 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº147 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Clifford D. Simak dá largas, mais uma vez, à sua controlada fantasia colocando-nos hábilmente perante um tema de actualidade a que a imaginação empresta roupagens inéditas e coloridos inesperados.
 
 O Tempo dos Duendes situa-se, por isso, entre os mais apreciados romances de Clifford D. Simak, autor já consagrado largamente na nossa Colecção, e que o público leitor português tem recebido com um entusiasmo crescente. 
 
 Galardoado com o Prémio Hugo, um dos mais altos prémios a que pode aspirar um escritor de ficção-científica, Clifford D. Simak situa-se entre os autores de mais larga repercussão contemporânea, sendo de esperar que O Tempo dos Duendes venha a inscrever-se entre os seus êxitos mais retumbantes.  
-
-
-
 
 "

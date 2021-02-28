@@ -8,14 +8,9 @@ Titulo-original: The Martian Chronicles
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Ray Bradbury
  
 Título original: The Martian Chronicles
@@ -39,6 +34,4 @@ Já o ano 2009 rondava, quando se deu o choque das duas civilizações. O casal 
 Os homens da Terra, tinham finalmente conquistado o fantástico.
 
 Nota: Ray Bradbury, é considerado por muitos como ""O Poeta da Ficção Científica"", tendo a Colecção Argonauta publicado algumas das suas obras mais extraordinárias.
-
-
 "

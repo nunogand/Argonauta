@@ -8,15 +8,9 @@ Titulo-original: The World Swappers
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: John Brunner
 Título original: The World Swappers
@@ -32,16 +26,10 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº239 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Um dia, quando os homens dominarem verdadeiramente a imensidão do espaço cósmico, poderão espalhar-se por mil mundos. Mas que acontecerá se, depois disso - e somente depois disso - surgirem provas da existência de outra espécie inteligente na galáxia, ocupada também na busca de novos mundos para colonizar?
 
 Ir-se-á assistir a uma guerra galáctica, tal como noutro tempo se assistiu a guerras mundiais, resultantes dos conflitos dos interesses (e das ideias) dos povos da Terra? Muitos e muitos têm sido os livros de ficção científica baseados nas descrições de conflitos à escala cósmica, em que os humanos e outras criaturas - por norma horrorosas e cruéis - lutam com armas terríveis.
 
 Não foi esse o caminho seguido por John Brunner na sua obra Os Permutadores de Mundos - (The World Swappers), no título original. Brunner - um autor conhecido dos leitores da Colecção Argonauta, premiado com o  Prémio Hugo - preferiu uma solução menos espectacular, mas mais lógica. Considerando que uma guerra entre os humanos e os outros poderia levar à destruição de ambas as civilizações e, muito possívelmente, de ambas as espécies, haverá que evitar a guerra, a todo o custo. Mas como vencer o desconhecimento mútuo, a desconfiança e, principalmente, a ambição daqueles que, no fim de tudo desejariam a guerra para através dela conquistarem o poder sobre todo o Universo e todos os seres nele existentes?  
-
-
-
 
 "

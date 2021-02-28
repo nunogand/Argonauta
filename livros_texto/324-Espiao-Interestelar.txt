@@ -8,15 +8,9 @@ Titulo-original: Ensign Flandry
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Poul Anderson
 
@@ -29,28 +23,16 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº323 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Espião Interstelar é a versão portuguesa de Ensign Flandry, uma das curiosas obras que Poul Anderson escreveu em torno da figura lendária do jovem Dominic Flandry, aspirante do Corpo Naval Imperial e agente secreto da Terra, sempre envolvido nas mais extraordinárias aventuras, apesar dos seus dezanove anos. Agora o problema está nos peles verdes de Mersela - os belicosos e inteligentes répteis que sonham em destruir a Terra. Tudo começa em Starkad, um pequeno planeta na terra-de-ninguém, que durante séculos serviu de palco à guerra entre dois partidos. Subitamente Mersela surge a apoiar um deles... e naturalmente a Terra passa a apoiar o outro. E a escalada começa. Mas que interesse terá Mersela em arriscar-se a uma guerra com a Terra, por causa de um planeta tão pobre?
 
 Eis como se inicia a maravilhosa aventura:
 
-
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...
-
-
-
 Fim do dia, na Terra...
 
 Sua Majestade Imperial, o Alto Imperador Georgios Manuel Krishna Murasaki, o quarto da dinastia Wang, Supremo Guardião da Paz, Grande Director do Conselho Estelar, Comandante-Chefe, Árbitro Final, reconhecido com supremo em muitos mundos e chefe honorário de mais organizações do que algum homem poderia recordar, festejava um aniversário. Em planetas tão distantes que, a olho nú, não era possível ver os seus sóis entre os que cintilavam sobre a Oceânia, homens tornados escuros e coriáceos, ou gordos e fatigados, por estranhos climas, ergueram copos numa saudação. As ondas de luz que transportavam os seus votos deviam vir a esbater-se no seu túmulo.
@@ -81,12 +63,7 @@ Alicia interrompeu.
 
 - Ora, ora, meu amor, estás a cometer uma injustiça. Sabes que eu ainda persigo mulheres. De preferência mulheres bonitas como tu.
 
-
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ...
-
-
 "

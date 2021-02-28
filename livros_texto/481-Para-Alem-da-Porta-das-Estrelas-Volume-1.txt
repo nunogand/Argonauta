@@ -8,14 +8,9 @@ Titulo-original: The Gateway Trip
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1990
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -28,19 +23,11 @@ Publicado na Colecção Argonauta em 1997
 Capa: A. Pedro
 
 Tradução: Clarisse Tavares
-
-
-
 Súmula - Foi apresentada no livro 
 nº480 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
 Os volumes anteriores da Saga dos Heechee, em que também se integra Para Além da Porta das Estrelas, encontram-se já publicados nesta mesma Colecção, desde o muito célebre Gateway - (A Porta das Estrelas, nº355 e nº356), ao qual se seguiu Para Além do Acontecer (nº365 e nº366), Encontro com os Heechee (nº378) e Os Anais dos Heechee (nº385), todos obras que, embora relacionadas entre si, podem ser lidas separadamente.
 
 Dispõe agora o leitor do primeiro de dois volumes da versão portuguesa de The Gateway Trip, em que o mistério dos Heechee continua a intrigar a raça humana, incapaz de entender como podiam existir, a par de artefactos muito interessantes para os turistas vindos da Terra e de Vénus, outros que só teriam utilidade em viagens interespaciais...
-
-
 "

@@ -8,21 +8,12 @@ Titulo-original: Le Satellite Sombre
 Tradutor1: Gomes dos Santos
 Tradutor2: 
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Jérome Sériel Título original: Le Satellite Sombre
 1ª Edição: 1962 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Eng. Gomes dos Santos
-
-
-
 Súmula - foi apresentada no livro nº82 da Colecção, com a 
 indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
 Colecção Argonauta: 
@@ -32,9 +23,4 @@ Foi com este romance que Jérome Sériel obteve, em 1961, o Prémio Jules Verne,
 Em O Satélite Sombrio, Jérome Sériel narra, com assinalada intensidade, a aventura de Bob Allinquay, enredado na complicada teia de uma questão de espionagem no ano de 2148. romance de um ritmo alucinante, de variada contextura, O Satélite Sombrio vem revelar um dos melhores valores da literatura de ficção-científica, em que a aventura, o risco, o perigo se conjugam, numa narrativa que prende e escraviza a atenção do leitor mais experimentado.
 
 Lídimo representante de uma das tendências mais importantes da literatura de ficção-científica, Jérome Sériel é um nome que já se impôs e ao qual está por certo reservada uma carreira brilhante. Nesse ponto são perfeitamente coincidentes os juízos do público e da crítica, que saudaram calorosamente este romance, transformando-o num êxito completo.
-
-
-
-
-
 "

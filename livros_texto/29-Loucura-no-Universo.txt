@@ -8,14 +8,9 @@ Titulo-original: What Mad Universe
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Fredric Brown
 Título original: What Mad Universe
 1ª Edição: 1951
@@ -36,6 +31,4 @@ Keith Winton estava tranquilamente sentado no jardim. Súbitamente, houve um rel
 Winton começou a perder a cabeça, quando soube que, nesse ano de 1954, a Terra estava em guerra com os habitantes do remoto Arcturus, a milhares de anos-luz de distância. Que mundo era aquele? Que se passava? Que significava a existência simultânea do velho Ford e da astronave? E os ""Lunares"", monstros vermelhos e, não obstante, pacíficos habitantes da Lua? Porquê habitantes da Lua? De confusão em confusão, de mistério em mistério, Keith vê-se obrigado a ser herói, a refugiar-se entre os exércitos siderais, combatendo nos confins da Galáxia para resolver o seu problema por meio... de uma nova explosão.
 
 Um livro excepcional, de um grande autor.
-
-
 "

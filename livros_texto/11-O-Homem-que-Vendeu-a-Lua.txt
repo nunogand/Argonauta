@@ -8,14 +8,9 @@ Titulo-original: The Man Who Sold the Moon
 Tradutor1: José Correia Ribeiro
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Heinlein
 Título original: The Man Who Sold the Moon
@@ -37,6 +32,4 @@ Pois é uma obra deste autor que a  ""Colecção Argonauta"" apresenta aos seus
 E tudo isto encontrará, numa maravilhosa e extraordinária antecipação, em... ""O Homem que Vendeu a Lua"". 
 
 Nota: um números antigos que me foi mais difícil de encontrar. O Robert A. Heinlein é um dos meus autores de obras da Colecção Argonauta preferidos, tal como é também Clifford D. Simak. 
-
-
 "

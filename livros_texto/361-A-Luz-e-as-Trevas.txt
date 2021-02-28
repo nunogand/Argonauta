@@ -8,14 +8,9 @@ Titulo-original: Lest Darkness Fall
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1941
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: L. Sprague de Camp
 
@@ -42,8 +37,6 @@ Consegui-lo-á?
 Eis um pequeno excerto:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
-
-
 Tancredi tirou de novo as mãos do volante e acenou com elas:
 
 - Invejo-o, Dr. Padway. Aqui em Roma ainda temos algum trabalho a fazer. Mas... trata-se de pormenores. Nada de importante, nada de novo. E restauros. Ah!
@@ -99,8 +92,5 @@ Subitamente, um relâmpago enorme, o maior de quantos já vira, caiu na Plazza, 
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... 
-
-
-
 
 "

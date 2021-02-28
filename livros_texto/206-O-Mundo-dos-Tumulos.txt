@@ -8,14 +8,9 @@ Titulo-original: Cemetery World
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -23,13 +18,7 @@ Título original: Cemetery World
 1ª Edição: 1972
 Publicado na Colecção Argonauta em 1974 
 
-
-
-
 Capa: Lima de Freitas
-
-
-
 
 Tradução: Maria Emília Ferros Moura
 
@@ -37,9 +26,6 @@ Tradução: Maria Emília Ferros Moura
 Súmula - foi
  apresentada no livro nº205 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 Volta de novo a figurar na Colecção Argonauta um dos escritores norte-americanosde categoria internacional e abundantemente representado nela: Clifford D. Simak.
 
 O Mundo dos Túmulos, é um romance de excepcional interesse, cujo valor se impôs nos países onde foi editado. De resto, o nome de Clifford D. Simak é suficientemente conhecido do público português e por ele admirado para carecer de mais longas apresentações.
@@ -49,8 +35,5 @@ A riqueza da sua fantasia encontra-se aliada a uma capacidade excepcional para s
 O Mundo dos Túmulos vem confirmar o talento invultar de Clifford D. Simak e explicar a sua popularidade. 
 
 Esta obra, só por si, mereceria pleno destaque, o qual ainda se torna mais devido se nos lembrarmos que faz parte de um dos mais notáveis conjuntos literários deste género moderno.
-
-
-
 
 "

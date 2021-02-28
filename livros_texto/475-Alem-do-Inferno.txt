@@ -8,14 +8,9 @@ Titulo-original: Inside Outside
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip José Farmer
 
@@ -31,27 +26,13 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº474 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 O inesquecível autor da série O Mundo do Rio apresenta em Além do Inferno um romance que equaciona a possibilidade de a morte precede a vida e constitui, sem dúvida, uma das suas obras mais interessantes e originais.
 
 Quem sabe se existe um túnel por baixo do inferno? E que este universo é um brinquedo nas mãos dos horrendos Salvadores, desde que o Tempo começou há três começos do Tempo? Terão eles formado o Homem e a Terra, o disco e a impressão do corpo e da alma, além dos alienígenas? E terão cometido erros nisso? Claro que cometeram erros terríveis!
 
 No desenvolvimento da resposta a tais perguntas, assenta este romance de P.J. Farmer, no qual são expostas ideias que se situam em absoluto fora deste mundo e deste universo, suscitando uma profunda reflexão a todos os leitores.
-
-
-
 Prefácio:
-
-
-
 À primeira vista, poder-se-ia pensar que Philip José Farmer retoma nesta obra o tema da célebre série O Mundo do Rio, que foi integralmente publicada na Colecção Argonauta e em que focava, em termos originais, a possibilidade da vida depois da morte. Mas em Além do Inferno, a audácia e a originalidade atingem níveis poucas vezes vistos na ficção-científica. O título original de Inside-Outside, embora não fosse dos mais expressivos se vertido literalmente para a nossa língua, dá uma imagem exacta da sua linha - nem sempre o que parece é. A realidade pode ser uma invenção e o contrário pode ser a verdade. E até o ""depois"" pode, pela magia de Philip José Farmer, tornar-se no ""antes"".
-
-
-
                                                                                                                              Eurico da Fonseca 
-
-
-
 
 "

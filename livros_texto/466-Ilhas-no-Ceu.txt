@@ -8,14 +8,9 @@ Titulo-original: Islands in the Sky
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Arthur C. Clarke 
 
@@ -32,20 +27,12 @@ Tradução: Clarisse Tavares
 Súmula - Foi apresentada no livro 
 nº465 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 No prefácio que escreveu para este volume, Eurico da Fonseca lembra que Artur C. Clarke não é apenas um dos mais importantes autores de ficção-científica, mas igualmente um dos grandes pioneiros da Astronáutica, chegando a presidir à British Interplanetary Society.
 
 Ilhas no Céu - a versão portuguesa de Islands in the Sky - aborda precisamente o tema das estações espaciais através da história de Roy Malcolm, que ganhou o direito a visitar uma num concurso televisivo.
 
 A distância a percorrer era de muitos milhares de quilómetros, mas transformou-se numa maratona aterradora devido à presença de um satélite que exibia uma caveira e duas tíbias cruzadas...
-
-
-
 Arthur C. Clarke
-
-
-
 Muitas são as pessoas que só conhecem Arthur C. Clarke pela sua ligação com o filme 2001 - Uma Odisseia no Espaço, e muitas outras pensam que o respectivo argumento foi extraído de uma obra sua. Na verdade, o argumento é uma composição de contos e novelas que começa com A Sentinela (conto que integra a colectânea de Artur C. Clarke publicada na Colecção Argonauta com o nº334, intitulada Os Dias Futuros) e acaba com A Idade do Ouro (nº26 da Colecção Argonauta). Houve de facto um livro com o título do filme, mas foi escrito depois deste e está longe de se situar ao nível das outras obras do autor, um dos maiores no campo da ficção-científica e também um dos poucos que alia realmente a ficção à ciência. O que se compreende, porque Clarke não é apenas um Mestre no seu género literário, é um verdadeiro génio, ao qual se devem os fundamentos de algumas das grandes conquistas da Humanidade, nos tempos actuais e possivelmente no futuro. 
 
 Foi ele quem, num artigo publicado em 1945 na revista Wireless World, expôs pela primeira vez a possibilidade da utilização dos satélites na retransmissão de emissões de rádio e TV a nível Global, quando instalados numa órbita tão alta que os tornaria aparentemente imóveis em relação à superfície da Terra, órbita essa hoje designada pelo seu próprio nome (órbita de Clarke). Foi ele quem, na sua obra As Areias de Marte (nº162 da Colecção Argonauta), enunciou pela primeira vez a possibilidade do uso do que hoje se chama na Astronáutica a ""trajectória da pena de cão"", que permite a uma nave mudar a inclinação da órbita, tal com mais tarde fariam os super-foguetes lunares e actualmente fazem os space-shuttle para se encontrarem no espaço com a estação MIR. Foi também nesse livro que expôs pela primeira vez a possibilidade de usar a própria atracção gravitacional dos planetas para impelir as sondas cósmicas para distâncias mais longínquas, com viria a acontecer por exemplo com as sondas Pioneer e Galileu, e foi também ele quem idealizou a terraformação, hoje sugerida para transformar o planeta Marte em algo semelhante à Terra. 
@@ -53,13 +40,6 @@ Foi ele quem, num artigo publicado em 1945 na revista Wireless World, expôs pel
 Tudo isso se explica pelo facto de Arthur C. Clarke ser um engenheiro que participou no desenvolvimento dos primeiros radares britânicos e ter sido um dos primeiros presidentes da British Interplanetary Society. Daí que, por vezes se afirme que a ideia da utilização dos satélites artificiais como verdadeiras estações de observação e transbordo em pleno espaço também lhe pertence, apresentando como provas as imagens de 2001 - Uma Odisseia no Espaço e o texto da obra Islands in the Sky, publicada em 1952. Não tanto assim. É verdade que Islands in the Sky, o clássico agora publicado na Colecção Argonauta sob o título Ilhas no Céu, foi dedicado aos jovens e muito contribuiu para a divulgação e interesse pelas estações espaciais, mas o que foi mostrado no filme seguiu fielmente o modelo idealizado por volta de 1926 por Herman Noordung, num nome que escondia o do Capitão Potocnik do Exército Húngaro, pois nesse tempo pensava-se que um oficial não se podia dedicar a tais fantasias. 
 
 De qualquer modo, no mesmo ano em que a MIR completa dez anos de permanência no espaço e em que se dão os primeiros passos para que a estação internacional Alpha seja um facto, nada mais interessante do que compará-las com as Ilhas no Céu imaginadas por Artur C. Clarke, mais de quarenta anos antes. 
-
-
-
                                                                                                                            Eurico da Fonseca
-
-
 Nota: as referências às obras de Arthur C. Clarke mencionadas no texto de Eurico da Fonseca, com os apontamentos para os números da Colecção Argonauta em que foram publicadas, não fazem parte do texto original, tendo sido (entre parêntesis) introduzidas por este vosso escriba. Tendo essas obras sido publicadas na colecção, achei que fazia todo o sentido mencionar esse facto, e não compreendo como tal não foi mencionado pela parte editorial. 
-
-
 "

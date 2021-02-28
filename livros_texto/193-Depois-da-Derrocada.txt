@@ -8,14 +8,9 @@ Titulo-original: These Savage Futurians
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip E. High
 
@@ -60,12 +55,6 @@ O velho Ventnor fora hábil de mãos e, em vez de se confinar na simples carpint
 Uma vez que o homem era marcado, nada havia a fazer além de esperar; não valia a pena fugir. Ninguém via o marcador aparecer e ninguém o via desaparecer. Apenas um relâmpago...
 
 Ventnor estremeceu, porque ainda se lembrava vivamente do que acontecera. O pai a beber, por um copo de plástico, e, de repente - de repente, nada! Um relâmpago, o copo a girar num pequeno círculo sobre o chão duro e alguns flocos de cinza branca a caírem, de parte nenhuma.
-
-
-
 Eis um trecho de Depois da Derrocada, uma obra diferente de um autor diferente - Philip E. High -, com um tema verdadeiramente inesperdo, e que constituirá DEPOIS DA DERROCADA.  
-
-
-
 
 "

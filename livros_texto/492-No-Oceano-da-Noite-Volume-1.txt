@@ -8,14 +8,9 @@ Titulo-original: In the Ocean of Night
 Tradutor1: Alexandra Tavares
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gregory Benford
 
@@ -38,8 +33,5 @@ O muito famoso e apreciado autor de Timescape, que recebeu o Prémio Nebula, é 
 Diz-se do autor que deu à ficção-científica um novo significado: a arte que traz a ciência à vida fictícia. Primeiro, é a descoberta de uma astronave abandonada no núcleo de um cometa... Depois, uma sonda automática provinda de uma civilização distante 800.000 anos-luz... Por fim, o encontro de velhos destroços numa cratera lunar.
 
 E, enquanto a Humanidade vive o seu dia-a-dia, um mistério avança para a Terra...
-
-
-
 
 "

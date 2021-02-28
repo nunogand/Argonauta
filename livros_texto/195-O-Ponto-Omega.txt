@@ -8,14 +8,9 @@ Titulo-original: The Omega Point
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: George Zebrowski
 
@@ -38,8 +33,5 @@ Foi então - pela primeira vez - que os senhores da Terra viram posta em questã
 O resultado era previsível - ou parecia sê-lo - até que um inimigo implacável dos vencedores surgiu num fantástico relâmpago de habilidade e visão - que mudaria a história do universo.
 
 Eis o tema escolhido por George Zebrowski - professor de literatura de ficção-científica no Harpur College - para a sua primeira obra.   
-
-
-
 
 "

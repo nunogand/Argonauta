@@ -8,14 +8,9 @@ Titulo-original: Sentinels from Space
 Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Eric Frank Russell (o nome do autor na capa tem uma gralha)
 Título original. Sentinels From Space
 1ª Edição: 1953
@@ -45,6 +40,4 @@ Eric Frank Russell conquistou merecidamente a reputação de
 ser um dos melhores escritores de Ficção Científica da actualidade. 
 Notável de imaginação e de subtil e sensível gosto literário, vai 
 provocar, com certeza, uma vaga de interessantes especulações. 
-
-
 "

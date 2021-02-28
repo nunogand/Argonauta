@@ -8,14 +8,9 @@ Titulo-original: Graveyard for Lunatics
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1990
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury
 
@@ -32,9 +27,6 @@ Tradução: António Porto
 Súmula - Foi apresentada no livro 
 nº416 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Uma obra de Ray Bradbury é sempre um acontecimento.
 
 O seu Cemitério de Lunáticos é a Hollywood da década de 50, olhando para Janus tanto para o passado como para o futuro.
@@ -48,8 +40,5 @@ A revelação é um cadáver, ou antes, uma reprodução perfeita de J.C. Arbuth
 O leitor, o herói e o seu amigo Roy Holdstrom, inventor de cenários e artifícios para os filmes de ficção-científica, lança-se numa viagem pelo passado e pela verdade.
 
 Mas qual verdade?  
-
-
-
 
 "

@@ -8,17 +8,9 @@ Titulo-original: Pendulum
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1978
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: A.E. Van Vogt
 
@@ -35,9 +27,6 @@ Tradução: Eduardo Saló
 Súmula - Foi apresentada no livro 
 nº393 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Hudman pestanejou. Depois abriu bem os olhos. Estava no alto de um monte. A toda a largura do horizonte, à distância, via uma enorme cidade. No cérebro de Hudman, um milhão, um bilião de imagens estremeceram; rostos, edifícios, outras cidades longínquas, árvores, planícies, praias rochosas, pessoas, sobretudo pessoas, muitas pessoas, todas de olhos roxos.
 
 Uma cidade diferente das outras, esta que agora se estendia diante dos seus Olhos. O pêndulo funcionara de novo, alterando o ciclo do tempo. Estava aonde? Começou a descer o monte; era como um emigrante que chega a um novo país - excitado, ansioso, determinado a não pensar em nada do passado; a cidade antiga, dourada, de cristal - ele sabia-o - era Uxtagooganaza.
@@ -47,8 +36,5 @@ Antes da catástrofe, antes de mergulhar nas profundidades colossais do que seri
 Reflexos vermelhos e roxos e estranhos sóis nunca vistos.
 
 A.E. Van Vogt apela à imaginação dos que vêem cenas de futuros espantosos como se outros cérebros os tivessem já pensados, ou de passados envoltos em mistérios que voltam à superfície porque o pêndulo nunca pára. 
-
-
-
 
 "

@@ -8,17 +8,9 @@ Titulo-original: Spacehounds of IPC
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1947
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: E.E. Doc. Smith
 
@@ -31,23 +23,14 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº336 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Os Caçadores do Espaço, é a versão portuguesa de Spacehounds of IPC, a obra que faltava na série Patrulha Galáctica, de E.E. Doc. Smith. Um clássico, portanto - um novo exemplo da Space Opera, que trouxe à ficção-científica tantos e tantos adeptos e que ainda hoje surpreende pelas suas previsões e pelo seu estilo peculiar. Como sempre, a acção é constante, entontecedora. Tudo começa numa nave de passageiros, que voa para Marte. Sem qualquer novidade... até que o gigantesco foguete estremece e parte-se ao meio! O Arcturus, paquete-cruzador tão luxuoso como invencível, está a ser cortado em fatias por ""planos de luz que cegam quem os vê"". Steve e Nadia, separados do resto da nave, observam as ""mortais tesouras de luz"", despedaçando, a pouco e pouco, os destroços. Depois, são capturados por um inimigo terrível... os super-cientistas de Júpiter!
 
 É surpreendente ter ""Doc"" Smith previsto, quando da sua primeira edição do seu livro em 1931, o invento do raio laser, que só apareceria muito mais tarde.
 
 Eis como se inicia este empolgante romance:
-
-
-
 A Arcturus Parte para Marte
 
  
@@ -121,23 +104,12 @@ Depois de tudo verificado, Breckenridge ligou para ""Capitão"" e, quando a luz 
 - Não muito bem, meu velho. - O jovem franziu a testa. - Eles pensam como astrónomos e não como navegadores. Não fazem desconto algum, nem mesmo para a inversão, e eu conto com quatro milésimos para isso e para os desvios menores. Há os erros das estações de rastreio...
 
 - Erros das estações de rastreio? Mas elas são sempre correctas... é para isso que servem!...
-
-
-
 Nota: embora a sinopse do livro faça menção a este livro como a obra que faltava na série Patrulha Galáctica, a verdade é que segundo outras fontes esta obra não está directamente relacionada com essa saga, não fazendo portanto parte dela. Deixo o link relativos a este facto: Spacehounds of IPC
-
-
-
 ""...Earlier ""Doc"" Smith had written the first great novels of interstellar exploration, the Skylark series, and later he created another sweeping multi-volume series about the Galactic Patrol in the Lensman series. But this story, Spacehounds of IPC,
  stands alone. Although it has many similarities to the Lensmen series, 
 the technology and the lifeforms in the story cannot be reconciled with 
 the universe of the Lensmen. It is possible that Smith may have been 
 planning this story as the beginning of a new series, but he was never 
 to return to this setting (mainly Jupiter and its moons) or to the characters in this story. The story was the first to use the term ""tractor beam"", a name and concept that has been adopted by many subsequent literary works of fiction and other media until present day.""
-
-
-
-
-
 
 "

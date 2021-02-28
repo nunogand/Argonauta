@@ -8,42 +8,19 @@ Titulo-original: Ballroom of the Skies
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: John D.MacDonald
-
-
-
 Título original: Ballroon of the Skies
-
-
 1ª Edição: 1952
-
-
 Publicado na Colecção Argonauta em 1978
-
-
 Capa: A. Pedro 
-
-
 Tradução: Eurico da Fonseca
-
-
-
 Súmula - Foi apresentada no livro 
 nº256 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 John D. MacDonald é um dos mestres da literatura norte-americana. Escreveu somente dois livros de ficção-científica: Wine of Dreamers - (História de Dois Mundos, nº44 da Colecção Argonauta) e Ballroon of the Skies. Dois livros que são dois grandes clássicos. 
 
 De Ballroon for the Skies, que será o próximo volume da Colecção Argonauta e que na nossa língua terá o título de O Tempo do Impossível, disse MadDonald que ""não há nele monstros de olhos multifacetados, excepto os que residem eternamente na alma humana. Não há jovens adoráveis salvas por exploradores espaciais das garras de insectos gigantescos que falam em estalidos e usam desintegradores. Nem atmosferas de metano. Nada a emergir de pântanos malignos. Nem mesmo um simples autómato cumpridor dos seus deveres, sofrendo de amor electrónico ou de um curto-circuito de rebelião"". Há a Terra. Apenas a Terra - depois da primeira guerra atómica e a caminhar para a segunda.
@@ -53,18 +30,9 @@ Uma Terra em que a maior potência é a Paquíndia - ""anos impiedosos de esteri
 Mas na frente da Paquíndia, erguia-se a coligação tripla - ""do Brasil, agora ocupando três quartas partes da América do Sul sob as bandeiras prateadas de Garva; da China do Norte, sob as ordens de Stephen Chu, e da Irania (que incluía a Arábia, o Egipto e a maior parte do Norte de África), sob a orientação do renegado George Fahdi.
 
 A segunda guerra atómica aproximava-se. Mas os homens mal imaginavam quais as forças que estavam a encaminhá-los para o Apocalipse. Aquele não era somente um tempo entre duas guerras - um tempo entre o começo do fim e o fim. Era... O TEMPO DE IMPOSSÍVEL.
-
-
-
 Introdução:
-
-
-
 John D. MacDonald é um dos mais conhecidos autores norte-americanos, com uma obra extensa, plena de sucessos. Não é um especialista de ficção-científica. Aldous Huxley também não o era - mas escreveu o Admirável Mundo Novo. MacDonald segue-lhe o exemplo. Produziu dois clássicos:  Wine of Dreamers - (publicado na Colecção Argonauta com o nº44, sob o título História de Dois Mundos), e Ballroon of the Skies - cuja versão portuguesa constitui o presente volume. 
 
 Há quem pense que a fase actual de A.E. Van Vogt - a sua preferência pelas histórias de complexas conspirações cósmicas - é um reflexo da influência das obras de MacDonald. Se assim é, e por muito grande que seja o valor de Van Vogt, será de confessar que o engenho e o curioso misto de profundidade e pureza de MacDonald são inimitáveis. Ballroon of the Skies - (tal como Wine of Dreamers), ocupam um lugar único, na história da ficção-científica.  
-
-
-
 
 "

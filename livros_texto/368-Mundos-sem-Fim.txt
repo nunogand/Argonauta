@@ -8,15 +8,9 @@ Titulo-original: Worlds Without End
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -77,10 +71,5 @@ O Van Gogh do Espaço - pág. 101
 O Ciclo Total - pág. 127  
 
 Nota: adoro o Clifford Donald Simak... é o meu autor preferido da Colecção Argonauta, juntamente com o Robert A. Heinlein. Este Mundos Sem Fim todavia, não é das suas obras mais inspiradas, na minha opinião.
-
-
-
-
-
 
 "

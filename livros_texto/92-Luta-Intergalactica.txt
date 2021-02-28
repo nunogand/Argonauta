@@ -8,17 +8,9 @@ Titulo-original: Outside the Universe
 Tradutor1: Jorge Fonseca
 Tradutor2: 
 Ano-edicao: 1929
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: Edmond Hamilton - (Edmond Hamilton - Tal como sucedeu com o livro intitulado A Última Cidade da Terra, (nº 3), a Colecção Argonauta escreve novamente nesta obra o nome do autor de modo incorrecto, já que ele é ""Edmond"" e não ""Edmund"") Título original: Outside The Universe
 
@@ -31,14 +23,9 @@ Súmula - foi apresentada no livro
 nº91 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
-
-
-
 Edmond Hamilton, o apreciado autor de A Última Cidade da Terra, um dos seus títulos de glória e um dos romances mais célebres da Colecção Argonauta, volta ao convívio do público leitor português, com uma das suas obras mais tensas e emocionantes: Luta Intergaláctica.
 
 O vivo desenrolar da acção, neste livro envolvente, que logra manter fixa e em contínua suspensão a atenção do leitor, a descrição, quase dantesca, do embate entre as estranhas civilizações do futuro, fazem de Luta Intergaláctica um dos romances mais aliciantes da literatura de ficção-científica. 
 
 Edmund Hamilton, cujo talento de escritor de FC se encontra amplamente demonstrado, apresenta em Luta Intergaláctia uma arrojada antevisão do futuro. Serão reais as suas previsões? Seja qual for a resposta, é uma realidade ""impressionante"" a que nos é narrada, com vigor inimitável, neste romance palpitante.
-
-
 "

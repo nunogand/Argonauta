@@ -8,14 +8,9 @@ Titulo-original: Drunkard's Walk
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -30,16 +25,10 @@ Tradução: Eurico da Fonseca 
 Súmula - foi
  apresentada no livro nº184 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 As obras de Federik Pohl podem ser desconcertantes. Mas são sempre invulgares. Apaixonantes. Imprevistas.
 
 Esse é o caso de BATALHA AMARGA, o próximo número da Colecção Argonauta. 
 
 Como será a vida de um professor - de um super-professor - no ano 2166? E porque será que Cornut, esse super-professor, tem de lutar amargamente contra si  próprio para fugir à auto-destruição?  
-
-
-
 
 "

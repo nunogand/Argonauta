@@ -8,14 +8,9 @@ Titulo-original: La Dixième Planète
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: C. H. Badet Título original: La Dixième Planète 1ª Edição: 1954 Publicado na Colecção Argonauta em 1958  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº44 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 
  
@@ -29,6 +24,4 @@ Os homens e as mulheres são fabricados para um fim exacto e determinado e, por 
 No meio desta metodologia perfeita, é evidente que um alegre vagabundo, um alegre vagabundo parisiense, se vê metido nas mais complicadas situações que o levam até à redescoberta do absinto - bebida ilógica e, portanto desconhecida no ""décimo planeta"" - e à revolução alcóolica de toda uma digna corporação de cientistas... e o levam também a apaixonar-se, como bom latino.
 
 Romance absolutamente diferente dos habituais moldes da ficção-científica, O Décimo Planeta é um livro que se lê com um sorriso quase permanente nos lábios. Mas não é só o sorriso que ele nos desperta; é também a atenção para o aviso que dele vem: o caminho, o perigoso caminho para uma completa desumanização do homem, que já vemos ir-se processando lentamente à nossa volta, caminho esse que deve ser evitado por todos os homens conscientes da sua existência como seres humanos... 
-
-
 "

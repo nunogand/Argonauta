@@ -8,30 +8,15 @@ Titulo-original: I Sing the Body Electric
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury
-
-
 Título original: I Sing the Body Electric
-
-
 1ª Edição: 1969
-
-
 Publicado na Colecção Argonauta em 1979
-
-
 Capa: A. Pedro 
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -60,6 +45,4 @@ Assim, Livros do Brasil orgulham-se de apresentar mais uma obra do magistral Aut
 
 Nota: Esta obra é a segunda parte de uma antologia de contos referente à obra de Ray Bradbury intitulada I Sing the Body Electric, publicada na Colecção Argonauta em dois volumes. O primeiro é o nº254, publicado com o nome As Vozes de Marte. Este conjunto de obras, corresponde a uma excelente colectânea de contos do Poeta da Ficção Científica. Li este livro em várias férias grandes imensas vezes.
  Deixo o link que fala mais sobre o original: I Sing the Body Electric 
-
-
 "

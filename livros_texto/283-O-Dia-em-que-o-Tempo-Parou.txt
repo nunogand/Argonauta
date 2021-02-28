@@ -8,35 +8,16 @@ Titulo-original: The Day of Timestop
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip José Farmer
 Título original: The Day of Timestop
-
-
-
 1ª Edição: 1960
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº282 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -44,8 +25,6 @@ nº282 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Philip José Farmer é um dos grandes autores de ficção-científica dos tempos actuais. Controverso por vezes, mas sempre brilhante, a ele se deve, entre outras obras célebres, a surpreendente série Riverworld, que a Colecção Argonauta tem vindo a  publicar.
 
 O Dia em Que o Tempo Parou (na versão original The Day of Timestop) é uma obra invulgar. Referindo-se a ela, Sam Moskowitz disse tratar-se de ""uma história vibrante, de espionagem, situada no futuro e comparável a 1984"". Sem dúvida, um tema estranho, mas composto numa história como só Philip José Farmer sabe contar:
-
-
 O Dr. Leif Barker amaldiçoava o ""Corpo da Guerra Fria"" e a sua ideia de ""células"", onde um homem não fazia a mínima ideia do seu plano geral e trabalhava no escuro para apenas cumprir a sua missão particular. Ali estava ele, um coronel do CGF da República de March, originador da conspiração que provavelmente enviaria a União de Haijac para o reino do esquecimento. E no entanto, não lhe era permitido conhecer mais do que uma centelha do mecanismo da sua própria campanha!
 Era o preço que tinha que pagar por trabalhar no meio do inimigo. Se ele permitisse que os superiores o pusessem atrás de uma secretária em Marsey, poderia observar a guerra no seu todo; seria ele quem a dirigiria. Mas insistira em trabalhar em Paris, que era onde se centrava o perigo.
 Esses pensamentos vagueavam pelo seu espírito, enquanto passava as mãos pela carne daquela mulher, outrora firme e vibrante. Os raios X tinham-lhe indicado qualquer coisa muito estranha; qualquer coisa que podia estar ou não ligada com o ""Projecto Traça e Ferrugem"". Fosse como fosse, queria descobrir o que eram os estranhos objectos detectados no corpo de Halla Dannto.
@@ -72,8 +51,5 @@ Ela não respondeu, e ele pegou-lhe nas mãos e afastou-as com dureza, deixando-
 - Não queres dizer-me? - perguntou ele, - não importa. Olha!
 Largou-a e dirigiu-se à parede. Premiu uma parte dela. Instantâneamente, um quadrado por cima da sua mão iluminou-se e tornou-se num visor, mostrando o interior da sala de espera, naquele último andar. Três homens estavam estendidos, inconscientes, no chão. Envergavam os uniformes negros dos Uzzitas.
 - Como portador do ""lamech"" tenho muitos privilégios - observou ele. - Um deles é o direito de tomar precauções contra a violação da minha pessoa. 
-
-
-
 
 "

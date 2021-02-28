@@ -8,14 +8,9 @@ Titulo-original: In the Ocean of Night
 Tradutor1: Alexandra Tavares
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gregory Benford
 
@@ -32,16 +27,10 @@ Tradução: Alexandra Tavares
 Súmula - Foi apresentada no livro 
 nº492 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 No segundo e último volume deste romance, prossegue a odisseia do astronauta Nigel Walmsley, da NASA, que sempre sonhou em viajar até às estrelas, mas que agora vê as estrelas virem ao seu encontro.
 
 Depois da descoberta de uma astronave, de uma sonda e de velhos destroços, a vida da Humanidade prossegue o seu turbilhão diário, alheia ao mistério que avança para a Terra.
 
 Todos estes maravilhosos enigmas lançam Nigel numa luta tenaz contra os que preferiam destruir o desconhecido em vez de esclarecê-lo, dando preferência a uma confrontação com forças que transcendem o entendimento humano.   
-
-
-
 
 "

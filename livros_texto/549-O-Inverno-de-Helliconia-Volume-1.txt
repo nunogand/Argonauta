@@ -8,14 +8,9 @@ Titulo-original: Helliconia Winter
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -26,9 +21,6 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº548 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -37,8 +29,5 @@ Luterin tinha-se recuperado. Estava curado daquela doença misteriosa. Permitira
 O vento frio provinha do Monte Shivenink, e era de tal forma forte que arrancava a casca do lado norte das árvores. 
 Aquele vento frio fez realçar o seu desafio. Fazia-lhe afluir o sangue ao rosto, e fazia com que os seus membros se movimentassem com o animal que o transportava pelas terras do seu pai. Soltando um grito, Luterin esporeou o ""hoxnel"" para que este galopasse. O animal afastou-se da mansão de encarceramento com o seu sino a tocar, para longe, ao longo da avenida que atravessava os campos a que ainda chamavam vinhedo. Sentia-se inebriado com o movimento, o ar, e o latejar do seu próprio sangue nas artérias. 
 Em breve poderia caçar novamente...   
-
-
-
 
 "

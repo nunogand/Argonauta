@@ -8,14 +8,9 @@ Titulo-original: The Wrong End of Time
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Brunner
 
@@ -40,8 +35,5 @@ O próximo volume da Colecção Argonauta é um romance de John Brunner, o que s
 O Erro do Tempo, sendo embora uma obra de pura fantasia e de pura antecipação, não deixa de encerrar um profundo valor de meditação e de bom senso, ensaiando previsões que o futuro poderá um dia justificar, senão realizar. É, assim, um romance de duplo valor, tanto pela forma como foi concebido - ombreando com as ficções mais célebres - como pelas intenções que o caracterizam, impondo-se a todos leitores, mesmo aos mais cépticos ou aos que só procuram, na ficção-científica, um meio de evasão ao quotidiano. O Erro do Tempo poderá ser, não obstante, o quotidiano de um futuro que se aproxima de nós a passos acelerados e que encerra, nas suas ambiguidades, possibilidades e mistérios, as mais diversas hipóteses.
 
 Os leitores de O Erro do Tempo vão encarar um texto profundamente sério, aberto a diversas leituras e fruto de variadas intenções. A especulação ambígua que permite é - para lá do campo onde se limita a intriga - uma das suas mais notáveis qualidades. Qualidades que se espera venham a ser devidamente apreciadas e justamente distinguidas.   
-
-
-
 
 "

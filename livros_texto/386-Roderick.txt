@@ -8,14 +8,9 @@ Titulo-original: Roderick
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Sladek
 
@@ -32,33 +27,18 @@ Tradução: Samuel Soares
 Súmula - Foi apresentada no livro 
 nº385 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 John T. Sladek nasceu no Iowa em 1937 e vive actualmente em Londres. Estudou na Universidade de Minnesota, Engenharia Mecânica e Literatura Inglesa. desde então, tem trabalhado como escritor técnico, empregado de bar, desenhador e ferroviário. A sua obra Roderick, foi nomeada para o National Book Award de 1981.
 
 Eis as primeiras páginas de Roderick:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 Não existe qualquer segurança contra o derradeiro desenvolvimento da consciência mecânica no facto de as máquinas possuírem agora reduzida consciência. Um molusco também não dispõe de grande consciência. Reflictam no extraordinário avanço que as máquinas sofreram nos últimos cem anos e repararão quão lentamente os reinos vegetal e animal estão a avançar. 
 
                                                                                                             Samuel Buttler, Erewhon
-
-
-
 Jean Harlow (no papel Kitty Packard): ""Li num livro... que as máquinas vão tomar conta de todas as profissões!""
-
-
-
 Marie Dressler (no papel de Carlotta Vance, que trata dela): ""Não tens motivos para te preocupares, minha querida.""
 
                                                                                                               de Dinner at Eight
-
-
-
 A Primavera chegou à Universidade de Minnesota na forma de uma tempestade à meia-noite, espalhando neve a todo o comprimento do grande ""campus"", incomodando as pessoas desde a Faculty Hill até lá abaixo à Fraternity Row.
 
 Na reunião de Ibsen Club, um orador muito idoso e cansativo principiou a explicar que Boreas estava - hi, hi! - provavelmente a tentar penetrar nos celeiros de cimento do Departamento de Agricultura Científica para emprenhar as éguas - oh, oh! -, então nos dias que vão correndo as pessoas pensavam que tudo era feito por máquinas, eh? Esperma congelado por algum garanhão já morto, eh? Administrado por alguma máquina mais fria e mais rápida e mais impiedosa do que o pobre do velho Boreas - hi, hi! -, e assim sucessivamente, afastando-se cada vez mais da discussão que travavam sobre Nora Heimer.
@@ -88,8 +68,5 @@ No interior, os dois homens detiveram-se para bater com os pés e tirar os ócul
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... 
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Up the Line
 Tradutor1: Abel Coimbra
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Silverberg
 
@@ -32,16 +27,10 @@ Tradução: Abel Coimbra
 Súmula - Foi apresentada no livro 
 nº431 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 De Robert Silverberg, um dos mais conceituados autores de ficção-científica, publicou já a Colecção Argonauta três títulos bem representativos da sua elevada qualidade literária: Os Jogos do Capricórnio (nº292), Tempo de Mudança (nº389) e A Torre de Cristal (nº397).
 
 No próximo volume desta Colecção, vai surgir uma nova faceta do autor, que aborda o tema das viagens temporais e os paradoxos que, tanto quanto é possível prever, delas resultarão.
 
 O Correio do Tempo - versão portuguesa de Up the Line - constitui, de facto, uma das abordagens mais curiosas do tema e, simultaneamente, apresenta um conjunto de descrições de factos e costumes da História Antiga através das aventuras de Judson Daniel Elliot III, um homem normal que, arrastado pela má-sorte, se vê obrigado a aceitar a perigosa missão de correio do tempo e acaba, sem dar por isso, envolvido no mais maravilhoso dos paradoxos transtemporais - um que se chama Pulcheria... 
-
-
-
 
 "

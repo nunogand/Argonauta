@@ -8,15 +8,9 @@ Titulo-original: Time Enough for Love
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Time Enough for Love
@@ -39,7 +33,4 @@ Agora em Time Enough for Love, obra que na nossa língua recebeu o título de A 
 Time Enough for Love - (A História do Futuro), é a obra de ficção-científica até hoje mais traduzida (em francês, alemão, italiano, japonês, sueco, finlandês e português). Por razões técnicas - é a mais extensa obra de Heinlein até hoje publicada - será dividida em três volumes.
 
 Nota: continua a saga de Lazarus Long, iniciada com Os Filhos de Matusalém (nº 137), um conjunto de obras de Robert A. Heilein de grande profundidade e extremo interesse. Lêem-se extraordinariamente bem e foram para mim todas elas uma grande companhia, durante muito tempo.
-
-
-
 "

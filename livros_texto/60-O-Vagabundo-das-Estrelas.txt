@@ -8,26 +8,15 @@ Titulo-original: L'Orphelin de Perdide
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1958
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Stefan Wul Título original: L'Orphelin de Perdide 1ª Edição: 1958 
 
 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
  Súmula - foi apresentada no livro nº59 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
-
-
 
 A astronave percorria o Espaço. Sobre o seu topo aparentemente imóvel, o nome brilhava à luz das estrelas: O Grande Max. Era também o nome do seu proprietário, um mulato enorme, conhecido em todos os sistemas da constelação de Lira. 
 
@@ -36,16 +25,8 @@ O grande Max dormia na sua cabina. Completamente nú, o seu corpo musculoso jazi
 Era um pirata magnífico, contrabandista e grande conhecedor de mundos. Pertencia já ao folclore de Lira, como um deus do Espaço. Falava-se frequentemente das suas extravagâncias, da sua violência, do ouro que semeava às mãos cheias pelas luxuosas casas de jogo das capitais. Mas nunca a polícia conseguira reunir provas suficientes que denunciassem as suas actividades ilícitas. Escapava sempre a todas as armadilhas.
 
 Ia de um lugar para outro, desaparecia durante anos, reaparecendo alguns meses mais velho, sempre jovem, conservado pela actividade das suas viagens. Ria na cara dos polícias, punia algum traidor, captava filhas de rei e, de um golpe, aumentava as economias para o dobro ou o triplo, nalgum negócio sensacional e inatacável... chegando a ceder de boa vontade, e sem fazer alarde disso, metade dos seus lucros a um pobre vigarista cujo rosto lhe agradasse. Dentro em pouco, cercado de lenda, tornara-se de certo modo um salteador estimado...
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 É a aventura deste vagabundo das estrelas, para quem a amizade estava acima de qualquer lucro ou negócio, acima mesmo do valor da própria vida, que os leitores do próximo volume da colecção ARGONAUTA vão conhecer. Para salvar uma criança, o filho do maior amigo, o grande Max passa por cima de todos os obstáculos, abandona todas as rendosas empresas em que negoceia, e lança-se através dos Espaços.
 
 Mais um romance de Stefan Wul, o best-seller e, sem dúvida, um dos mais notáveis escritores de ficção-científica em língua francesa.
-
-
 "

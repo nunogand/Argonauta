@@ -8,14 +8,9 @@ Titulo-original: The Fugitive Worlds
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1989
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Bob Shaw
 
@@ -33,9 +28,6 @@ Súmula - Foi apresentada no livro
 nº447 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
 Completa-se neste volume a obra Os Mundos Fugitivos, última da célebre trilogia constituída por Os Balonautas (nº408 e nº409), e por As Naves de Madeira (nº439 e nº440), ambas já publicadas nesta colecção.
 
 Alcançada a pacificação nos planetas gémeos Terra Alta e Terra Baixa, a vida tornara-se tão monótona que Toller Maraquine II, neto do homem que os salvou, bem gostaria de poder voltar aos tempos em que o seu antepassado praticara proezas verdadeiramente inesquecíveis. 
@@ -45,6 +37,4 @@ Mas ele imaginava, porém, que esse desejo viria a ser satisfeito quando, num vo
 Armado apenas com a sua espada e a sua coragem, Toller Maraquine II, impelido por razões de ordem pessoal, decide então investigar o enigmático disco, e transforma-se na figura central de acontecimentos que interferirão decisivamente no futuro das civilizações de planetas inteiros.
 
 Os Mundos Fugitivos constituem, portanto, mais uma obra empolgante de Bob Shaw, autor bem conhecido dos leitores da Colecção Argonauta, na qual se encontra largamente representado. 
-
-
 "

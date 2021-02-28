@@ -8,14 +8,9 @@ Titulo-original: The Angry Espers
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Lloyd Biggle, Jr.
 
@@ -27,8 +22,6 @@ Publicado na Colecção Argonauta em 1971
 
 Capa: Lima de Freitas
 Tradução: Eurico da Fonseca 
-
-
 Súmula - foi
  apresentada no livro nº167 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
@@ -40,9 +33,6 @@ A Guerra dos Fantasmas é uma obra invulgar, como aquela. O seu tema, como hoje 
 Deste extraordinário romance de FC, damos aos leitores o seguinte excerto:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  
-
-
-
 Estava suspenso num vácuo delicioso de não-sensações e a sua consciência regressava lentamente, mas como uma rude intrusa. Resistiu a ela, pondo de parte os frágeis torvelinhos de pensamentos, até que o seu espírito atrevidamente fez uma pergunta: Onde estou eu?
 
 O espírito respondeu-lhe: Num hospital.
@@ -80,8 +70,5 @@ Ele falou à volta do tubo:
 Ela pestanejou e a firmeza dos seus lábios sublinhou o seu silêncio. Ele continuou a observá-la enquanto sorvia a sopa. O rosto da mulher empalidecera súbitamente enquanto ele falava, ou fora ele que imaginara isso? Ela não o podia compreender. Era-lhe estranha, talvez mais do que podia imaginar, e era talvez uma loucura tentar interpretar as emoções de um ser estranho através de expressões faciais. 
 
 Acabou a sopa e largou o tubo. A mulher desapareceu - não fez qualquer movimento. No mesmo instante o rosto dela estava e deixara de estar debruçado sobre ele. E ele olhava o tecto, a pestanejar.
-
-
-
 
 "

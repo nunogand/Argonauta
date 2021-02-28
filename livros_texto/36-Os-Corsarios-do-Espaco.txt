@@ -8,14 +8,9 @@ Titulo-original: Lucky Starr and the Pirates of the Asteroids
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Paul French - (Pseudónimo de Isaac Asimov) - O nome do pseudónimo tem todavia uma gralha no nome, que na capa corresponde ao nome da personagem do livro.
 Título original: Lucky Starr and the Pirates of the Asteroids
 1ª Edição: 1954
@@ -32,7 +27,4 @@ Quinze minutos antes da hora H, o Atlas estava pronto a partir e as linhas elega
 Assim começou para Lucky Starr uma grande, uma misteriosa e perigosíssima aventura. Auxiliado frequentemente pelo seu amigo Bigman, o inacreditável refilão marciano de um metro e sessenta centímetros de altura, Lucky introduz-se na organização dos corsários e mergulha na complicada trama das conspirações de Sirius contra a Terra. Os corsários estão perfeitamente organizados, de uma maneira que o faz suspeitar da existência de um único e poderoso chefe. Mas quem será esse ""Grande Patrão"", de que uma única vez ouviu falar?
 E conseguirá Lucky evitar que a Terra se envolva numa longa e sangrenta guerra com Sirius, guerra essa de onde poderá sair completamente aniquilada?
 Este curioso romance de ficção-científica, no estido do que na América classificam como space-opera, conserva o leitor interessado até à última página, até à solução inesperada. O seu autor é Paul French, pseudónimo de um grande romancista de ficção científica também já conhecido nesta colecção: Isaac Asimov, escritor de múltiplas qualidades e de uma inesgotável imaginação. Com este romance, pretendemos apresentar aos leitores desta colecção uma nova faceta do conhecido romancista.
-
-
-
 "

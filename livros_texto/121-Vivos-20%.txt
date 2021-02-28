@@ -8,14 +8,9 @@ Titulo-original: The Kraken Wakes
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Wyndham
 Título original: The Kraken Wakes (o título original referido na obra está incorrecto, aparecendo como ""Kraten Wakes"".
@@ -26,14 +21,9 @@ Título original: The Kraken Wakes (o título original referido na obra está in
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº120 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 John Wyndham, um dos autores britânicos de maior categoria no sector da Ficção-Científica, é um escritor que a Colecção Argonauta já teve a honra de apresentar ao público leitor português, através da edição de A Aldeia dos Malditos e de O Dia das Trífides. 
 
 Com o presente romance, sugestivamente intitulado Vivos 20%, John Wyndham vai entrar de novo em contacto com o público leitor português. Entre as suas obras mais valiosas, avulta realmente este romance que pode dizer-se, sem exagero, foi internacionalmente consagrado. John Wyndham sabe transmitir em páginas densas, de uma emoção sustentada e intensa, o entrecho dramático de uma narração sempre empolgante. A leitura de Vivos 20% é verdadeiramente apaixonante, até porque o tema abordado neste romance é de uma espantosa realidade. Wyndham, desenvolvendo a narrativa com extraordinária mestria e invulgar poder de sugestão, dir-se-ia que nos transporta e faz participar de uma história real. 
@@ -41,8 +31,5 @@ Com o presente romance, sugestivamente intitulado Vivos 20%, John Wyndham vai en
 Tal como em A Aldeia dos Malditos e O Dia das Trífides, Wyndham colhe as suas personagens no próprio quotidiano, investindo repentinamente nesse dia-a-dia com a perturbação formidável de um acontecimento excepcional. Depois, mostrando as consequências desse mesmo evento, Wyndham retira todas as consequências lógicas da intriga, entretecendo os múltiplos fios com que a teceu.
 
 Haverá quem diga, e não sem justos motivos, que John Wyndham nos deu, em Vivos 20%, não só um extraordinário romance de FC, mas também um extraordinário romance. Se quiséssemos recomendar um livro de iniciação (ou mais propriamente de conversão), a um leitor céptico em relação às possibilidades magníficas deste novo género, cumpriria recomendar-lhe, exactamente, Vivos: 20%. 
-
-
-
 
 "

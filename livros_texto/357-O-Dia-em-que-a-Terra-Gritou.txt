@@ -8,17 +8,9 @@ Titulo-original: The Poison Belt
 Tradutor1: J. Lima da Costa
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Conan Doyle
@@ -36,9 +28,6 @@ Tradução: J. Lima da Costa
 Súmula - Foi apresentada no livro 
 nº356 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Sir Arthur Conan Doyle começou por fazer com que o sábio Professor Challenger - personagem que sempre preferiu a Sherlock Holmes - enfrentasse com êxito espaventoso os inúmeros perigos que se lhe depararam num planalto cheio de vida pré-histórica situado algures na floresta da Amazónia. Posteriormente, proporcionou-lhe ainda mais três aventuras espectaculares nas quais o bom génio do cientista e o mau génio do homem dispuseram de largas oportunidades para mostrar quanto valiam. 
 
 Três anos depois dos acontecimentos relatado em O Mundo Perdido, o Professor Challenger  surpreende os seus três amigos e companheiros de aventuras na América do Sul, solicitando-lhes que fossem ter a sua casa com garrafas de oxigénio, pois algo estava para acontecer nas cinturas de radiações, situadas à volta da Terra: era capaz de ser mesmo o fim do mundo!
@@ -48,8 +37,5 @@ Noutra altura, o inventor de uma máquina desintegradora pretende pô-la ao serv
 Quem poderia afirmar que a Terra era um organismo vivo e, como tal, com capacidade de sofrimento? Claro que apenas o Professor Challenger. Mas haveria alguém que achasse possível comprovar essa asserção de forma insofismável? É fácil, agora, adivinhar que, também e apenas, o Professor Challenger, cujo triunfo se revelará, uma vez mais, merecedor dos agradecimentos do mundo inteiro.
 
 A cumplicidade entre Conan Doyle e o genial cientista Professor Challenger, fica encerrada com mais estas três demonstrações de apreço mútuo: o autor, extraindo da personagem todo o seu potencial de contrastes a fim de valorizá-la ao máximo; a personagem, raciocinando de molde a que o autor pudesse conservar todos os créditos conquistados nos domínios da literatura policial, com ou sem Sherlock Holmes. Ao fim e ao cabo, uma sociedade constituída com o objectivo exclusivo de proporcionar a todos os leitores as emoções fortes de que só os grandes escritores possuem o segredo.  
-
-
-
 
 "

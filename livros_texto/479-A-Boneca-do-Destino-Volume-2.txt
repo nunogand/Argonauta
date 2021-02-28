@@ -8,14 +8,9 @@ Titulo-original: Destiny Doll
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -28,18 +23,9 @@ Publicado na Colecção Argonauta em 1997
 Capa: A. Pedro
 
 Tradução: Clarisse Tavares
-
-
-
 Súmula - Foi apresentada no livro 
 nº478 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Através da sua longa carreira de escritor de ficção-científica, Clifford D. Simak sempre se notabilizou pela invulgaridade dos temas e por um excelente estilo literário. Claro que A Boneca do Destino - de que se apresenta agora o segundo e último volume - não foge à regra, como o leitor já se apercebeu. As surpresas vão, pois, continuar na suposta aldeia cheia de árvores em cujo astródomo a nave poisara...
-
-
-
 
 "

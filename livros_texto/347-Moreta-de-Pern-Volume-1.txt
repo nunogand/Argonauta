@@ -8,14 +8,9 @@ Titulo-original: Moreta - Dragonlady of Pern
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -27,21 +22,13 @@ Publicado na Colecção Argonauta em 1983
 
 Capa: A. Pedro
 Tradução: Eduardo Saló
-
-
 Súmula - Foi apresentada no livro 
 nº346 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Depois de O Planeta dos Dragões e O Dragão Branco, eis o primeiro volume de mais uma das maravilhosas obras de Anne McCaffrey sobre a epopeia de Pern, o mundo dos dragões, em que os homens têm de lutar contra os terríveis Fios, que de longos em longos Turnos descem da Estrela Vermelha em busca de tudo quanto é orgânico - de tudo quanto vive ali.
 
 Moreta de Pern situa-se numa época ainda mais primitiva, durante a Sexta Passagem da Estrela Vermelha, mil e quatrocentos Turnos depois de as primeiras naves terem chegado a Pern. É a história de Moreta, a Mulher do Ninho de Fort, e da sua rainha de dragões, Orlith. 
 
 Oito Turnos antes da Passagem tudo parece correr bem em Pern - mas então os animais que no planeta substituem os cavalos e os bois começam a morrer. Pern está perante um perigo mortal - e Moreta tem nas mãos o futuro do planeta.   
-
-
-
 
 "

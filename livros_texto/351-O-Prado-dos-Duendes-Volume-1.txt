@@ -8,14 +8,9 @@ Titulo-original: Duende Meadow
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor:Paul Cook
 
@@ -40,8 +35,5 @@ No alto da escada, Preston espreita. Vê um campo de trigo dourado, batido pelo 
 Esclarecimento do Autor
 
 No presente livro, utilizei livremente - e até fantasticamente - os recentes estudos e especulações de Rupert Sheldrake sobre a teoria da evolução. Para uma discussão mais pormenorizada, e sem dúvida menos injuriosa, dos campos morfogenéticos para além do que exponho aqui, recomendo ao leitor a consulta da obra de Sheldrake: ""Uma Nova Experiência da Vida: A Hipótese da Causação Formativa"" - (A New Science of Life: The Hypothesis of Formative Causation) - (Los Angeles: J. P. Tarcher, Inc., 1981). 
-
-
-
 
 "

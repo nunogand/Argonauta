@@ -8,14 +8,9 @@ Titulo-original: The Exile of Time
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1931
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Cummings
 Título original: The Exile of Time
@@ -28,9 +23,6 @@ Súmula -
  foi apresentada no livro nº516 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 
-
-
-
 Capítulo 1
 
 Os extraordinários incidentes principiaram cerca da uma hora da madrugada de 8 para 9 de Junho. Percorria eu Patton Place, na cidade de Nova Iorque, na companhia do meu amigo Larry Gregory. O meu nome é George Rankin. O que eu e Larry andávamos a fazer... é um pormenor de pouca monta para esta narrativa. Tínhamos sido amigos na universidade. Ambos trabalhávamos em Nova Iorque; e com todos os nossos parentes no médio Oeste, tinhamos decidido partilhar um apartamento nesta mesma Patton Place - uma rua curta, curva, pouco conhecida, com edifícios de habitação não especialmente interessantes, perto do bairro conhecido como Greenwich Village, cujas torres de escritórios da zona comercial quase a estrangulavam. 
@@ -38,11 +30,7 @@ Os extraordinários incidentes principiaram cerca da uma hora da madrugada de 8 
 Nessa noite, à uma hora da madrugada, estava deserta. Havia um táxi a uma esquina; o motorista devia tê-lo deixado ali e ido, naturalmente, comer a um restaurante próximo. A noite estava abafada e escura, com um céu de chumbo. As casas encontravam-se, na sua maior parte, às escuras, àquela hora. Havia um ou outro prédio de apartamentos entre elas, mas na sua maioria, eram casas baixas, decrépitas, de tijolo e de pedra. 
 
 Estávamos ainda a três quarteirões do nosso apartamento, quando, sem qualquer aviso prévio, principiaram os incidentes que iriam mergulhar-nos, a nós e à cidade, no caos. 
-
-
 Introdução ao Exílio do Tempo 
-
-
 Este romance foi escrito por volta de 1930, e surgiu inicialmente em série em 1931. Embora a esfera de acção decorra no início da Terra como planeta, e inclua uma caçada numa máquina do tempo até ao fim do mundo, existem três pontos principais no tempo nesta história: 1777, 1932 e 2930. Sabemos agora, evidentemente, que nenhuma catástrofe como a vingança dos Tugh assolou a cidade em Nova Iorque em 1932, mas isso pouca importância tem. Também sabemos que não houve qualquer invasão da Grã-Bretanha pelas criaturas de Marte no final do século passado, mas isso de forma alguma reduz o encanto e a excelência do livro ""A Guerra dos Mundos"" de H.G. Wells. 
 
 Mais uma vez, a imagem do futuro distante, imaginada pelo autor em mil novecentos e trinta, pode parecer-nos suavizada em diversos aspectos, embora uma sociedade onde os robôs humanóides realizam todos os tipos de trabalhos servis nos pareça ainda suficientemente futurista. Mas voltando novamente às obras do grande autor inglês de ficção-científica, a imagem dos séculos que ele apresenta em When The Sleeper Wakes não é menos atraente apesar do facto de, em diversas formas, o nosso mundo dos anos sessenta o ter superado no seu progresso tecnológico. Uma história clássica de ficção-científica, tal como esta, nunca se desactualiza.
@@ -58,8 +46,5 @@ O seu trabalho é caracterizado pela naturalidade da caracterização e pelas re
                                                                          
 
                                                                                                                      Robert A. W. Lowndes
-
-
-
 
 "

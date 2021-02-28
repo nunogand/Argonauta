@@ -8,14 +8,9 @@ Titulo-original: Necromancer
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gordon R. Dickson
 
@@ -40,8 +35,5 @@ Nota: mais um lapso da parte editorial, relativamente a este volume. A sinopse r
 Grimes nem sequer podia dizer que fora forçado a fazer aquilo, porque, ainda que tivesse acabado de sair da Academia, infringira por sua própria vontade todas as regras e regulamentos que lhe haviam metido na cabeça.
 
 ""Que bela maneira de começar uma carreira de oficial!"" - pensava ele. Se vivesse o suficiente para ter uma...  
-
-
-
 
 "

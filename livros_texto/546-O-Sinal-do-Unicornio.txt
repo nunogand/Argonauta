@@ -8,14 +8,9 @@ Titulo-original: The Sign of the Unicorn
 Tradutor1: Elsa T. S. Vieira
 Tradutor2: 
 Ano-edicao: 1975
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Roger Zelazny
 
@@ -26,14 +21,9 @@ Capa: António Pedro
 Tradução: Elsa T. S. Vieira
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº545 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Ignorei as perguntas mudas nos olhos do moço de estrebaria enquanto pegava no meu sinistro farto e entregava o cavalo aos seus cuidados. A minha capa não conseguia esconder completamente a natureza do seu conteúdo, quando coloquei a trouxa ao ombro e me encaminhei com passos pesados na direcção da entrada das traseiras do palácio. Em breve rebentaria a confusão.
 
 Passei ao largo da área de exercícios e dirigi-me ao palácio. Havia menos olhos por esse lado. Seria avistado na mesma, mas seria muito menos embaraçoso do que entrar pela porta da frente, onde as coisas eram sempre mais movimentadas. Maldição. 
@@ -131,8 +121,5 @@ Encolhi os ombros. Ele devolveu-me o bilhete, que dobrei e guardei.
 - Nem a uma alma. Mas decidi exercitar o cavalo, pelo que fiz o caminho a boa velocidade. Não vi o que aconteceu, mas quando entrei no bosque vi-o ali caído. Tinha a garganta cortada e os arbustos estavam remexidos a alguma distância dele. Persegui o tipo, saltei sobre ele, lutámos e tive de o matar. Não travámos qualquer conversa enquanto isto decorria.
 
 - Tens a certeza que apanhaste o tipo certo? 
-
-
-
 
 "

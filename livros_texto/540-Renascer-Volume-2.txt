@@ -8,14 +8,9 @@ Titulo-original: Mission Child
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1998
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Maureen F. McHugh
 
@@ -26,15 +21,9 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº539 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 - Jan! - disse ele. - Olá. Queria falar contigo. 
 
 - Sim, Sasha?
@@ -96,8 +85,5 @@ Era boa. Devia ter dois tipos de fogo. 
 - É boa no Inverno - disse ele. 
 
 - Também há neve, na tua terra?
-
-
-
 
 "

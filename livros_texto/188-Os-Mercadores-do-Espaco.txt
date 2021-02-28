@@ -8,17 +8,9 @@ Titulo-original: The Space Merchants
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Frederik Pohl e C.M. Kornbluth
 
 Título original: The Space Merchants
@@ -32,21 +24,11 @@ Tradução: Eurico da Fonseca
 Súmula - foi
  apresentada no livro nº187 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 De longe em longe, entre a torrente de obras de ficção-científica, há uma que fica na história, que se torna num clássico. OS MERCADORES DO ESPAÇO - o célebre The Space Merchants, de Frederik Pohl e C.M. Kornbluth - é um desses exemplos. Poucos livros do género têm sido editados tantas vezes. Porque a história dos mercadores do Espaço tem um paralelo. Quem descobriu e desbravou os novos continentes? Sómente os navegadores? Por certo que não. Foram os mercadores que forneceram os capitais para as grandes explorações marítimas. Um dia, serão os mercadores que fomentarão as grandes expedições através do Espaço. Como as grandes Companhias, como as Hansas, lançar-se-ão em busca de novos mundos, de novas mercadorias, e de novos mercados. E então o Universo será do Homem.
 
 Eis o tema que Pohl e Kornbluth desenvolveram com muita imaginação e alguma sátira, mas também com um impressionante sentido de realidade, no próximo volume intitulado OS MERCADORES DO ESPAÇO.
-
-
-
 Introdução:
-
-
-
 Até que ponto se desenvolverá a sociedade do consumo? Hoje, essa pergunta é feita por muitas e muitas pessoas. Preocupa o homem comum, o filósofo, o político. E o economista. Não se trata apenas dos efeitos morais - que são imensos. São também os efeitos ecológicos. Os recursos da Terra caminham para o esgotamento. E, dia-a-dia, a vida humana, subordinada a esses males, torna-se menos humana.
 
 Estaremos perante um beco sem saída? Ou haverá alguma possibilidade de fugir ao que parece inevitável? Os autores de ficção-científica, hoje mais preocupados com os problemas sócio-económicos do que com a possível existência de outras civilizações, em mundos distantes, têm apresentado mil e uma soluções, umas plenas de fantasia, outras dignas de profunda meditação. Mas ninguém estudou o problema e o apresentou de maneira mais curiosa e profética do que Pohl e Kornbluth, em The Space Merchants - um verdadeiro clássico, tão actual hoje como à data da sua primeira publicação nos Estados Unidos, em 1853. O facto de ser a obra de ficção-científica que mais reedições até hoje conheceu naquele país - nada menos que seis - diz tudo.   
-
-
 "

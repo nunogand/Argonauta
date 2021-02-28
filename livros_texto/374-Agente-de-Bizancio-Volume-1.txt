@@ -8,12 +8,9 @@ Titulo-original: Agent of Byzantium
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1987
+review: |
+  
 ---
-texto1
-"
-
-
-
 
 Autor: Harry Turtledove
 
@@ -67,8 +64,5 @@ Libertado dessa desesperada pressão no Leste, o Império teria tido uma interve
 A leste, a história da Pérsia, a antiga rival de Roma, também diferiria muito do seu destino no nosso mundo. Sem as invasões árabes a deitá-la por terra, continuaria a se a outra grande potência no mundo a oeste da China, a única nação que poderia tratar o Império como igual. Por vezes os dois Estados entrechocar-se-iam abertamente; com maior frequência manobrariam para ganhar uma vantagem ali, para fomentar problemas nas que o outro ali tinha. Cada um de sua parte, continuaria a sonhar e a trabalhar para a vitória final que nenhum deles alguma vez vira.
 Tal seria o mundo de Basil Argyros, soldado e agente do Império. Um mundo talvez mais conservador do que o nosso, pelo menos no sentido de ter mudado menos drasticamente desde os tempos clássicos. Mas nenhum mundo, como Argyros sabia (nem sempre para seu conforto), se mantém sempre o mesmo.
 Uma nota final na cronologia: os bizantinos não usavam muito frequentemente a encarnação como ponto de partida para a sua era. O etos kosmou (ano do mundo) corria de 1 de Setembro a 31 de Agosto e era contado da Criação, que os estudiosos bizantinos datavam de 1 de Setembro de 5509 a.C.. Portanto o etos kosmou 6814, o ano em que esta história começa, decorre de 1 de Setembro de 1305 a 31 de Agosto de 1306.  
-
-
-
 
 "

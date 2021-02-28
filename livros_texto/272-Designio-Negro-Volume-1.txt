@@ -8,40 +8,20 @@ Titulo-original: The Dark Design
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip José Farmer
 Título original: The Dark Design
-
-
-
 1ª Edição: 1977
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
 nº271 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Desígnio Negro (The Dark Design) constitui a terceira obra da célebre série Mundo do Rio (Riverworld) de Philip José Farmer. Na primeira desta série, Mundo Sem Morte (To Your Scattered Bodies Go), o autor apresenta-nos Richard Francis Burton, aventureiro e mulherengo, que inicia a exploração num mundo em que se encontram reunidos os corpos - e possivelmente as almas - de todos os mortos da Terra. Se aquilo é a vida depois da morte, não é o Céu, pois que todos se comportam em conformidade com a sua vida anterior e, quando de novo morrem, tornam a ressuscitar, numa constante sequência do mesmo comportamento. Na segunda obra, Viagem Para Além da Morte (The Fabulous Riverboat), surgem - além de Burton, Herman Goering, Sam Clemens (celebrizado com o pseudónimo de Mark Twain) e outras figuras de renome histórico e literário, subindo o Grande Rio, num barco semelhante aos que singravam, outrora, no Mississipi, mas com curiosas inovações técnicas.
 
 Ainda que estas duas obras tenham sido justamente consideradas como das mais importantes até hoje surgidas no domínio da ficção-científica, Desígnio Negro consegue excedê-las na sua concepção dramática e no estilo. Philip José Farmer agiganta-se nela, alcançando o nível dos grandes mestres, não apenas no seu género, mas quanto aos clássicos.
@@ -49,13 +29,7 @@ Ainda que estas duas obras tenham sido justamente consideradas como das mais imp
 Em Viagem Para Além da Morte, atrás citada, Sam Clemens fora traído: o seu ""Fabuloso Barco do Rio"", construído à custa de mil sacrifícios num mundo sem metais e sem tecnologia, fora-lhe roubado e iniciara a sua viagem até à misteriosa origem do Rio, sem o levar a bordo. Em Desígnio Negro assiste-se à sua vingança: a construção de um novo barco e, num passo gigantesco, a de grandes dirigíveis, capazes de voar sobre as altas montanhas do Mundo do Rio e de eliminar as barreiras artificiais, construídas pelos misteriosos criadores desse mundo para dividir a Humanidade ressuscitada e realizar o seu Desígnio Negro. 
 
 Por razões técnicas, Desígnio Negro será dividido em duas partes, que serão publicadas sucessivamente.
-
-
-
 Prefácio: 
-
-
-
 Este livro é o volume III da série Mundo do Rio (Mundo Sem Morte, nº 263 da Colecção Argonauta e Viagem Para Além da Morte, nº 268. A presente obra será dividida em dois volumes, dada a sua extensão). Originalmente devia ser a conclusão de uma trilogia. No entanto o manuscrito tinha mais de 600 000 palavras. Publicado sob uma só capa, seria demasiado pesado e incómodo para o leitor.
 
 Portanto, o editor e eu resolvemos cortá-lo em dois. O volume IV - The Magic Labyrinth, seguir-se-á a este livro (a última das partes aguarda publicação na Colecção Argonauta). Concluirá definitivamente esta fase da série, explicando todos os mistérios aflorados nos primeiros três volumes e juntando todas as pontas num nó. Górdio ou qualquer outro.
@@ -75,12 +49,6 @@ Tornou-se aparente a alguns que Peter Jairus Frigate lembra fortemente o autor. 
 Peço desculpa pelos finais suspensos dos primeiros três volumes. A estrutura da série é tal que não me foi possível igualar a da série ""Fundação"" de Asimov. Nessa, cada volume parecia ter uma conclusão definida, o mistério parecia resolvido, enquanto a sequela revelava que o final anterior era falso ou enganador.
 
 Espero terminar a série, do volume I até ao V (ou talvez ao VI), antes que chegue o meu tempo de me estender e repousar enquanto aguardo a vez de entrar no fabuloso barco do Rio.  
-
-
-
 PHILIP JOSÉ FARMER  
-
-
-
 
 "

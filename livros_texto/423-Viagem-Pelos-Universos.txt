@@ -8,14 +8,9 @@ Titulo-original: Anywhen
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -33,9 +28,6 @@ Súmula - Foi apresentada no livro
 nº422 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
-
-
-
 James Blish é um dos mais célebres e admirados autores de ficção-científica, como tal largamente representado na Colecção Argonauta.
 
 Viagem pelos Universos é a versão portuguesa de Anywhen, uma colectânea dos seus melhores contos, ou mais precisamente de short stories, isto é, de novelas curtas.
@@ -43,30 +35,13 @@ Viagem pelos Universos é a versão portuguesa de Anywhen, uma colectânea dos s
 A variedade dos temas é das mais amplas, pois vão da substituição da diplomacia pela traição aos motivos que continuam a aconselhar a esterilização das naves espaciais. Dir-se-á que são próprios de outro tipo de literatura, mas Blish escolheu-os precisamente para os tratar da maneira mais imprevista.
 
 E como é de norma nas suas obras, em todos é subjacente uma profunda visão da Humanidade, com todas as suas qualidades e defeitos.
-
-
-
 Prefácio:
-
-
-
 Todas as obras deste livro me foram directamente encomendadas por um editor de uma revista, oportunidade que aproveitei para, em cada um dos casos, realizar uma experiência de natureza diversa. Uma segunda versão desta colectânea relaciona-se com a experiência que a seguir descrevo:
 
 Em Setembro de 1965, Kyril Bonfiglioli encontrava-se em Oxford, na qualidade de convidado de cinco escritores de ficção-científica (Brian W. Aldiss, Poul Anderson, James G. Ballard, Harry Harrison e eu próprio) e de uma artista (Judith Ann Lawrence), tendo-nos encomendado a totalidade do material para aquilo que viria a ser o primeiro número de ""Issue"", sucessora (actualmente já defunta) da mais antiga revista de carácter profissional da ""Science-Fantasy"" inglesa. As cinco histórias e a capa, deveriam todas abordar o tema de um homem que sacrifica a sua vida por uma causa... ou de alguém que assim não houvesse procedido. À excepção desta exigência concreta que, se bem me lembro, foi uma sugestão de Mr. Aldiss, não nos eram dadas mais nenhumas instruções, a não ser (para os escritores) que nos limitássemos a dez mil palavras.
 
 A minha contribuição para OxCon Issue foi um pequeno romance chamado ""Uma Vida de Herói"". Escrevi-o em grande pressa, para cumprir o prazo concedido por Mr. Bonfiglioli, e só tarde de mais para recomeçar me dei conta de que tinha excesso de matéria para a poder incluir razoavelmente bem em dez mil palavras. Daí que tenha aproveitado a oportunidade de o reescrever, como história principal deste livro. O esquema original, que apareceu em ""Impulse"", nunca foi publicado nos Estados Unidos.
-
-
-
 Alexandria, Virgínia (1967)                                                                                       James Blish
-
-
-
 Nota do Tradutor:
-
-
-
 Os membros das Guildas dos Traidores dos diferentes planetas negociavam entre si os segredos que podiam, comportando-se como autênticos correctores de Bolsa. Assim, quando um deles afirma que vai vender Terra Alta e comprar Boadiceia, não quer dizer que tenciona vender e comprar os planetas propriamente ditos, mas segredos que com eles se relacionam. Está simplesmente a usar uma linguagem semelhante à da Bolsa, onde se designam normalmente as acções e os títulos transaccionados pelos nomes das empresas e/ou entidades a que dizem respeito.
-
-
 "

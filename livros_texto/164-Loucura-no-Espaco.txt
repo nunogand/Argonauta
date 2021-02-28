@@ -8,15 +8,9 @@ Titulo-original: Doctor to the Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Murray Leinster
 Título original: Doctor to the Stars
@@ -30,17 +24,11 @@ Capa: Lima de Freitas
 Tradução: Eurico da Fonseca 
 
 Súmula - foi apresentada no livro nº163 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
-
-
-
 ""... Nenhum homem pode ser absolutamente eficiente se esperar louvores ou apreço por aquilo que ele faz. A incerteza dessa compensação, com a experiência demonstra, conduz à modificação das acções de cada um para aumentar a sua probabilidade... Se um homem se permitir a si próprio procurar a admiração, tenderá a tornar esse objectivo mais importante e a colocar num plano secundário o de fazer devidamente o seu  trabalho. Isso custa vidas humanas...
 
       
 
 Manual do Serviço Médico Interstelar, pp. 17-18""
-
-
-
 A pequena MedNave parecia absolutamente imóvel quando soou o aviso da uma hora. Depois, continuou a parecer imóvel. As gravações de ruídos de fundo continuaram a  fazer ouvir os sons pequenos e isolados que existem, sem serem notados, em todos os lugares onde os eres humanos habitam, mas que têm de ser fornecidos numa nave em ultravoo para que um homem não enlouqueça com a calma mortal. O aviso de uma hora era uma indicação de que as coisas iam mudar. 
 Calhoun pôs de parte o livro - o manual de MedServiço - e bocejou. Levantou-se do seu beliche para limpar a nave. Murgatroyd, o tormal, abriu os olhos e fitou-o meio adormecido, sem desenrolar a cauda peluda com que tapara o nariz.
 - Gostaria de poder actuar com a tua apreciação realística dos factos, Murgatroyde! - disse Calhoun. - Este caso não tem qualquer importância e tu tráta-lo como tal, enquanto eu fico furioso quando penso na sua futilidade. Estamos numa missão simbólica, Murgatroyd - uma cortesia do MedServiço, que tem de responder às solicitações histéricas, tal como às sensatas. Estamos a perder o nosso tempo!
@@ -57,6 +45,4 @@ O relógio de saída indicava que faltavam vinte e cinco minutos para acabar o u
 Uns bons dez minutos antes da nave voltar ao estado normal, já se encontrava preso à cadeira de comando. Permitiu-se a si mesmo a luxúria de outro bocejo. E esperou.
 A gravação de aviso zumbiu de novo. Uma voz disse: ""quando soar a compaínha, faltarão cinco segundos para a saída"". Ouviu-se um tiquetaque pesado, rítmico, persistente. Depois a campaínha, e uma voz: Cinco-quatro-três...
 Não completou a contagem. Houve um estrondo tremendo e um relâmpago. E também o odor do ozono. A MedNave cabriolou como um cavalo. Saíu do ultravoo dois segundos antes do tempo previsto. Os foguetes automáticos, de emergência, rugiram, e a nave mergulhou, mudou de rumo com violência, voltou a mergulhar, e pareceu combater desesperadamente contra qualquer coisa que frustrava todas as manobras que ela tentava executar. Os cabelos de Calhoun puseram-se em pé quando ele compreendeu que o indicador do campo externo mostrava um terrível campo de força actuando sobre a sua nave. Parou os foguetes quando os seus impulsos brutais ameaçaram arrancá-lo do lugar. 
-
-
 "

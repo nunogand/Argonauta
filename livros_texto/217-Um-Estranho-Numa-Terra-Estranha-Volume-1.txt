@@ -8,14 +8,9 @@ Titulo-original: Stranger in a Strange Land
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Stranger in a Strange Land
@@ -27,9 +22,6 @@ Tradução: Eurico da Fonseca 
 Súmula - Foi apresentada no livro 
 nº216 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
-
 Robert Heinlein é o mais antigo dos escritores de ficção-científica norte-americanos. É também o mais discutido. Ao escrever Soldado no Espaço (nº120 da Colecção Argonauta), foi acusado de defender o fascismo - mas hoje reconhece-se que se antecipou aos pensadores actuais, quanto à defesa da responsabilidade colectiva e ao respeito pelo valor dos soldados - entendidos como homens vindos do povo e representando o povo. Em Revolta em 2100 (nº132 da Colecção Argonauta), Heinlein mostrou pela primeira vez o seu excepcional poder de previsão sociológica, denunciando o fanatismo e a hipocrisia em geral e, muito principalmente, nos Estados Unidos. Em Revolta na Lua (nºs 119 e 120 da Colecção Argonauta e Entre Planetas (nº211), Heinlein foi além de si próprio, revelando-se um panfletário sem paralelo, condenando a colonização e a opressão, defendendo conceitos políticos quase sempre originais e profundamente revolucionários.
 
 Mas a obra máxima de Robert A. Heinlein - obra máxima também do underground norte-americano, que um dia os homens perguntarão a si próprios porque razão não figurou entre os Prémios Nobel - é Stranger in a Strange Land. História imaginária, mas viva, do mais marginal dos homens - do homem que, criado por seres não humanos, nem sequer é considerado homem pelos homens - só agora pode ser publicada no nosso país. E por uma simples razão: Charles Manson, o protagonista do ""caso Manson"", identificou-se, desde muito novo, com Valentine Michael Smith - o Estranho Numa Terra Estranha.
@@ -43,6 +35,4 @@ A identificação do caso Manson com o tema de Um Estranho Numa Terra Estranha n
 Por razões técnicas, Um Estranho Numa Terra Estranha será dividido em 3 volumes. 
 
 Nota: uma das obras mais importantes de Robert A. Heinlein, ou pelo menos uma das que é  mais conhecida. Como referido no texto acima, tem uma espécie de maldição associada, visto ter constituído uma referência (segundo consta e referido pelo próprio), para o tristemente célebre Charles Manson, o responsável pelo assassínio da Sharon Tate, na altura esposa do realizador Roman Polanski. Todavia Manson, ao contrário do que é referido pelo editor, não assassinou Sharon Tate, embora tenha sido considerado responsável pelo acto. Quem cometeu o acto foi um grupo de indivíduos pertencentes ao seu grupo, à sua ""família"". Foram encontradas grandes quantidades de droga no local e o caso adquiriu contornos ainda mais dramáticos devido ao facto de Sharon estar grávida. Charles Manson foi condenado a prisão perpétua, estando preso no Estado da Califórnia, na prisão de Corcoran, onde também se encontra detido o assassino do Senador Robert Kennedy. As audiências para aferir a possibilidade de liberdade condicional têm tido ao longo do tempo sempre resposta negativa. A próxima será em 2027. Nesse ano, se ainda for vivo, Charles Manson fará 93 anos.
-
-
 "

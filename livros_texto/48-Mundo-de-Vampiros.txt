@@ -8,20 +8,9 @@ Titulo-original: I Am Legend
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 
 
 Autor: Richard Matheson
@@ -30,23 +19,11 @@ Título original: I Am Legend
 Publicado na Colecção Argonauta em 1958 
 Capa: Lima de Freitas
 Tradução: Mário Henrique Leiria
-
-
-
 Súmula - foi apresentada no livro nº47 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
-
-
 O vampiro existe. Existiu desde sempre. É verdade, leitor. E a sua grande força, é que ninguém crê na sua existência. Mas não há fumo sem fogo, não é assim? Ora se a lenda se formou, em alguma coisa se deve ter fundamentado. Pois bem, o fundamento é o seguinte: o vampirismo é uma doença. Uma doença latente. Provocada por um bacilo, o vampiris. Os seus principais sintomas? Muito fáceis de identificar: o gosto pelo sangue humano como dieta exclusiva; a preferência pela noite; o comprimento anormal dos dentes caninos; a repulsa pelo alho: o temor à cruz; a não refracção nos espelhos do indivíduo atacado; a impossibilidade de transpôr a água corrente; um mau hálito pronunciado; a necessidade de repousar, em estado de coma, durante o dia, sob a terra do seu país natal. E chega como enumeração.
 
 Mas cuidado, leitor. Não vá supôr que o vampiro se transforma em morcego, ou em  pluma. Isso é nos filmes de terror. E agora estamos a tratar do facto científico, comprovado. Se não o crê, escute o que lhe diz Robert Neville, o último homem da Terra:
-
-
-
 ""Quero primeiro assegurar-lhes que não estou louco. Em seguida,quero trazê-los comigo ao ano de 1976. Sou o último homem que existe sobre a Terra. Não sei quanto tempo resistirei. Todas as noites eles cercam a minha fortaleza, estes vampiros de um outro mundo, e eu posso ouvi-los gritar obscenidades durante a noite. Tenho morto tantos deles, e sempre voltam à carga. Quanto tempo se passará antes que me liquidem? Só sei uma coisa: nunca mais ouvirei o som de uma voz humana.""
-
-
-
 Que sucedeu a Robert Neville? Porque vive ele num mundo de vampiros? A história é simples: após uma guerra atómica da qual nenhum país saíu vencedor, mas toda a humanidade vencida, violentas tempestades de pó assolam a superfície do globo. Arrastados por elas, vêm os esporos do vampiris, o bacilo da vampirite, que se propaga assustadoramente. Imune a este flagelo por uma razão desconhecida, Robert Neville vê morrer-lhe sucessivamente a filha e a mulher, ceifadas pela epidemia. Quando todos os habitantes da Terra são atingidos pelo bacilo, Robert Neville vê-se rodeado de uma multidão de seres sequiosos do seu sangue, e é forçado a defender-se por todos os meios ao seu alcance.
 
 É a extraordinária odisseia deste homem, só num mundo de vampiros, que Richard Matheson nos conta magistralmente, num romance que levou o escritor William Campbell Gault, possuidor de vários prémios de literatura de mistério, a dizer deste livro: ""Este pode ser o romance mais aterrador que jamais lerá.""  E se quiser ter uma ideia, leitor, imagine-se rodeado de vampiros. Cuidado, não deixe a porta aberta depois do pôr-do-sol. Cuidado com as janelas. Não será melhor entaipá-las? E sobretudo, não endoideça. Lá por estar só no mundo, não é razão para isso. E pode ser que chegue, após alguns anos, à mesma fantástica conclusão que Robert Neville. Nada mais natural.
@@ -56,43 +33,17 @@ Mas que conclusão é essa? - perguntará o leitor, um tanto ou quanto desconfia
 Mas não é necessário imaginar-se num ""mundo de vampiros"", leitor. Aqui entre nós: conhece alguém que prefira sair de noite e dormir de dia? Alguém que não ponha alho na comida, sob pretexto de que o estômago não o suporta? Alguém que se diga tão modesto que nunca se vê ao espelho? Alguém que recuse uma boa almoçarada na Outra-Banda, dizendo enjoar de barco?
 
 Conhece? Ah! Então tenha cuidado! - Pelo sim pelo não, à sucapa, veja se lhe pode medir os dentes caninos. E se eles forem sensivelmente mais compridos que o normal, pode ter a certeza. É um vampiro. É que antes da epidemia se espalhar, havia casos os esporádicos. E se bem que o perigo não seja tão grande como no caso de Robert Neville, não são de aconselhar passeios nocturnos com tal indivíduo. Nunca se sabe. E o sangue, faz-nos muita falta nas veias. É mesmo o que mais faz falta a uma pessoa: sangue nas veias.  E já agora, uma receita para se livrar de um vampiro: uma estaca de madeira, tem que ser de madeira, que lhe atravesse o coração, pregando-o ao solo. É uma receita provada, utilizada há muitos séculos. Acha difícil de pôr em prática? Então um conselho: compre ""Mundo de Vampiros"", o próximo romance da Argonauta, e encontrará lá outros mais variados processos de se desembaraçar de tão desagradável companhia como a de um vampiro.
-
-
 Nota: esta obra é famosa e reconhecida sobejamente na comunidade dos 
 apreciadores de ficção-científica. Este livro deu aliás origem a vários filmes. Em 1964, surgia The Last Man on Earth, dirigido por Ubaldo Ragona e Sidney Salkow, com Vincent Price no papel principal:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 http://www.imdb.com/title/tt0058700/?ref_=sr_1
 
 Posteriormente, em 1971, surgia The Omega Man, realizado por Boris Sagal, com Charlton Heston no principal papel:
 
-
-
-
  http://www.imdb.com/title/tt0067525/?ref_=sr_1
 
 E em 2007, surgia mais uma adaptação para o Cinema, com um filme realizado por Francis Lawrence, com Will Smith no principal papel, e intitulado I Am Legend:
 
-
-
-
-
-
 http://www.imdb.com/title/tt0480249/
-
-
 "

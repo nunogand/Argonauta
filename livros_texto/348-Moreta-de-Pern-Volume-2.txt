@@ -8,28 +8,9 @@ Titulo-original: Moreta - Dragonlady of Pern
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Autor: Anne McCaffrey
@@ -43,9 +24,6 @@ Publicado na Colecção Argonauta em 1986
 Capa: A. Pedro
 
 Tradução: Eduardo Saló
-
-
-
 Súmula - Foi apresentada no livro 
 nº347 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -56,6 +34,4 @@ Após O Planeta dos Dragões - com que a Colecção Argonauta apresentou a autor
 Num planeta, ameaçado pelos pavorosos Fios, Moreta, a Mulher do Ninho do Forte, terá de lutar pela salvação desse mundo ameaçado de extinção.
 Com efeito, declara-se uma epidemia cujo tratamento é totalmente desconhecido para aquele povo munido recursos assaz modestos par enfrentar semelhante flagelo. Após consulta persistente aos Registos-documentos em que figuram os conhecimentos deixados pelo Antigos desde a Travessia -, o Curador-chefe descobre uma maneira de produzir soro imunizante capaz de pôr termo à devastação provocada pela doença.  
 No entanto, a sua distribuição à escala planetária, que necessita de ser urgente, revela-se praticamente impossível dentro do tempo disponível. É então que Moreta decide utilizar um meio que só um grupo restrito de pessoas conhece bem para superar o obstáculo aparentemente intransponível.
-
-
 "

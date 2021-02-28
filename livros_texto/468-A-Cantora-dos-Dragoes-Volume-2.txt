@@ -8,14 +8,9 @@ Titulo-original: Dragonsinger
 Tradutor1: Raul Gonçalves
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -33,14 +28,9 @@ Súmula - Foi apresentada no livro
 nº467 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
 Iniciado no volume anterior, termina agora mais um romance integrado na famosa série dos Dragões, que consagrou definitivamente Anne McCaffrey como uma das mais importantes personalidades da ficção-científica.
 
 O estilo do texto, a combinação da fantasia com a poesia e a forma discreta e curiosa como a ciência é inserida não têm par, mas acima de tudo é o desenho das personagens que encanta, mais parecendo de seres vivos.
 
 Uma das mais belas é, precisamente Menolly, que em A Canção dos Dragões (nº458 da Colecção Argonauta), quando já nada havia que a afastasse das suas melodias e dos seus bem-amados Dragões de Fogo, tem de encontrar o seu caminho no futuro de Pern, e passar a viver com os outros. 
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Donovan's Brain
 Tradutor1: José Correia Ribeiro
 Tradutor2: 
 Ano-edicao: 1942
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Curt Siodmak
 Título original: Donovan's Brain
 1ª Edição: 1942
@@ -37,6 +32,4 @@ Sujeito às forças tangíveis do Cérebro, que alimentou e acarinhou como um fi
  ""È preciso que alguém acredite em mim e me socorra! Estou a escrever à pressa... enquanto o cérebro repousa. É preciso que alguém me ajude! É preciso que alguém leia o que estou a escrever e acredite em mim! Um homem aparentemente morto ouve e vê. O corpo sou eu, Patrick Cory, mas o cérebro que me orienta pertence a outra pessoa... Até agora fui capaz de resistir. Mas a partir deste momento perdi completamente o domínio... Um pensamento terrível não me larga! A minha mulher é bonita e aos seus olhos... Donovan sou eu! O cérebro pretende ter relações íntimas com ela. Eu serei uma simples testemunha ocular... traído pelo meu próprio corpo! Grito por socorro, mas ninguém me ouve! Estarei louco? Socorro! Socorro!""
 
 Por todos os motivos, recomendamos o nosso próximo volume aos que já conhecem os livros de ficção-científica, mas dedicamo-lo muito mais especialmente àqueles que nunca leram livros deste género. Temos a certeza de que se tornarão adeptos fervorosos da mais moderna modalidade de romance, depois de lerem. 
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: The Furies
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Keith Roberts
 Título original: The Furies
@@ -31,27 +26,13 @@ Publicado na Colecção Argonauta em 1970
 Súmula - foi apresentada no livro 
 nº153 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
-
-
-
 Keith Roberts é um autor novo. Vieram do Espaço (The Furies) é a sua primeira novela de ficção-científica. Mas segundo a crítica britânica e americana, nunca, desde A Guerra dos Mundos, de H.G. Wells, houve uma história tão autêntica e tão arrepiante da invasão da Terra por seres vindos de outros mundos.
 
 Vieram do Espaço é, de facto, uma obra excepcional, escrita com uma elegância de estilo e com uma veracidade sem paralelo. Com um tema estranho, sem par.
-
-
-
 Tudo começou com um ensaio nuclear que, apesar de realizado no fundo do Pacífico, não decorreu como se esperava. A explosão fendeu o fundo do oceano e fez nascer um vulcão da altura do Vesúvio onde existira um abismo de oito mil metros de profundidade. 
 
 Foi então que surgiram as Fúrias - vespas monstruosas e mortíferas, quase tão grandes como um homem. Os seus ninhos espalharam-se pelo mundo. Propagaram-se e destruiram a humanidade como lhes apeteceu. Multiplicaram-se por milhares de milhões e começaram a escravizar a Terra...
-
-
-
 Introdução:
-
-
-
 Keith Roberts é um jovem escritor inglês, especializado em ficção científica. Publicara já alguns contos, em revistas da especialidade. Mas esta é a sua primeira novela.
 
 Uma primeira novela que foi imediatamente recebida pela crítica como a história mais autêntica e mais terrível de uma invasão da Terra por seres vindos de outros mundos, desde A Guerra dos Mundos, de Herbert George Wells.
@@ -59,6 +40,4 @@ Uma primeira novela que foi imediatamente recebida pela crítica como a históri
 De facto, Vieram do Espaço é uma obra excepcional. Acusa-se muitas vezes a ficção-científica de excesso de cientismo, de excesso de imaginação - e de falta de senso e de estilo. De um só golpe, com uma só novela, Keith Roberts colocou-se à frente dos mestres, mostrando que, mesmo nas coisas correntes do nosso mundo, há aspectos novos, inesperados, que não ocorrem ao homem vulgar, e dos quais pode depender a sorte de todos os homens. E fá-lo com um estilo invulgar - um estilo que  nada deve a qulaquer género literário e antes se coloca, entre todos, também entre os dos mestres.
 
 Vieram do Espaço não é apenas uma das maiores obras de ficção-científica, em todos os tempos. É uma obra que jamais poderá ser esquecida.
-
-
 "

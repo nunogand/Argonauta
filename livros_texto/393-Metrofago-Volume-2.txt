@@ -8,14 +8,9 @@ Titulo-original: Metrophage
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1988
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Richard Kadrey
 
@@ -32,12 +27,5 @@ Tradução: Eduardo Saló
 Súmula - Foi apresentada no livro 
 nº392 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
-
-
 Bem vindos a Los Angeles... onde a cólera, fome e doença campeiam e a vida e a esperança estão rigorosamente racionadas. É este o mundo de Johnny, um oportunista das ruas, traficante do mercado negro de drogas que curam o corpo e acalmam o espírito. A única coisa que lhe interessa é a sua própria sobrevivência. Até que uma epidemia nova e estranha converte Los Angeles numa cidade de morte... e ele vê-se forçado a arriscar tudo para encontrar a cura. Se porventura ela existir na Terra...
-
-
 "

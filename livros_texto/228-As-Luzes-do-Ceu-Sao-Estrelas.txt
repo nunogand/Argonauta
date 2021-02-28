@@ -8,17 +8,9 @@ Titulo-original: The Lights in the Sky Are Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Fredric Brown
 Título original: The Lights in the Sky Are Stars
 1ª Edição: 1953
@@ -29,9 +21,6 @@ Tradução: Maria Emília Ferros Moura
 Súmula - Foi apresentada no livro 
 nº227 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Um ex-astronauta, Max Andrews, reduzido á condição de técnico de foguetões por ter sofrido um acidente, mas continuando adepto entusiasta da exploração dos espaços interplanetários, luta desesperadamente para que Ellen Gallaguer, defensora de um projecto de expedição ao planeta Júpiter, ganhe em San Francisco a campanha eleitoral que lhe permitirá a concretização deste sonho.
 
 A acção situa-se em 1997. Já se procedeu à conquista dos planetas Marte e Vénus. Os dois personagens estão em posição de fazer algo mais construtivo do que falar e pensar no assunto. Após diversos fracassos e episódios rocambolescos e românticos, ambos vão subindo os degraus da difícil escada que pretendem conquistar.
@@ -39,10 +28,5 @@ A acção situa-se em 1997. Já se procedeu à conquista dos planetas Marte e V�
 As Luzes do Céu São Estrelas, é um romance de ficção-científica de muita qualidade. É um voo ousado da imaginação e contudo narrado em termo reais e do quotidiano. Alguns chamar-lhe-ão puro invento fantasioso, mas quem poderá afirmar que tais acontecimentos permanecem no domínio do impossível?
 
 Este livro constituirá uma ponte para todos os leitores imaginativos que, no entanto, ainda não se encontram familiarizados com tudo o que a ficção-científica lhes pode oferecer. É simultâneamente natural para os fiéis adeptos deste âmbito, pois combina a emoção e aventura do mundo de amanhã com um estilo de qualidade. 
-
-
-
 Nota: uma excelente obra, que realça os valores da esperança e da perseverança de um modo extremamente bem conseguido e por vezes comovente. 
-
-
 "

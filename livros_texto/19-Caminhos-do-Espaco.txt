@@ -8,23 +8,15 @@ Titulo-original: Spaceways
 Tradutor1: A. Maldonado Domingues
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Charles Eric Maine Título original: Space Ways  1ª Edição: 1953
 
 Publicado na Colecção Argonauta em 1955  Capa: Cândido Costa Pinto 
 
 Tradução de: A. Maldonado Domingues 
  Súmula - foi apresentada no livro nº18 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 
 Conway, um agente do Departamento de Segurança de Washington estava satisfeito com o serviço que desempenhava na grande capital americana. Era um homem da cidade, como ele próprio dizia. Já contava no seu activo uma boa quantidade de transferências e sentia que tinha, por fim, direito a gozar os prazeres da civilização e a companhia da encantadora Vera Hartman. Mas o destino estava contra ele. Teria que trocar a cidade pelo deserto; os prazeres de uma existência amena, pelo inferno da vida no Nevada do Sul, onde os pioneiros do espaço estavam a construir o primeiro satélite artificial da nossa velha Terra.
 
@@ -33,10 +25,5 @@ O empreendimento era importante e de uma natureza altamente secreta, visto que o
 O foguetão foi finalmente lançado, num inferno de fogo e fumo. A Terra tinha, por fim, um satélite artificial. O empreendimento não fora, porém, um sucesso completo: para desespero do Dr. Klein o aparelho não atingira a órbita prevista, e uma parte do equipamento de Radar avariara-se. Para complicar as coisas, o parzinho amoroso desapareceu na noite da largada. Hills, o marido de Marion, pareceu com um olho negro cuja proveniência não queria explicar. Conway é chamado a Washington. O F.B.I. mete-se no assunto e um dos seus agentes volta com Conway para Nevada. Hills é acusado de ter assassinado a esposa e o amante dela, escondendo os cadáveres a bordo do foguetão. Pela primeira vez na história do crime, um assassino esconde dois cadáveres a bordo de um foguetão que ficará para todo o sempre no espaço interplanetário. O julgamento de Hills tem uma repercussão mundial. O Dr. Klein prova matemáticamente que o desvio da órbita calculada para o foguetão correspondia á substituição de certas peças de equipamento pelos cadáveres. A condenação de Hills é quase certa. No dia em que a sentença deve ser lida, todo o mundo está debruçado sobre os aparelhos de telefonia e de televisão. A expectativa é tremenda. Hills parece irremediávelmente perdido, tanto mais que nem sequer se defende. No último momenot porém, faz uma proposta sensacional ao juiz. Visto que o acusam de ter escondido os cadáveres no foguetâo, ele iria buscá-lo ao espaço interplanetário para provar que estava inocente. A incrível audácia de uma tal iniciativa, num momento em que a construção de foguetôes interplanetários estava na infância, era fantástica.  O Dr. Klein, porém, não se deixou convencer, e afirmava, obstinadamente, que Hills tinha intenção de sabotar o segundo foguetão e regressaria à Terra sem trazer o outro, mas transformado em herói: o primeiro homem que viajara no espaço interplanetário!
 
 Alguns meses depois, Hills partia para a sua formidável aventura. O mundo vibrava de ansiedade. Em Nevada a expectativa atingira o clímax. Hills subiu para o foguetão, metido no rudimentar escafandro do espaço. O barulho dos motores de jacto atroou os ares. A grande agulha de aço tremia de potência, pronta para o grande salto no infinito e na Torre de Controlo o telefone tocava... Klein proibira que atendessem porque o mais importante era o lançamento do foguetão. Mas o telefone tocava... Tocava... Insistente e interminávelmente, enquanto os apocalípticos pilares de fogo empurravam para o espaço mais uma máquina construída pelos homens. E o som daquelas campaínhas era a voz do destino, que chegara muito tarde...
-
-
-
-
-
 
 "

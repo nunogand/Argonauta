@@ -8,14 +8,9 @@ Titulo-original: The Singers of Time
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1991
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Frederik Pohl e Jack Williamson
 
@@ -32,8 +27,6 @@ Tradução: Clarisse Tavares
 Súmula - Foi apresentada no livro 
 nº458 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Os dois autores que se associaram para escrever Os Cantores do Tempo, são dos mais importantes ""grandes mestres"" da literatura de ficção-científica e ambos já têm obras suas incluídas na Colecção Argonauta. 
 
 Do talento conjugado destes dois escritores, resultou necessariamente uma obra de extrema classe quer no tema, quer no estilo, quer na abordagem dos aspectos científicos e técnicos.
@@ -41,6 +34,4 @@ Do talento conjugado destes dois escritores, resultou necessariamente uma obra d
 Acrescente-se que este romance é pioneiro da teoria dos wormwholes, dos túneis do tempo e do espaço, que os cosmólogos só agora começam a aceitar, sendo deveras interessante determinar qual o lugar que essa teoria ocupará na cultura humana, em contraste com os hábitos criados pelos alienígenas. 
 
 Em Os Cantores do Tempo, o leitor encontra, portanto, não apenas uma obra plena de imaginação e de movimento, mas muitos motivos para reflectir sobre o que o futuro nos reserva. 
-
-
 "

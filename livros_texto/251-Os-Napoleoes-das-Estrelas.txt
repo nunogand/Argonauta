@@ -8,14 +8,9 @@ Titulo-original: Les Grognards d'Eridan
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1970
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Pierre Barbet
 Título original: The Napoleons of Eridanus
@@ -31,26 +26,13 @@ Tradução: Eurico da Fonseca 
 Súmula - Foi apresentada no livro 
 nº250 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
-
-
 A ficção científica é um domínio quase exclusivamente anglo-saxónico. Se dúvida que o género também é cultivado em França, na Alemanha, na União Soviética, e em muitos outros países, mas é raro - muito raro - que um autor que não escreva em língua inglesa consiga obter algum sucesso. Evidentemente que isso não acontece porque a língua inglesa permita um acesso a um melhor mercado, mas sim porque nela se criaram regras e estilos que fizeram escola e que dificilmente podem ser imitados por quem escreve noutra língua, segundo outras normas.
 
 Por isso não é todos os dias que se encontra um autor francês publicado nos Estados Unidos pelos grandes editores. Mas esse é o caso de Pierre Barbet e de Les Grognards d'Éridan, que na edição americana recebeu o título de The Napoleons of Eridanus e que agora, na versão portuguesa, se intitulará Os Napoleões das Estrelas.
 
 Na constelação de Eridanus, há um planeta habitado por uma espécie inteligente que aboliu a guerra há tanto tempo que nem sequer sabe já como se defender. E esse planeta está ameaçaado de invasão por uma armada de militaristas alienígenas. Perante isso, as criaturas de Ipsilone Eridanus resolvem procurar - no espaço e no tempo - uma raça primitiva que ainda se dedique à guerra. E encontram-na: raptarm um grupo de soldados experimentados - veteranos de Napoleão, na retirada de Moscovo, no meio das neves do terrível Inverno de 1812. O capitão Bernard, dos Dragões Imperiais, não hesita em cumprir o seu dever. Mas sendo um fiel admirador de Bonaparte, tem ambições de que as criaturas de Eridanus nem sequer sonham...
-
-
-
 Introdução:
-
-
-
 Não é vulgar que um autor francês de ficção-científica seja traduzido nos Estados Unidos. Mas Pierre Barbet tem um estilo muito particular: profundamente irónico e bem trabalhado, revelando conhecimentos psicológicos profundos. As suas obras baseiam-se, por um lado, em factos históricos autênticos (ou perto disso) e em factos científicos autênticos (ou possíveis). Um exemplo é exactamente Os Napoleões das Estrelas - (Les Grognards d'Éridan). A sua descrição do contacto entre meia dúzia de soldados napoleónicos e um grupo de criaturas vindas das estrelas, tornou-se num clássico entre os clássicos
 
 Pierre Barbet é, na verdade, o pseudónimo de um doutor em farmácia, Claud Avice, nascido em Le Mans em 16 de Maio de 1925, e possui uma obra relativamente larga, da qual pelo menos dois outros volumes foram editados nos EUA. 
-
-
 "

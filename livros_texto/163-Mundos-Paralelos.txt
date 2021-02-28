@@ -8,17 +8,9 @@ Titulo-original: Out of Their Minds
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Clifford D. Simak
@@ -41,8 +33,5 @@ Clifford D. Simak regressa à Colecção Argonauta através de um romance verdad
 Mundo Paralelo é uma criação deveras original, em que a imaginação mais viva e autêntica se alia com um conhecimento pormenorizado das possibilidades científicas e técnicas que o mundo contemporâneo nos depara.
 
 Valorizado com uma capa muito sugestiva do pintor Lima de Freitas, este novo lançamento da Colecção Argonauta, tem uma tradção de Eurico da Fonseca. 
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Hospital Station
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James White
 Título original: Hospital Station
@@ -23,8 +18,6 @@ Título original: Hospital Station
 Publicado na Colecção Argonauta em 1975
 Capa: Lima de Freitas
 Tradução: Eurico da Fonseca
-
-
 Súmula - Foi apresentada no livro 
 nº213 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -34,7 +27,4 @@ Infelizmente, a construção de um hospital no espaço não é obra possível no
 Eis o tema escolhido por James White - autor da maior nomeada, no campo da ficção-científica - para a sua obra Hospital no Espaço, próximo volume da Colecção Argonauta.
 
 Nota: uma grande trilogia (este livro, mais o nº 220 e o nº 223) do James White, muitissimo interessante! As aventuras de uma Estação Médica Espacial, onde o Dr. Conway é especialista de várias espécies extra-terrestres diferentes. Ele é brilhantíssimo nos diagnósticos que faz e podemos acompanhar a progressão na sua carreira... ao mesmo tempo que tenta conquistar a enfermeira Murchison! Extraordinariamente interessante! Faz até pensar que os criadores da série televisiva Dr. House devem ter sido inspirados por esta trilogia! Leiam e vejam se não concordam!
-
-
-
 "

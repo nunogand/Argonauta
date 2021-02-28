@@ -8,43 +8,20 @@ Titulo-original: The Number of the Beast
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
 Título original: The Number of the Beast
-
-
-
 1ª Edição: 1980
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº293 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
-
 O Número do Monstro é a versão portuguesa da última obra de Robert A. Heinlein: The Number of the Beast, sendo a continuação de Os Filhos de Matusalém (nº 137) e História do Futuro (nº243, ºnº244 e nº245), a renovação da maravilhosa epopeia de Lazarus Long - o Primeiro Imortal, o Mais Antigo.
 
 Quem é O Monstro? Quem é The Beast?
@@ -74,9 +51,6 @@ Eis aqui a sabedoria! Quem tiver inteligência, calcule o número da fera, porqu
 ... ... ... ... ... .... ... ... ...
 
 Porque será esse o Número da Fera, o Número do Monstro? Que significa o número 666?
-
-
-
 Por razões técnicas, O Número do Monstro será dividido em 3 volumes.
 
 Introdução:
@@ -89,9 +63,4 @@ Eis aqui a sabedoria! Quem tiver inteligência, calcule o número da fera, porqu
 
 Porque é 666 o número da fera, o número do monstro, The Number of the Beast? Eis o que Robert A. Heinlein nos diz.
 Por razões técnicas, O Número do Monstro será dividido em três volumes. 
-
-
-
-
-
 "

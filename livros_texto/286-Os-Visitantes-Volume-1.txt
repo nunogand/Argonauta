@@ -8,41 +8,19 @@ Titulo-original: The Visitors
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 Título original: The Visitors
-
-
-
 1ª Edição: 1979
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº285 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 No posto de gasolina, o empregado enfiou a agulheta no depósito do carro do banqueiro e olhou para cima.
 
 - Meu Deus! Kermit olha para aquilo, olha!
@@ -78,16 +56,10 @@ Em frente dela, o barbeiro parara e levantara a arma ao ombro.
 - Não, George, não! - gritou Norton. - Não faças isso!
 
 A espingarda disparou, e quase no mesmo instante um relâmpago muito brilhante saltou da caixa, do outro lado do rio. O barbeiro flamejou por um momento quando o relâmpago o atingiu; depois a luz desapareceu e o homem, durante outro momento, permaneceu de pé, enegrecido como um toco de árvore grotescamente semelhante a um homem, uma coisa negra que fumegava. A arma nas suas mãos tornou-se de um rubro cereja e vergou-se, o cano a dobrar-se como um pedaço de esparguete molhado. Então George, o barbeiro, como que se desmoronouo, formando no chão uma massa que não tinha qualquer semelhança com um homem, uma massa negra amontoada que continuava a fumegar, como pequenos fios de fumo malcheiroso a subir dela.
-
-
-
 Eis uma das passagens iniciais de Os Visitantes (The Visitors), a última obra de Clifford D. Simak, uma das melhores, ou mesmo a melhor, que até hoje saíu das suas mãos.
 
 Os Visitantes marca uma fase nova no estilo de Simak. Não se assemelha a nada que o grande escritor tenha produzido. A linguagem é nova, o tema é novo. O pastoralismo, a adoração da natureza, o maravilhoso, o roçar pela fantasia, a profunda interiorização que tinham caracterizado o trabalho de Simak desde há muitos anos, cederam lugar a um estilo directo e ao tratamento directo de um tema do nosso tempo - o dos Objectos Voadores Não Identificados. Tratamento esse feito com uma arte e uma aparência de verdade que nenhum outro autor até agora conseguira.
 
 Por razões técnicas, Os Visitantes serão divididos em dois volumes.
-
-
-
 
 "

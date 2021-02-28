@@ -8,14 +8,9 @@ Titulo-original: Quest for the Future
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1970
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: A.E. Van Vogt
 Título original: Quest for the Future
@@ -23,13 +18,9 @@ Título original: Quest for the Future
 Publicado na Colecção Argonauta em 1976
 Capa: Manuel Dias 
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº224 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Eram filmes simples, educativos. Tratavam dos alimentos, de motores diesel, de aviários, de tratamento de árvores de fruto e de outras coisas úteis e vulgares. Pelo menos, os nomes indicados nas caixas assim o diziam. E a verdade é que milhares de pessoas tinham visto filmes e não tinham encontrado neles outra coisa, se não o que os títulos diziam. Até que alguém reclamou, porque vira ""uma coisa sem pés nem cabeça"". Uma reclamação muito estranha, que exigia uma investigação.
 
 E o filme que não tinha pés nem cabeça foi projectatdo, para se averiguar de como e porquê poderia ter desagradado a alguém. Era um filme simples, educativo. Tratava da ""Magia dos Alimentos"". No nome, mas não de facto. O facto era que ele mostrava sons e imagens que não tinham nada que ver com o mundo presenet. E o mesmo acontecia com outro filme: em vez de motores diesel, falava-se nele de propulsores espaciais, anti-gravitacionais. E ainda o mesmo com outro filme - com todos os filmes.
@@ -42,7 +33,4 @@ O tempo é a grande constante, mas a constância não é uma relação simples. 
 Esse é o rigor do universo. Esse é o segredo do tempo. 
 
 Nota: começa com este livro a 3ª série de capas da Colecção Argonauta, a das capas prateadas.
-
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Chute Libre
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Albert e Jean Crémieux
 Título original: Chute Libre
 1ª Edição: 1954
@@ -35,6 +30,4 @@ Chegados à Guarda, capital de 54, começam as verdadeiras atribulações. Como 
 As situações difíceis, complicadas, incompreensíveis repetem-se. As visitas à Fábrica de Música, ao Compêndio Geral, ao Conservatório da Moeda, etc, são tantas outras surpresas. E as descobertas inesperadas dos terrestres deixam por vezes confundidos os habitantes da Guarda; assim, depois de profundas pesquisas na Fábrica de Perfumes, o general consegue obter, por meio das mais complicadas misturas, um excelente ""bagaço"" que o sr. Moroto se propõe imediatamente registar sob o nome de ""Ormotorina - Delícias"".
 Todas as estranhas aventuras possíveis e impossíveis se passam na Guarda com os cinco terrestres - seis, se nos quiseremos lembrar do sr. Malborough que, no dizer do seu dono, é personagem importante na caça ao rato, ao pássaro e até á perna de carneiro assado.
 O planeta 54 é talvez o primeiro livro de ficção-científica onde o senso de humor, a finura do espírito latino nos aparecem. Sem deixar de ser um verdadeiro livro - e um dos melhores - do género, leva-nos no entanto um pouco mais além e abre-nos uma nova porta da ficção-científica. Quando do seu aparecimento em França, fez furor e originou sérias controversas nos meios especializados. E o seu próprio e inesperado fim, duro e violento, deixa-nos a sensação que, deste género novo da literatura muito há ainda a esperar. Desde o início até ao mergulho final em queda livre, as mais desencontradas reacções de humor, poesia, imaginação e realidade - nada mais real que os próprios personagens do livro - entram constantemente em choque... e harmonizam-se para realizar uma obra-prima da ficção-científica.
-
-
 "

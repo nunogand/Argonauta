@@ -8,17 +8,9 @@ Titulo-original: Methuselah's Children
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1941
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
@@ -30,13 +22,9 @@ Publicado na Colecção Argonauta em 1968
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº136 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Os membros das Famílias eram seres humanos vulgares, semelhantes aos seus vizinhos em todos os aspectos menos num, muito perturbante: tinham uma longevidade extraordinária.
 
 No ano ultracivilizado de 2125 d.C. essa distinção era intolerável. Perseguidas por um segredo que não possuíam, as Famílias foram obrigadas a escolher: ou a tortura e a extinção pelos outros homens - os de vida curta - desesperados pela inveja, ou uma nava interstelar ainda não ensaiada.
@@ -51,14 +39,9 @@ Ainda que constituindo uma obra independente, Os Filhos de Matusalém são o úl
 Como se disse na introdução de Revolta em 2100, a ""História do Futuro"", ainda que representando apenas uma pequena parte da actividade de Heinlein - um dos autores mais representados nesta Colecção - tem-se revelado invulgarmente profética, mesmo nos seus mais pequenos pormenores, o que não é de estranhar, porque Heinlein, além de uma sólida formação científica e de uma honestidade extrema na exposição dos seus temas, é um mestre no estudo da psicologia dos povos - e particularmente no conhecimento das qualidades e defeitos do povo norte-americano.
 Assim se compreende que problemas que não são inteiramente novos nos domínios da ficção-científica - como o da vida eterna ou quase eterna e da realização de viagens interstelares e dos primeiros contactos com outras civilizações no espaço - possam ser tratados de maneira absolutamente original em Os Filhos de Matusalém. Uma maneira que, sem deixar de mostrar um profundo respeito pelas limitações da ciência e da técnica, separando a realidade da especulação, é acima de tudo - e como acontece com todas as obras de Heinlein, profundamente humana.
 E também - quem sabe, e mais uma vez - profética, pois que a sua publicação entre nós coincide com a notícia de que cientistas americanos procuram actuar sobre o mecanistmo de auto-reparação das células humanas, garantindo a sua eficiência permanente, o que significa a detenção do envelhecimento e logo a vida eterna ou quase eterna...
-
-
-
 Nota: Robert Heinlein havia mais tarde de prosseguir esta saga, em livros também publicados na Colecção Argonauta, nomeadamente com a trilogia com o mesmo nome que o editor deu no texto a estas três obras iniciais ""História do Futuro"", uma verdadeira obra de fundo que posteriormente Heinlein continuaria com ""O Gato que Atravessa as Paredes"". Acompanhamos com estas edições a saga de Lazarus Long, naquela que é uma das obras mais importantes de Robert A. Heilein, (toda publicada na Colecção Argonauta), a par de outra famosa obra de referência do autor: Um Estranho Numa Terra Estranha (nº 217, 218 e 219).
  Com Lazarus, começamos a acompanhar algumas pessoas caracterizadas por uma 
 sobre-inteligência e quase imortalidade no seu percurso ao longo da 
 História. Interessantíssima obra, uma das que mais prazer me deu ler. 
 Robert A. Heinlein é um dos meus autores favoritos de Ficção Científica. 
-
-
 "

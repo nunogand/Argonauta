@@ -8,14 +8,9 @@ Titulo-original: Driving Blind
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1997
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury
 Título original: Driving Blind
@@ -23,9 +18,6 @@ Título original: Driving Blind
 Publicado na Colecção Argonauta em 2000
 Capa: António Pedro
 Tradução: Alexandra Santos Tavares
-
-
-
 Súmula -
  foi apresentada no livro nº508 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -76,8 +68,6 @@ Virgo Resuscitas - (pág. 212)
 Mr. Pale - (pág. 223)
 
 O Cuco que Sai do Relógio - (pág. 233)
-
-
 Um Breve Posfácio:
 
 Na minha já longa vida, nunca tirei carta de condução nem aprendi a guiar. Mas, há algum tempo, sonhei certa noite que estava a guiar um carro por uma estrada rural com a minha Musa grega inspiradora. Ela ia sentada ao volante enquanto eu seguia no assento do passageiro com um segundo volante, como um aluno duma escola de condução.
@@ -102,8 +92,5 @@ Los Angeles
 8 Abril de 1997 
 
 Nota: A Colecção Argonauta não teve infelizmente nesta obra a atenção de incluir um índice dos contos para os leitores. Quem o fez foi este vosso escriba.
-
-
-
 
 "

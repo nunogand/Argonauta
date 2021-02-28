@@ -8,14 +8,9 @@ Titulo-original: Naked to the Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Gordon R. Dickson
 
@@ -40,9 +35,6 @@ O certo é que, na verdadeira obra-prima que é este romance, surge uma pergunta
 E, agora, procura desvendar o mistério que envolveu a sua perda de memória e, ao mesmo tempo, extinguir a ameaça pendente sobre os seus antigos camaradas e a sua querida Terra.  
 
 Prefácio:
-
-
-
 Batalha no Cosmos, versão portuguesa de Naked to the Stars, de Gordon R. Dickson, é uma obra invulgar, não apenas no plano da ficção-científica mas em qualquer outro. Por o seu autor se ter tornado célebre através da saga dos Dorsai, a casta de mercenários tão nobres quanto prontos a servir os senhores do Universo, quaisquer que eles sejam - e que se tornou num dos maiores sucessos do género -, poder-se-ia esperar que este volume tratasses também de exaltar as virtudes militares e descrevesse novas epopeias em que ao heroísmo dos homens gerados e criados para serem soldados ao serviço de quem lhes pagasse melhor se juntasse a força das armas. 
 
 Batalha no Cosmos situa-se num plano completamente oposto. É quase como um acto de contrição - é o lado oposto da epopeia dos Dorsai, uma obra cujo tema, embora tenha por base aparente as relações entre os humanos e os povos que possam existir à luz de outros sóis, põe em causa algo mais profundo: qual é o melhor caminho - a guerra, ou a paz e o entendimento? 
@@ -50,8 +42,5 @@ Batalha no Cosmos situa-se num plano completamente oposto. É quase como um acto
                                                                                                                           
 
                                                                                                                         Eurico da Fonseca  
-
-
-
 
 "

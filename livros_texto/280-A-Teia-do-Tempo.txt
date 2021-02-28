@@ -8,35 +8,16 @@ Titulo-original: The Unicorn Girl
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Michael Kurland
 Título original: The Unicorn Girl
-
-
-
 1ª Edição: 1969
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº279 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -48,13 +29,7 @@ O próximo volume da Colecção Argonauta será uma obra invulgar de um autor in
 Trabalhou como pregador de fios, abridor de barris, lavador de janelas, curtidor de arenques, vazador de uísque e apanhador de pimentos e pickles. Esta base diversificada, deu-lhe uma riqueza de experiência que até agora se tem mostrado totalmente inútil para escrever ficção científica.
 
 Vive agora e trabalha num barco-casa no rio Dhama, no Norte do Tibete, mas não tardará a voltar aos Estados Unidos porque sente dificuldade em concentrar-se durante as seis horas em que o barco fica submerso em cada dia. O seu projecto presente, é um dicionário, conforme as suas ideias invulgares sobre a ortografia inglesa"".
-
-
-
 Por tal ""biografia"" se poderá fazer uma ideia do livro, escrito com um humor muito invulgar - mas incluindo ideias muito curiosas (com o respectivo desenvolvimento matemático!) sobre a possibilidade de deslocações no tempo e entre vias temporais paralelas. Um livro excepcional, sem dúvida. Como se poderá depreender da transcrição seguinte:
-
-
-
 Foi no ano depois das borboletas. As coisas tinham-se acalmado e tornado ao normal. A pílula da realidade, com as suas alucinações audiovisuais, era uma coisa do passado; o fornecimento esgotara-se, excepto uma ou outra que Chester parecia descobrir quando se sentia criativo. Mas a verdade é que, quando Chester se sentia criativo, não havia maneira de saber o que ele iria descobrir. 
 
 O único enigma na minha vida, de momento, era o desaparecimento desde há duas semanas, de um nosso amigo íntimo e membro da nossa ""coorte"", Tom Waters. Mas Tom era um mágico por vezes profissional e dado a desaparecimentos. Em geral, aparecia de súbito ao fim de alguns dias a queixar-se amargamente da falta de civilização para onde quer que ia. A civilização para Tom, era medida somente pela relativa abundância da manteiga de amendoim, bolinhos e cola; essa era a extensão em qeu ele se permitia comer e beber.
@@ -144,9 +119,6 @@ Jake Holmes, o melhor cantor folclórico WASP do mundo, estava em afinação no 
 É na comunidade de Massachussets - explicou-lhe a jovem.
 
 Jake terminou a afinação e entrou na cantiga. Algumas garotas de dez-e-tantos e algumas das suas mãezinhas começaram a remexer-se silenciosamente nos seus lugares, os seus olhos bem fitos no perfil limpo e arrapazado de Jake. Não direi que fossem olhares lascivos, mas é bom que se saiba que não sou perito nessas coisas. 
-
-
-
 Introdução: 
 
 Quem é Michael Kurland? A biografia (?) que acompanha a versão original de The Unicorn Girl (na tradução portuguesa A Teia do Tempo) diz que se trata de um ""Doutor em Ecdisiologia"" cujo primeiro trabalho publicado foi a sua tese: Padrões Culturais dos 
@@ -157,12 +129,7 @@ Meio do Grupo-Padrão, publicado como um livro infantil ilustrado, sob o título
 não tardará a voltar aos Estados Unidos porque tem dificuldade em 
 concentrar-se durante as seis horas por
  dia em que a casa está submersa.(De notar sensíveis diferenças nas palavras face à parte do texto transcrito na súmula e que se repete nesta introdução).
-
-
 Tudo isto indica que A Teia do Tempo é uma obra invulgar no domínio da ficção-científica, pelo seu humor muito especial. E é verdade. Mas muito embora A Teia do Tempo pareça apenas um exercício de boa disposição e fina crítica, não é só isso. No fim, e como o leitor verá, trata-se de um dos trabalhos mais sérios que têm sido feitos sobre a possibilidade da existência de trilhos temporais alternativos. Nem a respectiva discussão matemática falta.
  
-
-
-
 
 "

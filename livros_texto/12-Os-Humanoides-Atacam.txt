@@ -8,12 +8,9 @@ Titulo-original: From What Far Star
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
 
   
 Autor: Bryan Berry (o nome do autor no livro tem uma gralha)
@@ -34,6 +31,4 @@ Quando Harry Sellars, um membro da Polícia de Segurança, suspeitou pela primei
 De começo, quando viu um homem atravessar uma parede sólida, pensou que enlouquecera. mas as suas investigações perspicazes depressa provaram que o que vira não fora uma visão nem o efeito tardio de uma operação cirúrgica ao cérebro que sofrera algum tempo antes. Não havia dúvida, descobriu ele depois, que ""qualquer coisa"" atravessara aquela e outras paredes e essa ""qualquer coisa"" não era, não podia ser, um ser humano.
 Por uma série de circunstâncias extraordinárias Harry Sellars, a quem já haviam tentado assassinar, encontrou-se sózinho, sem outro auxílio que os seus próprios meios, a tentar desvendar o mais fantástico e estranho mistério que lhes fora dado conhecer. As aventuras de Sellars, enquanto tentava encontrar a pista e descobrir as razões da presença de um ser de um outro mundo na Terra, são, na verdade, emocionantes e formam a base deste romance de ficção científica.
 O autor, Bryan Berry, é bem conhecido nos meios literários ingleses, sendo já considerado, embora muito novo, com um dos mestres da ficção científica da Inglaterra, e, neste romance, não deixa a sua fama por mãos alheias, apresentando-se pela primeira vez ao público português no seu melhor estilo e com uma história dinãmica, emocionante e repleta de episódios que, estamos certos, prenderão a atenção do leitor da primeira à última página. 
-
-
 "

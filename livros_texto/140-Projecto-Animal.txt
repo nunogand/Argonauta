@@ -8,14 +8,9 @@ Titulo-original: B.E.A.S.T.
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Charles Eric Maine
 
@@ -27,14 +22,9 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº139 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 
 É na Unidade de Investigação número oito do Ministério da Defesa da Grã-Bretanha - unidade encarregada de estudar a guerra genética - que decorres a acção de Projecto: Animal, o próximo volume da Colecção Argonauta e a última obra de Charles Eric Maine.
 
@@ -49,6 +39,4 @@ Uma das suas características mais interessantes é o facto de as suas obras dec
 Em qualquer caso, e como se disse, raras vezes Charles Eric Maine repete um tema ou um ambiente. Se uma das suas obras se situa em plena Lua e descreve o drama pungente dos primeiros homens - e da  primeira mulher - que lá descem (A Batalha do Vácuo) , logo outra descreve - com um valor que a eleva ao primeiro plano em qualquer literatura - o que poderia acontecer ao mundo moderno, e  principalmente ao mundo britânico, no caso do aparecimento de uma epidemia tanto ou mais mortífera do que a medieva peste negra (O Vírus Destruidor).
 Em Projecto: Animal, o autor coloca-nos também em presença de um mundo completamente diferente de todos quantos tem descrito - um mundo ignorado e no entanto bem próximo: o das ""Unidades de Investigação"" do Ministério da Defesa Britânico e dos estudos que estão a ser feitos sobre a guerra genética.
 Para além do seu indiscutível valor literário, é profundamente curioso - e significativo - que a publicação de tal obra, na Grã-Bretanha, tenha antecedido em quase dois anos o primeiro trabalho científico sobre a guerra genética: The Biological Bomb, de Gordon Rattray Taylor. O que prova ser a ficção-cientifica algo mais do que simples fantasia.  
-
-
 "

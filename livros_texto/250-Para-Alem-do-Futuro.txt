@@ -8,15 +8,9 @@ Titulo-original: Best SF Stories of C. M. Kornbluth
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: C.M. Kornbluth
 Título original: The Best Science Fiction Stories of C.M. Kornbluth
@@ -44,9 +38,6 @@ Para Além do Futuro é a versão portuguesa de The Best Science Fiction Stories
 Nas histórias de Kornbluth há um factor comum - algo que lembra as histórias de O. Henry: um final inesperado, mas amargo, por norma. Dir-se-ia que Kornbluth previa o fim amargo, inesperado, da sua própria vida. Certo é, porém, que um escritor como ele nunca morre.
 
 Nota: na obra, que lamentavelmente não possui um índice, apresentam-se os seguintes contos:
-
-
-
  1 - Gritar ""Lobo""!
 
  2 -  O Altar à Meia-Noite
@@ -62,18 +53,7 @@ Nota: na obra, que lamentavelmente não possui um índice, apresentam-se os segu
  7 - Amigo do Homem
 
  8 - A Única Coisa que Aprendemos  
-
-
-
 Nota: uma surpreendente colectânea de contos muitissimo interessantes. O terceiro conto, intitulado Gomez, é um dos mais originais e interessantes que já tive oportunidade de ler.
 
 Colecção Argonauta do nº201 ao nº250
-
-
-
-
-
-
-
-
 "

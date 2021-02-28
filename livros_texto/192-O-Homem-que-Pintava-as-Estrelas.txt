@@ -8,17 +8,9 @@ Titulo-original: The Pictures of Pavanne
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Lan Wright
@@ -46,6 +38,4 @@ Harkrider dominava o planeta e amontoava fortunas à custa dos maravilhosos quad
 Não obstante - de uma maneira amistosa - o senhor omnipotente de Pavanne temia alguém. Temia Max Farway, que, sem o saber, possuía a resposta à devastadora perplexidade dos quadros de Pavanne.
 
 Eis o tema, estranho mas aliciante, da obra de Lan Wright.  
-
-
 "

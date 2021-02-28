@@ -8,63 +8,21 @@ Titulo-original: The Visitors
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Autor: Clifford D. Simak
 
 Título original: The Visitors
-
-
-
 1ª Edição: 1979
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº286 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 ""Alguns tumultos eclodiram em grandes cidades em que a situação social e económica era tal que qualquer coisa era uma desculpa para surgirem desordens. Durante os tumultos houve pilhagens e fogos postos. Algumas pessoas ficaram feridas, outras morreram. Em algumas universidades, os estudantes fizeram manifestações bem-humoradas, e vários grupos se lhes juntaram para favorecer as suas causas mais queridas, mas nenhuma das manifestações teve muito significado. Os fanáticos religiosos e os fanáticos que não eram religiosos discursaram nas esquinas, nos parques, nas igrejas e em salões. Em certas áreas, o entusiasmo em relação aos cultos subiu largamente. Os articulistas dos jornais e os comentadores da TV apresentaram cem pontos de vista diferentes, poucos dos quais, sob qualquer espécie de escrutínio objectivo, teriam um mínimo de senso.
 
 As histórias cresciam - sempre de qualquer coisa que acontecera em qualquer outra parte, o índice da estupidez aumentando com a distância - e lendas em embrião começaram a formar-se.
@@ -72,17 +30,8 @@ As histórias cresciam - sempre de qualquer coisa que acontecera em qualquer out
 O fenómeno do ser levado lá acima foi ouvido com uma frequência cada vez maior, os relatos a surgirem de todas as partes da nação e a serem logo agarrados e explorados pelos cultos que, do mesmo modo, tinham surgido em todos os cantos da nação. Várias pessoas afirmavam terem sido levadas lá acima sem nunca explicarem bem como aquilo acontecera; diziam ter sido introduzidas nos corpos dos visitantes e que, depois de terem sido levadas lá acima, tinham tido a visão de muitas coisas maravilhosas ou recebido mensagens (também de muitas espécies diferentes) com o encargo de as transmitirem aos outros habitantes da Terra. Os membros dos cultos, e muitos outros, deram vários graus de crença a esses relatos das pessoas de serem levadas lá acima, enquanto um grande número escarnecia deles. Foi recordado que nos primeiros dias das aparições de OVNIS, ou de supostas aparições, muita gente afirmara ter tido contacto directo com os tripulantes dos discos voadores.
 
 Mas qualquer que fosse a forma por que esses relatos, e outras histórias lendárias, tivessem surgido ou se houvessem espalhado, a populaça tornou-se consciente de um facto que não podia ser negado. A Terra fora invadida por criaturas vindas do espaço, e não acontecera nenhuma das coisas que os escritores de ficção-científica, através de longos anos de trabalho, tinham previsto.""
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Eis um trecho do segundo e último volume de ""Os Visitantes"", a mais moderna e uma das melhores obras de Clifford D. Simak:
-
-
-
 O Dr. Albert Barr disse a Jerry Conklin: - Miss Foster telefonou-me a dizer que queria falar comigo, mas não me disse precisamente porquê. Indicou-me que tinha algo que ver com os visitantes. - Voltou-se para Kathy: - Afirmou-me que isto não é uma entrevista para o seu jornal. 
 
 Kathy respondeu: - Não é uma entrevista e não fui específica porque penso que Jerry lhe dirá tudo quanto aconteceu.
@@ -118,6 +67,4 @@ Jerry respondeu: - Há duas coisas. Essa coisa do ""lar"": o visitante pensou no
 - Não foi o que eu disse, Dr. Barr. Em momento algum pensei que o visitante estivesse a falar comigo. Não houve comunicação consciente, não se formaram palavras no meu espírito, nem imagens, nada disso. Houve apenas essa sensação de ""lar"", ou da terra onde nasci. Uma sensação poderosa.
 
 - Está convencido de que essa sensação veio da criatura?
-
-
 "

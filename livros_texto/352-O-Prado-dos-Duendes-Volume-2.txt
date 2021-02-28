@@ -8,15 +8,9 @@ Titulo-original: Duende Meadow
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Paul Cook
 
@@ -39,8 +33,5 @@ Este segundo e último volume confirma a surpreendente originalidade, na forma e
 Um ruído pesado, rítmico, vindo de perto, assombrara Preston. Um som, por certo não natural, de uma máquina gigantesca, vermelha, que tinha, no flanco, em amarelo-vivo, a foice e o martelo e as letras CCCP. Os Soviéticos tinham ganho a Terceira Guerra Mundial.
 
 Preston deveria tomar soluções urgentes e, para tal, teria de servir-se de todas as suas qualidades cerebrais. Raras obras reúnem tantos ingredientes de valorização, como O Prado dos Duendes, em que o conhecimenot científico, presente e futuro, se alie ao sentido do maravilhoso de todos os tempos. 
-
-
-
 
 "

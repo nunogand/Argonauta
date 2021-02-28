@@ -8,14 +8,9 @@ Titulo-original: Thrice Upon a Time
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: James P. Hogan
 
 Título original: Thrice Upon a Time
@@ -27,9 +22,6 @@ Publicado na Colecção Argonauta em 1988
 Capa: A. Pedro
 
 Tradução: Raul de Sousa Machado
-
-
-
 Súmula - Foi apresentada no livro 
 nº376 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -38,8 +30,5 @@ Mensagem do Futuro é um dos romances mais justamente celebrados de James P. Hog
 Identificando-se com a tendência narrativa que pretende desvelar as características do futuro longínquo, recorre, no entanto, a fórmulas ficcionais que se afastam das convenções do género.
 O autor introduz o que de mais moderno nos é dado a conhecer e apreciar na descrição do mundo ambíguo que nos propõe e que a Humanidade talvez venha a viver: um mundo onde tudo o que é deveras estranho assume as proporções de um quotidiano com que nos vamos familiarizando como se o futuro já estivesse a correr.
 Não há que estranhar, por isso, que James P. Hogan - um excelente prosador que sabe utilizar a linguagem romanesca como poucos escritores de ficção-científica - nos faça coabitar com o suspense e com a acção que se desenrola num universo em que o sonho se tinge com as cores violentas da realidade.   
-
-
-
 
 "

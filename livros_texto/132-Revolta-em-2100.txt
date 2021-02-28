@@ -8,17 +8,9 @@ Titulo-original: Revolt in 2100
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Robert A. Heinlein
 
 Título original: Revolt in 2100
@@ -34,9 +26,6 @@ Publicado na Colecção Argonauta em 1968
 Súmula - foi apresentada no livro 
 nº131 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Robert A. Heinlein, um dos mais célebres autores norte-americanos de Ficção-Científica, volta à Colecção Argonauta com um dos seus mais célebres romances.
 
 Revolta em 2100 revela, mais uma vez, a imaginação prodigiosa deste consagrado escritor, e o seu forte e surpreendente poder de efabulação e, ao mesmo tempo, a agilidade com que estrutura fortemente as suas narrativas, conferindo-lhes todos os pormenores indispensáveis à sua concatenação interna. É devido ao concurso destas qualidades que Robert A. Heinlein consegue impregnar os seus romances daquela atmosfera que invade o leitor e o persuade de que se encontra perante os factos como uma espécie de testemunha presencial.
@@ -67,8 +56,5 @@ Não, provávelmente nunca escreverei a história de Nehemiah Scudder: desgosta-
 Se Heinlein se recusou a escrever a história de Nehemiah Scudder, já o mesmo não aconteceu com a do desenvolvimento, decadência e ocaso da teocracia nos Estados Unidos. Seria um período caracterizado por:
 Reduzida investigação e sómente progressos técnicos sem importância. Extremo puritanismo. Desenvolvimento pela classe sacerdotal, de certos aspectos da psicodinâmica e da psicometria, da psicologia colectiva e do governo social.
 Até à Revolta, em 2100.  
-
-
-
 
 "

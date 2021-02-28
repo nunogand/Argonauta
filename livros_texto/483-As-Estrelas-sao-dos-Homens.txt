@@ -8,14 +8,9 @@ Titulo-original: They Shall Have Stars
 Tradutor1: Alexandra Tavares
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -28,22 +23,13 @@ Publicado na Colecção Argonauta em 1997
 Capa: A. Pedro
 
 Tradução: Alexandra Tavares
-
-
-
 Súmula - Foi apresentada no livro 
 nº482 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O próximo volume desta colecção, integra-se na tetralogia As Cidades do Céu - (Cities in Flight) de James Blish, autor largamente representado na Argonauta. A originalidade dos seus temas e a excelência do seu estilo são, portanto, já bem conhecidos de todos os leitores.
 
 As Estrelas São dos Homens, constitui a versão portuguesa de They Shall Have Stars, e é o primeiro volume desenvolvido a partir do conto Okie, publicado em 1950, no qual Blish abordou pela primeira vez o tema das cidades nómadas que se libertaram da Terra graças à descoberta da anti-gravidade. 
 
 Depois, protegidas por uma cúpula, essas cidades vagueiam pelo espaço e proporcionam uma história do futuro. Os outros volumes, também a incluir nesta colecção, intitulam-se Vivendo no Céu, A Terra é uma Ideia Boa, e O Triunfo do Tempo. 
-
-
-
 
 "

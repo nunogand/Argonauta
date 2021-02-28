@@ -8,14 +8,9 @@ Titulo-original: Virgin Planet
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Poul Anderson
 Título original: Virgin Planet
@@ -27,15 +22,11 @@ Tradução: Alexandra Santos Tavares 
 Súmula -
  foi apresentada no livro nº512 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Num futuro ainda remoto, quando as forças terrestres tiverem colonizado inúmeros planetas de vários sistemas solares muito distantes do nosso, uma frágil aliança dos mundos civilizados manterá um sistema de patrulhamento e vigilância, para evitar as formas mais gravosas de criminalidade. Trata-se do serviço de coordenação, sediado no planeta Nerthus, a cerca de um milhar de anos-luz do nosso próprio sistema solar. 
 
 É pois a partir de Nerthus que o jovem Davis Bertram inicia uma aventura solitária para tentar descobrir, no Delta Cabeça de Lobo, um novo mundo desabitado ou primitivo. Mas Bertram alimenta outra esperança secreta: três séculos atrás, um transporte de mulheres que viajava para uma área já colonizada caíra no planeta Atlantis, cuja localização exacta não era conhecida por ninguém. Iria Bertram descobrir um planeta só habitado por mulheres?
 
 E contra todas as espectativas é isso mesmo que lhe sucede. Mas então Bertram tem várias surpresas: mas abandona a sua nave, é capturado por uma mulher guerreira, depois as habitantes do planeta consideram-no um monstro e, finalmente descobre que elas não têm nenhuma ideia do que seja na realidade um homem. 
-
-
 Nota do Autor
 
 Os leitores de ficção-científica estão interessados em ciência, e é uma pena conseguirem tão pouca. Com algumas poucas excepções honrosas, os escritores têm a propensão geral de criar ou impossibilidades tais ou variações menores sobre a Terra e a civilização ocidental que já conhecemos. Até aqui, e tanto quando sei, apenas Hal Clement conseguiu na realidade realizar os seus cálculos, e a sua Missão de Gravidade é por isso um exercício de lógica fascinante. A história actual não tem pretensões de tal estatura intelectual, mas existem alguns detalhes de fundo que não puderam ser incluídos na narrativa e podem ter algum interesse. 
@@ -80,8 +71,5 @@ Nesta altura da história, no entanto, existe um clima ameno interglaciar e a vi
 Poderia parecer inevitável que os mamíferos se desenvolvessem sob tais condições alteráveis, mas nada existe de inevitável na evolução. O progresso da vida em Atlantis foi, na realidade, retardado pelas condições climatéricas inseguras e pela geologia cataclísmica, que tendia a matar todas as novas formas terrestres antes que se estabelecessem. Apenas as aves estão equipadas para escapar a alterações mais súbitas e poderosas do que qualquer outra coisa que a Terra tenha conhecido - e os geólogos do século XX começam a acreditar que as revoluções climatéricas do nosso próprio planeta se deram mais rapidamente do que se pensou anteriormente. Sempre que as condições se tornavam novamente favoráveis, as aves de Atlantis explodiam numa nova multiplicidade de espécies, incluindo tipos gigantes que não voavam.
 Na realidade, existem alguns poucos mamíferos primitivos em Atlantis; no hemisfério exterior, onde a grande superfície de água torna o clima um pouco mais estável. Mas eles ainda não chegaram à secção interior, e os seres humanos proscritos, incapacitados de navegar para longe naqueles mares traiçoeiros, nunca os viram.
 E é esta a base científica da história.  O leitor é convidado a fazer os seus próprios cálculos, baseando-se nos meus dados fictícios, e a desafiar-me, se pensar que me enganei em qualquer parte. Essa é uma das coisas que torna a ficção-científica divertida. 
-
-
-
 
 "

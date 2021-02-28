@@ -8,14 +8,9 @@ Titulo-original: Midas World
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -38,8 +33,5 @@ A energia ilimitada a um custo insignificante poderá ser um bem para a Humanida
 Mas nada no Mundo é verdadeiramente gratuito. Midas, o rei mitológico, queria ser imensamente rico e os deuses fizeram-lhe a vontade; deram-lhe o poder de tornar em ouro tudo o que tocava, inclusive os alimentos, levando-o assim a morrer de fome. Para a Humanidade, a energia era também um presente envenenado. A torrente de produtos de todas as espécies saídos das indústrias automatizadas ameaçava esmagá-la, enquanto o equilíbrio da oferta e da procura era destruído pelas fantasias dos consumidores como Sonny Trumie, que satisfazia os seus caprichos infantis mandando construir palácios e frotas de naves espaciais como obras de pastelaria, no estilo dos contos de fadas, enquanto outros, como Michael Pellica Perkins, viviam em colossais mansões orbitais. E, entretanto, a Terra ia-se tornando num deserto amarelo, escaldante...
 
 Eis o tema de O Mundo de Midas, uma das mais fascinantes obras de Frederik Pohl, um dos mais consagrados autores de ficção-científica, o criador de Gateway e de tantas obras não menos célebres.  
-
-
-
 
 "

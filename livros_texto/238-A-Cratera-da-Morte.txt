@@ -8,17 +8,9 @@ Titulo-original: Trouble With Tycho
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Clifford D. Simak
 Título original: The Trouble with Tycho
 
@@ -33,19 +25,10 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº237 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Mais uma vez, uma obra do grande mestre que é Clifford D. Simak figurará na Colecção Argonauta. Trata-se de The Trouble with Tycho - em português A Cratera da Morte, uma novela que se afasta do universo fantástico, semilendário e semicientífico a que Simak transporta habitualmente os seus leitores, e se situa num ambiente muito mais próximo daquilo que supomos ser a realidade.
 
 Em A Cratera da Morte, Simak traça, pela primeira vez, a sua ideia do que poderá vir a ser a Lua num futuro próximo, quando os primeiros prospectores procurarem nela minérios preciosos. Pense-se na imaginação de Simak, no seu poder descritivo, no seu sentido humano - e ter-se-á uma ideia de A CRATERA DA MORTE
-
-
-
 Introdução:
-
-
-
 Clifford D. Simak, um dos mais conhecidos e categorizados autores de ficção-científica, criou de si uma imagem muito peculiar pelo tratamento de temas aparentemente irreais, em ambientes da mais clássica fantasia - entre duentes e fadas, fantasmas e gnomos, autómatos e cavaleiros errantes - mas sempre como meio de discutir e aprofundar os maiores problemas da Humanidade, desde o próprio instinto de sobrevivência á ecologia, aso valores morais básicos, à evolução dos problemas económicos e sociais. Defensor da liberdade e do respeito pelos homens por si próprios, pelos seus semelhantes e pela Natureza, Simak é um escritor profundamente moral, com poderosa influência na construção de novas formas de pensar, entre os intelectuais e os jovens norte-americanos.
 
 Entretanto, a obra que ora se apresenta, - A Cratera da Morte - (The Trouble with Tycho) - é inteiramente diferente. Simak descreve nela a Lua com uma veracidade incrível - verdadeiramente ímpar -, mas o que torna ainda mais incrível o seu trabalho é o facto de ele ter sido publicado pela primeira vez em 1961, ou seja 8 anos antes da descida dos primeiros homens na Lua, e mesmo antes que os primeiros Surveyor enviassem imagens directamente da superfície lunar. No entanto, Simak previu tudo - a ausência de cor, o contraste fulgurante entre os negros e os brancos, o solo ora de cascalho miúdo ora de poeiras, pequenas crateras abertas pelos meteoritos, os efeitos da erosão produzida pela radiação, pelos esforços térmicos e pelos próprios meteoritos. Tudo com a mesma precisão dos cientistas da NASA - quando os cientistas da NASA ainda não faziam uma ideia concreta do que se iria encontrar na Lua!
@@ -55,10 +38,5 @@ Claro que Simak juntou a essa descrição impressionante pela sua exactidão alg
 A região de Tycho é exactamente uma das nunca exploradas. A cratera, situada a sul do Mar das Nuvens, a meio caminho do pólo sul, não tem um diâmetro muito grande, mas é uma das mais profundas, com 5210 metros. Dela irradiam raios muito conspícuos, que se estendem por milhares de quilómetros, e que se assemelham aos resultantes do impacto de um projéctil sobre uma couraça - ou sobre uma superfície dura. Esse foi um dos argumentos invocados desde longa data em favor da teoria que apresentava as crateras como sendo criadas pelos impactos de meteoritoss, e não por fenómenos vulcânicos - teoria essa que as explorações dos astronautas vieram a confirmar.
 
 O que quer que tenha caído em Tycho e gerado tão profunda cratera tinha, por certo, uma massa enorme - mas um diâmetro relativamente pequeno. Terá sido um meteorito muito grande e de forma especial - um asteróide? Ou teria sido qualquer outra coisa?
-
-
 Nota: lembro-me perfeitamente que este livro teve partes que me impressionaram bastante. É uma obra que diverge bastante do temas que geralmente Clifford D. Simak aborda. Aqui não há magia, nem Natureza. Apenas o Espaço puro e duro, e a Morte.
-
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Star Ways
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Poul Anderson
 Título original: Star Ways
@@ -27,8 +22,6 @@ Tradução: Alexandra Santos Tavares 
 Súmula -
  foi apresentada no livro nº519 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Os Caminhos das Estrelas é a história de um futuro ainda longínquo, onde, como sempre, as descobertas da humanidade só fazem com que os homens se apercebam de como é enorme o espaço à sua volta e tão pequeno o domínio que verdadeiramente conhecem e controlam. Onde, embora a tecnologia tenha atingido um estado de perfeição nunca antes sonhado, os homens e as mulheres continuam, tal como os seus antepassados, a experimentar os sentimentos básicos do medo, da esperança, do amor e do ódio.
 
 São três as personagens em torno das quais se desenvolve o enredo deste romance apaixonante.
@@ -42,6 +35,4 @@ Em segundo lugar, Trevelyan Micah, do serviço de coordenação terrestre, o nú
 Finalmente Sean, membro do clã dos Peregrine, um jovem muito amargurado pela perda da sua mulher, que não suportara a dureza da vida Nómada. Um jovem que, no encontro anual dos comandantes das naves Nómada, encontrará a estranha e bela Llaloa, que, ou não era bem humana, ou era um pouco mais do que humana. 
 
 Assim começa esta aventura, que os há-de levar a descobrir aquilo que, quer Trevelyan Micah, quer Joachim, já suspeitavam; uma forma de vida desconhecida, inteligente, até então insuspeitada, avança deliberadamente para a galáxia e vai entrar em rota de colisão com a civilização humana. 
-
-
 "

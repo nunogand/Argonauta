@@ -8,17 +8,9 @@ Titulo-original: The Silkie
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: A.E. Van Vogt
 Título original: The Silkie
@@ -38,10 +30,5 @@ nº155 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 A.E. Van Vogt é um dos escritores norte-americanos de mais larga projecção em Portugal através da divulgação da sua obra na Colecção Argonauta da Editorial ""Livros do Brasil"",. Com Os Super-Homens, a mesma colecção vem oferecer ao público leitor português mais uma oportunidade excepcional de tomar conhecimento com um romance que, sobre ser um dos livros fundamentais deste autor notabilíssimo, é um dos clássicos da ficção-científica do nosso tempo.
 
 Género difícil, em que a imaginação e o sentido da verosimilhança se conjugam, só os escritores de grande gabarito como A.E. Van Vogt logram alcançar a mais larga popularidade não só no seu país de origem, como noutras línguas em que se encontram editados 
-
-
-
-
-
 
 "

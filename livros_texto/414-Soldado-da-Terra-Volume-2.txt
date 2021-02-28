@@ -8,17 +8,9 @@ Titulo-original: Soldier, Ask Not
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Gordon R. Dickson
 
 Título original: Soldier, Ask Not
@@ -35,11 +27,6 @@ Súmula - Foi apresentada no livro
 nº413 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
-
-
 Este grande clássico da ficção-científica, integra-se na célebre saga dos Dorsai, tal como já sucedera com Necromante. 
 
 Desta vez, existem catorze mundos em que o Homem deixara de ser Homem.
@@ -49,8 +36,5 @@ Desta vez, existem catorze mundos em que o Homem deixara de ser Homem.
 Decide então, dedicar-se ao seu completo extermínio, pois, embora fosse um Homem da Velha Terra, ainda possuía forças bastantes para cometer tamanha proeza.
 
 Mas no seu caminho atravessou-se outra figura solitária: Jamethon Black, um Homem de Fé.
-
-
-
 
 "

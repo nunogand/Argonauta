@@ -8,14 +8,9 @@ Titulo-original: The Anome
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Jack Vance
 Título original: The Anome
@@ -27,15 +22,9 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº309 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O Homem Sem Rosto, é a versão portuguesa de The Anome, a obra prima de Jack Vance, um dos mais curiosos e profundos autores de ficção-científica norte-americanos, mestre na descrição de sociedades estranhas, com costumes, leis e valores muito diferentes dos que conhecemos. 
 
 Durdane é um mundo em que os homens e as mulheres vivem marcados pelos torc colocados nos seu pescoço e ligados a destinos irrevogáveis pelas proclamações do Homem Sem Rosto. Um lugar onde todo o desafio é punido com a morte, um reino de mil e um mistérios e perigos incalculáveis em que um jovem, Gastel Etzwane, se atreve a desafiar o que é impossível de desafiar, numa luta extraordinária pelo domínio do seu destino inalterável...
@@ -45,8 +34,5 @@ Infringir a lei cantonal era desafiar o Homem Sem Rosto. Deixar o seu cantão er
 Gastel Etzwane fizera esses três desafios.
 
 E desafiar o Homem Sem Rosto significava a morte...  
-
-
-
 
 "

@@ -8,35 +8,16 @@ Titulo-original: Second Stage Lensman
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1953
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: E.E.""Doc"" Smith
 Título original: Second Stage Lensmen
-
-
-
 1ª Edição: 1953
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº287 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
@@ -85,8 +66,5 @@ Introdução:
 A Lei do Espaço (Second Stage Lensman) é o quinto volume da célebre série Lensman, de E.E.""Doc"" Smith - uma das mais famosas, entre os grandes clássicos de ficção-científica.
 A Lei do Espaço constitui uma sequência directa de Heróis Galácticos, publicado na Colecção Argonauta com o nº275. Todos os outros volumes da série foram publicados na mesma colecção e pela ordem elaborada pelo autor: Triplanetária (nº259); O Planeta Secreto (nº265); Patrulha Galáctica (nº270). Nesses volumes se encontra a história da luta da Terra (ou Tellus), e mais tarde de toda a Civilização Galáctica, contra Boskone, o império do mal, cujas origens se escondem no espaço intergaláctico, e que, como a legendária Hidra, parece ter sete cabeças, capazes de renascerem mesmo depois de decepadas.
 E assim, quando o Portador Cinzento, Kimball Kinnison, julgava ter destruido definitivamente o poder de Boskone, na ciclópica batalha de Jarvenon...  
-
-
-
 
 "

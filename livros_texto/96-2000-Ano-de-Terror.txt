@@ -8,20 +8,9 @@ Titulo-original: Crisis 2000
 Tradutor1: Fernanda Pinto Rodrigues
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 Autor: Charles Eric Maine Título original: Crisis 2000
 
 1ª Edição: 1959
@@ -40,10 +29,5 @@ Esta última obra de Charles Eric Maine, é um dos romances mais estranhos e per
 O êxito alcançado por este romance, em Inglaterra e nos demais países em que foi editado, pode considerar-se verdadeiramente invulgar. Rápidamente reeditado, continua a obter o favor irrestrito do público apreciador deste novo género literário, que tem, na sua leitura, algumas horas de emoção avassaladora.
 
 2000: Ano de Terror, já é tido por um clássico da ficção-científica. Charles Eric Maine, o seu autor, já é julgado por um daqueles escritores cujas realizações rasgam novas perspectivas no sector a que dizem respeito. Impunha-se, pois, integrar na Argonauta esta obra-prima, visto que, como a Colecção é constituída mediante uma selecção dos melhores romances deste género, 2000: Ano de Terror vai tornar-se rápidamente num best-seller nacional.
-
-
-
-
-
 
 "

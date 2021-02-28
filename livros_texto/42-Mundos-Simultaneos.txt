@@ -8,18 +8,11 @@ Titulo-original: Ring Around the Sun
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Clifford D. Simak Título original: Ring Around The Sun 1ª Edição: 1952 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº41 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta: Qual a origem das lâminas de barbear eternas, das lâmpadas que nunca se fundiam, dos automóveis que duravam gerações, dos isqueiros que funcionavam sempre? Onde eram fabricados esse objectos que estavam a destruir totamente a Economia do Mundo? Quem manobrava as empresas distribuidoras de carbo-hidratos sintéticos que eram distribuídos gratuitamente e que salvavam da fome uma percentagem cada vez maior de desempregados?
 Esses produtos existiam, mas era impossível encontrar as fábricas que os produziam. Apenas era possível encontrar as lojas de dispositivos que punham à venda por preços incrívelmente baixos todos aqueles objectos de misteriosa origem. E depois foi a vez dos fatos e das casas pré-fabricadas, cujo custo impossibilitava qualquer concorrência.
 No meio de tudo isto, Jay Vichers, popular escritor, é chmado por Crawford, aparentemente o director dos Gabinetes de Estudos Norte-Americanos mas, na realidade, o todo poderoso organizador dum trust mundial de indústria, disposto a lutar de qualquer forma contra a progressiva destruição das indústrias de todo o mundo. Assim, Vichers vê-se convidado a escrever um livro que consiga demonstrar as consequências catastróficas do aparecimento dos novos produtos. Vichers recusa, sem mesmo saber a razão porque o faz, apenas movido por um pressentimento. E, de descoberta em descoberta, chega à espantosa conclusão: uma nova raça está a aparecer no mundo, uma raça de Mutantes, seres humanos, sem dúvida, mas com possibilidades físicas e psíquicas bem diferentes das do homem vulgar. Essa raça consegue transportar-se para qualquer dos mundos que precedem ou se seguem à Terra numa cadeia ininterrupta em roda do Sol. Nesses mundos, exactamente idênticos à Terra, mas onde não existe o homem e a Natureza está virgem de qualquer intervenção humana, instalam eles as suas indústrias, o seu império de máquinas e robots, com o fim de acabar com a civilização terrestre que consideram errada e cruel e formar uma nova civilização que povoará essas novas Terras, baseada no entendimento e na paz. Serão essas Terras povoadas por todos aqueles que, pobres e miseráveis na velha Terra, estão dispostos a abandoná-la para viver uma vida melhor e mais feliz. Este abandono em massa, vai enfraquecendo o poder de produção da indústria terrestre e Crawford só tem uma solução: a guerra. E a luta entre Crawford e os grandes senhores da indústria por um lado, e Vichers e os Mutantes por outro começa, violenta e terrível. 
 ""Mundos Simultâneos"" é um estranho e perturbador livro de Clifford D. Simak, autor de esse outro alucinante livro que é ""Guerra no Tempo"", já publicado na Colecção Argonauta.
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: City on the Moon
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Murray Leinster
 Título original: City on the Moon
@@ -27,8 +22,6 @@ Tradução: Alexandra Santos Tavares 
 Súmula -
  foi apresentada no livro nº517 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Joe Kenmore tinha uma certa intuição para a história. Era por isso que tinha ido parar à Lua. Porque tinha a noção de que a sua época era uma época de grandes desafios, um tempo em que a civilização que conhecia iria tomar algumas decisões essenciais quanto ao futuro. Daí em diante, pensava ele, ou a humanidade ia em frente e iniciava o grande processo de colonização dos outros planetas, ou punha um ponto final no progresso e começava uma fase de declínio.
 O anúncio de qual seria a decisão viria de uma estação espacial, colocada em órbita entre a Terra e a Lua. Aí, em condições de extremo stress, alguns peritos em energia nuclear e radioactividade tentavam levar a cabo um certo número de investigações tão perigosas que não se podiam realizar em nenhum dos dois planetas. A Cidade da Lua só tinha uma finalidade: abastecer a estação espacial de tudo o que ela necessitava. E Joe Kenmore, bem como algumas outras centenas de pessoas, esperava ansiosamente pelas notícias - que aliás podiam assumir a forma de uma enorme explosão, que anunciasse a instantânea destruição do Laboratório.
 Havia porém poderes e forças na Terra que não desejavam que essas investigações chegassem a bom porto, e a sua oposição traduzia-se por vezes em inequívocas acções de sabotagem.
@@ -47,8 +40,5 @@ Era esse o motivo da criação do Laboratório Espacial, tentar descobrir um nov
 ""Se o Laboratório tiver êxito"" - pensou Kenmore - ""a Terra tornar-se-á um jardim e as estrelas poderão ser nossas."" Era o sonho mais maravilhoso que os homens alguma vez tinham tentado realizar. ""Mas, por causa da natureza dos seres humanos, a própria esperança tem inimigos.""
 Há sistemas sociais que só funcionam quando os homens morrem de fome e vivem na ignorância. Havia nações onde esses sistemas ainda prevaleciam. As suas castas dominantes seriam derrubadas, se a prosperidade alcançasse os seus povos, os seus ensinamentos não podiam sobreviver ao esclarecimento; os seus governos seriam destruídos pelo progresso. E, para essas nações, o propósito da Cidade e do Laboratório Espacial era uma ameaça real e presente. Por isso havia espiões e sabotadores que podiam ganhar fabulosas recompensas por qualquer acção que prejudicasse ou pusesse fim ao projecto lunar.
 O jeep continuava o seu caminho, aos saltos, saindo do local onde deveria ter sido destruído. A roda aguentaria - ou não. Seria absurdo que Kenmore e Moreau tentassem enfrentar os autores da explosão naquele terreno tão acidentado. Não conseguiriam encontrar os culpados; além disso, o jeep não estava equipado para o combate. Nenhum jeep estava. Estranhamente, não eram permitidas armas na Lua, fora das bases militares ocultas. ""Por isso, os mais implacáveis conflitos"" - pensou Kenmore - ""pelas mais altas paradas jamais jogadas, terão que ser travados de mãos nuas."" Os jeeps não podiam lutar de outra forma que não fosse abalroarem-se uns aos outros, e os homens não podiam travar batalhas, mas apenas dedicar-se ao assassinato.
-
-
-
 
 "

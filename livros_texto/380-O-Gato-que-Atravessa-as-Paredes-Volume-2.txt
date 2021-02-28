@@ -8,15 +8,9 @@ Titulo-original: The Cat Who Walks Through Walls
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
@@ -37,6 +31,4 @@ nº379 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Em O Gato Que Atravessa as Paredes - 2, de Robert A. Heinlein, prossegue a extraordinária e inusitada intriga de cujos primeiros elementos, publicados neste volume, os leitores portugueses já tomaram conhecimento, penetrando no mundo estranho, inolvidável e aterrador que o grande ficcionista arquitectou com a sabedoria de um verdadeiro mestre de suspense.
 
 Sem recorrer a fantasias humoristicamente ""barrocas"", sem se perder nos meandros de antecipações que tendem a esgotar-se em si próprias, O Gato Que Atravessa as Paredes - 2, recorrendo à experiência estilística da grande literatura - excelente sob o ponto de vista psicológico e do comportamento humano - ombreia, em qualidade, com os títulos mais célebres da Ficção-Científica, a ponto de ser considerado como uma indiscutível obra-prima.  
-
-
 "

@@ -8,20 +8,9 @@ Titulo-original: Rayons Pour Sidar
 Tradutor1: Gomes dos Santos
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 Autor: Stefan Wul
 Título original: Rayons pour Sidar
 1ª Edição: 1957
@@ -32,17 +21,11 @@ Tradução: Eng. Gomes dos Santos
 Súmula - foi apresentada no livro nº71 da Colecção, com a 
 indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
 Colecção Argonauta: 
-
-
-
 Stefan Wul, autor francês que a Colecção Argonauta tem divulgado em Portugal com pleno êxito, dá-nos com este romance uma das suas obras mais aliciantes e significativas. 
 
 Qual era a misteriosa missão que levava um terrestre a enfrentar tantos perigos na estranha terra de Sidar?
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .... 
-
-
-
 
 Rugidos ecoavam pelas rochas, revelando a presença de feras desconhecidas. 
 
@@ -77,15 +60,7 @@ Lorrain levantou os olhos e viu um pedaço de Krofo cair, volteando lentamente p
 - Tu ganhar dois dias - insistiu o guia.
 
 - Eu ganhar eternidade - ironizou Lorrain.
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 
-
-
-
 A aventura de Lorrain em Sidar é uma aposta permanente entre o tudo e o nada. Essa constante suspensão, criada através de uma narrativa conduzida com rara habilidade, faz do presente romance de Stefan Wul uma bela obra de ficção-científica, um romance que o nosso público leitor vai apreciar com verdadeiro entusiasmo. 
-
-
-
 "

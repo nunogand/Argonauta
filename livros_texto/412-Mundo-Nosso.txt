@@ -8,14 +8,9 @@ Titulo-original: Homeworld
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Harry Harrison 
 
@@ -42,6 +37,4 @@ Um dia encontra Sara, uma bela agente de um movimento clandestino que tem por ob
 E lança-se numa teia de intriga e traição que tanto o pode levar á morte como às estrelas.
 
 Mundo-Nosso é uma epopeia - a da liberdade do homem e da sua ânsia de novos horizontes, para além dos céus.
-
-
 "

@@ -8,35 +8,16 @@ Titulo-original: The Magic Labyrinth
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip José Farmer
 Título original: The Magic Labyrinth
-
-
-
 1ª Edição: 1980
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº288 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -45,17 +26,8 @@ nº288 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 O Labirinto Mágico (The Magic Labyrinth) é a quarta e última novela da célebre série do Mundo do Rio (Riverworld), de Philip José Farmer, iniciada com Mundo Sem Morte (nº263 da Colecção Argonauta); Viagem para Além da Morte (nº268) e Desígnio Negro (nº272 e nº 273).
 
 No preâmbulo de O Labirinto Mágico, Philip José Farmer diz:
-
-
-
 Agora termina a série do ""Mundo do Rio"", todas as pontas soltas atadas num nó górdio que resiste a todas as espadas, todos os mistérios humanos revelados, os milhões de quilómetros de ""O Rio"" e os muitos anos de buscas e de ""A Busca"" completados.
-
-
-
 Eis como principia o Labirinto Mágico:
-
-
-
 O homem conhecido de alguns como ""X"" ou o ""Estranho Misterioso"" não se amava nem se temia acima de qualquer pessoa.
 
 Havia três pessoas que ela amava mais do que quaisquer outras.
@@ -87,20 +59,11 @@ O disfarce, bom para enganar qualquer outro Ético isolado, não iludiria aquela
 Além disso, o Operador disporia de uma vantagem psicológica. ""X"", frente a frente com a criatura que ele adorava e odiava, sentir-se-ia inibido e podia não ser capaz de atacar o Operador com a fúria e o vigor exigidos.
 
 Covarde que fosse tal acto, detestável que fosse, teria de atacar o Operador pelas costas. Mas os seus actos detestáveis tinham sido muitos desde que se lançara contra os outros e ele era capaz de fazer aquilo. Ainda que ensinado desde a mais tenra idade a detestar a violência, também lhe tinham ensinado que a violência era justificada quando a sua vida se encontrava em perigo. A ressurreição que para todos os efeitos tornava toda a gente indestrutível no ""Mundo do Rio"" não entrava nisso. Apesar do que os seus mentores tinham dito, os fins justificavam os meios. Além disso, todos quantos ele matara não ficariam realmente mortos para sempre. Pelo menos fora o que ele pensara. Mas não previra aquela situação.
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 Por razões técnicas, O Labirinto Mágico será dividido em três volumes.
 
 Prefácio do autor:
 
 Agora termina a série do ""Mundo do Rio"", todas as pontas soltas atadas num nó górdio que resiste a todas as espadas, todos os mistérios humanos revelados, os milhões de quilómetros de ""O Rio"" e os muitos anos de buscas e de ""A Busca"" completados. 
-
-
-
 
 "

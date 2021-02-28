@@ -8,14 +8,9 @@ Titulo-original: The Caves of Steel
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Isaac Asimov Título original: The Caves of Steel1ª Edição: 1954 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
  Súmula -
  foi apresentada no livro nº36 da Colecção, com a indicação de ""Ler nas 
@@ -61,6 +56,4 @@ Nota: na
 original russo, com um ""s"". Aliás na página interior, o nome do autor já
  aparece como ""Asimov"". Curiosamente, o nome dele em russo é mesmo com 
 um ""z""... (Isaak Judah Ozimov), em russo Айзек Азимов.
-
-
 "

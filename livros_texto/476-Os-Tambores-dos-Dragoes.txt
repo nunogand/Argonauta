@@ -8,14 +8,9 @@ Titulo-original: Dragondrums
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Anne McCaffrey
 
@@ -40,8 +35,5 @@ O rufar surdo dos grandes tambores em resposta a uma mensagem do leste acordou P
 Enquanto tentava dormir mais um pouco na alvorada cinzenta, a sequência do rufar ecoava-lhe no espírito. A mensagem provinha do harpista do Baluarte de Ista, pois captara o sinal identificativo. Mas não tinha a certeza do resto - qualquer coisa referente a um navio. Talvez devesse aprender os batimentos das mensagens rufadas. Em todo o caso, não surgiam com grande frequência, agora que cada vez mais pessoas possuíam pequenos lagartos de fogo para as fazer chegar aos vários pontos de Pern.
 Perguntava-se quando lhe iria parar às mãos um ovo de lagarto de fogo. Menolly prometera oferecer-lhe um, quando a sua rainha, Beldade, acasalasse. Era, sem dúvida, uma ideia atraente, admitia ele, realisticamente consciente de que ela talvez não pudesse distribuir os ovos como desejasse. O Chefe Robinton decerto os quereria destinar da maneira mais vantajosa para o Salão do Harpista. E Piemur não o podia desapontar. Em todo o caso, um dia teria o seu lagarto de fogo. Uma rainha ou, pelo menos, um bronzeado. 
 Uniu as mãos atrás da cabeça, enquanto ponderava a deliciosa perspectiva. Como ajudara Menolly a alimentar os seus nove, familiarizara-se um pouco com os hábitos, mais do que algumas pessoas que tinham lagartos de fogo, as mesmas que há Turnos proclamavam que a posse de semelhantes criatura correspondia ao sonho de todos os rapazes. Isto, pelo menos, até que F'nor, cavaleiro do castanho Canth, impressionara uma pequena rainha numa praia do continente austral. Depois, Menolly, a meio caminho de Pern, salvara os ovos de um lagarto de fogo de se perderem durante as marés invulgarmente grandes daquele Turno. Agora, toda a gente queria um lagarto de fogo, e ele admitiu que deviam ser minúsculos primos dos enormes dragões de Pern.   
-
-
-
 
 "

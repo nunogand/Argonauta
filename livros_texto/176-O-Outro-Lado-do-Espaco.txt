@@ -8,14 +8,9 @@ Titulo-original: Ossian's Ride
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Fred Hoyle
 
@@ -27,8 +22,6 @@ Publicado na Colecção Argonauta em 1972
 
 Capa: Lima de Freitas
 Tradução: Eurico da Fonseca 
-
-
 Súmula - foi
  apresentada no livro nº175 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
@@ -42,12 +35,6 @@ Mas não tardara que a Corporação Industrial do Eire - a C.I.E. - apresentasse
 Mas a C.I.E. adquiriu as boas graças do governo - pagando voluntáriamente dois milhões de libras de ""compensação"". E isso aconteceu no quarto ano de actividade. Antes do golpe que seria a verdadeira base da sua expansão. 
 
 Quem estava por detrás da C.I.E.? Um verdadeiro Estado dentro de um Estado. O mais poderoso Estado do mundo!
-
-
-
 Eis o surpreendente tema de O OUTRO LADO DO ESPAÇO. Um livro admirável de um homem que é, simultâneamente, um dos maiores cientistas e um dos maiores escritores de ficção-científica do nosso tempo: o professor Fred Hoyle.   
-
-
-
 
 "

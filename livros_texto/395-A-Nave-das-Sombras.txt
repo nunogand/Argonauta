@@ -8,14 +8,9 @@ Titulo-original: The Hugo Winners, Volume Three
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Editado por Isaac Asimov
 
@@ -113,9 +108,6 @@ Portanto aqui têm: duas histórias do Leiber com um total de quarenta mil palav
 A propósito, com esta convenção se realizou em Boston, aproveitei para lá ir. Poucos meses antes, tinha-me mudado definitivamente para Nova Iorque, de modo que uma deslocação a Boston não era coisa que me preocupasse sobremaneira, isto se atendermos à maneira como sempre encarei as viagens longas. A vigésima nona foi a convenção mais bem organizada a que me foi dado assistir; se bem me lembro, o Robert Silverberg era o anfitrião.
 Portou-se à altura do seu ar solene e satânico, sempre altaneiro em relação a tudo o que o rodeia. É curiosos como o Robert nunca altera a expressão quando nos inunda com os seus habituais comentários satíricos; o marcado contraste entre a cara que faz e as palavras que diz leva qualquer assistência ao delírio.
 Eu cá fico cheio de inveja, pois a sorte não me bafejou com os seus dotes naturais. A minha expressão franca, aberta e ingénua revela sempre um bom humor inigualável, de modo que as pessoas estão sempre à espera de uma piada, o que me leva a perder o tão apetecido efeito de surpresa. Sei bem que é assim, pois as mais das vezes, quando me levanto para falar, as pessoas começam a rir-se antes mesmo de eu abrir a boca.  
-
-
-
 1971: 29ª Convenção, Boston - (Isaac Asimov a propósito do conto Escultura Lenta, de Theodore Sturgeon)
 
 Conheci o Ted pela primeira vez já lá vai perto de um terço de século, quando era um rapaz novo, agarotado e bonito. Vi-o há bem pouco tempo a bordo de um belo navio, o ""Statendam"", na primeira quinzena de Dezembro de 1972.
@@ -132,8 +124,6 @@ Que saltava, dançava e nunca se cansava.
 O resultado da sua alegria
 Foi um belo filho bastardo
 Que ela prontamente doou à Clarion
-
-
 1972: 30ª Convenção, Los Angeles - (Isaac Asimov a propósito do conto A Rainha do Ar e da Escuridão, de Poul Anderson)
 
 Gostava de lhes falar um pouco do Poul.
@@ -175,8 +165,5 @@ A Rainha do Ar e da Escuridão (Poul Anderson) - pág. 171
 Lua Inconstante (Larry Niven) - pág. 231
 
 Nota: uma série de contos muito fortes, de que gostei imenso.Uma das melhores colectâneas da Colecção Argonauta, na minha opinião.
-
-
-
 
 "

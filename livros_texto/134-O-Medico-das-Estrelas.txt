@@ -8,14 +8,9 @@ Titulo-original: The Mutant Weapon
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Murray Leinster
 
@@ -48,8 +43,5 @@ Cada obra de Murray Leinster é diferente da anterior e é diferente de tudo qua
 Murray Leinster foi também um dos primeiros, se não o primeiro autor de ficção--científica a imaginar o ""ultravoo"" - a overdrive que permitiria circundar as leis de Einstein e ultrapassar a velocidade da luz, encurtanto para umas semanas, dias ou mesmo horas a duração das viagens interstelares. Foi também um dos primeiros autores a sugerir a possibilidade da utilização dos transmissores de matéria. A sua obra A Nave Sideral (Colecção Argonauta, nº4), baseia-se na aplicação dessas duas concepções originais.
 Mas a imaginação de Murray Leinster não conhece limites, ainda que seja sempre dominada por uma lógica magnífica e impressionante. Umas vezes é a biologia que lhe serve de tema - e de uma maneira magistral, como aconteceu em O Planeta Esquecido (nº118). Noutros casos, é a possibilidade das viagens no Tempo, mas dominando os paradoxos filosóficos com uma engenhosidade perturbante e inatacável, como em O Túnel do Tempo (nº118). Noutros, ainda, são os problemas que poderão surgir numa futura economia interstelar e ultratécnica - sem desprezo de uma fina ironia, como em O Planeta da Utopia (nº113).
 Na presente obra - apenas a primeira de várias que Murray Leinster dedicou aos problemas da medicina, da biologia e da fiscalização sanitária, quando um dia, num futuro longínquo, a espécie humana se possa espalhar pelos muitos cantos da Galáxia - o seu cuidado, o seu sentido humano e a profundidade dos conceitos surgem de novo, ainda que quase ocultos pela simplicidade do estilo - simplicidade que afinal revela a sua imensa arte.
-
-
-
 
 "

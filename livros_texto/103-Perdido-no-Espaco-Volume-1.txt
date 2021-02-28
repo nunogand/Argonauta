@@ -8,20 +8,9 @@ Titulo-original: Marooned
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 Autor: Martin Caidin Título original: Marooned
 
 1ª Edição: 1964
@@ -31,14 +20,9 @@ Autor: Martin Caidin Título original: Marooned
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº102 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Perdido no Espaço, o romance de Martin Caidin que, por motivos de ordem técnica, publicaremos em dois volumes sucessivos desta colecção, é das obras mais emocionantes e envolventes que se lançaram nestes últimos anos. 
 
 Sólidamente apoiado num estudo muito concreto e preciso das condições em que se efectuam os voos cósmicos, Perdido no Espaço, conta-nos uma história imaginária que, todavia, pode pode vir a ser real num futuro próximo. Trata-se do caso em que está envolvido um astronauta norte-americano, que, lançado no espaço, se vê súbitamente na impossibilidade de regressar à Terra devido a uma avaria mecânica da nave em que viaja.
@@ -46,9 +30,6 @@ Sólidamente apoiado num estudo muito concreto e preciso das condições em que 
 Neste contexto, a angústia invde todos os corações dos que seguem a aventura extraordinária dessse homem e lhe admiram o admirável bom-humor que ainda consegue manter.
 
 Fantasia impossível? Delírio da imaginação do autor?
-
-
-
 Se até à data não se verificaram ainda acidentes de trabalho na actividade dos cosmonautas, a verdade é que não passará pela cabeça de ninguém que eles não possam vir a verificar-se. Perdido no Espaço não é, pois, um produto da imaginação desgarrada das realdades, embora seja uma obra de fantasia imaginativa, que está a obter um extraordinário triunfo sob a forma de livro e cuja adaptação cinematográfica em curso vai por certo provocar o entusiasmo de todas as plateias.
 
 Prefácio:
@@ -68,16 +49,5 @@ coincidência. 
 A obra foi adaptada para o Cinema em 1966, com um filme realizado por John Sturges:
 
 http://www.imdb.com/title/tt0064639/
-
-
-
-
-
-
-
-
-
-
-
 
 "

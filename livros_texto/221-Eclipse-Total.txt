@@ -8,14 +8,9 @@ Titulo-original: Total Eclipse
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1974
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Brunner
 Título original: Total Eclipse
@@ -45,7 +40,4 @@ Houvera a possibilidade - apenas uma possibilidade remota - de um país construi
 Mas teria sido muito e muito pouco popular fazer isso. Os cidadãos das nações menos favorecidas - faladoras e até vociferantes - de há muito afirmavam que o caminho para uma pirâmide de feitos gloriosos era construído ao acaso, sobre uma base de cascalho humano. O olhar de águia de um satélite de mil milhões de dólares podia fitar o corpo do trabalhador que extraíra o minério para ele, com um salário de fome - e morrera. 
 
 Nota: um dos livros que mais gosto me deu ler na Colecção Argonauta e que reli várias vezes. Uma grande surpresa e uma obra fantástica.
-
-
-
 "

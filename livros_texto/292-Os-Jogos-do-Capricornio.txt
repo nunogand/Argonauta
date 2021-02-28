@@ -8,45 +8,20 @@ Titulo-original: Capricorn Games
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Silverberg
 
 Título original: Capricorn Games
-
-
-
 1ª Edição: 1976
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº291 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
-
-
-
 
 De Robert Silverberg, bastará dizer que é um dos grandes autores da moderna ficção-científica - ou, para falar mais propriamente, do género que se designa por ficção-especulativa e que só os grandes mestres, de Edgar Allan Poe a Ray Bradbury, sabem dominar. Galardoado em 1956 com o único Prémio Hugo até hoje concedido ""ao Novo Autor mais promissor"", agraciado com outro Prémio Hugo em 1969 pela sua curta história Nightwings, galardoado com o Prémio Nebula em 1971 pela novela A Time of Changes, foi também o convidado de honra da World Science Fiction Convention em Heidelberga, em 1970, e da British Science Fiction Convention, em Manchester, em 1976. Recebeu ainda os Prémios Nebula para histórias curtas em 1969 (Passengers) e em 1974 (Born With the Dead), e as suas novelas Thorns e The Book of Skulls foram as segundas mais votadas, também para o Prémio Nebula.
 
@@ -67,8 +42,5 @@ Breckenridge e o Contínuo - pág 57
 Nave-Irmã, Estrela-Irmã - pág 86
 Um Mar de Rostos - pág 113 
 De um Lado para o Outro - pág 147  
-
-
-
 
 "

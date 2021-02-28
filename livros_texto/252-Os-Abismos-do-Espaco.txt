@@ -8,20 +8,10 @@ Titulo-original: Into Deepest Space
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1974
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Fred Hoyle/G.Hoyle
-
-
 Título original: Into Deepest Space
 
 1ª Edição: 1974
@@ -35,30 +25,17 @@ Tradução: Eurico da Fonseca 
 Súmula - Foi apresentada no livro 
 nº251 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Into Deepest Space - que na nossa língua terá o título de Os Abismos do Espaço -, será o próximo volume da Colecção Argonauta. 
 
 Fred Hoyle não é apenas um dos maiores astrofísicos da actualidade, o autor de obras científicas fundamentais como The Nature of the Universe; Frontiers of Astronomy; Men and Galaxies; Galaxies Nuclei and Quasares, e muitas outras. É também - o que pouca gente sabe - um filósofo político, autor de uma obra importante: A Decade of Decision. E é ainda um autor de ficção científica, com livros tão notáveis como A Ameaça de Andrómeda (nº98 da Colecção Argonauta); Nova Ameaça de Andrómeda (nº101), A Nuvem Negra (nº84), e O Outro Lado do Espaço (nº176).
 
 Naturalmente, nas obras de Fred Hoyle, os pormenores científicos têm uma base real - uma base verdadeiramente científica. Nada devem à fantasia, mesmo quando parecem fantásticos, e mesmo quando servem de fundamento à ficção. E, inegávelmente, o auxílio de seu irmão Geoffrey Hoyle, nas últimas obras, melhorou muito a sua qualidade literária. Assim acontece com Into Deepest Space, o seu livro mais recente, em que se fala de guerra no espaço num tom absolutamente novo, com armas que nada têm de comum com as que se encontram nos relatos tradicionais. Suponha-se, por exemplo, o que aconteceria à Terra, se alguém conseguisse fazer rodear de hidrogénio a sua atmosfera... Ou se alguém lançasse no Sol uma bomba de lítio...
-
-
-
 Introdução:
-
-
-
 Em Os Abismos do Espaço, fala-se da luta dos habitantes da Terra contra o Yela, uma estranha entidade capaz de se servir dos segredos da Astrofísica para fazer a guerra e destruir mundos.
 
 Na luta contra o Yela, os terrestres são auxiliados por criaturas vindas das estrelas, que também combatem o Yela. Criaturas que, afinal, são em tudo semelhantes aos homens, e por isso com eles se identificam.
 
 Dir-se-á tratar-se de uma história clássica. Mas o facto de ter sido escrita por Sir Fred Hoyle e por seu irmão Geoffrey Hoyle, tudo altera. Sir Fred Hoyle é um dos mais notáveis astrofísicos e cosmólogos da actualidade. Por muito inverosímeis que os ardis por ele atribuídos ao Yela possam parecer, certo é que neles não há fantasia mas sim ciência - e ciência da mais avançada e da mais séria. O que nos leva a um conceito novo na ficção-científica: a ""guerra cósmica"", baseada na astrofísica - mais terrível do que qualquer outra guerra, ainda que não usando armas espectaculares. Um novo tipo de guerra que, infelizmente, é possível, num futuro que só se pode desejar que seja bem distante.
-
-
 Nota: O texto do editor, labora num lapso relativamente ao parentesco dos autores. Na verdade, Geoffrey Hoyle não é, como se refere, irmão de Fred Hoyle, mas sim seu filho. Relativamente ao livro, penso que é realmente uma grande obra de ficção-científica, de teor bastante técnico, e que me deu imenso gosto ler. 
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Supertoys last all Summer Long and Other Stories of Future Time
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 2001
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Brian Aldiss
 
 Título original: Supertoys Last All Summer Long - and Other Stories of Future Time
@@ -25,9 +20,6 @@ Capa: António Pedro
 Tradução: Alexandra Santos Tavares
 
 Revisão: Dália Moniz
-
-
-
 Súmula -
  foi apresentada no livro nº523 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
@@ -37,8 +29,6 @@ Inteligência Artificial
 facto de não ser capaz de agradar à sua mãe. Um rapazinho que ignora que
  não é humano de verdade e que a sua inteligência é artificial...
 Esta história que tanto fascinou o realizador Stanley Kubrick e que Steven Spielberg adaptou ao cinema, é o tema básico dos três primeiros contos da presente selecção de fábulas futuristas de Brian Aldiss. Aqui encontrará o leitor vários exemplos da capacidade profética de Aldiss, bem como da sua visão do modo como a inteligência e a tecnologia poderão vir no futuro a colaborar. Desde o pessimismo de III, onde a ganância empresarial acaba por tomar o controlo dos recursos naturais, até ao optimismo de O Botão de Pausa, onde os progressos da medicina conduzem a uma sociedade mais razoável, as  interrogações do autor concentram-se numa questão no fundo essencial: será que a humanidade é capaz de evoluir ao mesmo tempo do que a ciência e a tecnologia? 
-
-
 ***
 
 No jardim de Mrs. Swinton, era sempre Verão. As adoráveis amendoeiras estavam sempre em flor. Monica Swinton pegou numa rosa cor de açafrão e mostrou-a a David. 
@@ -103,8 +93,6 @@ Escutou o puro peso do silêncio na casa, com um tipo diferente de silêncio pro
 Prólogo
 
 Tentando Agradar 
-
-
 I.A. (Os Super-brinquedos Duram Todo o Verão) é a história de um rapazinho que, faça ele o que fizer, não consegue agradar à sua mãe. O rapaz sente-se intrigado com isso, não se apercebendo de que é um andróide, uma construção engenhosa de inteligência artificial, tendo como o seu único aliado o seu ursinho de peluche.
 
 Esta foi a história que mais impressionou Stanley Kubrick e que o fez decidir-se a transformá-la num filme. Cedendo a alguma persuasão, acabei por lhe vender os direitos do filme. Durante algum tempo, trabalhei no argumento com ele.
@@ -176,19 +164,10 @@ Através de um acordo amigável com a Warner Brothers, Spielberg adquiriu todas 
 Apesar de me sentir satisfeito por ter sido o único homem a vender histórias a dois excelentes produtores de cinema, Kubrick e Spielberg, soube que Spielberg concordou em filmar o Super-Brinquedos - agora intitulado I.A. - como Kubrick tinha planeado fazer.
 A produção começou em Long Island, em Junho de 2000. O filme será lançado, adequadamente, em 2001.  
 
-
-
-
  
  
 
 Nota: O conto escrito por Brian Aldiss em 1969 e intitulado Super-Brinquedos, foi a obra que no ano 2001 foi adaptada para o Cinema pelo realizador Steven Spielberg, através do filme com o título A.I. - Inteligência Artificial. 
-
-
-
-
-
-
 
 Índice de contos da obra:
 
@@ -214,8 +193,5 @@ Nota: O conto escrito por Brian Aldiss em 1969 e intitulado Super-Brinquedos, fo
 - As Maravilhas da Utopia - pág. 228
 - Tornando-se uma Borboleta Completa - pág. 231
 - Um Marte mais Branco - pág. 261
-
-
-
 
 "

@@ -8,15 +8,9 @@ Titulo-original: The Deep Range
 Tradutor1: Maria Emília F. Moura
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Arthur C. Clarke
 Título original: The Deep Range
@@ -32,29 +26,15 @@ Tradução: Maria Emília Ferros Moura
 Súmula - Foi apresentada no livro 
 nº238 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A Sexta Parte do Mundo é uma das obras mais justamente consagradas obras de antecipação que se devem ao escritor e cientista Arthur C. Clarke.
 
 Clarke é um dos mais assíduos colaboradores da Colecção Argonauta, onde já publicou A Idade do Ouro (nº26), S.O.S. Lua (nº94), Náufragos da Lua (nº95) e Areias de Marte (nº126), obras que foram recebidas entusiásticamente e que granjearam merecida fama ao autor.
 
 Mestre da ficção espacial e mestre da futurologia fantástica, Arthur C. Clarke é também um notável romancista. As suas obras não são apenas recreações destinadas a preencher os ócios de uma humanidade saturada de problemas do presente. Têm também, para lá do campo limitado da especulação, profundas intenções de crítica social e moral, que impõem o nome de Clarke na galeria dos grandes ficcionistas da sua geração.
-
-
-
 Nota do Autor:
-
-
-
 Neste romance, fiz determinados cálculos sobre o tamanho máximo de vários animais marinhos e que podem ser postos em causa por alguns biólogos. Não sou, porém, de opinião que os mesmos levantem muitas críticas por parte dos exploradores das profundezas submarinas, que encontraram várias vezes peixes de tamanho várias vezes superior ao dos espécimes referidos.
 
 Quanto à descrição da Heron Island, como é hoje em dia, setenta e cinco anos antes do início deste romance, aconselho o leitor a reportar-se a The Coast of Coral - (A Costa do Coral), e espero que a Universidade de Queensland tome em conta a minha resumida exposição das oportunidades aí existentes.
-
-
 Nota: que obra fantástica que Arthur C. Clarke nos oferece aqui! A exploração dos abismos oceânicos por parte de um ex-astronauta que se vê impedido psicologicamente de voltar ao espaço, e o seu percurso de vida e ultrapassar de variadas dificuldades e traumas enquanto constrói novos afectos e relações sociais e profissionais.
-
-
-
 
 "

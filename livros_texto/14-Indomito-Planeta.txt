@@ -8,14 +8,9 @@ Titulo-original: The Metal Eater
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Roy Sheldon (um dos mais de vinte pseudónimos do autor E.C. Tubb)
 Título original: The Metal Eater
@@ -31,6 +26,4 @@ Súmula
 Era o último planeta que faltava ao homem conquistar... Chamaram-lhe Vendor. Mas, embora fosse rico em precioso minério de Urillium, nenhum homem pudera jamais lançar mão desta formidável riqueza que ali estava ao seu dispôr... Porque, na verdade, Vendor era inconquistável, não podia ser dominado... Os homens tentaram - uma vez, duas vezes, várias vezes... em vão. As vozes afastavam-nos sempre, ameaçando enlouquecê-los. Uma força qualquer, estranha, intangível, mantinha-os à distãncia, impedindo-os de alcançar aquele prémio tentador e cintilante...
 Até que um brilhante cientista do planeta Deneb IV conseguiu aperfeiçoar um dispositivo de isolamento e interferência que permitia ao seu navio atravessar a barreira. Consumira nessa tarefa vinte anos de vida e toda a sua fortuna, até ao último tostão, mas, finalmente, a viagem para Vendor ia começar... Era uma viagem de jogador... de aventureiro... Ele sabia que ia ao encontro do perigo, e que só duas alternativas o enfrentavam: ou a glória e a riqueza ilimitada... ou a mais dolorosa e horrível das mortes!...
 Mas a jornada para Vendor trouxe-lhe outros percalços que nem ele nem a sua tripulação podiam prever, e, antes de chegar ao termo da aventura, foi involuntáriamente libertada uma força que poderia ter varrido e aniquilado toda a vida humana do Universo - a indestrutível e aterrorizante força interior daquele ""Indómito Planeta"". 
-
-
 "

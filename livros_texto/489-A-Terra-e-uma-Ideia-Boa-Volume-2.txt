@@ -8,14 +8,9 @@ Titulo-original: Earthman, Come Home
 Tradutor1: Alexandra Tavares
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -33,14 +28,9 @@ Súmula - Foi apresentada no livro
 nº488 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
 
-
-
-
 Dividida em dois tomos por razões de ordem técnica, termina agora A Terra é Uma Ideia Boa, o terceiro volume da tetralogia intitulada As Cidades do Céu, famosa obra-prima do consagrado mestre de ficção-científica James Blish.
 
 Foi a partir do conto Okie, publicado em 1950, que o autor desenvolveu o tema das cidades nómadas, que se libertam da Terra quando descobrem a antigravidade e, protegidas por uma redoma, começam a vaguear pelo espaço. 
 
 O leitor desta colecção, já conhece os dois primeiros volumes da série - As Estrelas São dos Homens (nº483) e Vivendo no Céu (nº486) - faltando apenas ser publicado o quarto e último volume, que se intitulará O Triunfo do Tempo.
-
-
 "

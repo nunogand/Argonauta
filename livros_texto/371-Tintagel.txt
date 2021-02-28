@@ -8,14 +8,9 @@ Titulo-original: Tintagel
 Tradutor1: Eduardo Saló
 Tradutor2: 
 Ano-edicao: 1981
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Paul Cook
 
@@ -32,9 +27,6 @@ Tradução: Eduardo Saló
 Súmula - Foi apresentada no livro 
 nº370 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Paul Cook é um autor novo, notado pela originalidade dos seus temas e já conhecido dos leitores da Colecção Argonauta pela sua obra O Prado dos Duendes (nº351 e nº352). 
 
 Tintagel não foge a essa regra.
@@ -52,20 +44,11 @@ Eis o que um homem e duas mulheres - a primeira presidente dos EUA - e uma estre
 E isso não é tudo: para a realizarem, terão de se lançar numa aventura como nenhuma outra existiu - uma aventura que os levará a uma outra Terra, um outro Mundo, bem mais puro, mas - ele sim - real.
 
 Uma obra excepcional, de um grande autor.
-
-
-
 Agradecimentos do Autor:
-
-
-
 Julgo desnecessário referir que todas as peças musicais mencionadas existem de facto, à excepção da Décima Sexta Sinfonia, de Shostakovitch. Crê-se que este compositor, ao morrer em 1975, deixou rascunhos de dois movimentos que se tornariam naquela obra, se ele vivesse o tempo suficiente para a completar. A circunstância de ser em Sol Maior constitui invenção minha.
 
 Quero igualmente salientar que Roy Harris, Samuel Barber e Howard Hanson faleceram nos três anos que Tintagel demorou a ser escrito. Já não restam muitos. 
 
 Num tom menos sombrio, desejo tornar os meus agradecimentos extensivos a Pete Zorn, Jim Hawks e Harlin Cook, meu pai, pela música que partilharam comigo ao longo dos anos. Deve-se-lhes, por conseguinte, grande parte de Tintagel. Por fim, gostaria de agradecer a Scott Card pelo entusiasmo e a Corrine Hales pela sua amizade durante a minha estadia em Salt Lake City. Ambos contribuíram para tornar a minha vida com o tio Fudd um pouco mais suportável.  
-
-
-
 
 "

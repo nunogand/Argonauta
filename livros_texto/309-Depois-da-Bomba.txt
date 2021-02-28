@@ -8,14 +8,9 @@ Titulo-original: Dr. Bloodmoney or How we Got Along After the Bomb
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Philip K. Dick
 Título original: Dr. Bloodmoney or How We Get Along After the Bomb
 
@@ -26,28 +21,13 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº308 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Philip K. Dick vai voltar à Colecção Argonauta. Seguindo-se ao sucesso de O Mistério de Valis (nº 300 e nº 301) e de O Deus da Fúria (nº 305), ter-se-á a versão portuguesa de Dr. Bloodmoney or How We Get Along After the Bomb.
 
 O título na nossa língua diz tudo: Depois da Bomba. Que acontecerá depois do holocausto nuclear? Que acontecerá às pessoas e aos animais da Terra? Será o fim do mundo... ou continuará tudo, mas de uma maneira diferente?
-
-
-
 Nota do Tradutor:
-
-
-
 Depois da Bomba é a versão em língua portuguesa de Dr. Bloodmoney or How We Get Along After the Bomb, uma das obras mais célebres de Philip K. Dick. Importa notar que ela foi escrita em 1965 e que as previsões feitas pelo autor para o mundo que surgiria dezasseis anos depois não correspondem inteiramente ao que aconteceu. Seria fácil eliminar essa anomalia, alterando as datas, mas o talento de Philip K. Dick está acima de tais pormenores. E de resto o que não aconteceu em 191 pode vir a acontecer em 1991, ou em 2001 - ainda que seja melhor que jamais aconteça.   
-
-
-
 
 "

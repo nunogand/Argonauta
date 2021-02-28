@@ -8,14 +8,9 @@ Titulo-original: Graveyard for Lunatics
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1990
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury
 
@@ -32,15 +27,10 @@ Tradução: António Porto
 Súmula - Foi apresentada no livro 
 nº417 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Um obra de Ray Bradbury é sempre um acontecimento e a garantia de qualidade fora do vulgar.
 
 Claro que Cemitério de Lunáticos não foge a esta regra e o leitor penetra na Hollywood da década de 50, olhando, como Janus, tanto para o passado como para o futuro.
 
 Quanto ao herói do romance, é um argumentista e um adorador das estrelas que, em 1954, na Noite das Bruxas, é convidado por uma mensagem anónima a deslocar-se ao cemitério de Green Glades a fim de descobrir ""uma grande revelação"": o cadáver, ou antes, uma reprodução perfeita de J.C. Arbuthor, falecido vinte anos antes...
-
-
-
 
 "

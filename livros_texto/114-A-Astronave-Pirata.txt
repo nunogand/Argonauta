@@ -8,14 +8,9 @@ Titulo-original: Rogue Ship
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: A.E. Van Vogt
 Título original: Rogue Ship
 
@@ -26,8 +21,6 @@ Título original: Rogue Ship
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº113 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -35,8 +28,5 @@ nº113 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
 Mais uma vez, o nome de Van Vogt comparece na Colecção Argonauta com um romance sensacional, A Astronave Pirata. Viajando no espaço, por mais de uma geração, as ocorrências, que perturbam a sua vida interna vêm criar os mais espantosos e inesperados problemas. Por fim, o desfecho encontrado para a situação crítica em que a astronave se encontra, constitui uma solução originalíssima que a fantasia de Van Vogt concebeu.
 
 A Astronave Pirata, que já se encontra traduzida em várias línguas com assinalado sucesso, é mais um título que a Colecção Argonauta se orgulha, com justas razões, de trazer ao contacto dos seus leitores fiéis.  
-
-
-
 
 "

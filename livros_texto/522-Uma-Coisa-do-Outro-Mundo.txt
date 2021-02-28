@@ -8,14 +8,9 @@ Titulo-original: Out of This World
 Tradutor1: Elsa T. S. Vieira
 Tradutor2: 
 Ano-edicao: 1958
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Murray Leinster
 Título original: Out of this World
@@ -61,8 +56,5 @@ Depois foi ter com um amigo que, por acaso, era meteorologista - e obteve más n
 Depois David Murfree enfiou a mulher e a filha no carro, levantou o resto do dinheiro que tinha no banco, e dirigiu-se às Great Smokies.
 Era uma acção estritamente lógica. Leucemia epidémica em Cincinnati, contadores arruinados em Washington; gado morto na Virgínia Ocidental; trutas mortas na Geórgia; a súbita cura do cancro dos pacientes em Frankfort, Kentucky - e uma zona de quinze quilómetros de vegetação morta na Pensilvânia.
 Se Murfree tivesse conseguido que alguém com autoridade o ouvisse, as medidas a tomar teriam sido mais rápidas e muito mais drásticas. Mas ninguém o ouvia, portanto teve que agir por conta própria. 
-
-
-
 
 "

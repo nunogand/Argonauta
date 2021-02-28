@@ -8,15 +8,9 @@ Titulo-original: The Puppet Masters
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: The Puppet Masters
@@ -24,8 +18,6 @@ Título original: The Puppet Masters
 Publicado na Colecção Argonauta em 1976
 Capa: Manuel Dias 
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº225 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -51,43 +43,20 @@ Realizado por Don Siegel (com Kevin McCarthy, Dana Wynter, Larry Gates, King Don
 
 http://www.imdb.com/title/tt0049366/?ref_=sr_3 
 
-
-
-
 Invasion of the Body Snatchers (1978) 
 
 Realizado por Phillip Kaufman (com Donald Sutherland, Jeff Goldblum, Brooke Adams e Leonard Nimoy, entre outros).
 
 http://www.imdb.com/title/tt0077745/?ref_=sr_1 
-
-
-
-
-
 The Faculty (1998)
 
 Realizado por Robert Rodriguez (com Salma Hayek, Piper Laurie, Josh Hartnett, Robert Patrick, Jon Stuart, Elijah Wood, entre outros) .
 
 http://www.imdb.com/title/tt0133751/?ref_=sr_1 
-
-
-
-
-
 The Invasion (2007)
 Realizado por Oliver Hirschbiegel (com Nicole Kidman, Daniel Craig, Jeremy Northam, Jackson Bond, Jeffrey Wright, entre outros).
 
 http://www.imdb.com/title/tt0427392/?ref_=sr_1
-
-
-
-
-
-
-
-
  
 A Colecção Argonauta publica neste número mais uma obra muito interessante, que deu origem a vários filmes. Aliens parasitas tomam conta dos terrestres sem que ninguém se dê conta, passando a manipulá-los como entendem, enquanto estes mantêm a personalidade, a consciência, o aspecto e as memórias. Simplesmente têm que fazer tudo o que os parasitas querem. Muito suspense, muitas aventuras, um livro que se lê muito depressa, ficando-se no final com pena que não haja continuação. Uma história fabulosa e personagens fascinantes, sobretudo a de ""Sam"" e a do ""Velho"". Realmente uma das melhores obras de Robert Heinlein, na minha opinião.
-
-
 "

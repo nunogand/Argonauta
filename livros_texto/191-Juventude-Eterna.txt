@@ -8,14 +8,9 @@ Titulo-original: S. T. A. R. Flight
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: E.C. Tubb
 
@@ -40,8 +35,5 @@ Mas tinham-se passado décadas e a Terra não estava mais perto das estrelas. Ai
 Só a Resistência Armada Terrestre - Organização Secreta - se opunha à tirania Kaltich. E só Martin Preston, agente da R.A.T.O.S. podia roubar os segredos dela. Se ele falhasse, a Terra podia tornar-se num planeta com milhares de milhões de esfomeados - sem outro destinho além das suas tumbas!
 
 Eis o tema de JUVENTUDE ETERNA, a última obra de E.C. Tubb, um dos mais prestigiosos autores de ficção-científica, bem conhecido do nosso público.  
-
-
-
 
 "

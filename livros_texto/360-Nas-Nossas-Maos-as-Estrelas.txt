@@ -8,14 +8,9 @@ Titulo-original: In Our Hands, the Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1970
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Harry Harrison
 
@@ -32,16 +27,10 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº359-A da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 In Our Hands The Stars, é uma das mais célebres obras de Harry Harrison e de toda a FC. Surgiu pela primeira vez sob a forma de uma série, nas páginas da revista Analogue, em 1970: no plano técnico o seu fulcro era a descoberta de um meio de anular a gravidade, o que possibilitava a realização da primeira viagem à Lua... num submarino - uma ideia que podia parecer louca, mas não era. No fim, os submarinos, tal como as naves espaciais, foram concebidos para manter por longo tempo o ambiente essencial à vida humana num meio em que ela de outro modo não poderia subsistir. A diferença fundamental, entre eles e as naves, é o peso. Mas com a gravidade anulada...
 
 Por esse tempo, era grande a controvérsia sobre a máquina de Dean -a Dean Drive, um engenho que parecia iludir a terceira lei de Newton, a de que a toda a acção corresponde uma reacção igual e de sentido oposto. Nas páginas da Analogue especulava-se sobre a possibilidade dessa máquina abrir aos homens o caminho das estrelas e In Our Hands The Stars surgiu no momento próprio. Mas o sistema antigravitacional imaginado por Harry Harrison era outro - um que podia tornar-se numa arma incrivelmente poderosa e que por isso despertava a cobiça dos políticos e dos militares das mais poderosas nações do globo. E das outras.
 
 Ao contrapor a essa cobiça a consciência dos cientistas, Harry Harrison produziu um dos mais dramáticos panfletos contra a guerra, um documento que hoje - infelizmente - se apresenta mais actual do que nunca.  
-
-
-
 
 "

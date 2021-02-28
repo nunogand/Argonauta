@@ -8,14 +8,9 @@ Titulo-original: Damnation Alley
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1969
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Roger Zelazny
 
@@ -27,16 +22,9 @@ Publicado na Colecção Argonauta em 1986
 
 Capa: A. Pedro
 Tradução: Eurico Fonseca
-
-
 Súmula - Foi apresentada no livro 
 nº345 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Eis uma das obras mais extraordinárias desse extraordinário autor, um dos raros galardoados com os dois maiores prémios de ficção-científica, o Hugo e o Nebula. Depois do holocausto nuclear, torna-se uma tarefa quase impossível atravessar as terras que foram dos Estados Unidos. Hell Tanner, um marginal solitário, o único sobrevivente de um bando de motociclistas, é capturado e posto perante um dilema: a morte ou o comando de uma expedição que, através do Beco dos Malditos, tentará ir do Colorado a Boston, com o remédio contra uma epidemia terrível. Mas terá de defrontar perigos pavorosos, tanto de homens-feras como de monstros inteligentes. 
-
-
-
 
 "

@@ -8,15 +8,9 @@ Titulo-original: ?? ????????? ???????
 Tradutor1: Rogério Fernandes
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Leonid Onochko Título original: Sur la Plànete Orange (Na Orenjevoy Planete/На Оранжевой Планете) 1ª Edição: 1959 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: Rogério Fernandes
 
@@ -30,6 +24,4 @@ Mas as surpresas não faltam, porque, além de uma natureza agressiva e inóspit
 Em Vénus, as surpresas não páram de surgir. Nem sequer o amor aí falta, com as suas oscilações e os seus perigos... É, de faacto, uma viagem deslumbrante, esta viagem a que Leonid Onochko, o primeiro romancista russo de ficção-científica a ser apresentado em Portugal, nos faz assistir neste romance envolvente.
 
 Nota: não é inteiramente correcto referir que este é o primeiro livro de um escritor russo publicado pela Colecção Argonauta. Isaac Asimov era russo de nascimento, embora mais tarde tenha pedido a nacionalidade americana. E na altura em que saíu esta ""Operação Vénus"" de Leonid Onochko, já tinham sido publicadas na Argonauta quatro obras de Isaac Asimov, nomeadamente ""As Correntes do Espaço"" (nº 21), ""Futuro do Mundo"" (nº 28), ""As Cavernas do Aço"" (nº 37) e a ""Ameaça dos Robots"" (nº 70).
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: Dagger of the Mind
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Bob Shaw
 
 Título original: Dagger of the Mind
@@ -27,15 +22,9 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº329 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Bob Shaw é um dos maiores autores britânicos de ficção-científica. O seu estilo muito peculiar, simultâneamente preciso e empolgante, atinge uma nova dimensão em Dagger of the Mind, que na versão portuguesa tomou o título de Pesadelo Cósmico. Porque é de um verdadeiro pesadelo que se trata.
 
 John Redpath é um doente, um epiléctico. Visões estranhas, horrorosas, envolvem-no. Que são elas? Um efeito inesperado da sua doença e dos medicamentos experimentais que é pago para tomar? Ou a realidade? Ou algo pior, incrivelmente pior - algo tão incrível que John Redpath não tem coragem de o revelar a quer quer que seja?
@@ -45,31 +34,13 @@ Pesadelo Cósmico não é uma história de horror. É ficção-científica da ma
 Eis como se inicia a maravilhosa aventura:
 
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Foi enquanto enchia a chávena de café para o pequeno-almoço que Redpath deu conta de que qualquer coisa não estava bem.
 
 Parou por um momento e olhou em volta do pequeno apartamento, esforçando-se por ouvir um som suplementar ou um som em falta no murmurado ruído de fundo do edifício. O bloco de apartamentos estava a despertar da mesma maneira hesitante mas inevitável que lhe era familiar há mil outras manhãs, sem nada fora da norma onde quer que fosse. Ele podia sentir o casal de jovens que morava exactamente por cima dele movendo-se numa ambivalência de sexo apressado, roupas de secar e vestir penduradas como fantasmas nos ganchos das portas, restos de migalhas de torradas e marmelada na manteiga, e na cómoda a santíssima trindade junta num monte - cigarros, dinheiro e as chaves do carro. Pôde sentir o velho Mr. Coates na porta ao lado a recuperar a consciência lentamente, ao mesmo tempo aliviado e desapontado por não ter morrido durante as calmas horas da noite. Do outro lado, Harv Middleton, vendedor de letras de plástico para ementas nas montras dos cafés, mas que gostava de dizer às pessoas que trabalhava ""na publicidade"", já saíra para passar o dia numa nuvem de perfumes conflituosos. Tudo era normal no resto do edifício, de modo que o problema devia estar bem próximo, dentro das quatro paredes do apartamento de Redpath.
 
 Cuidou da cozinha, notando a presença e posição de cada objecto, recordando histórias de como as pessoas que foram roubadas muitas vezes passam meses antes de darem pela falta de um objecto familiar. Mais uma vez, não havia causa identificável para o seu mal-estar, o que sugeria que a fonte não era externa - que o mal-estar subtil se desenvolvia atrás dos seus olhos, entre os seus ouvidos, dentro do seu crânio. Tentou pôr-se à prova a si mesmo. Aqueles raios de sol que obliquavam sobro o pavimento de parquet - eram demasiado amarelos, demasiado brilhantes, demasiado alegres? Aquele desenho azul e ouro estampado na chávena... adquirira novos méritos, estava a evocar um prazer estético excessivo?
-
-
-
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
 Nota: para mim, esta é uma obra incontornável na área do conto fantástico. Deve ser dos livros da Colecção Argonauta que li mais vezes. É arrepiante e ao mesmo tempo algo triste. Sinto sempre vontade de voltar a ler este livro. É para mim uma das melhores obras publicadas na Colecção Argonauta.
-
-
-
 De qualquer modo, quero referir algumas imprecisões no texto editorial de apresentação da obra. A última palavra do texto é ""excessivo"", mas na obra tal palavra aparece como ""extensivo"". No entanto dado o contexto referido no texto e sem ter todavia acesso ao texto original, parece-me que ""excessivo"" será provavelmente  a opção correcta. De assinalar também a imprecisão editorial na citação atribuída a Shakespeare, que não corresponde à verdadeira: There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy. - Hamlet (1.5.167-8), Hamlet to Horatio. 
-
-
-
 Uma última opinião divergente da do texto editorial. Na minha opinião este é um dos melhores contos de horror que já li e onde a ficção-científica apesar de estar presente é perfeitamente superficial.
-
-
 "

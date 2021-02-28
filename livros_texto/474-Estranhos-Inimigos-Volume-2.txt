@@ -8,14 +8,9 @@ Titulo-original: The Bug Wars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Asprin
 
@@ -48,8 +43,5 @@ As recomendações para linhas de acção e a discussão das mesmas só terão l
 - Além disso, devo observar que se tivéssemos seguido as vossas recomendações quanto ao tempo e perseguido os Salteadores, sem o estabelecimento de um mapa, ou teríamos ignorado por completo o formigueiro, ou deparado com ele sem estarmos preparados. Sugiro de novo que faça o seu relatório e que guarde as suas valiosas recomendações para depois.  
 - Muito bem, Comandante. A que ponto deseja que o relatório seja detalhado?
 - Somente o sumário. Como observou, o tempo é precioso. Enuncie apenas os pontos de comportamento pertinentes à situação imediata.
-
-
-
 
 "

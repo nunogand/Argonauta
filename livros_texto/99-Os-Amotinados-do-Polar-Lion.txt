@@ -8,14 +8,9 @@ Titulo-original: A Small Armageddon
 Tradutor1: Mário Braga
 Tradutor2: Maria Isabel Morna Braga
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Mordecai Roshwald Título original: A Small Armageddon
 
 1ª Edição: 1962
@@ -29,14 +24,8 @@ Autor: Mordecai Roshwald Título original: A Small Armageddon
 Súmula - foi apresentada no livro 
 nº98 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Mordecai Roshwald, o famoso escritor israelita que conquistou o público leitor português através da edição de Plano Sete (obra integrada na Colecção Argonauta), dá-nos agora um dos seus romances mais vibrantes e aliciadores: Os Amotinados de Polar Lion.
 
 O que poderia suceder à Humanidade se um motim num submarino atómico complicasse o estado de tensão em que vivemos? Este romance de Mordecai Roshwald, coloca à consciência um problema de inegável gravidade e de indesmentível importância, numa obra de valor excepcional.  
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Computerworld
 Tradutor1: Ana Paula Senos de Araújo
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: A.E. Van Vogt
 
 Título original: Computer World
@@ -31,9 +26,6 @@ Tradução: Ana Paula Senos de Araújo
 Súmula - Foi apresentada no livro 
 nº357 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A.E. Van Vogt - um dos gigantes -, um dos mais célebres autores de ficção-científica, bem representado na Colecção Argonauta, estava há longo tempo ausente dela. Não por menosprezo, mas porque Van Vogt produziu pouco ou nada, limitando-se a retocar obras já publicadas ou a reunir  pequenas histórias ou desenvolver novelas já conhecidas.
 
 O mestre renasceu agora, com um tema candente: como seria o mundo se os computadores o dominassem? A recordação de George Orwell e de 1984 surge de imediato, mas importa que se note que mesmo to tempo de Orwell, os computadores eram ainda um projecto conhecido somente de meia dúzia de pioneiros e que em 1984, contrariamente a uma convicção muito espalhada, falava-se da televisão interactiva e não de computadores - mais do que provavelmente, Orwell nem sabia que eles existiam.
@@ -45,9 +37,6 @@ Esse é o tema sensacional (e actualíssimo!) de Quando os Computadores Conquist
 E este é o seu começo: 
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 Um homem pára frente a uma porta de computador. Olho-O na esquina das ruas Segunda e Principal, na povoação de Marddley. São 10 e 03 da manhã, Hora Padrão da Montanha (2090 DC).
 
 A sua presença a um metro e vinte põe Olho-O em ""on"". Identifico imediatamente o seu perfil biomagnético como o de um membro do Corpo de Manutenção de Computadores. Enverga o uniforme de sargento. Chama-se Walter Inchey. 
@@ -71,8 +60,5 @@ O edifício é como os que o corpo construiu em todas a povoações entre 1000 e
 Não tenho maneira de fazer seja o que for. Além disso o sargento não é um programador autorizado. Exponho essas realidades ao sargento Inchey. Ele mantém-se a um metro e vinte do terminal. E assim continuo a ter uma limitada percepção do acontecimento a que objectei: a limitação é a imposta aos Olho-O desta rua, de terem a recepção visual e sónica restrita a um foco rígido.
 
 À frente da caravana há seis raparigas e seis rapazes. Todos eles estão, como se diz, escassamente vestidos.  
-
-
-
 
 "

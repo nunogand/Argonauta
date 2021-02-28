@@ -8,15 +8,9 @@ Titulo-original: Black Easter
 Tradutor1: Raul Gonçalves
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: James Blish
 
@@ -64,7 +58,4 @@ enciclopédico. Não se trata de um ""vade mecum"", mas sim de um ""cursus
 infamam"". 
 
 Nota: este livro já tinha sido publicado anteriormente, no nº 402. Deve ter-se tratado de um lapso dos Livros do Brasil. O nº 402, intitulado O Dia do Juízo Final, é composto por dois grandes capítulos, o que dá o nome ao livro e também este Páscoa Negra. Não se compreende pois a opção de publicarem agora no nº 433, como livro independente, a mesma obra já publicada no nº 402. A súmula é também exactamente o mesmo texto que consta da ""Nota do Autor"", escrita na Alexandria (Virgínia) por James Blish em 1968. Como poderão verificar se revisitarem a súmula da obra nº402, intitulada O Dia do Juízo Final. O tradutor também não é o mesmo. Mais um lapso das edições Livros do Brasil.
-
-
-
 "

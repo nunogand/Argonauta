@@ -8,14 +8,9 @@ Titulo-original: The Insect Invasion
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Cummings
 
@@ -30,9 +25,6 @@ Tradução: Eurico da Fonseca
 Súmula - foi
  apresentada no livro nº195 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Os verdadeiros clássicos, na literatura de ficção-científica, são bem raros. Até Verne e Wells têm hoje o sabor do passado. Mas por vezes - mais raramente ainda - há obras intemporais. A Invasão dos Insectos, de Ray Cummings, é uma delas. 
 
 Que um homem seja atacado por mosquitos, numa casa onde todas as janelas estão cobertas por rede, é bem estranho. Mas que a rede apresente sinais de ter sido cortada por uma ferramenta mais pequena do que um mosquito - isso é que é estranho! 
@@ -40,8 +32,5 @@ Que um homem seja atacado por mosquitos, numa casa onde todas as janelas estão 
 Que um homem veja um formiga tropical, vermelha, a passear pelo chão da sua casa, pode, em certas circunstâncias ser natural. Mas será também natural que essa formiga seja cavalgada por uma pequena figura erecta sobre ela? Um homem! E inclinado para a frente, chicoteando-a, obrigando-a a apressar-se! 
 
 Um homem mais pequeno que uma formiga! Ilusão ou realidade? Simples fantasia desse autor extraordinário que foi Ray Cummings. Talvez isso, mas também talvez algo mais do que isso. A Invasão dos Insectos, é a história de uma ameaça fantástica, mas talvez possível. Uma obra clássica, repete-se, mas, sobretudo, uma obra que faz pensar.   
-
-
-
 
 "

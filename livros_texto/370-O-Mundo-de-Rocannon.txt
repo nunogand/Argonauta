@@ -8,14 +8,9 @@ Titulo-original: Rocannon's World
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ursula LeGuin
 
@@ -32,14 +27,6 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº369 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Uma obra de Ursula K. LeGuin é sempre um hino à liberdade e à dignidade humana. O Mundo de Rocannon não podia ser uma excepção. É a história de um pacífico planeta, povoado por humanóides de pele escura e cabelos dourados, em que o antropólogo Rocannon trabalha calmamente - até que o planeta é invadido por forças com uma tecnologia superior, que os nativos de algum modo podem igualar. O único factor que os invasores não tomaram em conta é a presença de Rocannon. Reunindo os nativos, ele consegue voltar o poder do inimigo contra as suas próprias forças, provando que a tecnologia da guerra nada pode contra a coragem e a força de vontade. 
-
-
 Nota: penso que a Ursula K. Le Guin escreveu a sua obra maior com a saga de Ged, o Feiticeiro. É uma obra incontornável, maravilhosa e que penso ter sido possívelmente muito inspiradora para a J.K. Rowling. Independentemente disto, o Mundo de Rocannon é também bastante agradável. Curioso o facto da personagem principal ser um antropólogo, visto ser a profissão de ambos os pais de Ursula. Sem dúvida, uma homenagem por parte dela aos pais. 
-
-
-
 "

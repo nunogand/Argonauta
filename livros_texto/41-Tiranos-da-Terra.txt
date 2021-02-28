@@ -8,14 +8,9 @@ Titulo-original: Les Voyants
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Christian Russell Título original: Les Voyants 1ª Edição: 1956 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº40 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 
 A superfície da Terra fora devastada. Nem uma cidade sobrevivera, nem uma casa ficara intacta. Crateras infernais assinalavam por toda a parte a explosão de poderosas bombas atómicas. Para continuarem a existir, os homens tinham-se encerrado em enormes cidades subterrâneas, a centenas de metros de profundidade sob a terra. E a guerra continuara entre as duas potências mundiais em que o mundo ficara dividido: os Estados do E. e de Centurnia.
@@ -25,6 +20,4 @@ Na superfície da Terra, apenas existiam os sanatórios para tuberculosos, no cu
 Em Marillia, o professor Arnold continuava as suas pesquisas, os seus estudos sobre o Hiperion, esse gás estranhamente vivo. E a catástrofe deu-se. O Hiperion libertou-se da sua pressão, multiplicou-se, invadiu as casas, as ruas, as avenidas de Marillia. As explosões sucediam-se, a cidade desabava sobre o seu próprio peso, as águas subterrâneas invadiam-na. As suas enormes abóbadas abatiam, esmagavam a multidão em pânico. E o gás, sempre aumentando de volume, deixava atrás de si um rasto de sangue e... de cegueira. Sim, porque todos aqueles que por ele eram atingidos, ficavam cegos.
 No sanatório da montanha, Carlo e os seus companheiros souberam do desastre. Miraculosamente salvos dos efeitos do Hiperion, pois o gás não atingia as altitudes, partiram em helicóptero, na ânsia de auxiliarem aqueles que tinham sido atingidos pela catástrofe. E, ao aterrarem perto das entradas subterrêneas de Marillia, viram alguns sobreviventes que avançavam para eles, tropeçando, de braços estendidos. Cegos, todos cegos. O Hiperion, espalhando-se pelas cidades subterrâneas do globo, cegara toda a população da Terra. Todos os sobreviventes eram cegos. Com vista, apenas existiam os poucos doentes, espalhados pelos sanatórios das altas montanhas. E, num mundo devastado, destruído, habitado por cegos, os poucos que restavam com vista tentaram organizar novamente a vida.
 A reconstrução começou: Nova Marillia deu os primeiros passos e aqueles que viam, os ""Vigilantes"", iniciaram uma tirania sobre um mundo sem vista, uma ditadura de força e de terror. Como poderiam lutar os cegos contra os seus opressores bárbaros e cruéis? Como conseguiriam eles retomar o seu lugar, que por direito lhe pertencia no mundo? A história apaixonante dessa reconquista, dessa luta apoiada por Carlo, o jovem cientista que escapara com vida, é-nos contada duma forma emocionante neste romance, um dos mais notáveis da ficção-científica francesa.
-
-
 "

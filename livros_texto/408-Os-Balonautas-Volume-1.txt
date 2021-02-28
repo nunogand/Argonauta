@@ -8,14 +8,9 @@ Titulo-original: The Ragged Astronauts
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1986
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Bob Shaw
 
@@ -28,15 +23,9 @@ Publicado na Colecção Argonauta em 1991
 Capa: A. Pedro
 
 Tradução: Samuel Soares
-
-
-
 Súmula - Foi apresentada no livro 
 nº407 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Escrito com o arrojo e engenho de um mestre de ficção-científica, Os Balonautas, que são o primeiro volume de uma trilogia, indiciam o que estará destinado a constituir a mais bem conseguida obra de Bob Shaw até ao momento, e também a mais popular.  
 
 O mais longo e ambicioso romance de Bob Shaw até à presente data, a viagem a um sistema planetário fascinantemente diferente, situado em outro universo muito semelhante ao nosso, mas com subtis e significativas divergências.
@@ -50,8 +39,5 @@ Os pterthas, uma espécie aérea semelhante a bolhas cheias de fumo, sempre fora
 Começa a dar a impressão de que a única esperança de salvação reside em abandonar globalmente Terra Baixa, para se dirigirem à habitável, mas aparentemente deserta Terra Alta.
 
 Só que isso implica uma jornada extremamente aventurosa... de um mundo para outro, num balão de ar aquecido!...
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: ????????? ??????
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Arkady e B. Strugatsky
 Título original: Prisioners of Power
 1ª Edição: 1969
@@ -25,25 +20,13 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº307 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Se o primeiro volume da obra dos irmãos Strugatsky revelou algo de novo no domínio da ficção-científica, o segundo leva ainda mais longe essa sensação de novidade. Literalmente até ao fim. Um fim inesperado, como a de uma das melhores novelas policiais, e no entanto muito lógico - de uma lógica que obriga a reler toda a obra, para nela se reconhecerem, uma a uma, as pistas que, com toda a naturalidade, com uma aparente inocência, os autores foram deixando.
 
 Eis as primeiras linhas do segundo volume:
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 O primeiro tipo despedaçou a lagarta e pela primeira vez em vinte anos o monstro abandonou o seu trilho bem marcado. Tombando pedaços de betão, abriu caminho por um pomar e rodou sobre si próprio lentamente. A sua frente larga avançou pelo mato e, com um forte estalo, atirou para o lado as árvores trémulas.
 
 Quando a imensa e lamacenta traseira se levantou a prumo, a couraça pendurada em rebites ferrugentos, Zef atirou uma carga explosiva para o motor com um belo tiro, apontado para evitar o reactor. Rasgou os músculos do tanque, os tendões, o sistema nervoso; a máquina ofegou mecânicamente, bufou fumo quente e branco das suas articulações, e parou para sempre. Mas qualquer coisa vivia ainda dentro do seu maldoso coração blindado; alguns nervos sobreviventes continuam a enviar sinais ao acaso: os seus sistemas de emergência ainda fremiam, ligando-se e desligando-se, murmurando e cuspindo espuma; e ele tremeu vagarosamente, escavando a terra com a lagarta sobrevivente. Ameaçador e insensato, com o ventre de uma vespa esmagada, o tubo de vigas cruzadas do lançador de foguetes ergueu-se e caiu do alto sobre o dragão expirante. Zef observou a agonia durante alguns segundos e depois voltou-se e dirigiu-se para a floresta, arrastando o lança-granadas pela bandoleira. Maxim e Vepr seguiram-no. Quando alcançaram uma clareira calma que Zef por certo notara no caminho, deitaram-se na relva.
@@ -71,14 +54,8 @@ Enrolou um cigarro para o maneta Vepr, deu-lhe lume e acendeu o seu cigarro. Apo
 Nem os pormenores da instrução dados por Zef, nem o próprio Zef interessavam a Maxim. Vepr sim. Mas Vepr, com o seu braço artificial apoiado no invólucro delapidado do detector de minas, mantinha o seu silêncio habitual, indiferente. Nada mudara e Mac estava inquieto.
 
 Uma semana antes, quando os novos prisioneiros tinham formado na frente dos quartéis, Zef dirigira-se a Maxim e escolhera-o para a sua 10º Unidade de Sapadores. Maxim ficara deliciado. Não só reconhecera imediatamente a flamejante barba ruiva e o corpo atarracado e forte como Zef também o reconhecera , naquela sufocante multidão de condenados com uniformes axadrezados, onde ninguém se importava com os outros.
-
-
-
 ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 
 "

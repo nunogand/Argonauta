@@ -8,14 +8,9 @@ Titulo-original: Tomorrow Came
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1963
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Edmund Cooper
 
@@ -67,8 +62,5 @@ O Dia do Juízo - (pág. 145)
 Falha de Sincronismo - (pág. 161)
 
 A Máquina do Fim do Mundo - (pág. 172)
-
-
-
 
 "

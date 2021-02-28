@@ -8,14 +8,9 @@ Titulo-original: We Claim These Stars
 Tradutor1: Samuel Soares
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Poul Anderson
 
@@ -40,8 +35,5 @@ O alvo era um estranho génio de um mundo não marcado nos mapas. Um génio que 
 Para tornar as coisas piores ainda, o telepata em questão estava igualmente interessado em pôr Flandry fora de acção. E a sorte de muitos planetas dependia de qual dos dois triunfasse.
 
 Esse o tema de Essas Estrelas São Nossas, versão portuguesa de We Claim These Stars, uma das mais interessantes obras de um dos mais importantes autores de ficção-científica: Poul Anderson.
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: Well of Shiuan
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1978
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: C J. Cherryh
 
@@ -46,12 +41,7 @@ capaz de chegar à Montanha do Fogo, à terrível Ivrel, e de aí fechar a
 O Poço de Shiuan dá sequência às aventuras de Morgana, a feiticeira de A Porta da Montanha do Fogo, e constitui o segundo volume da trilogia A Saga de Morgana,
  uma obra-prima da ficção-científica e da literatura de fantasia, que a 
 Livros do Brasil se orgulha de apresentar aos leitores portugueses.
-
-
 *** 
-
-
-
 Continuou a trabalhar, fazendo girar a foice e cortando a relva. Em seu redor, apenas se ouvia a canção dos insectos. Depois do meio-dia, levou a sua carga para a margem e descansou, na encosta junto à água; e comeu a sua refeição, observando os remoinhos da corrente que passava pelo monte em frente. Aquele era um local que ela conhecia muito bem. 
 
 Enquanto olhava, apercebeu-se que havia uma sombra nova e curiosa na margem, que havia na verdade uma brecha naquele monte, aberta precisamente sobre aquela excrescência de rocha. Num instante, engoliu um grande pedaço da sua refeição e deixou tudo ali - os jarros, a foice, os feixes de relva - e puxou a corda e a vara do barco. 
@@ -69,8 +59,5 @@ Naquela escuridão, havia um frio da profundidade - não era uma sepultura, mas 
 Mas os seus olhos acostumaram-se à escuridão, e viu que havia luz a entrar vinda de uma abertura mais elevada; o cimo do túmulo também devia ter uma brecha, e a cúpula devia estar fraccionada. Não conseguia ver o interior do túnel, mas sabia que devia certamente ser um túmulo intacto; nenhum ladrão anterior teria entrado num túmulo daqueles do cimo, arriscando-se a partir o pescoço. As buscas de algum observador anterior procuravam apenas o topo de uma sepultura no monte que tivesse caído, criando erosão no nível inferior. E essa oportunidade tinha-lhe dado o privilégio que muitas gerações de habitantes de Barrows tinham sonhado em vão encontrar, uma lenda a ser contada vezes sem conta na segurança quente do domínio de Barrows até a terra acabar.
 
 Apertou os amuletos que trazia ao pescoço, a protecção contra os fantasmas. Com eles, não receava o escuro em tais lugares, pois tinha andado dentro e fora de sepulturas desde a infância. Os perigos que receava eram um tecto fraco ou um túnel de acesso em estado de degradação. Sabia que não devia trepar a encosta pelo exterior, fraca como estava. Tinha ouvido uma centena de vezes contar como o seu tio-avô Lar tinha caído e morrido entre os ossos de uma sepultura, na abertura do monte do rei chamado Ahsrun. Suspirou e começou a contorcer-se através do local onde se encontrava, arrastando o corpo, não se preocupando com os efeitos sobre a pele dos braços, tal era a sua ansiedade. 
-
-
-
 
 "

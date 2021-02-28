@@ -8,14 +8,9 @@ Titulo-original: Between Planets
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
@@ -61,7 +56,4 @@ Entre Planetas é mais um clássico de Robert A. Heinlein, o mais antigo e mais 
 Eis o tema de Entre Planetas, o tema de uma obra que não é apenas mais uma novela de ficção-científica, mas sim um verdadeiro libelo.
 
 Nota: uma das obras de Robert A. Heinlein que gostei mais. Um autêntico ritual de passagem de um jovem da juventude até à idade adulta, num contexto de guerra político-militar tipico do autor, ele próprio militar da Academia Naval dos Estados Unidos, uma experiência que foi determinante na sua produção literária.
-
-
-
 "

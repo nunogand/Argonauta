@@ -8,14 +8,9 @@ Titulo-original: A Far Sunset
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Edmund Cooper
 
@@ -27,16 +22,11 @@ Publicado na Colecção Argonauta em 1968
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº135 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
 Edmund Cooper volta a figurar na Colecção Argonauta com um dos seus romances mais brilhantes: Ave Marciana. A invulgar qualidade do seu estilo e da sua imaginação, fazem desta obra uma das mais sensacionais que entre nós se publicaram. As suas primeiras páginas introduzem-nos, desde logo, no clima de uma narração que, até ao fim, não mais deixará de nos prender:
-
-
-
 A nave interstelar explodiu em glória, como os três sabiam que aconteceria, no trigésimo quinto dia da sua detenção nas masmorras de Baya Nor. Se eles compartilhassem da mesma cela, teriam podido ajudar-se uns aos outros, mas desde o dia da sua captura que haviam sido mantidos separados. Os seus únicos contactos eram a ""noia"" que vivia com cada um deles e os guardas que lhes traziam a comida.
 
 A explosão foi como um tremor de terra. Abalou as próprias fundações de Baya Nor. O deus-rei consultou o seu conselho, o conselho consultou o oráculo; e o oráculo consultou os ossos sagrados, tremeu, entrou em transe e mergiu dele passado um tempo considerável, para anunciar que aquilo era o sinal de Oruri, que Oruri designara Baya Nor para a grandeza e que a chegada dos estranhos era um presságio favorável.
@@ -70,11 +60,6 @@ A rapariga olhou para ele.
 - O meu senhor tem o dom da grandeza - disse ela, simplesmente. - Certamente que o deus-rei olhará para si e será sábio.
 
 ......................................................................................................................................
-
-
 Não deixe de ler este sensacional romance de Edmund Cooper,  Ave Marciana.
-
-
-
 
 "

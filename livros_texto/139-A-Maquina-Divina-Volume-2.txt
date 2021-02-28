@@ -8,17 +8,9 @@ Titulo-original: The God Machine
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Martin Caidin
 
 Título original: The God Machine
@@ -29,13 +21,9 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº138 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Um romance de suspense que, no entanto, as circunstâncias poderão vir a tornar reais, faz desta obra, por esse mesmo motivo, um grito de alarme contra o que acontecer - não já num futuro longínquo - mas amanhã.
 
 Toda a vida de Steve Rand se consagrara ao chamado ""Projecto 79"", - um computador gigante, ou cérebro electrónico que, durante anos, fora um dos segredos mais ciosamente guardados do governo dos Estados Unidos da América. Uma série de misteriosas tentativas de assassínio de que foi objecto, provam ao jovem matemático que o ""Projecto 79"" escapara às malhas apertadas do controlo que o protegiam: o cérebro gigante tinha tomado controlo directo dos cérebros dos homens que, sob as suas ordens, tentavam aniquilar Steve Rand.
@@ -45,20 +33,11 @@ A vida de Steve começa, então, a ser uma luta tremenda contra o tempo, a fim d
 A única aliada de Steve Rand é uma jovem matemática, Kim Michele, que, além de muito bela é agente de segurança governamental, que conhecia profundamente como trabalhava o ""Projecto79"".
 
 Este romance de Martin Caidin, obra altamente emocionante e realista, narra como se desenrola esta aventura em que, além dos destinos de dois seres, se joga todo o destino da Humanidade...
-
-
-
 Introdução:
-
-
-
 Martin Caidin não é um autor vulgar. A sua ficção-científica não se situa num futuro longínquo, inacessível, mas sim no presente ou no futuro imediato.
 
 Ainda que a imaginação esteja sempre presente - maravilhosamente presente - nas suas obras, a fantasia não existe nelas. Dir-se-ia até que foi afastada com firmeza. Porque os temas de Caidin têm sempre por centro as conquistas do nosso tempo e os problemas que elas podem originar. Problemas que não necessitam de ser inventados porque existem. Ainda que aqueles que vivem com eles tenham medo de falar deles. O problema do aperfeiçoamento dos computadores até à criação do pensamento cibernético é um dos  que nem todos gostam de falar. E os especialistas ainda menos. Mas Caidin expôe-o e disseca-o magistralmente em A Máquina Divina.
 
 Razões técnicas obrigaram-nos a dividir esta obra em dois volumes, sendo indispensável a leitura do primeiro para a compreensão não só da acção, mas também do profundo significado da obra.
-
-
-
 
 "

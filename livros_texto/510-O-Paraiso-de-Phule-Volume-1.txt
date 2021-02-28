@@ -8,14 +8,9 @@ Titulo-original: Phule's Paradise
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1992
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Asprin
 Título original: Phule's Paradise
@@ -27,11 +22,6 @@ Tradução: Alexandra Santos Tavares 
 Súmula -
  foi apresentada no livro nº509 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 Robert Lynn Asprin é autor de uma vastíssima obra, muito apreciada internacionalmente por todos os bons conhecedores de ficção-científica. O Paraíso de Phule, originalmente publicado em 1992, faz parte de uma trilogia intitulada A Companhia de Phule, cuja redacção se concluiu em 1999, num volume escrito em colaboração com Peter J. Heck e  intitulado Phule e o seu Dinheiro. Esta companhia de legionários intergaláctica começara por ser motivo de chacota para todos os militares profissionais. Indisciplinada, imprevisível, um pouco anárquica mesmo, era voz corrente que os seus membros (além de escassos) eram destemperadamente orgulhosos, pouco inteligentes e, acima de tudo, militarmente ineptos. Sabia-se que muitos deles eram capazes de causar mais estragos antes das 9 da manhã do que muita boa gente durante todo o santo dia. Mas pouco a pouco, começara-se a perceber que, em muitas circunstâncias, eles podiam bem ser a última esperança da humanidade. E isso acontecera desde que o capitão Willard Phule, um homem cuja carreira militar só começara de facto depois de ele ter sido julgado em conselho de guerra, tomara conta da Companhia Omega. Ora desta vez cabe-lhes desempenhar uma missão fora do comum: montar a segurança do maior e mais divertido casino de Lorelei e impedir que ele seja alvo de uma apropriação criminosa. Nesta situação especialíssima, os militares apostam em Phule, Phule aposta na sorte, e os seus legionários, instalados no casino, apostam... simplesmente.
-
-
-
 
 "

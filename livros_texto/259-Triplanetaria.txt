@@ -8,34 +8,15 @@ Titulo-original: Triplanetary
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1934
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: E.E.""Doc"" Smith
-
-
-
 Título original: Triplanetary
-
-
 1ª Edição: 1934
-
-
 Publicado na Colecção Argonauta em 1979
-
-
 Capa: A. Pedro 
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -51,10 +32,5 @@ Quando, em Setembro de 1963, a Convenção Mundial de Washington concedeu a E.E.
 Introdução:
 
 (A introdução apresentada é a transcrição completa da súmula).  
-
-
-
-
-
 
 "

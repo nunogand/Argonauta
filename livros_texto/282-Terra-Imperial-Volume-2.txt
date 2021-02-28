@@ -8,36 +8,16 @@ Titulo-original: Imperial Earth
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1975
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Arthur C. Clarke
 Título original: Imperial Earth
-
-
-
 1ª Edição: 1975
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº281 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -51,9 +31,6 @@ Mas a calma que caracterizou o primeiro volume era a que precede a tempestade. E
 Terra Imperial é a melhor obra de Clarke. Dizendo isso, tudo estará dito.
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Havia numerosas vivendas, cafés e lojas ao longo da margem do rio, assim como dúzias de pequenas docas contendo barcos de recreio. Ainda que os transportes marítimos estivessem virtualmente extintos havia mais de dois séculos, a água ainda era uma irresistível fascinação para uma grande parte da espécie humana. Naquele mesmo momento, um barco de rodas com cores garridas, carregado de turistas, contornava a costa de Nova Jersia; Duncan perguntou a si próprio se era realmente antigo ou uma reconstituição moderna.
 
 Os Hyats conduziram Duncan pra um semicilindro enorme e translúcido que se situava mais de três metros abaixo da linha de costa. Parecia ser uma construção improvisada, temporária, muito pouco concordante - em escala e aparência - com o cuidadoso bom gosto de tudo quanto o rodeava.
@@ -89,8 +66,5 @@ Temos o camarote de John Jacob Astor, com todos os valores e pertences que o hom
 Estes são dois extremos: entre eles temos todos os tipos de vida - um tesouro precioso para o historiador, o economista, o artista, o engenheiro. Mas para além disso, há uma magia neste navio que tem mantido o seu nome bem vivo através de todos os séculos. A história da primeira e última viagem do Titanic é uma que tem de ser contada de novo em cada geração, não vão os homens esquecer os caminhos do destino e da sorte."" 
 
 Duncan estava tão absorvido que por um momento não reconheceu a mulher que acabara de entrar no Grande Salão e se mantinha junto de uma das portas ornamentais. 
-
-
-
 
 "

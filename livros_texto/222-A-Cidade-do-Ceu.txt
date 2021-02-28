@@ -8,17 +8,9 @@ Titulo-original: City in the Sky
 Tradutor1: Maria Emília Ferros Moura
 Tradutor2: 
 Ano-edicao: 1974
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Curt Siodmak
 Título original: City in the Sky
 1ª Edição: 1974
@@ -29,13 +21,8 @@ Tradução: Maria Emília Ferros Moura
 Súmula - Foi apresentada no livro 
 nº221 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 A CIDADE DO CÉU, de Curt Siodmak, verdadeira maravilha da moderna narrativa de antecipação e de ficção-científica, conta-nos a história deslumbrante e extraordinária da grande prisão espacial para onde são enviados todos os incriminados em certos tipos de crimes, particularmente nos políticos. Construída por consenso de todas as potências do globo, é mantida por intermédio de potentes reactores que, no espaço, fazem flutuar esta nova Ilha do Diabo da Era Atómica. Um dia há, porém, em que um grave problema de funcionamento dos delicados instrumentos que colocaram a CIDADE DO CÉU em órbita, põe em perigo a grande prisão espacial e ameaça a vida de todos os detidos. A chegada de um presidiário parece estar relacionada com as anomalias.
 
 A trama desta obra-prima de Curt Siodmak, um dos mais justamente célebres escritores que a Colecção Argonauta tem divulgado em Portugal, é totalmente inédita na já longa e polémica história da literatura de ficção-científica, e  toda a crítica foi unânime em considerar este livro com um dos mais significativos na carreira de um escritor que, na sua bibliografia, já conta com verdadeiros êxitos mundiais.
-
-
-
 
 "

@@ -8,14 +8,9 @@ Titulo-original: ????????? ??????
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Arkady e B. Strugatsky
 Título original: Prisioners of Power
 1ª Edição: 1969
@@ -24,37 +19,19 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº306 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A ficção soviética é muitas vezes apontada como monótona e sentenciosa, o que explicaria a sua fraca difusão no exterior. Mas essa não é uma regra geral. É a excepção e não a regra. A prova - uma prova - é a obra que constituirá os dois volumes seguintes da Colecção Argonauta.
 
 Prisioneiros do Poder é um livro simplesmente fascinante, escrito não só com uma perfeita precisão, quanto aos seus pormenores científicos, mas acima de tudo com muito saber humano, muita perspicácia. Que a publicação da versão norte-americana tenha sido acompanhada por uma introdução de Theodore Sturgeon - incluída na versão portuguesa - é um indício de excelência.
 
 Resta dizer que Boris Strugatsky é um astrofísico e perito em computadores que trabalha no famoso observatório de Pulkovo, e que o seu irmão Arkady é um especialista em literatura japonesa e tem traduzido obras de japonês para russo. Os Strugatsky começaram a escrever ficção-científica em 1959 e são hoje os mais populares autores soviéticos do género.
-
-
-
 Nota do Tradutor:
-
-
-
 A presente tradução baseia-se na versão publicada em língua inglesa, sob o título Prisioners of Power, da responsabilidade de Helen Saltz Jacobson. Tanto quanto saiba, essa versão conservou perfeitamente não só a forma mas também o espírito da obra dos irmãos Stugatsky - uma das mais notáveis dentro da ficção-científica, em todos os tempos, como o prova o facto da citada versão inglesa ter merecido as honras de uma introdução - que se reproduz - de um dos grandes mestres do género: Theodore Sturgeon.
 
 Na verdade, Prisioneiros do Poder não se limita a ser uma história do futuro, ou uma alegoria em que o futuro serve para pôr em evidência os vícios da sociedade actual. É uma obra poderosa, magistral, que segue as tradições da grande literatura russa, e de que modo algum as desmerece. É a história de um mundo em que a poluição, a incompreensão, o ódio, o cinismso e - sobretudo - a hipocrisia se tornaram dominantes. Um mundo bem pior que aquele que George Orwell previu para 1984. Um mundo que de muito longe no futuro, se afigura - infelizmente - muito semelhante ao nosso. 
-
-
-
 Introdução da versão em língua inglesa:
-
-
-
 Logo no começo destas páginas, quando o jovem Maxim mergulha a mão num rio no planeta estranho do qual ele acaba de perder os meios de sair, e a retira apressadamente porque a água está radioactiva, o leitor consciente de ficção científica dirá, provavelmente: - Ora, ora, amigos... como podia ele saber disso?Ou, se era assim tão devastadoramente, perigosamente radioactiva que ele podia determinar isso sem instrumentos, como poderia ele não o saber antes de mergulhar estupidamente a mão nela? Mas uma pessoa esquece e continua, de uma maneira confortante e satisfatória, porque as aventuras do Maxim são de facto aventurosas, os seus encontros dignos de crédito, inspiradores de angústia, inesperados, e muito além do previsível, pois que os irmãos Strugatsky são mestres no enredo.
 
 Depois, passadas cento e tal páginas, o leitor compreende que Maxim, sendo o que é, por certo podia ter realizado aquele pequeno feito no rio, e fê-lo; mais além o leitor compreende que a sua descoberta foi feita algum tempo atrás. Indirectamente, do desdobrar gradual do carácter de Maxim.
@@ -74,14 +51,8 @@ Primeiro que tudo, há a questão do desenvolvimento das personagens. Aí os Str
 E assim chegamos ao mais delicioso e mais penetrante aspecto dos Strugatsky. Os irmãos declaram obviamente guerra aos burocratas - à sua autoperpetuação, à sua pomposidade, à sua prostração perante o grande deus do Protocolo, a sua dedicação à subida da escadaria oficial, e à sua disposição, nessa subida, de esquecer a decência, a honra, a lealdade pessoal, a honestidade, até a lógica e a consistência quando expediente. Em face de um burocrata, civil ou militar, os Strugatsky resistem à tentação de explicar o mal, de empilhar horror sobre horror, vileza sobre vileza, num esforço de virar do avesso os nossos rostos e os nossos estômagos, porque nesse procedimento de Grand Gulgnol há um quantum de admiração, de reverência. Os irmãos recorrem bastantes vezes ao ridículo. Com hábeis toques de ligeiro exagero, com rápidos indícios de má digestão, más maneiras e más (mas atrofiadas) consciências, conseguem que os burocratas se tornem a si próprios ridículos.
 
 Mas as coisas não acabam aí, porque quando os funcionários que se servem a sim próprios e que procuram para si próprios todos os benefícios se tornam responsáveis pela cruel redução à escravatura de uma população inteira e instigam uma guerra em que as verdadeiras pessoas morrem aos milhares, de maneiras terríveis e angustiantes, o palhaço deitou fogo à tenda do circo, e nada que ele e os da sua espécie sejam ou façam depois pode ter o mínimo de graça. Há uma cena de batalha neste livro que põe isso em evidência de uma maneira inesquecivel: dei comigo enriquecido e grato por isso, e por outra bela novela dos irmãos Strugatsky.
-
-
-
 Theodore Sturgeon
 
 San Diego, Califórnia
-
-
-
 
 "

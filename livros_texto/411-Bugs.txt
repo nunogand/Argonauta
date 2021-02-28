@@ -8,14 +8,9 @@ Titulo-original: Bugs
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1989
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: John Sladek
 
@@ -50,6 +45,4 @@ Por outro lado, figuram também no texto transcrições de documentos redigidos 
 Procurar verter em bom português esses pedaços de má ""literatura"" iria, no entender do tradutor, distorcer eventualmente o sentido do texto e fazer perder trocadilhos e subtilezas, preciosos pela sua intenção crítica.
 
 Assim, optou-se pela redacção em ""portugalês"", contendo erros e imperfeições de estilo aos quais, ao fim e ao cabo, todos estamos habituados na vida real. Se se exagerou, o Leitor e a Crítica o dirão. 
-
-
 "

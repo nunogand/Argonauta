@@ -8,14 +8,9 @@ Titulo-original: The Frozen Year
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James Blish
 
@@ -32,16 +27,10 @@ Tradução: António Porto
 Súmula - Foi apresentada no livro 
 nº425 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 O objectivo que justificara aquela expedição polar era, sem dúvida, digno de apreço mas sujeito a fortes probabilidades de inêxito: descobrir no Pólo Norte, conservados pelas baixas temperaturas, resíduos de meteoritos provenientes da guerra travada pelo Planeta Quatro-e-Meio com Marte ou com Júpiter, ou com os dois, entre os quais se situava. Não era também afastada a hipótese de virem a deparar com formas de vida, embora microscópicas.
 
 O mentor da expedição - um tal Farmsworth, explorador profissional - é que não merecia a mínima confiança, dados os antecedentes pouco abonatórios, aliás compartilhados pela sua provocante mulher, sempre muitissimo sexy, fosse qual fosse o traje que envergasse.
 
 Assim, convidado a participar na expedição, o redactor científico Julian Cole não esperava encontrar nada mais excitante do que, por acaso, um urso polar extraviado. No entanto, este seu cepticismo começou logo a desvanecer-se mal conheceu os seus companheiros: a deslumbrante mulher, e cúmplice, de Farmsworth, o Dr. Wentz, que procurava afogar num alcoolismo suicida um passado misterioso, e Elvers, o albino louco, possuidor de um segredo que abrangia quinze mil anos e metade do Sistema Solar... ou seja, um segredo mais arrepiante do que qualquer tempestade ártica! 
-
-
-
 
 "

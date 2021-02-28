@@ -8,15 +8,9 @@ Titulo-original: The Coming of the Terrans
 Tradutor1: António Porto
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Leigh Brackett
 
@@ -33,9 +27,6 @@ Tradução: António Porto
 Súmula - Foi apresentada no livro 
 nº428 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A Chegada dos Terrenos é a versão portuguesa de The Coming of the Terrans, um dos mais célebres clássicos da ficção-científica pura, uma obra de Leigh Brackett, a autora de The Sword of Rhiannon, que se tornou numa das mais bem pagas argumentistas de Hollywood. 
 
 A Chegada dos Terrenos tem por tema algo que hoje está na ordem do dia: - Que acontecerá quando os homens chegarem a Marte? O planeta que Leigh Brackett descreve é diferente do revelado pelas sondas espaciais. É um mundo moribundo, seco e hostil, velho de anos incontáveis e de mistérios infinitos, onde os Terrenos, ao chegarem, terão encontrado um mundo de mares mortos, civilizações perdidas e tribos secretas que ressentiam a intromissão na sua glória desaparecida. Viram as ruínas de uma brilhante cultura e riram-se das histórias de deuses invencíveis e de uma magia perdida, nas cidades proibidas de Jekkara, Barrakesh e Valkis. Mas não se riram por muito tempo...
@@ -44,12 +35,6 @@ Para alguns de nós, Marte tem sido sempre a última Thule, as Hespérides doura
 Posso confirmar cada uma dessas aventuras. Afinal, eu estive lá presente.
                                                                                                                             Leigh Brackett  
 
-
-
-
 Nota: começam aqui nas contracapas a ver-se as imagens para a leitura óptica. Por mim, sinceramente não gosto de ver. Mas é indubitavelmente um sinal dos tempos.
-
-
-
 
 "

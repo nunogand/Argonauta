@@ -8,14 +8,9 @@ Titulo-original: Helliconia Winter
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -26,15 +21,9 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº549 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 Na lareira, ardia uma fogueira de gás biológico. Perante ela, os dois irmãos conversavam. De vez em quando, o irmão mais magro estendia o braço para passar a mão sobre o mais forte, enquanto este último relatava a sua história. Odirin Nan Odim, conhecido por todos os seus parentes como Odo, era um ano e seis meses mais velho do que Eedap Mun Odim. Era muito parecido com o seu irmão, a não ser na figura crucial, pois a Morte Gorda ainda teria de fazer a sua terrível aparição em Rivenjk.
 
 Os dois irmãos tinham muito para contar um ao outro, e muitos planos para fazerem. Tinha chegado recentemente ao porto um navio com soldados do Oligarca, e a atribuição das leis contra as quais Odim tinha lutado estava a começar a preocupar também Odo. No entanto, os shiveninki estavam menos dispostos a receber ordens do qeu os uskuti. Rivenjk era ainda um local agradável para se viver. 
@@ -56,8 +45,6 @@ Mas Odirin Nam Odim nunca conseguia estar sossegado durante muito tempo. Tal com
 - Talvez não te importes de vir comigo  para ver o que está a suceder - disse Odo.
 
 - Ficaria muito satisfeito. A partir de agora, serei a tua sombra, irmão. 
-
-
 ***
 Meu querido Clive,
 
@@ -72,8 +59,5 @@ Boars Hill
 Oxford
 
 Nota: o vídeo de apresentação sobre os livros do nº501 ao nº550 que em princípio seria colocado aqui, está no tópico da obra nº552. A razão é que é nesse livro que termina o formato de sempre da Colecção Argonauta, que se manteve durante cinco décadas, pelo que fez logicamente mais sentido fazer o vídeo até esse número.  
-
-
-
 
 "

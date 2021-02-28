@@ -8,14 +8,9 @@ Titulo-original: Voyage From Yesteryear
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: James P. Hogan
 
@@ -28,24 +23,15 @@ Publicado na Colecção Argonauta em 1984
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº325 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 
 No segundo e último volume da obra de James P. Hogan, irá surgir a inevitável confrontação entre a civilização chironiana - isenta de todos os vícios da Terra - e os expedicionários da Mayflower II, com toda a sua ambição de poder e o seu culto da força. Mas como poderá um povo que não conhece a guerra, que não dispõe de exército e nem sequer de armas, opor-se aos soldados da Mayflower II e ao poderoso e gigantesco Módulo de Batalha da nave?
 
 Eis uma passagem do segundo volume de ""A Conquista das Estrelas"":
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 Os músculos do rosto de Sterm tornaram-se  tensos: ele tremia visivelmente com o esforço de suprimir a sua cólera. 
 
 - Estava disposto a negociar - disse ele, rangendo os dentes. - Evidentemente que não conseguimos que compreendessem a seriedade das nossas intenções. Muito bem, não me deixaram outra escolha. Talvez uma demonstração sirva para os convencer. - Voltou-se para Strombel. - General, informe do estado do míssil agora dirigido para a base científica de Chiron, no Norte de Selene.
@@ -63,10 +49,5 @@ O rosto de Sterm enegreceu e a sua boca torceu-se numa careta medonha. O seu ver
 Stormbel fez um sinal para alguém do fundo e anunciou:
 
 - Contagem decrescente de trinta segundos iniciada.
-
-
-
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ...  
-
-
 "

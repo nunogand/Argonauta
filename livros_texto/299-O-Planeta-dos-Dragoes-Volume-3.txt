@@ -8,12 +8,9 @@ Titulo-original:
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
 
 Autor: Anne McCaffrey
 Título original: Dragonquest 
@@ -21,21 +18,12 @@ Título original: Dragonquest 
 Publicado na Colecção Argonauta em 1982
 Capa: A. Pedro
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº298 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 A célebre obra de Anne McCaffrey The Dragonriders of Pern, é constituída no original por dois livros: Dragonflight e Dragonquest. Na versão portuguesa, em que recebeu o título de O Planeta dos Dragões, o texto teve que ser dividido em três volumes, por razões técnicas.
 
 Eis o início do Terceiro Volume de O Planeta dos Dragões: 
-
-
-
 Quente, cheia de areia e pegajosa, com suor e sal, o triunfo fez esquecer todas as irritações menores quando Kylara olhou para baixo, para a ninhada que desenterrara.
 
 - Eles podem ter sete - murmurou ela, olhando para o nordeste e para o Ninho. - Tenho uma ninhada inteira. E outra dourada.
@@ -91,14 +79,8 @@ Sem dúvida os Velhos tinham alguma razão: os homens dos Baluartes estavam a to
 Terão que ser rápidos - observou ela - Saem da casca cheios de fome e comem tudo quanto está ao seu alcance. Tornam-se canibais se não os detêm. 
 
 - Quero segurar o meu até que ele saia da casca - disse Meron a Kylara, em voz baixa. Estava a acariciar os três ovos cujas cascas sarapintadas ele supunha serem de bronzes.
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 
 Nota: pergunto-me sinceramente, se James Cameron não terá lido e apreciado bastante a obra de Anne McCaffrey, e se esta não lhe terá nalgumas partes servido de inspiração. A Impressão dos Dragões, fez-me imediatamente lembrar do filme Avatar.
-
-
-
 
 "

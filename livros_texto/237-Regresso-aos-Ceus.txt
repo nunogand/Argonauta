@@ -8,17 +8,9 @@ Titulo-original: Return to the Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1970
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Edmond Hamilton
 Título original: Return to the Stars
 
@@ -33,19 +25,10 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº236 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Edmond Hamilton é um dos mais antigos e mais célebres autores de ficção-científica. Todas as suas obras são clássicos. E ninguém, como ele, cultivou o estilo denominado de space-opera - os relatos maravilhosos e movimentados das grandes lutas enter as estrelas, em que homens valorosos, verdadeiros super-heróis, lutam contra as mais bizarras criaturas.
 
 Regresso aos Céus - (Return to the Stars), é uma das mais modernas obras de Hamilton, mas é também uma das mais clássicas. Nela se contam as aventuras de John Gordon, um homem do século XX, que se vê subitamente lançado num futuro distante - num futuro em que toda a Galáxia estará habitada. Mas nesse futuro, os homens não são os seres dominantes - são apenas uma espécie de criaturas entre milhares, e muitos desses milhares são seus inimigos declarados. Gordon, o homem do passado, tem de se aliar aos homens do futuro, para salvar a espécie humana da aniquilação.
-
-
-
 Introdução:
-
-
-
 Edmond Hamilton, um dos mais antigos e mais célebres autores de ficção-científica, especializado nas chamadas space-operas (ou seja, nas epopeias clássicas em que lutas homéricas são travadas através da Galáxia entre humanos e criaturas não-humanas). Nasceu em 21 de Outubro de 1904, no Ohio. Aos 15 anos, era já um leitor fanático das revistas Argosy e All-Story Weekly, em que a ficção-científica ensaiava os primeiros passos Aos 20 anos trabalhava na Companhia dos Caminhos-de-Ferro da Pensilvânia, mas dois anos mais tarde - em 1926 - publicou o seu primeiro conto no número de Agosto de Weird Tales. Era uma história de fantasia e intitulava-se The Monster-God of Mammurth, mas em Setembro, nessa mesma revista, Hamilton começou a publicar a sua primeira história de ficção-científica: Across Space. Em 1936 passou a trabalhar na Thrilling Wonder Stories, sucessora da histórica Wonder Stories, de Gernsback. Escreveu também na célebre revista britânica Tales of Wonder - onde se estreou Arthur C. Clarke -, e e muitas outras revistas, tornando-se num dos mais prolíficos autores do género.
 
 Em Setembro de 1947, na revista Amazing, Hamilton publicou uma novela a que deu o nome de The Star Kings. Foi aí que, pela primeira vez, surgiu a figura de John Gordon, um anónimo empregado nova-iorquino cujo espírito é trocado com o de um príncipe de um império galáctico do futuro, Zarth Arn. A novela teve um sucesso tremendo, não apenas pelo seu tom épico, mas porque Hamilton, com extrema habilidade literária, soube estabelecer o contraponto constante entre a mentalidade do homem comum, que seria John Gordon, e as honras e as responsabilidades da sua nova personalidade, nesse império distante no tempo e no espaço. The Star Kings foi publicado em 1949 como um volume encadernado - facto muito invulgar nessa época, numa obra de tal género.
@@ -53,8 +36,5 @@ Em Setembro de 1947, na revista Amazing, Hamilton publicou uma novela a que deu 
 Em 1964, a pedido de Jacques Sadoul, Edmond Hamilton decidiu-se a escrever uma continuação de The Star Kings, sob o título Return to the Stars - a obra apresentada nas páginas seguintes. Mais uma vez John Gordon, com a sua mentalidade de empregado de seguros, se vê entre os reis das estrelas, lutando à frente das naves do Império Galáctico contras forças e criaturas desconhecidas e terríveis. E o que, dito em palavras tão simples, poderá parecer algo como uma história de quadradinhos, torna-se afinal numa obra de excepcional grandeza, sem muitos paralelos na história da ficção-científica.
 
 Importa ainda dizer que Hamilton - homem de uma extrema actividade mental - foi também o criador de Captain Future, cujas aventuras, surgindas primeiro na revista do mesmo nome, em 1940, foram a base de uma das séries de maior sucesso na rádio e na televisão, nos Estados Unidos. A mulher de Hamilton, Leigh Brackett, é também uma escritora de renome, com um estilo muito semelhante. Uma das suas obras mais conhecidas é The Sword of Rhiannon, publicada pela primeira vez em Junho de 1949, na revista Thrilling Wonder Stories.  
-
-
-
 
 "

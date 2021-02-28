@@ -8,14 +8,9 @@ Titulo-original: The Courts of Chaos
 Tradutor1: Paulo Moreira
 Tradutor2: 
 Ano-edicao: 1978
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Roger Zelazny
 
 Título original: The Courts of Chaos
@@ -29,8 +24,6 @@ Capa: Rogério Silva
 Tradução: Paulo Moreira
 
 Revisão: Dália Moniz
-
-
 Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula 
 relativas à próxima obra, pelo que os leitores deixaram de ter 
 disponíveis nas obras que adquiriam qualquer informação sobre a 

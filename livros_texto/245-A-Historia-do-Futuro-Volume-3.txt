@@ -8,14 +8,9 @@ Titulo-original: Time Enough for Love
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Time Enough for Love
@@ -42,8 +37,5 @@ Introdução:
 
 O presente volume, é o terceiro da maior e mais traduzida obra de Robert A. Heinlein: Time Enough for Love, que em português recebeu o título de A História do Futuro, pois nela, através da descrição da longa vida de Lazarus Long - o Mais Antigo dos humanos - se assiste à evolução da Humanidade, ao longo de mais de 5000 anos, desde a primeira guerra mundial até ao ano de 4272.
 Nos dois primeiros volumes, Heinlein preocupou-se principalmente com os aspectos filosóficos e morais da vida no futuro, sem deixar - como é seu hábito - de expressar desse modo uma crítica feroz mas subtil relativamente aos conceitos que dominam a vida na actualidade. No terceiro volume, acentua-se a antecipação, através da proposta de um método original de viajar no tempo, que permite a Lazarus Long deslocar-se no passado e no futuro e assim fazer, com a sua infinita experiência dos valores (e dos contravalores) humanos,  uma análise ímpar da História, real e possível. O que torna a História do Futuro na mais adulta das suas obras de ficção-científica.
-
-
-
 
 "

@@ -8,33 +8,15 @@ Titulo-original: The Dark Design
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1977
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Philip José Farmer
 Título original: The Dark Design
-
-
-
 1ª Edição: 1977
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -81,12 +63,4 @@ Até a data do nascimento dele esteve em dúvida. Os seus estúdios e a mulher d
 Um amigo que o vira na viagem fatal dissera que ele conduzia um conversível Ford amarelo. A mulher disse que era branco. Assim eram as testemunhas oculares. Os departamentos de publicidade dos estúdios diziam que ele nascera e fora criado no Texas. Descobri por mim próprio que era uma mentira. Nascera perto de Mix Run, Pensilvânia, e saíra de lá aos dezoito anos para ir para o Exército.
 Quando eu ia para escrever uma carta ao Departamento de Guerra para obter uma cópia do seu registo militar - e saber o que ele fizera no Exército - surgiu uma novela por Darryl Ponicsan. Senti-me de novo desanimado. Mais uma vez actuara demasiado tarde. Ainda que o livro fosse uma semi-ficção, o autor fizera o trabalho de investigação que eu pensara fazer. 
 Portanto o meu herói não era o neto de um chefe Cherokee. Nem nascera em El Paso, Texas. E, ainda que estivesse no Exército, não fora gravemente ferido em San Juan Hill, ou nas Filipinas.
-
-
-
-
-
-
-
-
 "

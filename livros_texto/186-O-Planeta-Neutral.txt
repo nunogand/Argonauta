@@ -8,14 +8,9 @@ Titulo-original: Mayday Orbit
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1961
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Poul Anderson
 
@@ -25,8 +20,6 @@ Publicado na Colecção Argonauta em 1972
 
 Capa: Lima de Freitas
 Tradução: Eurico da Fonseca
-
-
 Súmula - foi
  apresentada no livro nº185 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
@@ -49,8 +42,5 @@ Flandry voltou a olhar para as estrelas: eram mais do que ele podia contar, masi
 - Ezpero que não. É um lugar aborrezido para um não-humano. Criaram uma caza de divertimentoz para nóz, maz az perturbazões que vão por lá, a daza daz pelez e o tráfico daz caravanaz têm zido muito prejudicadoz. Da última vez tive que ezperar um mêz para conzeguir uma carga completa. Dezta vez, pode zer pior.  
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 
 "

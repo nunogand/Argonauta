@@ -8,14 +8,9 @@ Titulo-original: After Doomsday
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1962
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Poul Anderson
 
@@ -27,14 +22,9 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº145 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 
 Carl Donnan, engenheiro espacial, era um homem de acção que fazia muito bem o seu trabalho, e pouco mais o preocupava além disso - até que, ao voltar de uma longa viagem através da Galáxia, a sua nave encontrou a Terra destruída, transformada numa bola de cinza e lavas, oceanos em ebulição e ventos horríveis.
 
@@ -45,6 +35,4 @@ Daí em diante, duas ambições o dominaram:
 - Procurar outra nave interstelar com mulheres a bordo.
 
 Foi então que a Galáxia soube quanto podia ser terrível e obstinada uma simples meia dúzia de homens. Até à grande Batalha de Brandobar, que mudou os destinos do universo e que os poetas cantaram durante milénios.
-
-
 "

@@ -8,14 +8,9 @@ Titulo-original: The Crystal World
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: J.G. Ballard
 Título original: The Crystal World
 
@@ -26,18 +21,11 @@ Título original: The Crystal World
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº114 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 J.G. Ballard, que apresentámos na Colecção Argonauta através da edição de Cataclismo Solar, volta a aparecer, na mesma colecção, com um dos seus melhores romances: O Mundo de Cristal. Se o renome de que disfruta no campo da ficção-científica já era grande - recordem-se as elogiosas palavras que sobre J.G. Ballard escreveu Kingsley Amis -, com este novo romance os aplausos redobraram. Dificilmente se encontra uma obra mais original, tanto no respeitante ao enredo quanto à técnica de narração. J.G. Ballard atinge, por isso mesmo, o ponto mais elevado da sua carreira e, daqui para o futuro, é preciso reservar-lhe um lugar bem destacado neste novo sector da Literatura.
 
 O Mundo de Cristal, confirmará perante o público leitor português o alto mérito deste escritor que, surgindo recentemente, teve na Colecção Argonauta um acolhimento de excepção. Os numerosos leitores de Cataclismo Solar verão, pela leitura de O Mundo de Cristal, que não foi ilusória a confiança e admiração que depositaram em J.G. Ballard.  
-
-
-
 
 "

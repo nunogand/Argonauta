@@ -8,14 +8,9 @@ Titulo-original: Tomorrow Sometimes Comes
 Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1951
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: F. G. Rayer
  
 Título original: Tomorrow Sometimes Comes
@@ -42,6 +37,4 @@ O espírito aclarou-se mais, e a nebulosidade que lhe envolvia o pensamento rasg
 No limiar de uma porta completamente desfeita e incompleta, observou, de olhos dilatados pelo espanto e pela dor, a imensa e silenciosa desolação do que fora antes a sua base militar. Não restava pedra sobre pedra... Ao longe, no campo de aviação, dos hangares havia apenas os alicerces, e os destroços irreconhecíveis dum avião assinalavam o ponto de partida da poderosa frota que desencadeara este pesadelo...
 O major Rawson ensaiava, então, sem saber, os primeiros passos numa vida extraordinária e inacreditável. Essa nova existência cnduzi-lo-ia junto de seres que nunca imaginara, à presença de máquinas pensantes de inconcebível poder de raciocínio, ao contacto com uma civilização degenerada e estranha, evoluída da que ele conhecera, rebotalho retrogredido da espécie humana. Assistiria às fantásticas faculdades telepáticas que as radiações nucleares tinham dado aos pobres seres que as sofreram. Veria como o seu próprio nome era ferozmente amaldiçoado pela Humanidade. E encontraria, a dirigir uma cidade, o maior e mais espantoso cérebro electrónico que se poderia imaginar. E verificaria, sobretudo, que o fluxo da vida, através das idades, naõ é irreversível, que nem sempre tem um único e determinado futuro, o que ele traçaria como que uma argola fechada na interminável estrada do tempo..."" 
 Eis a ""Inconstância do Amanhã"".
-
-
 "

@@ -8,17 +8,9 @@ Titulo-original: A Wreath of Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1976
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Bob Shaw
@@ -76,10 +68,5 @@ Ambrose mostrou-se embaraçado:
 ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
-
-
 
 "

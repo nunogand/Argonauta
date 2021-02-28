@@ -8,14 +8,9 @@ Titulo-original: Destiny Doll
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -28,29 +23,13 @@ Publicado na Colecção Argonauta em 1997
 Capa: A. Pedro
 
 Tradução: Clarisse Tavares
-
-
-
 Súmula - Foi apresentada no livro 
 nº477 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
 Logo a partir das primeiras linhas - Era um local branco e havia algo distante, puritano e indiferente na sua brancura, como se a cidade estivesse tão altivamente mergulhada nos seus pensamentos, que a escumalha rastejante da vida não pudesse alcançá-la - Clifford D. Simak dá o tom do seu romance Destiny Doll - (A Boneca do Destino), que será apresentado em dois volumes. 
 
 Na verdade, a sua preferência pelas viagens no espaço e no tempo, com os consequentes imprevistos, fez dele um dos maiores, mais antigos e mais populares mestres da ficção-científica, autêntico ídolo de gerações sucessivas graças à invulgaridade dos seus temas e do seu excelente estilo literário.
 
 A comprovar, mais uma vez, todos estes valiosos atributos está... A Boneca do Destino.
-
-
-
 Nota - neste livro, aparece a nota informativa que se reproduz abaixo, indicativa de que, embora a numeração preceda a deste livro, o nº477 - a colectânea de contos de Edmund Cooper intitulada A Vinda do Futuro, só foi publicada após a obra nº479, a segunda parte do romance A Boneca do Destino, de Clifford D. Simak.
-
-
-
-
-
-
-
-
 "

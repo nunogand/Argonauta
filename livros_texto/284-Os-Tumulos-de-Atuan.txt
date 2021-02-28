@@ -8,48 +8,23 @@ Titulo-original: The Tombs of Atuan
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Ursula Le Guin
 Título original: The Tombs of Atuan
-
-
-
 1ª Edição: 1971
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº283 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Publicado pela primeira vez em 1971, The Tombs of Atuan (versão portuguesa, Os Túmulos de Atuan) é o 2º volume de The Earthsea Trilogy (A Trilogia de Terramar), de Ursula K. Le Guin, cuja primeira parte - O Feiticeiro de Terramar - foi publicada na Colecção Argonauta com o número 276. 
 
 Do inestimável sabor da Trilogia, tudo foi dito então. Da autora, poderá acrescentar-se que Ursula Kroeber Le Guin - que usa indistintamente os pseudónimos de Ursula Le Guin e de Ursula K. Le Guin (o segundo com maior frequência nos últimos tempos) - nasceu em Berkeley, Califórnia, filha do antropólogo Alfred L. Kroeber e da escritora Theodora Krebler, autora de Ishi in Twow Worlds e outros livros. Frequentou o Colégio Radcliffe e a Universidade de Colômbia, e esteve durante um ano, como bolseira Fullbright em paris, onde casou com um jovem historiador, Charles Le Guin.
 
 Tal como em O Feiticeiro de Terramar, o estilo inconfundível de Ursula K. Le Guin está presente em Os Túmulos de Atuan - o que se compreende pelo facto de a autora ser tão célebre nos domínos da fantasia e da ficção-científica  como no da poesia. Registe-se, por exemplo, o seguinte trecho, que é apenas um de entre muitos do mesmo tipo:
-
-
-
 Na última esquina do corredor ela deteve-se; depois, muito lentamente, deu o último passo, olhou e viu:
 
 - Viu o que nunca tinha visto, nem esperaria ver mesmo em cem vidas; a grande caverna abobadada por baixo das Pedras Tumulares, não escavada pela mão do homem, mas pelos poderes da Terra. Estava coberta de cristais e ornamentada com pingentes e filigranas de calcário branco que as águas sob a terra tinham trabalhado durante séculos e séculos; imensa, com um tecto e paredes resplandescentes, brilhantes, delicadas, intrincadas, um palácio de diamantes, uma casa de ametista e cristal, da qual as velhas trevas tinham sido expulsas pela glória. 
@@ -57,13 +32,5 @@ Na última esquina do corredor ela deteve-se; depois, muito lentamente, deu o ú
 Introdução:
 
 Esta é a segunda parte da Trilogia de Terramar, a célebre obra de Ursula Kroeber Le Guin. A primeira parte foi publicada em volume da Colecção Argonauta, o nº276, sob o título O Feiticeiro de Terramar. 
-
-
-
 Nota: o segundo volume de uma das melhores sagas que já li ligadas à feitiçaria. Prosseguem as aventuras de Ged, o jovem mago.
-
-
-
-
-
 "

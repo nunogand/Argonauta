@@ -8,21 +8,11 @@ Titulo-original: Death is a Dream
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1967
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: E.C. Tubb
-
-
-
-
-
 Título original: Death is a Dream
 
 1ª Edição: 1967
@@ -31,8 +21,6 @@ Publicado na Colecção Argonauta em 1969
 
  Capa: Lima de Freitas
  Tradução: Eurico da Fonseca 
-
-
 Súmula - foi apresentada no livro 
 nº149 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
@@ -42,9 +30,6 @@ E. C. Tubb regressa com este romance à nossa Colecção Argonauta, justificando
 Sonho Mortal é um dos romances mais extraordinários deste invulgar escritor britânico. Não se poderia, talvez, escolher melhor, para um reaparecimento. Os nossos leitores vão tornar a contactar com este romancista de excepção. 
 
 Introdução:
-
-
-
 Para muitos leitores ingleses e para alguns americanos, como Bradbury e Simak, as iniciais S.F. não designam já a tradicional Science Fiction, mas sim algo de novo e muito mais profundo: a Speculative Fiction.
 
 A ficção especulativa não é um subgénero literário: é um movimento tendente a dilatar os horizontes da literatura clássica, levando-a a uma maior liberdade no espaço, no tempo e na forma. A presente obra - de um dos mais consagrados autores britânicos - é um exemplo dessa tendência.
@@ -56,13 +41,5 @@ Sonho Mortal é mais do que uma obra para ler. É uma obra para meditar.
 Muito profundamente.
 
 Colecção Argonauta, do nº 101 ao nº 150
-
-
-
-
-
-
-
-
 
 "

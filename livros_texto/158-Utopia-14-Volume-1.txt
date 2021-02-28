@@ -8,17 +8,9 @@ Titulo-original: Player Piano
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Kurt Vonnegut, Jr.
 Título original: Player's Piano
 
@@ -43,9 +35,6 @@ Utopia 14 é um romance que tem sido um best-seller nos numerosos países em qu
 Kurt Vonnegut Jr. credita-se, realmente, como um dos maiores escritores do nosso tempo, ao apresentar-nos Utopia 14, honrando, ao mesmo tempo, a Colecção Argonauta com um romance cujas características, incorporando o que existe de melhor e de mais empolgante neste género literário, inclui, também, muito do que se impôs à admiração dos leitores da Ficção de outros tempos. 
 
 Introdução:
-
-
-
 Até hoje, sómente um escritor de ficção-científica foi indigitado para o maior galardão literário norte-americano: o Prémio Pulitzer. Um escritor cuja obra tem merecido páginas e págnas de análise, nos mais circunspectos suplementos literários, nas revistas de maior nível.
 
 E isso porque Kurt Vonnegut Jr., é mais do que um poeta do amanhã, como Ray Bradbury; um técnico das coisas futuras, como Arthur C. Clarke; ou um profeta, como Robert A. Heinlein. A sua visão do mundo que nos espera é ainda mais digna de meditação que a que nos deixou Huxley, no inesquecível Admirável Mundo Novo, ou Orwell, em 1984. Porque Vonnegut não especula. A ciência dos seus livros não pertence aos sonhos. É aquela com a qual já estamos a viver. É a porta do pesadelo.
@@ -53,8 +42,5 @@ E isso porque Kurt Vonnegut Jr., é mais do que um poeta do amanhã, como Ray Br
 A sua visão da sociedade de consumo levada até ao último extremo - o seu panorama na Terceira Revolução Industrial - em vida dos nossos filhos ou mesmo dos mais novos de nós, é o mundo de todos dos dias, explodido no nosso rosto. Dir-se-á que Utopia 14 é uma obra plena de simbolismos - a começar pelo local de acção, a mítica Ilium, a cidade-fábrica que tomou o seu nome da velha Tróia. Dir-se-á que a sua acção - na primeira parte - é lenta. Mas não será a marcha da Humanidade também aparentemente lenta, no dia-a-dia, até ao dia em que as humilhações, os desapontamentos, o desepero, se extravasam de tanto ferver?
 
 Nunca uma obra - em qualquer género literário - deu ao homem uma imagem tão profunda e tão consciente da vacuidade do momento em que vive - dos momentos que viverá, se persistir no caminho actual. Obra amarga e dura, como amargo e duro poderá ser o futuro de todos nós. Quando o homem, depois de escravizado pela Economia, passar a ser desprezado por ela, por ineficiente. Quanto o homem perguntar a si mesmo a razão da sua existência e o interesse da sua sobrevivência. Não daqui a mil anos, mas talvez daqui a de ou vinte.  
-
-
-
 
 "

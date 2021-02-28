@@ -8,14 +8,9 @@ Titulo-original: Glory Road
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1963
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Glory Road 
@@ -29,14 +24,8 @@ Tradução: Eurico da Fonseca 
 Súmula - foi
  apresentada no livro nº182 da Colecção, com a indicação de ""Ler nas 
 páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 As aventuras de Scar Gordon - o senhor herói da Imperatriz Vinte Universos - poderão parecer ter mais de ficção e de fantasia que de ciência. Mas importa não esquecer que Robert A. Heinlein é um dos maiores, se não o maior autor de ficção-científica da actualidade, e que, mesmo quando se decide pela ironia e pela crítica subtil dos costumes do nosso mundo, enveredando pelo caminho do maravilhoso de que Burroughs e Tolkien foram mestres, se torna ainda mais alto mestre - e acaba por provar que da ciência, afinal, os homens não sabem tanto quanto julgam...
 
 A segunda parte da Estrada da Glória - tão lógica quanto a primeira pareceu fantástica.  
-
-
-
 
 "

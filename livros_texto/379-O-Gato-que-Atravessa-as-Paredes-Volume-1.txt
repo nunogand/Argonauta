@@ -8,15 +8,9 @@ Titulo-original: The Cat Who Walks Through Walls
 Tradutor1: Clarisse Tavares
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 
@@ -35,13 +29,7 @@ nº378 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmul
  do próximo volume da Colecção Argonauta"":
 
 Robert Heinlein, um dos mais celebrizados autores de obras de Ficção-Científica, bem conhecido dos leitores da Colecção Argonauta, e mundialmente apreciado, deu-nos, com o romance O Gato Que Atravessa as Paredes, em dois volumes, uma obra-prima dos domínios da imaginação e da organização da intriga. Espectacular, ousadíssimo e impregnado de verdadeiro suspense, O Gato Que Atravessa as Paredes é já um clássico da Ficção-Científica e um título que se torna imprescindível na Colecção Argonauta. Eis as páginas iniciais do primeiro volume de O Gato Que Atravessa as Paredes, o próximo lançamento da Colecção Argonauta:
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 Precisamos de si para matar um homem.
 
 O estranho olhou-me nervosamente. Eu achava que um restaurante cheio não era o lugar indicado para semelhante conversa, uma vez que o ruído permitia apenas uma privacidade limitada.
@@ -103,7 +91,4 @@ Levantei-me imediatamente e pus-me do seu lado direito. Quase tão depressa como
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 
 Nota: o retorno à saga de Lazarus Long, em mais uma grande obra de Robert A. Heinlein. Recomendadíssimo. Nota-se no entanto o pouco cuidado no entanto da nota editorial acerca da obra, ao não referirem que se trata da continuação da saga de Lazarus. Igualmente há erros no texto e nos nomes, que eu emendei. Como já referi, penso que os textos das sinopses na maior parte das vezes, infelizmente, preocupam-se mais em escrever apressadamente elogios sonantes para potenciar as vendas, muitas vezes sem ter porventura lido sequer as obras, do que em escrever algo realmente sobre elas, com conteúdo interessante - como por exemplo neste caso referir que esta obra faz parte da saga iniciada em Os Filhos de Matusalém (nº137) e prosseguida em A História do Futuro (nº243; 244; 245 da Colecção Argonauta).
-
-
-
 "

@@ -8,15 +8,9 @@ Titulo-original: Heechee Rendezvous
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1984
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Frederik Pohl
 
@@ -29,25 +23,13 @@ Publicado na Colecção Argonauta em 1989
 Capa: A. Pedro
 
 Tradução: Raul de Sousa Machado
-
-
-
 Súmula - Foi apresentada no livro 
 nº377 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Encontro com os Heechee, de Frederik Pohl, é o novo êxito da Ficção-Científica a publicar na Colecção Argonauta. Pohl é mundialmente considerado como um dos grandes autores da ficção de antecipação e não necessita de apresentações preliminares, tão conhecido é dos leitores portugueses.
 
 Eis como Frederik Pohl concebeu o prólogo de Encontro com os Heechee, que reproduzimos parcialmente:
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...   
-
-
-
 Não sou nenhum Hamlet. Sou um escudeiro, ou melhor, sê-lo-ia se fosse humano. Não o sou. Sou um programa de computador. É um estatuto honroso que em nada me envergonha, em especial porque (como irá ver) sou um programa assaz sofisticado, preparado não só para engendrar uma progressão ou iniciar uma ou duas cenas, como também capaz de citar obscuros poetas do século vinte - sobre os quais falarei mais tarde. 
 
 Falo-lhe agora para iniciar uma cena. Chamo-me Albert, e a minha especialidade são as apresentações, pelo que começarei por me apresentar a mim próprio.
@@ -78,8 +60,5 @@ Como é natural, os Heechee não limitaram as suas explorações ao planeta Terr
  ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... 
-
-
-
 
 "

@@ -8,36 +8,17 @@ Titulo-original:
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Anne McCaffrey
 Título original: Dragonflight and Dragonquest 
 1ª Edição: 1968
-
-
-
 Publicado na Colecção Argonauta em 1982
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº297 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -55,6 +36,4 @@ O Planeta dos Dragões, no original dividido em duas partes - Dragonflight e Dra
 Introdução:
 
 A introdução repete o texto apresentado na súmula da edição. 
-
-
 "

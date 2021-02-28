@@ -8,35 +8,16 @@ Titulo-original: The Haunted Stars
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Edmond Hamilton
-
-
-
 Título original: The Haunted Stars
-
-
 1ª Edição: 1960
-
-
 Publicado na Colecção Argonauta em 1978
-
-
 Capa: A. Pedro 
-
-
 Tradução: Eurico da Fonseca
-
-
 Súmula - Foi apresentada no livro 
 nº255 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
@@ -122,10 +103,5 @@ Kwolek abanou a cabeça.
 - Mas use o seu bom senso, homem! - disse Fairlie. - Eles não querem um perito em linguística em Morrow!
 Kwolek encolheu os ombros.
 - Deram-me ordem de receber o passageiro Robert Fairlie em Washington e de o levar o mais depressa possível a Morrow. Compreende? Não há erro algum. 
-
-
-
-
-
 
 "

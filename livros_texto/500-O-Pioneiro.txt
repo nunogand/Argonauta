@@ -8,16 +8,11 @@ Titulo-original: O Pioneer!
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1998
+review: |
+  
 ---
-texto1
-"
-
-
-
 
 Autor: Frederik Pohl
-
-
 Título original: O Pioneer
 1ª Edição: 1998 
 Publicado na Colecção Argonauta em 1999 
@@ -27,9 +22,6 @@ Tradução: Alexandra Santos Tavares
 Súmula -
  foi apresentada no livro nº499 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 
 O 
 próximo volume representa um marco histórico na edição de obras de 
@@ -61,8 +53,6 @@ focado.
 Nota do Editor: 500º Volume 
 
 Entre o nº 1 - Perdidos na Estratosfera, da autoria do Professor A.M.Low - e o presente volume, decorreram quase 46 anos, durante os quais foi possível apresentar uma grande diversidade de autores e de obras, naturalmente nem todas agradando a todos, mas indo sempre ao encontro do gosto de um número muito significativo de leitores.
-
-
 Em Novembro de 1953, quando o fundador da Editora Livros do Brasil, António de Souza-Pinto, lançou a Colecção Argonauta, publicar um só livro que fosse de Ficção Científica era prova de atrevimento extremo. Imagine-se, então, o anúncio de um colecção, com periodicidade regular! Mas foi o que sucedeu com a Argonauta e, afinal, o êxito acabou por recompensar plenamente a iniciativa.
 
 Por isso, aqui estamos a saudar todos os leitores - sem dúvida os grandes obreiros da sobrevivência desta colecção - e a agradecer-lhes o entusiasmo com que a têm acolhido e acarinhado ao longo de muitas viagens espaciais, de vários anacronismos e de múltiplas proezas galácticas saídas da imaginação dos maiores escritores do género.
@@ -73,9 +63,6 @@ Por isso, aqui estamos a saudar todos os leitores - sem dúvida os grandes obrei
   
 
 Ficção Científica, Semente do Futuro 
-
-
-
 Era ainda um rapazito, quanto tive o primeiro contacto com a ficção-científica. A Ilustração, uma revista de prestígio, sucessora da Ilustração Portuguesa, publicou uma história de um autor espanhol em que os automóveis presentes numa exposição se tornavam de súbito conscientes e corriam para a rua à caça de transeuntes. Naquele tempo as sobras das revistas iam parar às mercearias para fazerem embrulhos e mais tarde, encontrei numa folha do que depois vim a saber ser de uma ""pulp magazine"" uma gravura, em que se via um homem apontando uma espécie de lanterna para um penedo dentro do qual ele podia distinguir desse modo uma criatura envergando uma espécie de escafandro.
 
 As duas histórias tiveram uma profunda influência em mim. Então, a palavra ""fantasia"" tinha um tom pejorativo - era sinónimo de mentira. Aquilo que se via e que se lia devia ser uma imagem da vida. O pensamento era mantido numa gaiola de regras e preconceitos. Inclusive na própria ciência - dezenas de anos depois de Hubble ter demonstrado que o Universo se estendia muito além da nossa galáxia, os nossos livros escolares ainda não iam tão longe. As obras de Walter Scott e de Alexandre Herculano eram lidas como se contassem coisas que tivessem acontecido e o mesmo acontecia com as de Emílio Salgari e aos folhetos que falavam de Bufallo Bill e de outros aventureiros do Far West. Quando um professor me aconselhou a que lesse as obras de Júlio Verne (""Júlio"" e não ""Jules"" - assim se dizia) não o fez para que o meu espírito se soltasse e navegasse à vontade pelo tempo e pelo espaço, mas sim para que, através das páginas de ""A Ilha Misteriosa"" aprendesse como até numa ilha perdida os conhecimentos de matemática, física e química, eram indispensáveis. Pena é que muitos dos jovens de hoje nem sequer se apercebam disso.
@@ -88,13 +75,8 @@ Que a Colecção Argonauta tenha chegado ao nº500, e por certo irá continuar p
 
 Os 500 volumes da Argonauta não foram o resultado de uma mudança na nossa mentalidade - foram a causa dessa mudança. O facto de ter traduzido metade deles, é a melhor das minhas memórias. Ao fazê-lo, senti que estava a deitar à terra as sementes do futuro.
   
-
-
                                                                                                                              Eurico da Fonseca
  
-
-
-
 
 Nota: este número tem a lista de todas as obras publicadas até à 
 data. Todavia, nessa lista falta o célebre e raríssimo nº 130-A, intitulado Estação de 
@@ -102,12 +84,6 @@ Trânsito, do autor Clifford D. Simak. Inicia-se também aqui a 5ª fase
 das capas, onde  as lombadas passam a ser muito claras, de um tom cinzento.
 
 Colecção Argonauta do nº451 ao nº500
-
-
-
  
-
-
-
 
 "

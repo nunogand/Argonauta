@@ -8,14 +8,9 @@ Titulo-original: Plague From Space
 Tradutor1: Raul de Sousa Machado
 Tradutor2: 
 Ano-edicao: 1985
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Harry Harrison
 
@@ -32,9 +27,6 @@ Tradução: Raul de Sousa Machado
 Súmula - Foi apresentada no livro 
 nº371 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Harry Harrison é um dos mais conhecidos e mais multiformes autores de FC. Pode usar de um humor corrosivo: leia-se Bill, o Herói Galáctico (nº353 da Colecção Argonauta). E pode também tratar de temas mais sérios.
 
 Quando os homens foram à Lua, temeu-se que eles encontrassem ali vírus, bactérias, ou outras formas de vida nocivas. Tomaram-se as maiores precauções. Mas a Lua era estéril. Nada aconteceu, porque a vida lunar nunca se desenvolvera na superfície lunar.
@@ -46,8 +38,5 @@ Eis as perguntas em que Harry Harrison se inspirou para escrever Plague from the
 Quando voltam o corpo, vêem que o homem está pálido e coberto de nódulos vermelhos tão grandes como nozes, alguns deles abertos, a supurarem; o mesmo se vê pela gola aberta da camisa e nas costas da mão. 
 
 É o primeiro sinal de uma epidemia selvagem, que irá ameaçar a existência de vida na Terra.  
-
-
-
 
 "

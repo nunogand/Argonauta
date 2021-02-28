@@ -8,15 +8,9 @@ Titulo-original: Fires of Azeroth
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1979
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: C. J. Cherry
 
@@ -27,15 +21,9 @@ Capa: António Pedro
 Tradução: Alexandra Santos Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº528 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
-
-
-
 Os ""Arrha"" montaram guarda nos bosques e, mais adiante, no prado.
 
 - Não fiqueis aqui quando eles vierem - disse Morgaine ao último. - Perdereis as vossas vidas. Abrigai-vos junto dos mais velhos. 
@@ -63,8 +51,5 @@ E, mais perto deles... avançava o horror. Era, como Lellin dissera, uma nova fl
 - Nem tempo para as disparar - disse Larrel.
 
 Morgaine aproximou-se mais da beira. Vanye agarrou-lhe no braço, ansioso, embora a distância fosse grande e pequenas as hipóteses de ser avistada naquele ponto abrigado pelas rochas. Ela tomou em consideração o seu aviso, e parou. 
-
-
-
 
 "

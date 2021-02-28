@@ -8,22 +8,9 @@ Titulo-original: Venus Plus X
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1960
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Autor: Theodore Sturgeon
 Título original: Venus Plus X
@@ -35,8 +22,6 @@ Tradução: Mário Henrique Leiria
 Súmula - foi apresentada no livro nº66 da Colecção, com a 
 indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
 Colecção Argonauta: 
-
-
 O homem que vinha do passado é uma das mais brilhantes obras de ficção-científica que se têm publicado e o seu autor, Theodore Sturgeon, um importantíssimo ficcionista dos nossos dias, que ultrapassa a especificidade do género ""ficção-científica"". É no encontro destas duas coordenadas que reúnem um grande escritor com o vigor e a quase ilimitada liberdade de um género literário como é este, que se situa, como síntese, este livro a um tempo arrebatador de estranheza, inquietante, extraordinariamente rico e por vezes alucinante.
 
 Que é O homem que vinha do passado? É a história - possível - dum homem nú, do deslocado, do ""estrangeiro"" no tempo, na sociedade, quase em si mesmo. A história de Charlie Johns que grita, angustiado, o seu próprio nome, a certeza incerta da sua própria personalidade num mundo diferente, vertiginosamente diverso, em que desperta.
@@ -60,8 +45,5 @@ Não sabia, porém, a que ponto se enganava...
 É este romance brilhante, assustador e absorvente, vigoroso e compreensivo, em que Theodore Sturgeon atinge as alturas dum George Orwell e acorda remisniscências do Admirável Mundo Novo, de Huxley, que a Colecção Argonauta agora apresenta aos leitores de ficção-científica e recomenda ao público admirador dos romances de extraordinária lucidez e equivalente capacidade de realização literária.
 
 O homem que vinha do passado é um romance que ultrapassa os limites desta colecção e se situa em plano de grande destaque, no meio das mais importantes obras de ficção-científica publicadas em Portugal desde há anos. 
-
-
-
 
 "

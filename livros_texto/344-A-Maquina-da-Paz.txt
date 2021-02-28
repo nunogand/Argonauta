@@ -8,28 +8,9 @@ Titulo-original: Ground Zero Man
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Autor: Bob Shaw
@@ -43,19 +24,10 @@ Publicado na Colecção Argonauta em 1986
 Capa: A. Pedro
 Tradução: Eurico da Fonseca
 
-
-
-
 Súmula - Foi apresentada no livro 
 nº343 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Os homens, por muito que afirmem defender a Paz, nunca souberam realizá-la. Será, portanto, a Paz algo que está para além das forças humanas? Sendo assim, porque não confiar a uma máquina a imposição da Paz? Com a Máquina da Paz, a guerra - o holocausto nuclear - será impossível.
-
-
-
 Em 1988, um cientista obscuro, Lucas Hutchman, faz uma descoberta extremamente importante: é possível construir um ressonador de neutrões, capaz de detonar todas as cargas nucleares existentes no Globo. E o mundo está à beira do suicídio nuclear - um grupo de terroristas destruiu Damasco com uma bomba atómica.
 
 A tentação é irresistível: Hutchman constrói a máquina, envia planos aos cientistas e políticos de primeiro plano e marca-lhes um prazo para o desmantelamento das suas armas. Então o Mundo poderá respirar.
@@ -63,17 +35,8 @@ A tentação é irresistível: Hutchman constrói a máquina, envia planos aos c
 Mas as forças contra as quais pretende lutar são demasiado fortes. Hutchman não está preparado para enfrentar o mundo dos agentes secretos, da espionagem, dos raptos e dos assassínios. Tem de se manter oculto durante o tempo bastante para realizar o seu plano.
 
 E se o realizar - se conseguir com a sua máquina obrigar os políticos e os militares a desmantelarem as armas nucleares - isso permitirá alcançar a paz?
-
-
-
 Eis o tema actualissimo de A Máquina da Paz - (The Peace Machine), uma das obras mais recentes e de maior sucesso de Bob Shaw - um autor consagrado e largamente representado na Colecção Argonauta.  
-
-
-
 Introdução:
-
-
-
 Tempos houve em que a ficção científica era considerada como literatura de evasão e ainda hoje são muitos que a vêem como tal.
 
 A verdade, todavia, é que a ficção-científica tende a afirmar-se como uma literatura de reflexão. O que se compreende num tempo que é de ciência. E de interrogações sobre a ciência.
@@ -81,8 +44,5 @@ A verdade, todavia, é que a ficção-científica tende a afirmar-se como uma li
 A Máquina da Paz, de Bob Shaw - um autor cujas obras são sempre motivo de reflexão -, é um excelente exemplo dessa tendência. Não se poderia esperar um tema mais actual e mais controverso.
 
 Se um homem qualquer, sozinho, descobrisse uma maneira de evitar o holocausto nuclear, inutilizando todas as armas atómicas, os grandes poderes do Mundo ficar-lhe-iam gratos? O pesadelo acabaria?
-
-
-
 
 "

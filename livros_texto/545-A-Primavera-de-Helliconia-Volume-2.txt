@@ -8,14 +8,9 @@ Titulo-original: Helliconia Spring
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1982
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Brian Aldiss
 
@@ -26,14 +21,9 @@ Capa: António Pedro
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº544 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
 A sala onde Shay Tal se encontrava era mais antiga do que ela jamais poderia calcular. Tinha-a mobilado com o pouco que tinha: uma velha tapeçaria, que tinha pertencido a Loil Bry, e depois a Loilanun - aquela ilustre linhagem de mulheres mortas; a sua cama humilde a um canto, feita de madeira trabalhada de feto-dos-ventos importando de Borlien (o feto-dos-ventos mantinha afastados os ratos); os seus materiais de escrita encontravam-se sobre uma pequena mesa de pedra; havia algumas peles no solo, sobre as quais se encontravam sentadas ou agachadas treze mulheres. A academia estava reunida.
 
 As paredes da sala estavam manchadas por leprosos líquenes brancos e amarelos, que, tendo começado a alastrar a partir da única janela estreita, tinha, naqueles incontáveis anos, colonizado toda a pedra trabalhada adjacente. Aos cantos, havia teias de aranha; a maior parte dos seus titulares tinha havia muito morrido de fome.
@@ -59,8 +49,5 @@ As treze mulheres estavam ainda a fitá-la, à espera de que prosseguisse. Laint
 Shay Tal estava a escutar alguém que subia as escadas no andar de baixo. Não havia forma de poder responder educadamente a uma declaração que ela tinha estado a contradizer desde que o Anunciador da Hora tinha assobiado; qualquer interrupção era bem-vinda naquela altura. Algumas daquelas mulheres eram irremediavelmente estúpidas.
 
 A porta abriu-se. Aoz Roon entrou, parecendo um enorme urso negro, seguido pelo seu cão. Atrás dele, vinha Dathka, que se deteve com o rosto inexpressivo, sem sequer lançar um olhar a Laintal Ay. Este último estava pouco à vontade, e ficou à espera com as costas encostadas à parede fria. As mulheres abriram a porta ao ver os intrusos, e algumas riram-se com nervosismo. 
-
-
-
 
 "

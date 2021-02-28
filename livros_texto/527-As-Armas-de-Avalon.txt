@@ -8,14 +8,9 @@ Titulo-original: The Guns of Avalon
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Roger Zelazny
 
@@ -34,8 +29,5 @@ Súmula -
 Âmbar é o único mundo verdadeiramente real. Todos os outros mundos, incluindo a Terra, não passam de sombras que de certa forma o imitam. O príncipe Corwin, exilado na Sombra Terra desde há séculos, decide regressar a Âmbar, para reconquistar o trono que lhe cabe por direito. Terá por isso de enfrentar os poderes de Eric, Random, Bleys, Caine e de todos os restantes nove príncipes que aí habitam. E no seu caminho até à Escada do Mar, que está guardada por coisas inimagináveis, por realidades criadas por assassinos demoníacos, contra as quais Corwin só tem uma arma: a sua fúria humana. 
 
 Neste segundo volume da célebre série de Roger Zelazny, o príncipe Corwin reúne as forças que lhe permitirão reconquistar a coroa a que tem direito. Mas uma treva crescente, o mal que corrói o próprio coração do reino perfeito, ameaça pôr em causa os seus planos. As forças do Caos organizam-se para aniquilar Âmbar e todos aqueles que o devem governar.   
-
-
-
 
 "

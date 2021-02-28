@@ -8,15 +8,9 @@ Titulo-original: A Choice of Gods
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1972
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -42,6 +36,4 @@ Introdução:
 
 Que dizer de Clifford D. Simak? Que é um dos maiores autores vivos, não só de ficção-científica mas de qualquer género de literatura. Todas as suas obras, de recorte sem igual, são diferentes - umas vezes situadas no mundo de todos os dias, outas em mundos longínquos, outras ainda em mundo de fantasia, em que os velhos mitos se tornam verdadeiros e plausíveis, adquirindo uma impressionante beleza poética.
 A presente obra - O Deus Impassível - é diferente. Pela primeira vez, é possível na diversidade dos temas de Simak, encontrar uma certa sequência. Há uma ligação discreta com outra obra célebre - Time is the SimpleThing - Viajantes no Tempo, na versão portuguesa, publicada na Colecção Argonauta com o nº131. Mas O Deus Impassível, ao analisar os problemas do nosso tempo e do futuro imediato de uma maneira poderosa e absolutamente original, sempre plena de poesia e amor pela Natureza, excede, se possível, todos os níveis antes atingidos por Simak. E a interrogação final que nela se contém é, talvez, a mais angustiada e terrível que qualquer autor até hoje fez. 
-
-
 "

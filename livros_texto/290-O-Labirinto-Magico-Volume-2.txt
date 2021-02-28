@@ -8,42 +8,21 @@ Titulo-original: The Magic Labyrinth
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1980
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Philip José Farmer
 Título original: The Magic Labyrinth
-
-
-
 1ª Edição: 1980
-
-
-
 Publicado na Colecção Argonauta em 1981
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
-
-
 Súmula - Foi apresentada no livro 
 nº289 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
 Eis o começo do segundo volume de O Labirinto Mágico:
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 
 Ele chegara a Virolando havia trinta e três anos. Fora sua intenção ficar ali somente o tempo suficiente para falar algumas vezes com La Viro, se tal lhe fosse permitido. Depois iria a qualquer parte para onde a Igreja o mandasse. Mas La Viro pedira-lhe para ficar ali, ainda que não tivesse dito porquê ou por quanto tempo. Ao fim de um ano ali, Goering adoptara um nome em esperanto, o de Fenikso (Fénix). 
@@ -119,8 +98,5 @@ O bispo inclinou-se para a frente, as grandes mãos morenas a agarrarem-se à bo
 - Há qualquer coisa errada neste mundo, terrivelmente errada! Primeiro, as pequenas ressurreições pararam. Parece que isto aconteceu pouco depois da tua última ressurreição. Lembras-te da consternação que essa notícia causou? 
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 
 "

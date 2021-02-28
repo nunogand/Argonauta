@@ -8,14 +8,9 @@ Titulo-original: Project Pope
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1981
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Clifford D. Simak
 
@@ -28,27 +23,15 @@ Publicado na Colecção Argonauta em 1983
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº311 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Se o primeiro volume de Projecto Papa contém uma das melhores descrições do que poderia ser uma sociedade de autómatos - não de simples robots, concebidos para executar as ordens programadas pelos construtores, mas de verdadeiros seres mecânicos pensantes - o segundo, como se verá, vai muito mais longe, lançando-se em domínios nunca aprofundados pela ficção-científica -, mesmo pelo próprio Clifford D. Simak.
 
 Eis o começo do segundo volume de Projecto Papa:
-
-
-
   ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ...  
-
-
-
 Os Velhos da Floresta falavam entre eles, a agradável conversinha de coisas pouco importantes - de toda a parte em torno do planeta falavam uns com os outros, cheios de respeito uns pelos outros, à vontade nas suas relações.
 
 - Houve tempos - disse um deles que vivia numa verde planície que se estendia por centenas de quilómetros de cada lado da cadeia de montanhas que se erguia sobre o Vaticano - houve tempos em que eu estava muito preocupado com a gente de metal que se estabelecera na nossa superfície. Temi que se expandissem, que roubassem o nosso solo e as nossas árvores, os nossos tesouros minerais, desperdiçando a nossa água e a nossa terra. Ainda fiquei mais preocupado quando soube que a gente de metal era uma criação da gente orgânica que os concebera como seus servos. Mas depois de longos anos de vigilância, parecem não oferecer perigo.
@@ -60,16 +43,8 @@ Outro que morava entre os altos picos, a oeste do Vaticano, disse:
 - A princípio fiquei perturbado pelo muito uso que eles faziam das árvores. ao princípio precisavam de grandes quantidades de madeira e agora também. Mas cortam-nas com saber, nunca desperdiçando nada e nunca cortando em demasia. Por vezes plantam pequenos rebentos para substituir as árvores que cortam. 
 
 São vizinhos muito satisfatórios - disse ainda outro que vivia ao pé de um oceano do outro lado do planeta. - Se era nosso destino ter vizinhos, tivemos muita sorte com estes. 
-
-
-
-
-
 ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 ... ... ... ... ... ... ... ...  
-
-
-
 
 "

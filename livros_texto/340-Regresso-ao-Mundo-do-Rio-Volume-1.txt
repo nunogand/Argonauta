@@ -8,17 +8,9 @@ Titulo-original: The Gods of Riverworld
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1983
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 Autor: Philip José Farmer
 
@@ -31,15 +23,9 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca
-
-
-
 Súmula - Foi apresentada no livro 
 nº339 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Depois de ""To Your Scattered Bodies Go."", ""The Fabulous Riverboat"", ""The Dark Design"" e ""The Magic Labyrinth"", que na Colecção Argonauta tiveram respectivamente os títulos de ""O Mundo Sem Morte"", ""Viagem Para Além da Morte"", ""Desígnio Negro"" e ""O Labirinto Mágico"", Philip José Farmer apresenta agora ""Gods of Riverworld"" - a sequência daquelas obras, que por isso recebeu, na nossa língua, o título de ""Regresso ao Mundo do Rio"". O Mundo do Rio, em que trinta e cinco mil milhões de homens e mulheres acordaram, um dia, para começarem a viver além da morte. Ressuscitados pelo poder de uma espécie alienígena, por razões que só eles conheciam, viajantes inesperados como Mark Twain, Hermann Goering e Cyrano de Bergerac, subiram um rio de dezasseis milhões de quilómetros de comprimento em busca dos seus criadores e das respostas ao mistério.
 
 Algumas das perguntas obtiveram respostas e outras surgiram com a descoberta da torres gigante que existia no mar polar norte do Mundo do Rio. Ali, estava o grande computador que dirigia o processo de ressurreição, e o facto de dominarem esse computador, tornava-os em deuses naquele mundo, com o poder de vida e de morte sobre todos aqueles milhares de milhões de vidas humanas. Mas não estavam sozinhos na torres. Estranhos passos nos corredores, atentados contra as suas vidas, um ""acidente"" após outro, tudo conduzia à conclusão inevitável: ou havia um assassino oculto na torre - ou um dos membros do grupo era um traidor!
@@ -52,10 +38,5 @@ Aqueles que ainda não leram os anteriores volumes da série de Riverworld, To Y
 Disse no quarto volume The Magic Labyrinth que seria o último livro da série. Era essa a minha intenção, mas deixei a mim próprio uma pequena porta de fuga no parágrafo final. O meu inconsciente sabia melhor o que fazia do que o meu consciente, e ele (o demónio) fez-me instalar esta pequena porta. Algum tempo depois de o quarto volume aparecer, comecei a pensar nos vastos poderes possuídos pela gente que entrara na torre e como esses poderes seriam tentadores. 
 Além disso, como eu sabia e alguns leitores notaram, as verdades que tinham sido reveladas no quarto volume podiam não ser as verdades finais.
 As opiniões e conclusões sobre economia, ideologia, política, sexualidade e outros assuntos no Homo sapiens variam segundo os conhecimentos e os preconceitos das personagens. Não são necessariamente as minhas. Estou convencido de que todas as raças têm um igual potencial mental e que em todas as raças existe o mesmo espectro de estupidez, inteligência medíocre e génio. Estou convencido de que todas as raças têm um potencial igual para o bem e para o mal, para o amor e para o ódio, para a santidade ou o pecado. Estou também convencido por sessenta anos de larga leitura e profunda observação que a vida humana foi sempre selvagem e comicamente absurda., mas que não somos uma espécie impossível de redimir. 
-
-
-
-
-
 
 "

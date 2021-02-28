@@ -8,15 +8,9 @@ Titulo-original: Piège sur Zarkass
 Tradutor1: Álvaro Simões
 Tradutor2: 
 Ano-edicao: 1958
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Stefan Wul Título original: Piège sur Zarkass
 
@@ -27,6 +21,4 @@ nº89 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
 Stefan Wul dá-nos no presente romance uma obra cheia de movimento e acção, em que a atenção do leitor é mantida em suspenso desde o princípio ao fim da narrativa. Armadilha em Zarkass, é mais uma manifestação de talento de Stefan Wul, cuja obra tem sido largamente divulgada entre nós pela Colecção Argonauta. À riqueza de imaginação, o autor sabe aliar o sentido da aventura em romances que envolvem a atenção do leitor e que são verdadeiros best-sellers.
-
-
 "

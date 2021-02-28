@@ -8,36 +8,16 @@ Titulo-original: Too Many Magicians
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 
 
 Autor: Randall Garrett
 Título original: Too Many Magicians
-
-
-
 1ª Edição: 1966
-
-
-
 Publicado na Colecção Argonauta em 1980
-
-
-
 Capa: A. Pedro
-
-
-
 Tradução: Eurico da Fonseca 
 
 Súmula - Foi apresentada no livro 
@@ -61,10 +41,5 @@ Randall Garret é um dos mais conhecidos e prolíficos autores de ficção-cient
 Garrett tem publicado obras em colaboração com Robert Silverberg, sob o pseudónimo de ""Robert Randall"", e com Laurence M. Janifer sob o nome de ""Mark Phillips"". Too Many Magicians - O Tempo da Magia na versão portuguesa, é uma história curiosa, talvez mais afecta ao género policial que ao da ficção (ou da fantasia), científica, mas baseada numa ideia originalíssima: como seria o nosso mundo, se Ricardo Coração-de-Leão não tivesse morrido prematuramente? E se a descoberta das Leis da Magia tivesse precedido a das Leis da Física?
 
 Uma advertência: uma vez que a acção de O Tempo da Magia decorre num mundo dominado pela cultura britânica, o sistema britânico de medidas é referido na introdução, em lugar do sistema métrico. Do mesmo modo, as grafias usuais dos nomes geográficos são substituídas por outras, de acordo com o original que utiliza a grafia que teria derivado da fonética anglo-saxónica. De resto, esse é apenas um dos aspectos curiosos da obra. Mais curiosa ainda é a maneria - magistral - como o autor descreve as mil facetas - quantas vezes contraditórias - de um mundo que, tendo atingido um nível de civilização e cultura não inferior ao actual, conserva no entanto as velhas tradições britânicas e permanece, no século XX, numa fase de desenvolvimento tecnológico que corresponde aproximadamente ao dos princípios do século XIX. 
-
-
-
-
-
 
 "

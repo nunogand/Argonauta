@@ -8,14 +8,9 @@ Titulo-original: The Machineries of Joy
 Tradutor1: Mário Braga
 Tradutor2: Maria Isabel Morna Braga
 Ano-edicao: 1964
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Ray Bradbury Título original: The Machineries of Joy
 
@@ -27,8 +22,6 @@ Autor: Ray Bradbury Título original: The Machineries of Joy
 Súmula - foi apresentada no livro 
 nº92 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
-
-
 Ray Bradbury é mundialmente considerado um poeta da ficção-científica, embora as suas obras sejam publicadas como prosa. Mas não é essa a razão única do seu incomensurável prestígio em todos os países - e são muitos - em que os seus livros se encontram publicados. É que, além do indisputável valor formal das suas criações, a que uma radiante e comunicativa fantasia confere a graça alada de  um sorriso maravilhado, é Ray Bradbury um escritor que encara o mundo com um olhar crítico, inserindo nos seus romances um insinuante sentido social. Em As Máquinas da Alegria, o seu livro mais recente, Ray Bradbury manifesta, em sumo grau, as qualidades que o fizeram célebre e que o tornaram um dos escritores favoritos dos leitores portugueses de FC. 
 
 Nota: embora 
@@ -60,10 +53,5 @@ Os contos publicados nesta obra são:
 11 - A Mulher Ilustrada
 
  Capa da obra original (com 21 contos):
-
-
-
-
-
 
 "

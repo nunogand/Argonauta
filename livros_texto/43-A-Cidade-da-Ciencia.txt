@@ -8,14 +8,9 @@ Titulo-original: Les Savants Dans l'Aréne
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Maurice Vernon Título original: Les Savants Dans L' Arène 1ª Edição: 1955 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº42 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 
 Depois do Grande Desastre, o mundo unificou-se. O Governo Universal ficou nas mãos de Alan Donnel, tirânico ditador que, instalado na monstruosa cidade de Capitalopolis, dominava com o auxílio das suas tropas Governamentais e dos Serviços Privados. 
@@ -26,6 +21,4 @@ Na Cidade da Ciência, Fritz Alavan, o maior cientista vivo, preparava a fuga e 
 E é então que começa a luta, luta terrível em que Fritz Alavan, os Oposicionistas e as tropas Governamentais se chocam pelo domínio do mundo.
 Qual o papel que Crieg Rayner, o rapaz destinado um dia a ser o Governador Geral do Mundo, representa no meio desta luta? Quem são Falavan e Falavane, os dois seres sobre-humanos que parecem invulneráveis a todos os ataques? Como acharão os homens a paz, uma paz finalmente sólida e duradoura, uma paz sem ditadores e sem lutas fraticidas?
 As respostas a todas estas perguntas encontram-se no movimentado e estranho romance de Maurice Vernon, um dos mais curiosos romances da moderna geração francesa de ficção-científica.
-
-
 "

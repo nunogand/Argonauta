@@ -8,14 +8,9 @@ Titulo-original: World at Bay
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1954
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: E.C. Tubb
 Título original. World at Bay
 1ª Edição: 1954
@@ -30,6 +25,4 @@ Súmula
 A Inglaterra está à beira da ruína e da fome devido ao novo sistema por zonas que proibia toda e qualquer troca de alimentos e de matérias primas. A Inglaterra esgotara as reservas do seu solo e subsolo. O carvão acabara, o petróleo não podia entrar no país e faltava, portanto, o combustível  para alimentar as fábricas, os hospitais, os transportes. O país só podia ser salvo se dispusesse de novo de combustivel, de energia eléctrica. A Liga da Paz, uma organização criada para salvaguardar a paz do mundo, proibira todas as experiências atómicas que pudessem ameaçar essa paz e, por conseguinte, os cientistas ingleses nem para esse lado se podiam voltar para obterem a tão necessária corrente eléctrica, Mas dois cientistas decidiram ignorar essa medida e, secretamente, construiram uma máquina que haveria de fornecer ilimitada energia por meio da desintegração atómica. Esta experiência resultou numa catástrofe, espalhando uma onda de morte, um fogo atómico, por toda a Escócia. Este fogo, impossível de extinguir, alastrou rápidamente, ameaçando todo o mundo, pois se alcançasse o mar, contaminando a água, representaria uma desintegração de energia atómica que nada, mesmo nada, poderia deter.
 Num mundo atormentado por desconfianças e guerra, a ciência emprega então todos os seus recursos apra combater este novo inimigo, tentando desesperadamente deter o fogo atómico que avançava inevitávelmente para a destruição de todo um planeta e uma raça.
 Este romance de E. C. Tubb, um dos primeiros escritores do género de Inglaterra, é a história do terror humano, de ambição e sacrifício, ante o perigo da aniquilação total... a história emocionante e dinâmicamente narrada de ""O Mundo em Perigo"". 
-
-
 "

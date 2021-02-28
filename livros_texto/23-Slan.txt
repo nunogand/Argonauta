@@ -8,14 +8,9 @@ Titulo-original: Slan
 Tradutor1: A. Maldonado Domingues
 Tradutor2: 
 Ano-edicao: 1946
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: A. E. Van Vogt
 Título original: Slan
 1ª Edição: 1946
@@ -33,6 +28,4 @@ Decorrem anos. Cross empenha-se no seu sobre-humano trabalho de interpretar os d
 No Palácio do Ditador do Mundo, Katleen está novamente ameaçada de morte. O fanático John Petty, que jurara matá-la, convence o Ditador a entregá-la à ""protecção da sua polícia secreta. Katleen sabe bem o que a espera, e decide fugir para um dos antigos esconderijos dos Slan.
 Seis anos tinham passado desde a fuga de Jommy Cross na Nave Slan. Era agora um Slan adulto, na posse de todas as faculdades das sua raça e dispondo do poder quase ilimitado que a aplicação integral da energia atómica lhe conferia. O seu carro, embora vulgar de aparência, era invulnerável em relação às armas que o Mundo conhecia. Só uma incógnita continuava a barrar-lhe o caminho: onde se esconderiam os Slans verdadeiros? Anos e anos de buscas incessantes e nem sequer conseguira encontrar um outro ser da sua raça! De súbito, porém, descobre que a polícia anda no encalço de uma rapariga Slan! Tem que a encontrar! Quem sabe se estará ali o elo de ligação? Jommy percorre velozmente as estradas silenciosas dos arredores da cidade, indiferente ao perigo, no seu carro inexpugnável, e de súbito sente no cérebro o inconfundível toque de uma outra comunicação telepática proveniente de outro Slan. Finalmente! Chegara o momento. Num convívio de breves horas, Katleen Layton e Jommy Cross já sentem, recíprocamente, um profundo amor. Mas a vingança implacável de John Petty não os poupa: Katleen é ferozmente abatida à sua vista.
 Jommy Cross sentiu naquele momento que a sua vida só podia ter um objectivo: acabar com aquela terrível luta. A bordo da sua nave, arrisca-se a ir a Marte, onde os Slans sem fibrilas se estão a preparar para atacarem a Terra e destruir a Humanidade. Esperava lá encontrar os verdadeiros Slans, os da sua raça, escondidos entre os humanos. Mas as suas esperanças foram iludidas e Jommy está em perigo de ser descoberto... o que seria, sem dúvida, o fim. No entanto, Johana Hillory, a mulher que tentara matá-lo a bordo da nave Slan de que ele se apoderara, resolve ajudá-lo, já convencida de que era Jommy quem tinha razão e que aquela luta racial, em que três facções andavam empenhadas, não tinha qualquer sentido, porque afinal os Slans tinham resultado da evolução com os humanos. E Jommy regressa à Terra. Vai procurar decifrar o mistério no único sítio em que ainda não tinha penetrado: o Palácio do Ditador do Mundo. Atravessar a rede de fortificações que protegiam o Palácio foi a maior proeza de toda a vida de Jommy. Balas chovem à sua volta, como granizo. A entrada secreta está, porém, próxima e Jommy mergulha de um salto no escuro poço que o conduzirá ao subterrâneo secreto. De repente fica aprisionado entre duas paredes de aço. Sente-se a subir, lenta mas inexorávelmente. Caíra na teia da monstruosa aranha que dominava o mundo dos homens? As trevas que o rodeavam desfazem-se bruscamente e Pier Gray, o Ditador estava à sua frente... E, por inacreditável que parecesse, o mistério ia desvendar-se e a felicidade esperava-o, quando a julgara para sempre perdida!
-
-
 "

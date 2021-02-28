@@ -8,14 +8,9 @@ Titulo-original: Time Enough for Love
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1973
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: Time Enough for Love
@@ -31,22 +26,13 @@ Tradução: Eurico da Fonseca
 Súmula - Foi apresentada no livro 
 nº243 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 No segundo volume da História do Futuro - (Time Enough for Love), Lazarus Long, o Mais Antigo - o mais velho dos seres humanos, mais velho que Matusalém, mais velho que o Judeu Errante, continua a divagar, através das suas recordações, umas vezes reais, outras mais ou menos inventadas (a ""ficção é mais autêntica do que a realidade - é a melhor maneira de transmitir uma experiência, fora a própria experiência""). Discretamente, nessas historietas que assumem o carácter de parábolas, surge a história da Humanidade depois da Grande Diáspora - da sua expansão pela Galáxia e da multiplicação de culturas que pouco ou nada têm com as da Velha Terra-Mãe.
 
 Acima de tudo, é o espírito de Lazarus Long (ou de Robert A. Heinlein?) que surge, numa crítica constante aos costumes humanos dos tempos futuros (e, afinal, de todos os tempos):
-
-
-
 Segundo os dados existentes até à data, só há na Galáxia um animal perigoso para o Homem - o próprio Homem. Portanto, ele deve fornecer a sua própria - e indispensável competição. Não tem inimigo que o ajude.  
 
 Introdução:
 
 Este é o segundo volume de A História do Futuro - (Time Enough for Love), a mais ambiciosa obra de Robert A. Heinlein. Trata-se da biografia de Lazarus Long, o herói de Os Filhos de Matusalém (publicado na Colecção Argonauta nº137), um homem quase imortal, que de uma maneira algo alegórica mas profundamente humana, vai descrevendo não apenas as suas muitas aventuras, mas também a evolução dos costumes entre os tempos anteriores à primeira guerra mundial e o ano de 4272. Escrita num estilo muito peculiar - na forma do trabalho meticuloso de um cronista do futuro -, é, entre todas as obras de Heinlein, a mais traduzida.
-
-
-
 
 "

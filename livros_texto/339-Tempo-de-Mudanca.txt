@@ -8,14 +8,9 @@ Titulo-original: A Time of Changes
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1971
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Robert Silverberg
 
 Título original: A Time of Changes
@@ -27,30 +22,18 @@ Publicado na Colecção Argonauta em 1985
 Capa: A. Pedro
 
 Tradução: Eurico da Fonseca 
-
-
-
 Súmula - Foi apresentada no livro 
 nº338 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
-
-
-
 Nem sempre as obras de ficção-científica têm títulos que falam das estrelas ou do futuro. A Time of Changes - na versão portuguesa, Tempo de Mudança
  - é a mais célebre das obras de um autor célebre: Robert Silverberg. 
 Uma obra que mereceu o mais cobiçado dos galardões da FC: o Prémio Nébula.
 
 Eis as suas primeiras linhas: 
-
-
-
 ...
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
  ...
-
-
-
 Eu sou Kinnal Darival e eu quero contar-vos tudo sobre mim próprio.
 
 Esta
@@ -112,16 +95,10 @@ das minhas esperanças.
 Assim seja.
 
 Eu sou Kinnal Darival e eu quero contar-vos tudo sobre mim próprio. 
-
-
-
 ...
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
  ...
-
-
-
 Estranho, dir-se-á. E é o termo apropriado. Porque em Tempo de Mudança,
  é descrita uma civilização futura em que a suprema vergonha é um homem 
 falar de si próprio, referir-se a si próprio, dizer ""eu"", ""me"", ""mim"", 
@@ -130,13 +107,7 @@ dessas poderá ser tomada como o cúmulo da humildade, ou do colectivismo.
  Mas não é. É precisamente o contrário. A sociedade futura, descrita por
  Robert Silverberg, é brutal, hipócrita, desapiedada. O culto das 
 convenções esconde a desumanidade.
-
-
-
 Introdução: 
-
-
-
 Segundo me disseram, alguém escreveu uma vez uma novela em que nenhuma palavra continha a letra ""e"". Quando ouvi isso pela primeira vez, a ideia fez-me arrepios, porque escrever novelas já é um trabalho bastante difícil usando a livre extensão do vocabulário de cada um, e arranjar uma dificuldade como essa é suficiente para garantir uma série de soluços mortais, pelo menos. Rezei para que nunca me surgisse o desejo de fazer tais habilidades.
 
 No entanto, dez anos depois, dei comigo lançado numa novela em que era proibido a qualquer personagem referir-se a si na primeira pessoa.
@@ -146,34 +117,17 @@ Estava a trabalhar nela havia cerca de uma semana, lutando contra o estranho con
 O objectivo de evitar o uso do ""eu"" em Tempo de Mudança, não é, evidentemente, o de mostrar a minha habilidade, mas o de representar, por uma aproximação gramatical numa linguagem equivalente, as práticas linguísticas de uma cultura extraterrestre tão reprimida, tão acorrentada por um rigoroso apagamento pessoal, que todas as referências à própria pessoa são proibidas e têm de ser feitas eufemisticamente. Não se trata de uma ideia particularmente original: há culturas no nosso mundo, principalmente entre os esquimós, onde é considerado impróprio o uso da primeira pessoa no singular, mas penso que é razoavelmente nova na ficção-científica. Naturalmente, também estava enganado nesse ponto. As ideias ideias absolutamente novas na ficção-científica são muito menos comuns do que em geral se suspeita. Refiro-me às ideias absolutamente novas, não às simples variantes de familiares; a última de que posso recordar-me é a do ""vidro lento"" e Bob Shaw, e isso aconteceu há doze anos. De qualquer modo, é possível descobrir qualquer coisa como figuras de vidro lento numa novela de Júlio Verne de 1883.
 
 A minha situação central em Tempo de Mudança teve pelo menos um uso prévio bem conhecido - num livro que li em 1953 e depois esqueci. Foi o Anthem de Ayn Rand, uma novela curta publicada pela primeira vez em 1946 e dedicada ao tema usual de Rand: ""O mundo está a perecer devido a uma orgia de auto-sacrifício."" No mundo distoplano de Anthem, a sociedade colectiva triunfou, e o pronome da primeira pessoa do singular foi abolido, o narrador fala de si próprio como ""nós"", como toda a gente nessa sociedade, mas por fim descobre a Palavra impronunciável e lança uma revolução destinada a restaurar os direitos sagrados do ego individual. Não é precisamente o que fiz em Tempo de Mudança, onde o problema não é uma sociedade colectivista que tudo absorve, mas antes uma pseudo modéstia formalizada, ritualizada, obstinada, que esconde uma feroz afirmação machista. Mas o efeito narrativo é o mesmo. A personagem de Rand e a minha lutam para a libertação do ""eu"", movendo-se através de moitas gramaticais, a dela falando de si própria como ""nós"" e a minha falando dele próprio como ""alguém"", e há uma urbanidade igualmente rígida no estilo. No entanto o que me pareceu sobrenatural foi a semelhança entre as linhas iniciais de Rand e as minhas. Quando redescobri Anthem em 1972, quase vinte anos depois de a ter lido ou pensado nela, e alguns anos depois de ter escrito Tempo de Mudança, dei consta, com minha admiração, de que o seu parágrafo inicial era o seguinte: 
-
-
-
 ""É um pecado escrever isto. É um pecado pensar palavras que os outros não pensam e escrevê-las num papel para os outros as verem. Isto é vil e maldoso. É como se estivéssemos a falar sozinhos para nenhuns ouvidos além dos nossos. E sabemos bem que não há transgressão mais negra do que fazer ou pensar alguma coisa sozinho. Infringimos as leis. As leis dizem que nenhuns homens devem escrever a menos que o Conselho das Vocações lhes ordene isso. Que nos perdoem! (...)
 
 Isto é escuro. A chama da vela está fixa no ar. Nada se move neste túnel excepto a nossa mão no papel. Estamos aqui sozinhos, debaixo da terra. É um mundo medonho, sozinho. As leis dizem que ninguém entre os homens deve estar sozinho, em qualquer momento, porque essa é a maior transgressão e a raiz de todo o mal. Mas infringimos muitas leis. E agora não há nada aqui salvo o nosso único corpo, e é estranho ver apenas duas pernas estendidas sobre a terra, e na parede na nossa frente a sombra da nossa única cabeça.""
-
-
-
 Agora, vejam a página de abertura de Tempo de Mudança. A semelhança é espantosa - o narrador de Rand sozinho num túnel, o meu numa cabana no deserto, ambos a começarem a sua história falando de transgressões contra uma sociedade rígida. Tinha esquecido até a existência do livro dele quando principiei o meu e a menos que queiram argumentar que o que quer que lemos fica permanentemente registado num nicho cerebral qualquer e pode flutuar até à consciência em qualquer momento subsequente, a semelhança apenas pode ser chamada uma coincidência, mas muito estranha. (O resto do meu livro tem poucos pontos de contacto com o de Rand - graças a Deus.)
 
 Escrevi Tempo de Mudança no Verão de 1970, e segundo creio ele foi a minha resposta a tudo quanto aconteceu nos últimos anos da década de 60, esse tempo de mudança para muitos de nós. Eu tinha sido tão rígido e senhor de mim como qualquer outro no velho, pré-Beatle, pré-psicadélico, pré-revolucionário mundo dos anos de Eisenhower, e tinha sido abalado pelas transformações na década louca que se seguiu, transformações que alteraram a minha atitude perante a vida, a minha maneira de vestir, o meu trabalho, e praticamente tudo o mais. Em 1970 eu pairava emocional e espiritualmente em qualquer parte entre Nova Iorque e a Califórnia, entre a velha e a nova vida, e oscilava, incerto, sem ter ainda optado em absoluto pela Califórnia e Tempo de Mudança é o registo desse terramoto interior, alterado pelas metáforas da ficção-científica mas inteiramente reconhecível pelo que está por detrás delas. (Alguns dos meus amigos mais apegados às convenções não compreenderam o livro, pensando que era apenas um escrito promovendo um uso mais largo e mais louco das drogas psicadélicas. Não era essa a minha intenção, mas foi difícil convencê-los.)
 
 A novela foi publicada numa série na Galaxy Science Fiction, a revista em que então surgia a maior parte dos meus trabalhos, e no começo de 1971 apareceu numa edição cartonada do Science Fiction Book Club, com a primeira edição brochada a vir a lume nesse Verão. Em Abril de 1972, os membros da Science Fiction Writers of America concederam-lhe um Nebula como a melhor novela do ano - e poucos dias depois comecei a minha nova existência na área de S. Francisco. Voei até à cerimónia da entrega do prémio em Los Angeles para receber o meu belo troféu de lucite. Era uma coisa deliciosamente apropriada, segundo pensei, receber um Nebula por Tempo de Mudança na mesma semana em que eu deixara a minha antiga vida confinada em Nova Iorque para respirar o ar mais fresco e mais estranho da Califórnia.
-
-
-
 Robert Silverberg
 
 Oakland, Califórnia
 
 Maio de 1978 
-
-
-
-
-
-
-
-
 "

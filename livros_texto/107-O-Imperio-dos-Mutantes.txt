@@ -8,14 +8,9 @@ Titulo-original: La Mort Vivante
 Tradutor1: Amadeu Lopes Sabino
 Tradutor2: 
 Ano-edicao: 1958
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Stefan Wul Título original: La Mort-Vivante
 
@@ -26,18 +21,12 @@ Autor: Stefan Wul Título original: La Mort-Vivante
  Capa: Lima de Freitas
 
  Tradução: Amadeu Lopes Sabino
-
-
 Súmula - foi apresentada no livro 
 nº106 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"": 
 
 Mais um livro de Stefan Wul, grande escritor francês de FC que a Colecção Argonauta apresenta entre nós. Deste famoso romance, um dos mais emocionantes deste autor, transcrevemos seguidamente um expressivo texto:
-
-
 ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ...  ... ...
-
-
 O homem emigrara para planetas-paraísos de sistemas longínquos havia muitos séculos. 
 
 Em volta do Sol, apenas gravitavam mundos quase desertos. Apenas Vénus albergava uma sociedade organizada, relíquia do antigo Império. Mas três quartas partes da Ciência tinham-se perdido. E a grande desconfiança oficial em relação aos sábios, contribuía para apressar essa decadência. Acreditava-se ser suficiente utilizar velhas receitas herdadas do passado, mas que uma teocracia timorata considerava inofensivas.
@@ -51,9 +40,6 @@ As gentes de Vénus ignoravam tais factos, como ignoravam toda a protohistória 
 Felizmente, havia os padres.
 
 ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... 
-
-
-
 
 Joachim, o Mestre-biólogo, recebia todos os mesees a visita do Inspector-Padre. 
 
@@ -129,13 +115,5 @@ Foi abrir.
  ... ... ... ... ... ...  ... ... ... ... ... 
 ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ...  ... 
 ... ... ... ... ... ... ... ... ... ... 
-
-
-
-
-
-
-
-
 
 "

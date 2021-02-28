@@ -8,15 +8,9 @@ Titulo-original: The Naked Sun
 Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1956
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Isaac Asimov
 Título original: The Naked Sun
@@ -28,9 +22,6 @@ Tradução: Fernando de Castro Ferro
 Súmula - foi apresentada no livro nº69 da Colecção, com a 
 indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
 Colecção Argonauta: 
-
-
-
 Isaac Asimov é um dos grandes mestres da literatura de ficção-científica. Escritor dotado de uma imaginação vivíssima e de uma sólida bagagem cultural, a sua obra ficará brilhando entre as mais belas e puras que se escreveram neste género.
 
 Ameaça dos Robots, cuja tradução portuguesa sairá dentro em breve, é considerado um dos romances mais emocionantes e sugestivos de Isaac Asimov, que nessas páginas nos descreve um Universo ameaçado pelas suas próprias criações mecânicas.
@@ -40,7 +31,4 @@ Tudo era perfetio numa estranha civilização: a de Solaria. Todos os homens per
 Em Solaria, reinavam a tranquilidade e a perfeição. Até que um crime ""impossível"" veio revelar brutalmente a realidade que se mascarava por detrás das traiçoeiras aparências de uma ""felicidade"" a que se contrapunha a natureza verdadeiras dos homens.
 
 Romance que é a meditação de um grande tema, e que, ao mesmo tempo, tem o colorido e o ritmo emocionante das boas obras policiais, Ameaça dos Robots é uma das obras mais interessantes de Isaac Asimov. O leitor não perderá esta oportunidade de se entregar a um grande romance de FC, pois não deixará de ler AMEAÇA DOS ROBOTS. 
-
-
-
 "

@@ -8,21 +8,11 @@ Titulo-original: Foundation and Empire
 Tradutor1: Alfredo Margarido
 Tradutor2: 
 Ano-edicao: 1952
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Isaac Asimov Título original: Foundation and Empire 1ª Edição: 1952 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Alfredo Margarido
-
-
 Súmula - foi apresentada no livro nº85 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:   
-
-
-
 A ciência deixou de existir num Império destruído e que perdeu os seus cientistas que fundaram dois mundos novos: a primeira Fundação - especialmente encarregada de redigir a Enciclopédia Galáctica - e a segunda Fundação, cuja localização é desconhecida, e cuja actividade é também um mistério.
 
 O velho Império continua a descair, pois que os seus reis ou são fracos, e portanto logo substituídos por generais ou favoritos fortes, ou são fortes e, nesse caso, destroem todos os indivíduos que aparecem dispondo de algumas possibilidades de se lhes oporem.
@@ -56,8 +46,6 @@ Isto porque, entretanto, Bayta conseguiu descobrir a verdadeira identidade do Mu
                                         
 
  Nota: estranhamente, os responsáveis editoriais da Colecção Argonauta na altura, optaram por não contextualizar na súmula a célebre Trilogia da Fundação de Isaac Asimov, uma das suas obras mais famosas, absolutamente monumental, que aqui conhece a sua edição portuguesa únicamente a partir daquele que seria o seu segundo volume. Dois números mais tarde, a Argonauta publicaria depois aquele que seria o 3º volume da Trilogia, a obra denominada como Segunda Fundação (nº 89).                                                               
-
-
                                                            
 
 Deixo abaixo descrito o contexto relacionado com a monumental obra Fundação, segundo a Wikipedia:
@@ -88,6 +76,4 @@ Fundação: uma história obscura a respeito de uma primeira onda de
 colonização com robôs e mais tarde uma segunda sem eles.
 
 Fonte:  http://pt.wikipedia.org/wiki/S%C3%A9rie_da_Funda%C3%A7%C3%A3o
-
-
 "

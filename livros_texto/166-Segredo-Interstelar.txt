@@ -8,14 +8,9 @@ Titulo-original: Star Well
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1968
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Alexei Panshin
 
@@ -38,6 +33,4 @@ Em Star Well pode-se encontrar de tudo: casinos, salas de jantar, luxuosas suite
 Mas os segredos não podem conservar-se para sempre, sobretudo no mundo contemporâneo. O pequeno universo de Star Well tinha de encontrar o seu termo...
 
 Um romance empolgante, em que Alexei Panshin nos revela o melhor da sua imaginação.
-
-
 "

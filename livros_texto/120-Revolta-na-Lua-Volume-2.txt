@@ -8,15 +8,9 @@ Titulo-original: The Moon is a Harsh Mistress
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: Robert A. Heinlein
 Título original: The Moon is a Harsh Mistress 
@@ -27,8 +21,6 @@ Título original: The Moon is a Harsh Mistress
  Capa: Lima de Freitas
 
  Tradução: Eurico da Fonseca
-
-
 Súmula - foi apresentada no livro 
 nº119 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
@@ -103,8 +95,5 @@ Mike-Adam voltou a sorrir-se. Dessa vez, apareceram-lhe as covinhas.
 - Ainda estou. Nem podia deixar de ser, numa noite como esta. - O fundo tornou-se cinzento e depois surgiu em foco e a cores. Um calendário de parede, atrás dele, indicava a data: quinta-feira, 19 de Maio de 2076; um relógio indicava a hora exacta. Junto ao cotovelo dele via-se um copo de papel, com café. Na secretária estava uma imagem sólida, um grupo de família: dois homens, uma mulher e quatro crianças. Ouvia-se o ruído da Praça da Redoma Velha, abafado, mas mais alto que o usual. E também gritos e, à distância, alguém que entoava uma das canções do Simão.
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
-
-
-
 
 "

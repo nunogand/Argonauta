@@ -8,14 +8,9 @@ Titulo-original: Niourk
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1957
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Stefan WulTítulo original: Niourk 1ª Edição: 1957 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
 Súmula
@@ -31,8 +26,5 @@ E então o rapaz negro resolve fugir. Irá procurar o Velho e irá viver a sua v
 É mais um romance de Stefan Wul, o autor europeu de ficção-científica que se está a revelar um autêntico caso neste ramo da literatura e que a Colecção Argonauta apresenta no seu próximo volume. 
 
 Nota: uma excelente obra de Stephan Wul, uma grande surpresa. Cativante, envolvente, emocionante. Merecia ser adaptada para Cinema.
-
-
-
 
 "

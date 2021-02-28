@@ -8,14 +8,9 @@ Titulo-original: Immortality Inc.
 Tradutor1: Alexandra Santos Tavares
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Robert Sheckley
 Título original: Immortallity Delivered
@@ -36,41 +31,20 @@ Blaine olhou e estremeceu com se estivesse febril. Passou uns dedos incertos pel
 Foi assim que Thomas Blaine contactou pela primeira vez com o ano de 2110, altura em que a ciência descobrira a técnica para transferir a consciência de um corpo para outro.
 
 Nota: um grande lapso dos Livros do Brasil, relativamente a este livro. Não consigo compreender falhas destas, sinceramente. Este livro já tinha sido publicado com o nº 424! Dessa vez colocaram o título correcto: Immortality, Inc, e foi traduzido por António Porto!
-
-
-
 Este nº516 é o mesmo livro, publicado com o nº424, e que agora aparece erradamente com o título  ""Immortality Delivered"" (quero acreditar que foi outro ""lapso""), e traduzido agora por Alexandra Santos Tavares! Em termos editoriais, isto é a meu ver incompreensível. Custa a crer que não tivessem uma lista com os autores e
  as obras já publicadas!
-
-
-
 Também é curioso notar as diferenças nítidas entre as duas traduções, que alteram por vezes o sentido da informação. É por estas razões que, quem pode, prefere normalmente ler as obras no original. Vejam os primeiros dois parágrafos dos respectivos dois livros, para se aperceberem das diferenças entre as traduções. É notória sobretudo a diferença de sentido entre as palavras ""eminente"" e ""arrojada"", que não possuem de todo significados semelhantes!
-
-
-
 Tradução de António Porto
 
 Posteriormente, Thomas Blaine reflectiu na maneira como morrera e desejou que tivesse sido de forma mais interessante. Porque é que a sua morte não podia ter ocorrido enquanto estava a combater um tufão, a enfrentar o ataque de um tigre, ou a escalar uma montanha varrida pelo vento? Porque é que tinha de ter sido tão insípida, corriqueira e vulgar?
 
 Mas uma morte iminente, compreendeu, não teria estado de acordo consigo. Estava indubitavelmente destinado a morrer de uma maneira rápida, vulgar, suja e indolor, como morrera. E toda a sua vida devia ter-se passado na construção dessa maneira de morrer... uma vaga indicação da infância, uma razoável promessa nos seus tempos de escola, uma implacável certeza com a idade de trinta e dois anos.
-
-
-
 Tradução de Alexandra Santos Tavares
 
 Mais tarde, Thomas Blaine pensou na forma da sua morte e desejou que tivesse sido mais interessante. Porque não ocorrera ela enquanto estivesse a batalhar contra um ciclone, a enfrentar o ataque de um tigre, ou a escalar uma montanha fustigada pelo vento?
 
 Mas uma morte arrojada, apercebeu-se ele, seria algo deslocado para ele. Sem dúvida que estava escrito que teria de morrer na forma rápida, comum, confusa, e indolor que ocorrera. E toda a sua vida devia ter formado e moldado aquela morte aos trinta e dois anos.
-
-
-
 Estes lapsos são muito difíceis de compreender. O mais curioso é que um facto semelhante a este já tinha anteriormente ocorrido, com os números 402 e 433! Podem ver aqui: O Dia do Juízo Final e... a Páscoa Negra
-
-
-
 O meu muito obrigado ao Marcos, que detectou este problema e fez o favor de reportar, contribuindo assim para enriquecer este espaço de informação e partilha relativamente à Colecção Argonauta.
-
-
-
 
 "

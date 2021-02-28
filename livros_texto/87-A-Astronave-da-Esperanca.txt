@@ -8,17 +8,9 @@ Titulo-original: Seed of Light
 Tradutor1: Fernanda Pinto Rodrigues
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
 Autor: Edmund Cooper Título original: Seed of Light 1ª Edição: 1959 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Fernanda Pinto Rodrigues 
 
 Súmula - foi apresentada no livro 
@@ -31,6 +23,4 @@ Se a visão que muitos escritores de FC nos apresentam do futuro incorpora a ant
 É justamente essa feição que encontramos em A Astronave da Esperança, o primeiro romance de Edmund Cooper a ser apresentado em Portugal. É um livro em que, a par de uma leitura envolvente e apaixonante, o leitor encontra o sugestivo quadro de um mundo possível, em que é igualmente possível a felicidade. A Colecção Argonauta, trazendo até nós este grande escritor, vem apresentar, do mesmo passo, um romance inestimável. 
 
 Nota:  um livro muito interessante, que me prendeu a atenção por completo e que reli algumas vezes, sempre com a mesma sensação de encantamento. Uma excelente obra de ficção-científica.
-
-
 "

@@ -8,20 +8,9 @@ Titulo-original: Starshine
 Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1966
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
-
-
-
-
-
 Autor: Theodore Sturgeon
 
 Título original: Starshine
@@ -48,6 +37,4 @@ Em tempos, as armadas espaciais terrestres tinham atravessado o golfo que separa
 Mas a Terra mudara. A sua população, amontoada no planeta, trocara o espírito de aventura e a liberdade por um governo autocrático que lhe prometera conforto e ordem. E as armadas espaciais enferrujavam, inertes...
 Até que um pequeno grupo de pessoas - e um fanático e dedicado astronauta - viu que havia mais uma possibilidade de o Homem conquistar o seu lugar no Universo imenso. E para fazerem uso dela, era necessário que combatessem as formas que dominavam a Terra inteira!
 Eis o tema aliciante do nº198 da Colecção Argonauta - ÓRBITA INFINITA -, obra das mais vigorosas de um autor bem conhecido: Poul Anderson. 
-
-
 "

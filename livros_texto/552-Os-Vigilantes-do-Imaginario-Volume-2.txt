@@ -8,14 +8,9 @@ Titulo-original: Mindplayers
 Tradutor1: Alexandra Rolão Tavares
 Tradutor2: 
 Ano-edicao: 1987
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 
 Autor: Pat Cadigan
 
@@ -26,15 +21,9 @@ Capa: Rogério Silva
 Tradução: Alexandra Rolão Tavares
 
 Revisão: Dália Moniz 
-
-
-
 Súmula -
  foi apresentada no livro nº551 da Colecção, com a indicação de ""Ler nas
  páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
-
-
 - Miúda - disse o homem grande que se encontrava no sofá - ainda bem que és uma Exploradora de Sofrimentos e não uma Vendedora de Neuroses. - Voltou-se de costas e observou os dançarinos no tecto. Um ano antes, também eu me poderia ter voltado para os observar, levada pela música clássica suave que fluía sob a nossa conversa, mas Jascha tinha-me avisado para não cair nessa táctica. Deixar que os patrões em potência dispersem a nossa atenção dessa forma pode levar a que acabemos por concordar com todos os tipos de coisas sem darmos por isso, e os menos escrupulosos usam ainda sugestões hipnóticas enraizadas de símbolos. Ou usam subliminares para nos convencerem de que não queremos o trabalho, se ""eles"" não nos quiserem. Mantive assim a minha posição, inclinada para o lado esquerdo com as mãos dispostas à minha frente, a tentar resistir à vontade de mexer nos estofos de lamê. Só uma pessoa com o sucesso de Nelson Nelson podia ter sofás de lamê. Estava morta por olhar para o tecto; o que quer que aqueles dançarinos ali estivessem a fazer, ele estava a divertir-se imensamente. Mas continuei a observá-lo a examinar o holograma até ele reconhecer o meu auto-controlo e se voltar para mim. 
 
 - Muito bem - disse ele, enquanto alisava uma prega da sua túnica solta. As túnicas soltas estavam em moda agora; até eu estava a usar uma. - Muito bem. - Pressionou um botão na secretária baixa que se encontrava entre nós e a música desvaneceu-se. - O Bolshoi, há cerca de setenta anos, antes de eles perderem a importância. Agora são muito importantes. Gostas de bailado? 
@@ -57,8 +46,6 @@ Nelson Nelson riu-se.
 - NN, eu estou de acordo com o sistema óptico - disse rapidamente, antes que ele pudesse inspirar novamente. 
 - O sistema do J. Walter pode acomodar os orgânicos ou os substitutos. Mas eu vim aqui tendo conhecimento da tua política.
 - Então, não há problema. - O sorriso dele era ditoso. - É tão bom quando não há problemas. Detesto ter de mandar alguém fazer um trabalho e este depois não ser feito porque os seus olhos não estão em boas condições, ou os nervos ópticos estão infectados, e tenho de gastar ainda mais do que perdi para resolver a situação. 
-
-
 Nota do Editor
 
 Há muito que a Livros do Brasil tem sentido vontade de refrescar um pouco o aspecto gráfico das obras publicadas nas colecções Argonauta e Vampiro. Pensamos, com efeito, que os leitores fiéis destas duas colecções merecem:
@@ -66,28 +53,15 @@ Há muito que a Livros do Brasil tem sentido vontade de refrescar um pouco o asp
 - com recurso a tipos e corpos de letra que facilitem e tornem mais agradável a leitura;
 - E até a formatos dos livros que evitem a frequente divisão de uma mesma obra em vários volumes, com as consequências negativas que isso sempre acarreta para a fluência da leitura.
 Tentando conciliar todos estes objectivos, a Livros do Brasil orgulha-se pois de anunciar que, a partir do próximo mês de Março, estas duas colecções mudarão ligeiramente de formato e de aspecto gráfico, passando além disso a comportar a existência de volumes simples e duplos, consoante a dimensão de cada uma das obras nelas contidas. 
-
-
 ***
-
-
-
 Nota pessoal
 
 Há uma pormenor curioso que um coleccionador me mencionou relativo a esta edição, que penso não será do conhecimento público: é que alguns livros desta edição têm o número da lombada errado, aparecendo o número anterior, o 551, ao invés do correcto, que é o 552.
-
-
-
 
 Esta foi a última edição da Colecção Argonauta publicada pelos Livros do Brasil no formato tradicional. A partir deste número, aumentaram o tamanho dos livros e também o preço, tendo esta decisão sido o princípio do fim e constituído um exemplo, no meu entender, de uma extrema falta de sensibilidade por parte da editora Livros do Brasil. Aliás os factos falam por si: foram publicados apenas mais 10 números, que na altura não comprei. Para mim, a Colecção Argonauta tinha terminado neste número.
 
 Considero no entanto que este projecto não ficaria completo sem incluir também os restantes onze números publicados, que pelo menos em termos formais fazem realmente parte da colecção. Esta é a razão única pela qual são disponibilizados também aqui esses onze números seguintes, que entretanto adquiri, e que são realmente os últimos livros publicados pela  Colecção Argonauta.
 
 Colecção Argonauta do nº501 ao nº552
-
-
-
  
-
-
 "

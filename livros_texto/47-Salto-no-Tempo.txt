@@ -8,14 +8,9 @@ Titulo-original: Via Velpa
 Tradutor1: Mário-Henrique Leiria
 Tradutor2: 
 Ano-edicao: 1955
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
 Autor: Yves Dermeze
 Título original: Via Velpa
 1ª Edição: 1955
@@ -45,6 +40,4 @@ Os ""nós do Tempo"" existem na realidade? Sim, afirma Alik Hermes. Não, respon
 ""Salto no Tempo"", o romance que a Colecção Argonauta publicará a seguir, é a história de uma aventura fantástica, passada em dois universos distintos, de um homem que quer evitar que o seu próprio mundo se torne no futuro uma civilização de guerra e extermínio.
 Um romance de ficção-científica europeu, que foge ao tom de ironia e sátira tão frequentemente presente nas obras deste género escritas por  autores latinos, e pode alinhar ao dao das obras de FC norte-americanas conhecidas pelo à vontade com que se jogam nelas os destinos de galáxias inteiras, de civilizações completas.
 ""Salto no Tempo"" é um livro de Yves Dermeze que não receia confronto e que não deixará de ter por parte do público português o mesmo acolhimento entusiástico que teve junto do público francês, quando da sua publicação.
-
-
 "

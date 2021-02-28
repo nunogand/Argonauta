@@ -8,15 +8,9 @@ Titulo-original: The War Against the Rull
 Tradutor1: Fernanda Pinto Rodrigues
 Tradutor2: 
 Ano-edicao: 1959
+review: |
+  
 ---
-texto1
-"
-
-
-
-
-
-
 
 Autor: A. E. Van Vogt Título original: The War Against The Rull
 1ª Edição: 1959 Publicado na Colecção Argonauta em 1965  Capa: Lima de Freitas Tradução: Fernanda P. Rodrigues
@@ -32,6 +26,4 @@ A Guerra Contra o Rull, contém um enigma que confere ao romance um interesse pa
 Não será exagerado dizer-se que A Guerra Contra o Rull   se desenvolve por vezes num clima de pesadelo e suspensão, a que o leitor fica escravizado. A sua leitura, verdadeiramente empolgante, é por isso um grato prazer para todos os que apreciam as boas obras de FC. E, por esse motivo, A Guerra Contra o Rull, o melhor romance de A. E. Van Vogt, já traduzido em várias línguas, vai constituir um grande êxito junto dos leitores, cada dia mais numerosos, que honram com o seu interesse e preferência a Colecção Argonauta.
 
  
-
-
 "
