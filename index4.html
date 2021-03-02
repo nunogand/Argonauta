@@ -1,0 +1,35 @@
+---
+layout: index
+---
+
+<section class="section">
+    <div class="container">
+
+        <div class="columns is-multiline is-variable is-1">
+            {% assign linha = site.data.argonauta-alias %}
+            {% for dados in linha offset:10 limit:10%}
+
+
+
+
+            <div class="column is-one-fifth-desktop is-half-tablet">
+                <div class="card card-index3">
+                    
+                    <div class="card-image">
+                        <figure class="image">
+                            <a href="/livros/{{dados.Titulo-link | append: ".html" }}">
+                                <img loading=lazy src="/assets/front/{{dados.Titulo-link | append: ".jpg"}}"  alt="{{dados.Titulo}}">
+                            </a>
+                        </figure>
+                        <p class="subtitle is-size-5 has-text-weight-semibold has-text-black-bis is-family-monospace date">{{dados.Numero}}</p>
+                    </div>
+                    
+                </div>
+            </div>
+     
+            {% endfor %}
+        </div>
+
+
+    </div>
+</section>
