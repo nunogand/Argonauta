@@ -9,22 +9,14 @@ Titulo-original: The Voyage of the Space Beagle
 Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1950
+review: |
+  Na génese deste livro estiveram originalmente 4 contos publicados entre 1939 e 1943. Uma republicação em 1952 já traz o título Mission: Interplanetary.
+  Pormenor 1: esta capa não traz a informação do autor da mesma.
+  Pormenor 2: o título original faz referencia ao HMS Beagle, barco usado por Charles Darwin na sua viagem.
 ---
-Autor: A. E. Van Vogt
- 
-Título original: The Voyage of  the Space Beagle
- 
-1ª Edição: 1950
- 
-Publicado na Colecção Argonauta em 1954
- 
-Capa: Cândido Costa Pinto - curiosamente esta edição não traz a informação relativa ao autor da capa, mas a concepção é em tudo semelhante às anteriores, pelo que se presume que seja o mesmo autor. Além disso, na obra nº 13 a informação retorna e o autor continua a ser Costa Pinto. 
- 
-Tradução: Fernando Moutinho
 
 Súmula
- - foi apresentada no livro nº8 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
+ - foi apresentada no livro nº8 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 
 A. E. Van Vogt, o autor desta obra-prima de ficção-científica, é considerado desde há muito, nos Estados Unidos - a par de Robert Heinlein, Isaac Asimov e Edmond Hamilton - como um dos grandes, senão o maior, dos escritores que cultivam este género literário. Van Vogt, cuja produção de romances de ficção-científica é quase inestimável, na larga quantidade e na superior qualidade, é especialmente celebrado pelo valor das suas novelas, verdadeiros modelos de ""suspense"", duma imaginação incomparável, entre as quais avultam ""Far Centaurus"", ""The Monster"", ""Dormant"", ""The Search"", e ""Slan"".
 Vogt é um experimentado mestre na delicada e dificílima arte de combinar o dinamismo, a originalidade e o virtuosismo da narração, cujo equilíbrio caracateriza o que há de melhor nesta nova forma literária. Nascido no Canadá, vive agora em Los Angeles, cidade em que, com pouco mais de trinta anos, é considerado um autor de fecunda e prodigiosa fantasia. Mas não é só na América - onde o seu nome é conhecido de toda a gente - conseguiu Vogt extraordinária publicidade. Por todo o mundo civilizado o elevado nível das suas obras conquistou admiradores, e até imitadores, consagrando-se assim a sua glória, e ajudando a firmar definitivamente a literatura de ficção-científica.
@@ -36,4 +28,3 @@ Na heterógena equipagem daquele navio do espaço, em que cada homem era um espe
 A incontáveis anos-luz do seu globo natal, lá longe entre as estrelas, aqueles homens viram-se rodeados por estranhars formas de vida que ultrapassavam os seus mais horríveis pesadelos - um monstro de aparência felina, com uma coroa de tentáculos saindo-lhe dos ombros, que se alimentava de seres vivos; uma raça de criaturas com o aspecto de aves e de extraordinários poderes hipnóticos; uma ""Coisa"" diabólica e pavorosa que podia atravessar a matéria sólida e que pretendia fazer do navio a sua própria habitação; e, por último, um ""Ser"" ilimitado e difuso, gasoso e inteligente, que preenchia totalmente o espaço duma galáxia.
 Nas desesperadas lutas que travaram, com essas formidáveis e poderosas formas vivas, os exploradores constataram variadíssimos defeitos básicos nas suas ciências terrestres. E Grosvenor - o único de entre eles que lhes podia valer - quando se viu impedido de aplicar os seus conhecimentos, verificou com amargura que no espaço, como na Terra, o maior inimigo do Homem é o próprio Homem. 
 Eis o ambiente rico de peripécias e expressão verdadeiramente humana em que decorre a viagem do ""Galgo do Espaço"" na sua ""Missão Interplanetária"". 
-.
