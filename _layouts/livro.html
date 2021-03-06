@@ -103,6 +103,21 @@ layout: default
         {{ page.review | markdownify }}
       </article>
         
+<hr>
+      
+      <nav class="pagination is-rounded" role="navigation" aria-label="pagination">
+        {% if livros.anterior==nil %}
+        <a class="pagination-previous" disabled>Anterior</a>
+        {%else%}
+        <a class="pagination-previous" href="{{ livros.anterior | append:".html"}}">Anterior</a>
+        {%endif%}
+
+        {% if livros.seguinte==nil %}
+        <a class="pagination-next" disabled>Próximo</a>
+{%else%}
+        <a class="pagination-next" href="{{ livros.seguinte | append:".html"}}">Próximo</a>
+      {%endif%}
+      </nav>
 
       </div>
 
