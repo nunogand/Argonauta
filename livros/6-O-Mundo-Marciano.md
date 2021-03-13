@@ -10,7 +10,37 @@ Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1950
 review: |
-  Uma das obras-primas de Bradbury em que se conta a história da colonização de marte pelo Homem e sua subsequente destruição.
+  Uma das obras-primas de Bradbury em que se conta a história da colonização de marte pelo Homem e sua subsequente destruição numa série de contos.
+  <div class="content">
+  <ol type="i">
+  <li>O Foguetão</li>
+  <li>Ylla</li>
+  <li>Uma Noite de Verão</li>
+  <li>Os Homens da Terra</li>
+  <li>Aquele que Paga os Impostos</li>
+  <li>A Terceira Expedição</li>
+  <li>A Quarta Expedição</li>
+  <li>Os Pioneiros</li>
+  <li>A Manhã Verde</li>
+  <li>Os Gafanhotos</li>
+  <li>Encontro de Noite</li>
+  <li>A Praia</li>
+  <li>Intermezzo</li>
+  <li>Os Músicos</li>
+  <li>Um Caminho Através do Espaço</li>
+  <li>A Pia Baptismal</li>
+  <li>Usher II</li>
+  <li>Os Velhos</li>
+  <li>O Marciano</li>
+  <li>A Loja das Malas</li>
+  <li>Má Época Para o Negócio</li>
+  <li>O Público</li>
+  <li>As Cidades Silenciosas</li>
+  <li>Os Longos Anos</li>
+  <li>Hão-de Chegar as Chuvas Brandas</li>
+  <li>Os Novos Marcianos</li>
+  </ol>
+  </div>
 ---
 Autor: Ray Bradbury
  
