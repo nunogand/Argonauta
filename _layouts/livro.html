@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+<style>
+  .modal {
+    display: none;
+    background-color: yellow;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#modal {
+    display: none;
+    background-color: yellow;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+</style>
+
 
 {% assign a = page.url | remove: "/livros/" %}
 {% assign livros = site.data.argonauta-alias | find: "Titulo-link", a %}
@@ -87,15 +108,41 @@ layout: default
         </article>
       
         <hr>
+          
       <div class="columns has-background-link-light">
+        
+         
+
+          <div class="column is-half has-text-centered">
+            
+            
+            <a href="#" onclick="OpenMore(0)">
+              <img loading=lazy src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}"></a>
+
+              <div class="modal modal-background">
+                
+            
+                <img class="imagem-modal" src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
+              </div>
+      </div>
+
+        
+
         <div class="column is-half has-text-centered">
-      <img loading=lazy src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}" class="is-inline-block">
-        </div>
-        <div class="column is-half">
-          <img loading=lazy src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
+          
+        
+          <a href="#" onclick="OpenMore(1)">
+          <img loading=lazy src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}"></a>
+
+          <div class="modal">
+            
+            <img class="imagem-modal" src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
+            
+          </div>
         </div>
       
-      </div>      
+         
+    </div>   
 
       <hr class="borda_livro fundo">
       
@@ -127,3 +174,45 @@ layout: default
 
 </section>
 
+<script>
+//One Modal
+function OpenModal() {
+    //Get element with Id= "modal"
+    var modal = document.getElementById("modal");
+    //Change style to display = "block"
+    modal.style.display = "block";
+}
+
+//Multiple Modals
+function OpenMore(n) {
+    //Get elements with class="modal" into an array
+    var modal = document.getElementsByClassName("modal");
+    //Change style of modal number [n] to display = "block"
+    modal[n].style.display = "block";
+}
+
+//This will close the modal once you click on it
+window.addEventListener("click", function(event) {
+
+    //For single modal
+    var modal = document.getElementById("modal");
+    //If the click was on the modal the modal style display = "none"
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+
+    //For multiple modals
+    var more = document.getElementsByClassName("modal");
+    //i represents which modal. It will go through all modals
+    for (var i = 0; i < more.length; i++) {
+        //If the click was on the modal for one of the modals display = "none"
+        //for all of them
+        //more[i].onclick=function(){more[i].style.display = "none";}
+        if (event.target == more[i]) {
+            more[i].style.display = "none";
+        }
+    }
+});
+
+
+</script>
