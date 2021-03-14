@@ -9,19 +9,9 @@ Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1953
 review: |
-  
+  Alienígenas bons (e maus), uma tentativa de invasão da Terra, campos de força e a vitória inevitável da Terra.
+  Já agora, existe uma gralha no nome do autor presente no livro.
 ---
-
-  
-Autor: Bryan Berry (o nome do autor no livro tem uma gralha)
-Título original: From What Far Star
-1ª Edição: 1953
-Publicado na Colecção Argonauta em 1954
-Capa: Cândido Costa Pinto (mais uma vez 
-não é referida na edição o nome do autor da capa, mas como anteriormente
- deve ter sido por lapso, já na obra nº 13 volta a ser referido o nome 
-de Cândido Costa Pinto)
-Tradução: Fernando de Castro Ferro 
 
 Súmula
  - foi apresentada no livro nº11 da Colecção, com a indicação de ""Ler nas
