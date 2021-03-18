@@ -5,9 +5,13 @@ layout: default-livro
 {% assign a = page.url | remove: "/livros/" %}
 {% assign livros = site.data.argonauta-alias | find: "Titulo-link", a %}
 
-{% include opengraph-livro.html capa=/assets/front/{{livros.Titulo-link | append: ".jpg" }}' titulo={{ livros.Titulo }} autor={{ livros.Autor }} %}
+{% capture capa %}/assets/front/{{livros.Titulo-link | append: ".jpg" }}{% endcapture %}
+{% capture titulo %}{{ livros.Titulo }}{% endcapture %}
+{% capture autor %}{{ livros.Autor }}{% endcapture %}
+{% include opengraph-livro.html  capa=capa autor=autor titulo=titulo%}
 
-
+</head>
+<body>
 <section class="section ">
   <div class="container ">
     <div class="columns is-desktop is-vcentered is-flex-direction-row-reverse">
