@@ -1,6 +1,12 @@
 ---
-layout: default-livro
+
 ---
+<!DOCTYPE html>
+
+<html lang="pt-PT">
+
+  {% include head-livro.html %}
+
 
 {% assign a = page.url | remove: "/livros/" %}
 {% assign livros = site.data.argonauta-alias | find: "Titulo-link", a %}
@@ -158,7 +164,7 @@ layout: default-livro
 
 
 </section>
-
+  </body>
 <script>
 //One Modal
 function OpenModal() {
