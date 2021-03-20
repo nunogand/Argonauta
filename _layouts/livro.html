@@ -112,7 +112,7 @@
               <div class="modal modal-background">
                 
             
-                <img class="imagem-modal" src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
+                <img class="imagem-modal" height="1125" src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
               </div>
       </div>
 
@@ -126,7 +126,7 @@
 
           <div class="modal">
             
-            <img class="imagem-modal" src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
+            <img class="imagem-modal" height="1125" src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}" alt="{{livros.Titulo}}">
             
           </div>
         </div>
@@ -134,7 +134,7 @@
          
     </div>   
 
-      <hr class="borda_livro fundo">
+      <hr class="borda_livro">
       
         <article class="mx-4 my-4">
         {{ page.review | markdownify }}
@@ -165,6 +165,7 @@
 </section>
   </body>
 <script>
+
 //One Modal
 function OpenModal() {
     //Get element with Id= "modal"
@@ -187,9 +188,11 @@ window.addEventListener("click", function(event) {
     //For single modal
     var modal = document.getElementById("modal");
     //If the click was on the modal the modal style display = "none"
-    if (event.target == modal) {
+    if (event.target.className == modal) {
         modal.style.display = "none";
     }
+    
+    
 
     //For multiple modals
     var more = document.getElementsByClassName("modal");

@@ -6,7 +6,9 @@ body
 
 //100vh para o modal dos livros
 .imagem-modal
-  height: 100vh
+  height: auto
+  max-width: 100%
+
   
 .modal
   background: rgba( 255, 255, 255, 0.75 ) !important
@@ -16,7 +18,7 @@ body
   position: fixed
   display: none
   -webkit-backdrop-filter: blur( 10.0px ) !important
-
+  overflow-y: auto
   //coluna da imagem dos livros
 .livros
   background-position: center top
