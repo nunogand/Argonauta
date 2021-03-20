@@ -8,6 +8,16 @@ layout: default
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
 {% assign livros-autor = site.data.argonauta-alias | find: "alias", b %}
 
+
+<meta property="og:type" content="books.author">
+<meta property="og:title" content="{{site.data.autores[b].nome-real}}">
+<meta property="og:url" content="{{page.url}}">
+<meta property="og:image" content="/assets/autores/{{b |append:".jpg"}}">
+{% for gg in livros %}
+      {% assign link = site.data.argonauta-alias | find: "Titulo" , gg.name %}
+<meta property="books:book" content="/livros/{{ gg.Titulo-link | append: ".html" }}">
+{%endfor%}
+
 <style>
   body {
     background-color: #ffb53d;
