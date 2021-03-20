@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
-
+<!--LIQUID logic-->
 
 {% assign b = page.url | remove: "/autores/" %}
 {% assign autor = site.data.autores | find: "alias", b %}
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
 {% assign livros-autor = site.data.argonauta-alias | find: "alias", b %}
+<!--end LIQUID logic-->
 
-
+<!--opengraph-->
 <meta property="og:type" content="books.author">
 <meta property="og:title" content="{{site.data.autores[b].nome-real}}">
 <meta property="og:url" content="{{page.url}}">
 <meta property="og:image" content="/assets/autores/{{b |append:".jpg"}}">
-{% for gg in livros %}
-      {% assign link = site.data.argonauta-alias | find: "Titulo" , gg.name %}
+{% for gg in livros %}     {% assign link = site.data.argonauta-alias | find: "Titulo" , gg.name %}
 <meta property="books:book" content="/livros/{{ gg.Titulo-link | append: ".html" }}">
 {%endfor%}
+<!--end opengraph-->
 
 <style>
   body {
@@ -26,6 +27,11 @@ layout: default
     background-size: cover;
   }
 </style>
+
+
+</head>
+<body>
+
 
 
 <section class="container">
@@ -39,9 +45,10 @@ layout: default
       <hr>
     </div>
     <div class="column is-flex is-align-items-center has-text-centered">
-
-      <blockquote class="bloco is-inline-block">content </blockquote>
-    </div>
+<!--quote
+      <blockquote class="bloco is-inline-block">{{content}} </blockquote>
+    -->
+  </div>
   </div>
 
 
@@ -62,7 +69,8 @@ layout: default
 
           <div class="book">
             <div class="book__page book__page--1">
-              <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}">
+              <a href="/livros/{{g.Titulo-link | append:".html"}}">
+              <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}"></a>
             </div>
 
             <div class="book__page book__page--2">
@@ -80,7 +88,7 @@ layout: default
 
                   <p class="page__content-credits">
                     Capa
-                    <span>{{g.capa}}</span>
+                    <span>{{g.Capa}}</span>
                   </p>
                   <hr class="borda_livro fundo">
                   <div class="page__content-copyright">
