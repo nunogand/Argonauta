@@ -1,0 +1,228 @@
+---
+---
+<!DOCTYPE html>
+
+<html lang="pt-PT">
+
+{% include head-livro.html %}
+
+
+{% assign a = page.url | remove: "/livros/" %}
+{% assign livros = site.data.argonauta-alias | find: "Titulo-link", a %}
+{% capture capa %}/assets/front/{{livros.Titulo-link | append: ".jpg" }}{% endcapture %}
+{% capture titulo %}{{ livros.Titulo }}{% endcapture %}
+{% capture autor %}{{ livros.Autor }}{% endcapture %}
+{% include opengraph-livro.html  capa=capa autor=autor titulo=titulo%}
+
+
+
+</head>
+
+<body>
+  <section class="hero has-background-grey-lighter is-small">
+    <div class="hero-body">
+      <div class="columns is-variable is-6" id="hero">
+        <div class="column is-one-third is-offset-1" id="Capa-do-livro">
+          <img src="/assets/front/{{livros.Titulo-link | append: ".jpg" }}" alt="" style="margin-bottom:-50px">
+        </div>
+        <div class="column" id="Informação">
+          <p class="subtitle has-text-left">Número: {{ livros.Numero }} </p>
+
+          <h2 class="title is-spaced has-text-left">{{ livros.Titulo }}</h2>
+          <hr>
+
+          <article class="mx-4 my-4">
+            {{ page.review | markdownify }}
+          </article>
+
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    
+
+    <div class="container">
+      
+      <div class="columns is-variable is-6 mt-6" id="conteudo">
+        <div class="column is-four-fifths">
+          <article class="subtitle is-family-monospace mx-6 is-size-6 mb-6">
+            {{ content }}
+          </article>
+          <hr>
+          <div class="columns has-background-link-light">
+            <div class="column is-one-third" id="Detalhes">
+              <h3 class="pb-4 is-size-5">Detalhes do livro:</h3>
+              <ul>
+                <li><span class="has-text-danger">Autor: </span>
+                  <a
+                      href="/autores/{{ livros.alias |append: ".html" }}">{{ livros.Autor }}</a></li>
+                <li><span class="has-text-danger">Co-Autor: </span>
+                  {{ livros.Co-autor }}</li>
+                <li><span class="has-text-danger">Título original: </span>
+                  {{ livros.Titulo-original }}</li>
+                <li><span class="has-text-danger">Edição original: </span>
+                  </span>{{ livros.Ano-de-edicao }}</li>
+                <li><span class="has-text-danger">Série: </span>
+                  {{ livros.Serie }}</li>
+                <li><span class="has-text-danger">Tradutor: </span>
+                  {{ livros.Tradutor }}</li>
+                <li><span class="has-text-danger">Ano de publicação: </span>
+                  {{ livros.Ano-de-Publicacao }}</li>
+                <li><span class="has-text-danger">Páginas: </span>
+                  {{ livros.pags }}</li>
+                <li><span class="has-text-danger">Capa: </span>
+                  {{ livros.Capa }}</li>
+              </ul>
+
+            </div>
+
+            <div class="column two-thirds" id="imagens-modal">
+              <h3 class="pb-4 is-size-5">Imagens</h3>
+<div class="columns">
+  <div class="column is-half has-text-centered">
+              <a href="#" onclick="OpenMore(0)">
+                <img loading=lazy src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}"
+                  alt="{{livros.Titulo}}"></a>
+
+              <div class="modal modal-background">
+
+
+                <img class="imagem-modal" height="1125" src="/assets/front/{{livros.Titulo-link | append: ".jpg"}}"
+                  alt="{{livros.Titulo}}">
+              </div>
+            </div>
+
+
+
+            <div class="column is-half has-text-centered">
+
+
+              <a href="#" onclick="OpenMore(1)">
+                <img loading=lazy src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}"
+                  alt="{{livros.Titulo}}"></a>
+
+              <div class="modal">
+
+                <img class="imagem-modal" height="1125" src="/assets/back/{{livros.Titulo-link | append: ".jpg"}}"
+                  alt="{{livros.Titulo}}">
+
+              </div>
+            </div>
+            </div>
+
+
+          </div>
+
+
+          <hr>
+        </div>
+      </div>
+      
+      
+     
+      <div class="column">
+          <article class="media">
+            <figure class="media-left">
+              <p class="image is-48x48">
+                <img class="is-rounded" src="https://picsum.photos/48/48">
+              </p>
+            </figure>
+            <div class="media-content">
+              <div class="content">
+                <p>
+                  <strong>{{ livros.Autor }}</strong> na Colecção Argonauta
+                </p>
+              </div>
+            </div>
+          </article>
+          <hr>
+
+          {% assign lista-autor = site.data.argonauta-alias | where: "Autor", autor %}
+          {% for g in lista-autor %}
+          {% assign listagem = site.data.argonauta-alias | find: "Autor" , g.name %}
+    
+          <a href="/livros/{{g.Titulo-link | append:".html"}}">
+            {{autor}} {{listagem.name | inspect}}
+{%endfor%}
+          </div>
+      </div>
+
+
+
+  </section>
+
+  <nav class="pagination is-rounded has-background-white-ter px-4 py-4" role="navigation" aria-label="pagination">
+    {% if livros.anterior==nil %}
+    <a class="pagination-previous" disabled>Anterior</a>
+    {%else%}
+    <a class="pagination-previous" href="{{ livros.anterior | append:".html"}}">Anterior</a>
+    {%endif%}
+
+    {% if livros.seguinte==nil %}
+    <a class="pagination-next" disabled>Próximo</a>
+{%else%}
+    <a class="pagination-next" href="{{ livros.seguinte | append:".html"}}">Próximo</a>
+  {%endif%}
+  </nav>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Colecção Argonauta</strong> com algum texto que depois irei inventar</a>.
+      </p>
+    </div>
+  </footer>
+
+
+
+
+<script>
+  //One Modal
+  function OpenModal() {
+    //Get element with Id= "modal"
+    var modal = document.getElementById("modal");
+    //Change style to display = "block"
+    modal.style.display = "block";
+  }
+
+  //Multiple Modals
+  function OpenMore(n) {
+    //Get elements with class="modal" into an array
+    var modal = document.getElementsByClassName("modal");
+    //Change style of modal number [n] to display = "block"
+    modal[n].style.display = "block";
+  }
+
+  //This will close the modal once you click on it
+  window.addEventListener("click", function (event) {
+
+    //For single modal
+    var modal = document.getElementById("modal");
+    //If the click was on the modal the modal style display = "none"
+    if (event.target.className == modal) {
+      modal.style.display = "none";
+    }
+
+
+
+    //For multiple modals
+    var more = document.getElementsByClassName("modal");
+    //i represents which modal. It will go through all modals
+    for (var i = 0; i < more.length; i++) {
+      //If the click was on the modal for one of the modals display = "none"
+      //for all of them
+      //more[i].onclick=function(){more[i].style.display = "none";}
+      if (event.target == more[i]) {
+        more[i].style.display = "none";
+      }
+    }
+  });
+</script>
+  
+</body>
+</html>
