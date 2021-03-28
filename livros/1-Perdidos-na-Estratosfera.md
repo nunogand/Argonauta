@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 1
 title: Perdidos na Estratosfera
 Autor1: A. M. Low
