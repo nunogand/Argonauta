@@ -144,7 +144,7 @@
 
           {% assign lista-autor = site.data.argonauta-alias | where: "Autor", autor %}
           {% for g in lista-autor %}
-          {% assign listagem = site.data.argonauta-alias | find: "Autor" , g.name %}
+          {% assign listagem = site.data.argonauta-alias | find: "Titulo" , g.name %}
     
           <a href="/livros/{{g.Titulo-link | append:".html"}}">
             {{autor}} {{listagem.name | inspect}}
