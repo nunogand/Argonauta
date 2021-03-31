@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 9
 title: Missão Interplanetária
 Autor1: A. E. Van Vogt

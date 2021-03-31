@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 7
 title: Inconstância do Amanhã
 Autor1: F. G. Rayer

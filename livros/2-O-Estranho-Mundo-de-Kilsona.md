@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 2
 title: O Estranho Mundo de Kilsona
 Autor1: Festus Pragnell

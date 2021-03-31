@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-{% assign b = page.url | remove: "/autores/" %}
-{% assign autor = site.data.autores | find: "alias", b %}
+{% assign b = page.alias %}
+
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
 
 
 <section class="container">
     <div class="columns autores-hero">
       <div class="column is-5 is-offset-1 is-align-self-flex-end has-text-centered">
-        <h1 class="is-size-1 is-inline-mobile has-text-weight-bold">{{ site.data.autores.[b].nome-real }}</h1>
+        <h1 class="is-size-1 is-inline-mobile has-text-weight-bold">{{ site.data.autores[b].nome-real }}</h1>
       </div>
       <div class="column pb-6">
         <blockquote class="bloco"><p>
-          {{ site.data.autores.[b].quote }}
+          {{ site.data.autores[b].quote }}
           </p>
       </blockquote>
       </div>
@@ -24,7 +24,7 @@ layout: default
         <div class="columns">
           <div class="column is-full baixo">
       <figure class="image">
-      <img class="is-rounded cima" src="/assets/autores/{{b |append:".jpg" alt="{{ site.data.autores.[b].nome-real}}">
+      <img class="is-rounded cima" src="/assets/autores/{{b |append:".jpg" alt="{{ site.data.autores[b].nome-real}}">
     </figure>
          </div>
          </div>
@@ -36,20 +36,19 @@ layout: default
                   <span class="icon"><img loading=lazy src="/assets/icons/nascimento.svg" alt="nascimento">
                     
                   </span><span>
-                {{ site.data.autores.[b].nascido}}</span></li>
+                {{ site.data.autores[b].nascido}}</span></li>
               <li>
                 <span class="icon-text">
                   <span class="icon"><img loading=lazy src="/assets/icons/morte.svg" alt="morte">
                     
                   </span>
-                {{ site.data.autores.[b].obito}}</span></span></li>
+                {{ site.data.autores[b].obito}}</span></span></li>
             </ul>
         </div>
         </div>
       </div>
       <div class="column">
     <div class="columns is-vcentered is-mobile is-multiline borda">
-
       {% for g in livros %}
       {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}      
       

@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 6
 title: O Mundo Marciano
 Autor1: Ray Bradbury
@@ -11,6 +11,7 @@ Tradutor2:
 Ano-edicao: 1950
 review: |
   Uma das obras-primas de Bradbury em que se conta a história da colonização de marte pelo Homem e sua subsequente destruição numa série de contos.
+listagem: |
   <div class="content">
   <ol type="i">
   <li>O Foguetão</li>

@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 10
 title: Exploradores do Universo
 Autor1: Jon J. Deegan

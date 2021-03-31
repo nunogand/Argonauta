@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 8
 title: O Veneno de Marte
 Autor1: Paul French

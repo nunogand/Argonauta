@@ -1,5 +1,5 @@
 ---
-layout: livro
+layout: livro-2
 Número: 4
 title: A Nave Sideral
 Autor1: Murray Leinster
