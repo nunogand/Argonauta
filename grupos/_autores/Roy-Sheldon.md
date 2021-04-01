@@ -1,3 +1,5 @@
----Autor: Roy Sheldon
+---
+layout: autores4
+Autor: Roy Sheldon
 alias: Roy-Sheldon
 ---

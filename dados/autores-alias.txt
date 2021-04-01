@@ -121,7 +121,7 @@ C-M-Kornbluth
 C-J-Cherryh
 C-H-Badet
 Bulwer-Lytton
-Bryan-Bery
+Bryan-Berry
 Bruce-Sterling-(org)
 Brian-Aldiss
 Boris-Strugatski

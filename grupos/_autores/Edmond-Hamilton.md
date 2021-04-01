@@ -1,3 +1,5 @@
----Autor: Edmond Hamilton
+---
+layout: autores4
+Autor: Edmond Hamilton
 alias: Edmond-Hamilton
 ---

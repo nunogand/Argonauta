@@ -230,7 +230,7 @@ Ano-edicao: 1966
 
 Número: 12
 Título: Os Humanóides Atacam
-Autor1: Bryan Bery
+Autor1: Bryan Berry
 Autor2: 
 Ano-Publicacao: 1954
 Titulo-original: From What Far Star

@@ -1,3 +1,0 @@
----Autor: Bryan Bery
-alias: Bryan-Bery
----

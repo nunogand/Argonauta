@@ -1,0 +1,121 @@
+---
+---
+<!--Head com componentes comuns a todo o site-->
+{% include head.html %}
+
+<!-- Site custom CSS autores -->
+<link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/autores.css">
+
+<!--LIQUID logic para opengraph-->
+
+{% assign b = page.url | remove: "/autores/" %}
+{% assign autor = site.data.autores | find: "alias", b %}
+{% assign livros = site.data.argonauta-alias | where: "alias", b %}
+{% assign livros-autor = site.data.argonauta-alias | find: "alias", b %}
+<!--end LIQUID logic-->
+
+<!--opengraph-->
+<meta property="og:type" content="books.author">
+<meta property="og:title" content="{{site.data.autores[b].nome-real}}">
+<meta property="og:url" content="{{page.url}}">
+<meta property="og:image" content="/assets/autores/{{b |append:".jpg"}}">
+{% for gg in livros %}     {% assign link = site.data.argonauta-alias | find: "Titulo" , gg.name %}
+<meta property="books:book" content="/livros/{{ gg.Titulo-link | append: ".html" }}">
+{%endfor%}
+<!--end opengraph-->
+</head>
+<body>
+
+
+
+
+<section class="container">
+  <div class="columns">
+    <div class="column is-one-quarter has-text-centered">
+      <hr>
+      <figure class="image is-128x128 is-inline-block">
+        <img class="is-rounded" src="/assets/autores/{{b |append:".jpg"}}" alt="{{ site.data.autores[b].nome-real}}">
+      </figure>
+      <h1 class="is-size-3">{{ site.data.autores[b].nome-real }}</h1>
+      <hr>
+    </div>
+    <div class="column is-flex is-align-items-center has-text-centered">
+<!--quote
+      <blockquote class="bloco is-inline-block">{{content}} </blockquote>
+    -->
+  </div>
+  </div>
+
+
+  <div class="container is-fluid">
+    <div class="columns is-multiline is-centered is-mobile">
+
+
+
+
+
+      {% for g in livros %}
+      {% assign link = site.data.argonauta-alias | find: "Titulo" , g.name %}
+      <div class="column">
+
+
+        <!--início do cartão-->
+        <div class="capa">
+
+          <div class="book">
+            <div class="book__page book__page--1">
+              <a href="/livros/{{g.Titulo-link | append:".html"}}">
+              <img loading=lazy src="/assets/front/{{g.Titulo-link | append:".jpg"}}" alt="{{g.Titulo}}"></a>
+            </div>
+
+            <div class="book__page book__page--2">
+              <div class="book__page-front">
+                <div class="page__content">
+                  <hr class="borda_livro">
+                  <h2 class="page__content-author">{{g.Autor}}</h2>
+                  <h1 class="page__content-book-title">{{g.Titulo}}</h1>
+
+
+                  <p class="page__content-credits">
+                    Tradução
+                    <span>{{g.Tradutor}}</span>
+                  </p>
+
+                  <p class="page__content-credits">
+                    Capa
+                    <span>{{g.Capa}}</span>
+                  </p>
+                  <hr class="borda_livro fundo">
+                  <div class="page__content-copyright">
+                    <div class="logo-argonauta"></div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+      {% endfor %}
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+  </div>
+</section>
+
+  
+</body>
+</html>
