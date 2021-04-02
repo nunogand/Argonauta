@@ -1,5 +1,5 @@
 ---
-layout: autores4
+semlayout: autores4
 Autor: Bryan Berry
 alias: Bryan-Berry
 ---

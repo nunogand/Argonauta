@@ -1,5 +1,5 @@
 ---
-layout: autores4
+semlayout: autores4
 title: Hunt Collins
 alias: Hunt-Collins
 ---

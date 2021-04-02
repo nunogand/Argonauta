@@ -1,5 +1,5 @@
 ---
-layout: autores4
+semlayout: autores4
 title: Jon J Deegan
 alias: Jon-J-Deegan
 ---

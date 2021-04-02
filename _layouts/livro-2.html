@@ -23,16 +23,34 @@
 
 <body>
 
-  <section class="hero has-background-grey-lighter is-small">
+  <section class="hero is-small" style="background-color:#ededa6;">
     <div class="hero-body">
       <div class="columns is-variable is-6" id="hero">
         <div class="column is-one-third is-offset-1" id="Capa-do-livro">
           <img src="/assets/front/{{livros.Titulo-link | append: ".jpg" }}" alt="" style="margin-bottom:-50px">
         </div>
         <div class="column" id="Informação">
-          <p class="subtitle has-text-left">Número: {{ livros.Numero }} </p>
+          <div class="level">
+            <div class="level-left">
+              <div class="level-item">
+                <figure class="media-left">
+                  <p class="image is-48x48">
+                    <img class="is-rounded" src="/assets/autores/{{ livros.alias |append:".jpg"}}"
+                      alt="{{ livros.Autor }}">
+                  </p>
+                </figure>
+              </div>
+              <div class="level-item">
+                <p>
+                  <h1 class="is-size-3 has-text-left ">{{ livros.Autor }}</h1>
+                </p>
+              </div>
+            </div>
+          </div>
 
-          <h2 class="title is-spaced has-text-left">{{ livros.Titulo }}</h2>
+                   
+          <h2 class="title is-spaced has-text-left has-text-weight-bold">{{ livros.Titulo }}</h2>
+          <p class="subtitle has-text-left is-size-6">Número: {{ livros.Numero }} </p>
           <hr>
 
           <article class="mx-4 my-4">
@@ -124,6 +142,7 @@
             </div>
           </div>
           {%if page.listagem%}
+          <hr>
           <div class="columns has-background-grey-lighter">
             <div class="column" id="Detalhes2">
               
@@ -161,7 +180,7 @@
               {% for delta in listagem %}
               {% assign argonauta = site.data.argonauta-alias | find: "Titulo" , delta.name %}
 
-              <li>{{delta.Numero}} - {{delta.Titulo}}</li>
+              <li class="py-1">{{delta.Numero}} - {{delta.Titulo}}</li>
               {%endfor%}
             </ul>
 
