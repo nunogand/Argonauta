@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1959
 review: |
   
+listagem: |
 ---
 
 Autor: Leonid Onochko Título original: Sur la Plànete Orange (Na Orenjevoy Planete/На Оранжевой Планете) 1ª Edição: 1959 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: Rogério Fernandes

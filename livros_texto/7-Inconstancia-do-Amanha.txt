@@ -9,7 +9,8 @@ Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1951
 review: |
-  
+    O título francês é bem mais sugestivo: "Le lendemain de la machine". Porque é disso que se trata.
+listagem: |
 ---
 Autor: F. G. Rayer
  

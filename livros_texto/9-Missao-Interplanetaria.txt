@@ -9,7 +9,10 @@ Tradutor1: Fernando Moutinho
 Tradutor2: 
 Ano-edicao: 1950
 review: |
-  
+  Na génese deste livro estiveram originalmente 4 contos publicados entre 1939 e 1943. Uma republicação em 1952 já traz o título Mission: Interplanetary.
+  Pormenor 1: esta capa não traz a informação do autor da mesma.
+  Pormenor 2: o título original faz referencia ao HMS Beagle, barco usado por Charles Darwin na sua viagem.
+listagem: |
 ---
 Autor: A. E. Van Vogt
  

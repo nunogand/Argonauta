@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1955
 review: |
   
+listagem: |
 ---
 Autor: Pierre Versins Título original: En Avant, Mars!...1ª Edição: 1955 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Álvaro de Azurara   Súmula - foi apresentada no livro nº37 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta: - Os Marcianos vão invadir a Terra, já sabia?
 

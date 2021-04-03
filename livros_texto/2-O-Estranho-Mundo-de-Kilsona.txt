@@ -9,7 +9,8 @@ Tradutor1: José da Natividade Gaspar
 Tradutor2: 
 Ano-edicao: 1935
 review: |
-  
+  Na realidade o título original diz respeito à primeira publicação do romance na revista Wonder Stories de Julho a Setembro de 1935. O livro já saiu com o nome The Green Man of Kilsona.
+listagem: |
 ---
 
 Autor: Festus Pragnell

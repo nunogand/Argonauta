@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1965
 review: |
   
+listagem: |
 ---
 Súmula - foi apresentada no livro 
 nº100 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula

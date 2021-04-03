@@ -10,6 +10,7 @@ Tradutor2: Manuel de Sepúlveda
 Ano-edicao: 1952
 review: |
   
+listagem: |
 ---
 Autor: Isaac Asimov
 Título original: The Currents of Space

@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1954
 review: |
   
+listagem: |
 ---
 Autor: Paul French - (Pseudónimo de Isaac Asimov, que continua as aventuras de Lucky Starr) 
 Título original: Lucky Starr and the Oceans of Venus

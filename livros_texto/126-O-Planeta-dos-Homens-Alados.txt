@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1958
 review: |
   
+listagem: |
 ---
 Autor: Poul Anderson
 Título original: War of the Wing-Men

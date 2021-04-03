@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1957
 review: |
   
+listagem: |
 ---
 
 Autor: Stefan WulTítulo original: Niourk 1ª Edição: 1957 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  

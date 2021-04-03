@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1974
 review: |
   
+listagem: |
 ---
 Autor: A.E. Van Vogt
 Título original: Supermind

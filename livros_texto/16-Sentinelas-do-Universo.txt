@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1953
 review: |
   
+listagem: |
 ---
 Autor: Eric Frank Russell (o nome do autor na capa tem uma gralha)
 Título original. Sentinels From Space

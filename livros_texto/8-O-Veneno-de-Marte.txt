@@ -9,7 +9,8 @@ Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1952
 review: |
-  
+  Facto importante: Paul French é um pseudónimo de Isaac Asimov.
+  O livro é o primeiro volume da série Lucky Starr, uma série de seis romances de ficção científica escritos para uma faixa etária mais jovem e que só mais tarde Asimov assumiu como da sua autoria.
 ---
 Autor: Paul French (pseudónimo de Isaac Asimov)
 Título original: David Starr : Space Ranger

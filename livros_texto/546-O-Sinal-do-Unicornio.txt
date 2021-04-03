@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1975
 review: |
   
+listagem: |
 ---
 
 Autor: Roger Zelazny

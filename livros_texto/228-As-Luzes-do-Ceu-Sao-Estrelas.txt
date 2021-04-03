@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1953
 review: |
   
+listagem: |
 ---
 Autor: Fredric Brown
 Título original: The Lights in the Sky Are Stars

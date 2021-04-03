@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1929
 review: |
   
+listagem: |
 ---
 
 Autor: Edmond Hamilton - (Edmond Hamilton - Tal como sucedeu com o livro intitulado A Última Cidade da Terra, (nº 3), a Colecção Argonauta escreve novamente nesta obra o nome do autor de modo incorrecto, já que ele é ""Edmond"" e não ""Edmund"") Título original: Outside The Universe

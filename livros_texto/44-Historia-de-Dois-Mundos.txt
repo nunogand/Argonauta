@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1951
 review: |
   
+listagem: |
 ---
 Autor: John MacDonald Título original: Planet of the Dreamers 1ª Edição: 1951 Publicado na Colecção Argonauta em 1958  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
 

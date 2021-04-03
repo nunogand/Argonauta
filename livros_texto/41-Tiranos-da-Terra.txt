@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1956
 review: |
   
+listagem: |
 ---
 Autor: Christian Russell Título original: Les Voyants 1ª Edição: 1956 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº40 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 

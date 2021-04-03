@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1952
 review: |
   
+listagem: |
 ---
 Autor: Isaac Asimov Título original: Foundation and Empire 1ª Edição: 1952 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Alfredo Margarido
 Súmula - foi apresentada no livro nº85 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:   

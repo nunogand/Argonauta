@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1950
 review: |
   
+listagem: |
 ---
 Autor: Ray BradburyTítulo original: The Golden Apples of the Sun 1ª Edição: 1950 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
 

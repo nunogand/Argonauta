@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1960
 review: |
   
+listagem: |
 ---
 
 Autor: A. Higon Título original: La Machine du Povoir

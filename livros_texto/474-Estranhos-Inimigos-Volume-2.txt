@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1979
 review: |
   
+listagem: |
 ---
 
 Autor: Robert Asprin

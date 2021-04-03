@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1962
 review: |
   
+listagem: |
 ---
 
 Autor: Fred Hoyle e John Elliot Título original: A For Andromeda

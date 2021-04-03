@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1941
 review: |
   
+listagem: |
 ---
 Autor: Robert Heinlein Título original: Sixth Column  1ª Edição: 1941 Publicado na Colecção Argonauta em 1955 Capa: Cândido Costa Pinto 
 Tradução de: Manuel de Sepúlveda

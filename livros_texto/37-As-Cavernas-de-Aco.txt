@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1954
 review: |
   
+listagem: |
 ---
 Autor: Isaac Asimov Título original: The Caves of Steel1ª Edição: 1954 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
  Súmula -

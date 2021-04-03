@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1959
 review: |
   
+listagem: |
 ---
 Autor: Edmund Cooper Título original: Seed of Light 1ª Edição: 1959 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Fernanda Pinto Rodrigues 
 

@@ -10,6 +10,7 @@ Tradutor2: Raul Correia
 Ano-edicao: 1956
 review: |
   
+listagem: |
 ---
 Autor: Stefan Wul
 Título original: Retour à ""O"" 1ª Edição: 1956 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Maria Adelaide Correia Freire e Raúl Correia  

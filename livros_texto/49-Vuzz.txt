@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1955
 review: |
   
+listagem: |
 ---
 Autor: P. A. Hourey Título original: Vuzz... 1ª Edição: 1955 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
 

@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1954
 review: |
   
+listagem: |
 ---
 Autor: Paul French - (Pseudónimo de Isaac Asimov) - O nome do pseudónimo tem todavia uma gralha no nome, que na capa corresponde ao nome da personagem do livro.
 Título original: Lucky Starr and the Pirates of the Asteroids

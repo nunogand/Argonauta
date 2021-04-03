@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1960
 review: |
   
+listagem: |
 ---
 Autor: Kurt Steiner
 Título original: Aux Armes d'Ortog

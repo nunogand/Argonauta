@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1956
 review: |
   
+listagem: |
 ---
 
 Autor: Robert HeinleinTítulo original: Time For The Stars1ª Edição: 1956 Publicado na Colecção Argonauta em 1961 Capa: Lima de FreitasTradução: Mário Henrique Leiria  

@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1954
 review: |
   
+listagem: |
 ---
 Autor: C. H. Badet Título original: La Dixième Planète 1ª Edição: 1954 Publicado na Colecção Argonauta em 1958  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº44 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 

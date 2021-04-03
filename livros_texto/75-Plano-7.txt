@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1959
 review: |
   
+listagem: |
 ---
 
 Autor: Mordecai Roshwald Título original: Level Seven 1ª Edição: 1959 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: Alfredo Margarido

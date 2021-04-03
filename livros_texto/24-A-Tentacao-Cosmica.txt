@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1954
 review: |
   
+listagem: |
 ---
 Autor: Roger Sorez (o nome do autor na capa tem uma gralha)  
 Título original: La Tentacion Cosmique

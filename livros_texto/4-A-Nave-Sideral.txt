@@ -9,7 +9,8 @@ Tradutor1: Fernando de Castro Ferro
 Tradutor2: 
 Ano-edicao: 1949
 review: |
-  
+  Distopia na qual toda a população é controlada por um circuito electrónico implantado à nascença. A partir daqui segue-se o óbvio.
+listagem: |
 ---
 
 Autor: Murray LeinsterTítulo original: The Last Space Ship

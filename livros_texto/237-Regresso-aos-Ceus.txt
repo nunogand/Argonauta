@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1970
 review: |
   
+listagem: |
 ---
 Autor: Edmond Hamilton
 Título original: Return to the Stars

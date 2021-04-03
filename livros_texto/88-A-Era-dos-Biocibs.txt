@@ -10,6 +10,7 @@ Tradutor2:
 Ano-edicao: 1960
 review: |
   
+listagem: |
 ---
 
 Autor: Jimmy Guieu Título original: L'Ere des Byocibs 1ª Edição: 1960 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Eng. Gomes dos Santos 

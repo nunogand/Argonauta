@@ -10,6 +10,7 @@ Tradutor2: Maria Isabel Morna Braga
 Ano-edicao: 1964
 review: |
   
+listagem: |
 ---
 
 Autor: Ray Bradbury Título original: The Machineries of Joy
