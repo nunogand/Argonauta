@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 326
 title: A Conquista das Estrelas 2º volume
 Autor: James P Hogan
@@ -16,4 +16,4 @@ Titulo-link: 326-A-Conquista-das-Estrelas-2-volume
 Capa: António Pedro
 pags: 214
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

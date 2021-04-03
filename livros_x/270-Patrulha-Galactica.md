@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 270
 title: Patrulha Galáctica
 Autor: E E Doc Smith
@@ -16,4 +16,4 @@ Titulo-link: 270-Patrulha-Galactica
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

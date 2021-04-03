@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 433
 title: Páscoa Negra
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 433-Pascoa-Negra
 Capa: António Pedro
 pags: 186
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

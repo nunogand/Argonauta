@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 250
 title: Para Além do Futuro
 Autor: C M Kornbluth
@@ -16,4 +16,4 @@ Titulo-link: 250-Para-Alem-do-Futuro
 Capa: Manuel Dias
 pags: 200
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

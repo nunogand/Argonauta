@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 7
 title: Inconstância do Amanhã
 Autor: F G Rayer
@@ -16,4 +16,4 @@ Titulo-link: 7-Inconstancia-do-Amanha
 Capa: Cândido Costa Pinto
 pags: 266
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

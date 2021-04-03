@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 394
 title: Pêndulo
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 394-Pendulo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

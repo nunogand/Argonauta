@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 360
 title: Nas Nossas Mãos as Estrelas
 Autor: Harry Harrison
@@ -16,4 +16,4 @@ Titulo-link: 360-Nas-Nossas-Maos-as-Estrelas
 Capa: 
 pags: 179
 Capa-link: 
----
+xxxxxxxxx

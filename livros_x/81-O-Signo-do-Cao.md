@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 81
 title: O Signo do Cão
 Autor: Jean Hougron
@@ -16,4 +16,4 @@ Titulo-link: 81-O-Signo-do-Cao
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

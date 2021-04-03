@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 445
 title: Um Demónio no Cérebro
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 445-Um-Demonio-no-Cerebro
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

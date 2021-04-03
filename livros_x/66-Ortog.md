@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 66
 title: Ortog
 Autor: Kurt Steiner
@@ -16,4 +16,4 @@ Titulo-link: 66-Ortog
 Capa: Lima de Freitas
 pags: 147
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 184
 title: O Deus Impassível
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 184-O-Deus-Impassivel
 Capa: Lima de Freitas
 pags: 186
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

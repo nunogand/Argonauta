@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 196
 title: A Invasão dos Insectos
 Autor: Ray Cummings
@@ -16,4 +16,4 @@ Titulo-link: 196-A-Invasao-dos-Insectos
 Capa: Lima de Freitas
 pags: 206
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

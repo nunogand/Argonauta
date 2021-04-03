@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 314
 title: O Dragão Branco 1º volume
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 314-O-Dragao-Branco-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

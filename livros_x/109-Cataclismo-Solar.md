@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 109
 title: Cataclismo Solar
 Autor: J G Ballard
@@ -16,4 +16,4 @@ Titulo-link: 109-Cataclismo-Solar
 Capa: Lima de Freitas
 pags: 203
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

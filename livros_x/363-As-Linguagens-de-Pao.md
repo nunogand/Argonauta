@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 363
 title: As Linguagens de Pao
 Autor: Jack Vance
@@ -16,4 +16,4 @@ Titulo-link: 363-As-Linguagens-de-Pao
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

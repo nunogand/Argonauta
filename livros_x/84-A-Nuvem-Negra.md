@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 84
 title: A Nuvem Negra
 Autor: Fred Hoyle
@@ -16,4 +16,4 @@ Titulo-link: 84-A-Nuvem-Negra
 Capa: Lima de Freitas
 pags: 242
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

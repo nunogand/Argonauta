@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 368
 title: Mundos sem Fim
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 368-Mundos-sem-Fim
 Capa: António Pedro
 pags: 189
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

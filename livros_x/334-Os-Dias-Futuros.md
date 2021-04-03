@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 334
 title: Os Dias Futuros
 Autor: Arthur C Clarke
@@ -16,4 +16,4 @@ Titulo-link: 334-Os-Dias-Futuros
 Capa: António Pedro
 pags: 182
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

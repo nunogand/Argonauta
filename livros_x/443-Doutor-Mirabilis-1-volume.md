@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 443
 title: Doutor Mirabilis 1º volume
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 443-Doutor-Mirabilis-1-volume
 Capa: António Pedro
 pags: 224
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

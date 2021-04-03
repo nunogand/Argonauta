@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 47
 title: Salto no Tempo
 Autor: Yves Dermèze
@@ -16,4 +16,4 @@ Titulo-link: 47-Salto-no-Tempo
 Capa: Lima de Freitas
 pags: 202
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

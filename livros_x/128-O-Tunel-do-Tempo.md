@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 128
 title: O Túnel do Tempo
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 128-O-Tunel-do-Tempo
 Capa: Lima de Freitas
 pags: 183
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 161
 title: O Construtor de Universos
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 161-O-Construtor-de-Universos
 Capa: Lima de Freitas
 pags: 169
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

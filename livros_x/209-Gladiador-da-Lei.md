@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 209
 title: Gladiador da Lei
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 209-Gladiador-da-Lei
 Capa: Lima de Freitas
 pags: 214
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

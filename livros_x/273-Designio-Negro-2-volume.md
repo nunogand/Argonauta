@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 273
 title: Desígnio Negro 2º volume
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 273-Designio-Negro-2-volume
 Capa: António Pedro
 pags: 227
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

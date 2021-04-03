@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 150
 title: Sonho Mortal
 Autor: E C Tubb
@@ -16,4 +16,4 @@ Titulo-link: 150-Sonho-Mortal
 Capa: Lima de Freitas
 pags: 177
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

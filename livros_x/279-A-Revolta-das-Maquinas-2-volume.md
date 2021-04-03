@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 279
 title: A Revolta das Máquinas 2º volume
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 279-A-Revolta-das-Maquinas-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

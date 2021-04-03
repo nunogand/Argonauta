@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 522
 title: Uma Coisa do Outro Mundo
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 522-Uma-Coisa-do-Outro-Mundo
 Capa: António Pedro
 pags: 192
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

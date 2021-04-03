@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 219
 title: Um Estranho Numa Terra Estranha 3º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 219-Um-Estranho-Numa-Terra-Estranha-3-volume
 Capa: Lima de Freitas
 pags: 225
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

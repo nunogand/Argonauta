@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 71
 title: O Dia das Trífides
 Autor: John Wyndham
@@ -16,4 +16,4 @@ Titulo-link: 71-O-Dia-das-Trifides
 Capa: Lima de Freitas
 pags: 250
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

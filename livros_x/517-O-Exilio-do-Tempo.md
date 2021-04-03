@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 517
 title: O Exílio do Tempo
 Autor: Ray Cummings
@@ -16,4 +16,4 @@ Titulo-link: 517-O-Exilio-do-Tempo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

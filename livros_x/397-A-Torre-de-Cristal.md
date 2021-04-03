@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 397
 title: A Torre de Cristal
 Autor: Robert Silverberg
@@ -16,4 +16,4 @@ Titulo-link: 397-A-Torre-de-Cristal
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 524
 title: Inteligência Artificial
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 524-Inteligencia-Artificial
 Capa: António Pedro
 pags: 278
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

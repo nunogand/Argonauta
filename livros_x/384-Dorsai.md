@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 384
 title: Dorsai
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 384-Dorsai
 Capa: António Pedro
 pags: 280
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 45
 title: O Décimo Planeta
 Autor: C H Badet
@@ -16,4 +16,4 @@ Titulo-link: 45-O-Decimo-Planeta
 Capa: Lima de Freitas
 pags: 116
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

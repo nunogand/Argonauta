@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 65
 title: Projectado no Futuro
 Autor: Charles Eric Maine
@@ -16,4 +16,4 @@ Titulo-link: 65-Projectado-no-Futuro
 Capa: Lima de Freitas
 pags: 195
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

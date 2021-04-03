@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 507
 title: As Trevas Além das Estrelas 1º volume
 Autor: Frank M Robinson
@@ -16,4 +16,4 @@ Titulo-link: 507-As-Trevas-Alem-das-Estrelas-1-volume
 Capa: 
 pags: 234
 Capa-link: 
----
+xxxxxxxxx

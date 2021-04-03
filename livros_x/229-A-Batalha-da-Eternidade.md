@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 229
 title: A Batalha da Eternidade
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 229-A-Batalha-da-Eternidade
 Capa: Manuel Dias
 pags: 194
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

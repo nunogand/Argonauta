@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 491
 title: O Triunfo do Tempo
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 491-O-Triunfo-do-Tempo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

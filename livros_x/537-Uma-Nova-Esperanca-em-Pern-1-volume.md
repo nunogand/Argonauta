@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 537
 title: Uma Nova Esperança em Pern 1º volume
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 537-Uma-Nova-Esperanca-em-Pern-1-volume
 Capa: António Pedro
 pags: 318
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 4
 title: A Nave Sideral
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 4-A-Nave-Sideral
 Capa: Cândido Costa Pinto
 pags: 196
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

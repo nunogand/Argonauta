@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 73
 title: Operação Vénus
 Autor: Leonid Onochko
@@ -16,4 +16,4 @@ Titulo-link: 73-Operacao-Venus
 Capa: Lima de Freitas
 pags: 183
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

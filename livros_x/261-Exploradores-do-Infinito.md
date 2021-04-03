@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 261
 title: Exploradores do Infinito
 Autor: Ray Cummings
@@ -16,4 +16,4 @@ Titulo-link: 261-Exploradores-do-Infinito
 Capa: António Pedro
 pags: 184
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

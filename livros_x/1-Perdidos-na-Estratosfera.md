@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 1
 title: Perdidos na Estratosfera
 Autor: A M Low
@@ -16,4 +16,4 @@ Titulo-link: 1-Perdidos-na-Estratosfera
 Capa: Cândido Costa Pinto
 pags: 163
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

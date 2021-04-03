@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 100
 title: De Júlio Verne aos Astronautas
 Autor: Vários
@@ -16,4 +16,4 @@ Titulo-link: 100-De-Julio-Verne-aos-Astronautas
 Capa: Lima de Freitas
 pags: 418
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

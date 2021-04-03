@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 183
 title: Estrada da Glória 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 183-Estrada-da-Gloria-2-volume
 Capa: Lima de Freitas
 pags: 212
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

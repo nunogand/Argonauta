@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 12
 title: Os Humanóides Atacam
 Autor: Bryan Berry
@@ -16,4 +16,4 @@ Titulo-link: 12-Os-Humanoides-Atacam
 Capa: Cândido Costa Pinto
 pags: 155
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

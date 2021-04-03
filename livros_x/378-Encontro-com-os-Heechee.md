@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 378
 title: Encontro com os Heechee
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 378-Encontro-com-os-Heechee
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

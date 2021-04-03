@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 506
 title: Criptozóica
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 506-Criptozoica
 Capa: António Pedro
 pags: 282
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

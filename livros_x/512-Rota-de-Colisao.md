@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 512
 title: Rota de Colisão
 Autor: Robert Silverberg
@@ -16,4 +16,4 @@ Titulo-link: 512-Rota-de-Colisao
 Capa: 
 pags: 201
 Capa-link: 
----
+xxxxxxxxx

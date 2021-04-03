@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 44
 title: História de Dois Mundos
 Autor: John D MacDonald
@@ -16,4 +16,4 @@ Titulo-link: 44-Historia-de-Dois-Mundos
 Capa: Lima de Freitas
 pags: 219
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

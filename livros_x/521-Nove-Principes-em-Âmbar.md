@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 521
 title: Nove Príncipes em Âmbar
 Autor: Roger Zelazny
@@ -16,4 +16,4 @@ Titulo-link: 521-Nove-Principes-em-Âmbar
 Capa: António Pedro
 pags: 233
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

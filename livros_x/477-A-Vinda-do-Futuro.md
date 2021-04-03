@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 477
 title: A Vinda do Futuro
 Autor: Edmund Cooper
@@ -16,4 +16,4 @@ Titulo-link: 477-A-Vinda-do-Futuro
 Capa: 
 pags: 185
 Capa-link: 
----
+xxxxxxxxx

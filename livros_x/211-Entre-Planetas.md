@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 211
 title: Entre Planetas
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 211-Entre-Planetas
 Capa: Lima de Freitas
 pags: 227
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

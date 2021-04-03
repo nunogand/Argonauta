@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 392
 title: Metrófago 1º volume
 Autor: Richard Kadrey
@@ -16,4 +16,4 @@ Titulo-link: 392-Metrofago-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

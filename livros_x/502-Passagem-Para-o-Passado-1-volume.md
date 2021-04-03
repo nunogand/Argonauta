@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 502
 title: Passagem Para o Passado 1º volume
 Autor: Isidore Haiblum
@@ -16,4 +16,4 @@ Titulo-link: 502-Passagem-Para-o-Passado-1-volume
 Capa: António Pedro
 pags: 188
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

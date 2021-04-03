@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 266
 title: Acidente Nuclear
 Autor: Lester del Rey
@@ -16,4 +16,4 @@ Titulo-link: 266-Acidente-Nuclear
 Capa: 
 pags: 183
 Capa-link: 
----
+xxxxxxxxx

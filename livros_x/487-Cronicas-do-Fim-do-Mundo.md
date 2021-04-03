@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 487
 title: Crónicas do Fim do Mundo
 Autor: Poul Anderson
@@ -16,4 +16,4 @@ Titulo-link: 487-Cronicas-do-Fim-do-Mundo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

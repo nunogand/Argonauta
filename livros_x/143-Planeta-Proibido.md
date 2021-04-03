@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 143
 title: Planeta Proibido
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 143-Planeta-Proibido
 Capa: Lima de Freitas
 pags: 147
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

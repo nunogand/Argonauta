@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 293
 title: O Outro Lado do Mundo
 Autor: Ursula K LeGuin
@@ -16,4 +16,4 @@ Titulo-link: 293-O-Outro-Lado-do-Mundo
 Capa: António Pedro
 pags: 179
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

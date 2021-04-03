@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 113
 title: O Planeta da Utopia
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 113-O-Planeta-da-Utopia
 Capa: Lima de Freitas
 pags: 175
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

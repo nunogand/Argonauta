@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 386
 title: Roderick
 Autor: John Sladek
@@ -16,4 +16,4 @@ Titulo-link: 386-Roderick
 Capa: 
 pags: 361
 Capa-link: 
----
+xxxxxxxxx

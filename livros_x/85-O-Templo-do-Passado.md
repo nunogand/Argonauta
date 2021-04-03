@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 85
 title: O Templo do Passado
 Autor: Stefan Wul
@@ -16,4 +16,4 @@ Titulo-link: 85-O-Templo-do-Passado
 Capa: Lima de Freitas
 pags: 149
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

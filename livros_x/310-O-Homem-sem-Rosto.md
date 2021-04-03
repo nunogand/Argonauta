@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 310
 title: O Homem sem Rosto
 Autor: Jack Vance
@@ -16,4 +16,4 @@ Titulo-link: 310-O-Homem-sem-Rosto
 Capa: António Pedro
 pags: 195
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

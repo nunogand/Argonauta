@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 76
 title: Degelo em 2157
 Autor: Stefan Wul
@@ -16,4 +16,4 @@ Titulo-link: 76-Degelo-em-2157
 Capa: Lima de Freitas
 pags: 154
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

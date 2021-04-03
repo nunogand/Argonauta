@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 58
 title: A Rainha Rebelde
 Autor: L Sprague de Camp
@@ -16,4 +16,4 @@ Titulo-link: 58-A-Rainha-Rebelde
 Capa: Lima de Freitas
 pags: 205
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

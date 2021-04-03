@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 156
 title: Os Super-Homens
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 156-Os-Super-Homens
 Capa: Lima de Freitas
 pags: 179
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

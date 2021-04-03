@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 37
 title: As Cavernas de Aço
 Autor: Isaac Asimov
@@ -16,4 +16,4 @@ Titulo-link: 37-As-Cavernas-de-Aco
 Capa: Lima de Freitas
 pags: 242
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

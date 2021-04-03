@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 20
 title: A Sexta Coluna
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 20-A-Sexta-Coluna
 Capa: Cândido Costa Pinto
 pags: 220
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

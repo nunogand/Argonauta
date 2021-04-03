@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 371
 title: Tintagel
 Autor: Paul Cook
@@ -16,4 +16,4 @@ Titulo-link: 371-Tintagel
 Capa: António Pedro
 pags: 274
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 288
 title: A Lei do Espaço
 Autor: E E Doc Smith
@@ -16,4 +16,4 @@ Titulo-link: 288-A-Lei-do-Espaco
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

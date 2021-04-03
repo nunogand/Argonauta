@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 319
 title: Expulsos da Terra
 Autor: Ursula K LeGuin
@@ -16,4 +16,4 @@ Titulo-link: 319-Expulsos-da-Terra
 Capa: António Pedro
 pags: 
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

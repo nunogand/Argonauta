@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 186
 title: O Planeta Neutral
 Autor: Poul Anderson
@@ -16,4 +16,4 @@ Titulo-link: 186-O-Planeta-Neutral
 Capa: Lima de Freitas
 pags: 167
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

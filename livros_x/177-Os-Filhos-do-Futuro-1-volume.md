@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 177
 title: Os Filhos do Futuro 1º volume
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 177-Os-Filhos-do-Futuro-1-volume
 Capa: Lima de Freitas
 pags: 164
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

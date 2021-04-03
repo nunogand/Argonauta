@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 428
 title: O Homem do Castelo Alto 2º volume
 Autor: Philip K Dick
@@ -16,4 +16,4 @@ Titulo-link: 428-O-Homem-do-Castelo-Alto-2-volume
 Capa: António Pedro
 pags: 201
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

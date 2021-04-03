@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 492
 title: No Oceano da Noite 1º volume
 Autor: Gregory Benford
@@ -16,4 +16,4 @@ Titulo-link: 492-No-Oceano-da-Noite-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

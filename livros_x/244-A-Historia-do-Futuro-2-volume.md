@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 244
 title: A História do Futuro 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 244-A-Historia-do-Futuro-2-volume
 Capa: Manuel Dias
 pags: 227
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

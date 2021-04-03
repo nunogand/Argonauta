@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 22
 title: Vigilância Sideral
 Autor: Pierre Versins
@@ -16,4 +16,4 @@ Titulo-link: 22-Vigilancia-Sideral
 Capa: Cândido Costa Pinto
 pags: 160
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 547
 title: O Verão de Helliconia 1º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 547-O-Verao-de-Helliconia-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

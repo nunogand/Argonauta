@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 475
 title: Além do Inferno
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 475-Alem-do-Inferno
 Capa: António Pedro
 pags: 179
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

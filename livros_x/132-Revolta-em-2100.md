@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 132
 title: Revolta em 2100
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 132-Revolta-em-2100
 Capa: Lima de Freitas
 pags: 212
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

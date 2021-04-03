@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 373
 title: O Mistério de Mercúrio
 Autor: Bob Shaw
@@ -16,4 +16,4 @@ Titulo-link: 373-O-Misterio-de-Mercurio
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

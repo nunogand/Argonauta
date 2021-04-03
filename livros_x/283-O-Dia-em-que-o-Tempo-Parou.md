@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 283
 title: O Dia em que o Tempo Parou
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 283-O-Dia-em-que-o-Tempo-Parou
 Capa: António Pedro
 pags: 175
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

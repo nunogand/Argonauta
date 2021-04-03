@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 550
 title: O Inverno de Helliconia 2º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 550-O-Inverno-de-Helliconia-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

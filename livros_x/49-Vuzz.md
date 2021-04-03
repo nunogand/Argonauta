@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 49
 title: Vuzz
 Autor: P A Hourey
@@ -16,4 +16,4 @@ Titulo-link: 49-Vuzz
 Capa: Lima de Freitas
 pags: 146
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 198
 title: À Luz das Estrelas
 Autor: Theodore Sturgeon
@@ -16,4 +16,4 @@ Titulo-link: 198-À-Luz-das-Estrelas
 Capa: Lima de Freitas
 pags: 161
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

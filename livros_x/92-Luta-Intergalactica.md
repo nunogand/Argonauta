@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 92
 title: Luta Intergaláctica
 Autor: Edmond Hamilton
@@ -16,4 +16,4 @@ Titulo-link: 92-Luta-Intergalactica
 Capa: Lima de Freitas
 pags: 174
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

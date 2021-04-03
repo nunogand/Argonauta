@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 267
 title: O Tempo dos Mastodontes
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 267-O-Tempo-dos-Mastodontes
 Capa: António Pedro
 pags: 251
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

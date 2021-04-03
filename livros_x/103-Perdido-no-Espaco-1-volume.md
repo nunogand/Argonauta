@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 103
 title: Perdido no Espaço 1º volume
 Autor: Martin Caidin
@@ -16,4 +16,4 @@ Titulo-link: 103-Perdido-no-Espaco-1-volume
 Capa: Lima de Freitas
 pags: 212
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

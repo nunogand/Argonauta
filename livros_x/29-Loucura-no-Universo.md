@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 29
 title: Loucura no Universo
 Autor: Fredric Brown
@@ -16,4 +16,4 @@ Titulo-link: 29-Loucura-no-Universo
 Capa: Cândido Costa Pinto
 pags: 184
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

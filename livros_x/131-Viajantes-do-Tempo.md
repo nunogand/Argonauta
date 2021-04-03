@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 131
 title: Viajantes do Tempo
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 131-Viajantes-do-Tempo
 Capa: Lima de Freitas
 pags: 268
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

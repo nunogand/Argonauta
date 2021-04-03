@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 320
 title: Mensagens do Futuro
 Autor: Vários
@@ -16,4 +16,4 @@ Titulo-link: 320-Mensagens-do-Futuro
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

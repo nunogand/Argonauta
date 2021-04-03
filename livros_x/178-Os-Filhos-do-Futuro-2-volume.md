@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 178
 title: Os Filhos do Futuro 2º volume
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 178-Os-Filhos-do-Futuro-2-volume
 Capa: Lima de Freitas
 pags: 189
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

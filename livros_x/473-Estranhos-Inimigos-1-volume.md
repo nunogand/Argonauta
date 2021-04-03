@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 473
 title: Estranhos Inimigos 1º volume
 Autor: Robert Asprin
@@ -16,4 +16,4 @@ Titulo-link: 473-Estranhos-Inimigos-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

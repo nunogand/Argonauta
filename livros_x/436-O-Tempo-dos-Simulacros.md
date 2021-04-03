@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 436
 title: O Tempo dos Simulacros
 Autor: Philip K Dick
@@ -16,4 +16,4 @@ Titulo-link: 436-O-Tempo-dos-Simulacros
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

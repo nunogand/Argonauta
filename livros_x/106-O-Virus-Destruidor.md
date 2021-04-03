@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 106
 title: O Vírus Destruidor
 Autor: Charles Eric Maine
@@ -16,4 +16,4 @@ Titulo-link: 106-O-Virus-Destruidor
 Capa: Lima de Freitas
 pags: 260
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

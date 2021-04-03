@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 486
 title: Vivendo no Céu
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 486-Vivendo-no-Ceu
 Capa: António Pedro
 pags: 185
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

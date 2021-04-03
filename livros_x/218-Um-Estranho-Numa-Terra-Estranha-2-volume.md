@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 218
 title: Um Estranho Numa Terra Estranha 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 218-Um-Estranho-Numa-Terra-Estranha-2-volume
 Capa: Lima de Freitas
 pags: 218
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

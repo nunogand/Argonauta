@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 27
 title: O Planeta 54
 Autor: Albert Crémieux
@@ -16,4 +16,4 @@ Titulo-link: 27-O-Planeta-54
 Capa: Cândido Costa Pinto
 pags: 183
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

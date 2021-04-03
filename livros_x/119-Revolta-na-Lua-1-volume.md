@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 119
 title: Revolta na Lua 1º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 119-Revolta-na-Lua-1-volume
 Capa: Lima de Freitas
 pags: 220
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

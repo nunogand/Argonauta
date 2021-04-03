@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 168
 title: A Guerra dos Fantasmas
 Autor: Lloyd Biggle Jr
@@ -16,4 +16,4 @@ Titulo-link: 168-A-Guerra-dos-Fantasmas
 Capa: Lima de Freitas
 pags: 152
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

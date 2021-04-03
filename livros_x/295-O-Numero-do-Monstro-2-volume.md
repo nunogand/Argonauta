@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 295
 title: O Número do Monstro 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 295-O-Numero-do-Monstro-2-volume
 Capa: 
 pags: 190
 Capa-link: 
----
+xxxxxxxxx

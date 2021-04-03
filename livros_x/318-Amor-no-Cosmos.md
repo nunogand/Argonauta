@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 318
 title: Amor no Cosmos
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 318-Amor-no-Cosmos
 Capa: António Pedro
 pags: 205
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

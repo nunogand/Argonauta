@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 237
 title: Regresso aos Céus
 Autor: Edmond Hamilton
@@ -16,4 +16,4 @@ Titulo-link: 237-Regresso-aos-Ceus
 Capa: Manuel Dias
 pags: 208
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

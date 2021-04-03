@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 399
 title: O Pé do Diabo
 Autor: Arthur Conan Doyle
@@ -16,4 +16,4 @@ Titulo-link: 399-O-Pe-do-Diabo
 Capa: António Pedro
 pags: 238
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

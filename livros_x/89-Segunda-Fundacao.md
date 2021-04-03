@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 89
 title: Segunda Fundação
 Autor: Isaac Asimov
@@ -16,4 +16,4 @@ Titulo-link: 89-Segunda-Fundacao
 Capa: Lima de Freitas
 pags: 220
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 542
 title: O Castelo de Lorde Valentine 1º volume
 Autor: Robert Silverberg
@@ -16,4 +16,4 @@ Titulo-link: 542-O-Castelo-de-Lorde-Valentine-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

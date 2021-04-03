@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 304
 title: Longe da Terra
 Autor: Marion Zimmer Bradley
@@ -16,4 +16,4 @@ Titulo-link: 304-Longe-da-Terra
 Capa: António Pedro
 pags: 168
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

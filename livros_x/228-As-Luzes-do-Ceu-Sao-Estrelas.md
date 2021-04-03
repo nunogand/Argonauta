@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 228
 title: As Luzes do Céu São Estrelas
 Autor: Fredric Brown
@@ -16,4 +16,4 @@ Titulo-link: 228-As-Luzes-do-Ceu-Sao-Estrelas
 Capa: Manuel Dias
 pags: 179
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

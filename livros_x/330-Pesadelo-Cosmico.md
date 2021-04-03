@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 330
 title: Pesadelo Cósmico
 Autor: Bob Shaw
@@ -16,4 +16,4 @@ Titulo-link: 330-Pesadelo-Cosmico
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 504
 title: A Companhia de Phule 1º volume
 Autor: Robert Asprin
@@ -16,4 +16,4 @@ Titulo-link: 504-A-Companhia-de-Phule-1-volume
 Capa: 
 pags: 186
 Capa-link: 
----
+xxxxxxxxx

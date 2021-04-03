@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 379
 title: O Gato que Atravessa as Paredes 1º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 379-O-Gato-que-Atravessa-as-Paredes-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

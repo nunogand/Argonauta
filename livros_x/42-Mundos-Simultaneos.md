@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 42
 title: Mundos Simultâneos
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 42-Mundos-Simultaneos
 Capa: Lima de Freitas
 pags: 204
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

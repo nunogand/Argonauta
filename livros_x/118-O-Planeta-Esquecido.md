@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 118
 title: O Planeta Esquecido
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 118-O-Planeta-Esquecido
 Capa: Lima de Freitas
 pags: 145
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

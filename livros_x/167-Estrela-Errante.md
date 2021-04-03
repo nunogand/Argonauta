@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 167
 title: Estrela Errante
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 167-Estrela-Errante
 Capa: Lima de Freitas
 pags: 201
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

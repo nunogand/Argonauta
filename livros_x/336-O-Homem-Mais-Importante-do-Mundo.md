@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 336
 title: O Homem Mais Importante do Mundo
 Autor: Philip K Dick
@@ -16,4 +16,4 @@ Titulo-link: 336-O-Homem-Mais-Importante-do-Mundo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

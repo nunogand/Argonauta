@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 518
 title: Cidade na Lua
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 518-Cidade-na-Lua
 Capa: António Pedro
 pags: 176
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 494
 title: Os Cavalos da Noite 1º volume
 Autor: C J Cherryh
@@ -16,4 +16,4 @@ Titulo-link: 494-Os-Cavalos-da-Noite-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

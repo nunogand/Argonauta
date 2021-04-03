@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 149
 title: Mundo Alternante
 Autor: Keith Laumer
@@ -16,4 +16,4 @@ Titulo-link: 149-Mundo-Alternante
 Capa: Lima de Freitas
 pags: 151
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

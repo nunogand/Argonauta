@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 403
 title: Vozes do Futuro
 Autor: Isaac Asimov
@@ -16,4 +16,4 @@ Titulo-link: 403-Vozes-do-Futuro
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 375
 title: Agente de Bizâncio 2º volume
 Autor: Harry Turtledove
@@ -16,4 +16,4 @@ Titulo-link: 375-Agente-de-Bizancio-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

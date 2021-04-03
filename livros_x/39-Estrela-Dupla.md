@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 39
 title: Estrela Dupla
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 39-Estrela-Dupla
 Capa: Lima de Freitas
 pags: 224
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 74
 title: Colónias no Espaço
 Autor: E C Tubb
@@ -16,4 +16,4 @@ Titulo-link: 74-Colonias-no-Espaco
 Capa: Lima de Freitas
 pags: 205
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

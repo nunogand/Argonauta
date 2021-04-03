@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 48
 title: Mundo de Vampiros
 Autor: Richard Matheson
@@ -16,4 +16,4 @@ Titulo-link: 48-Mundo-de-Vampiros
 Capa: Lima de Freitas
 pags: 186
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

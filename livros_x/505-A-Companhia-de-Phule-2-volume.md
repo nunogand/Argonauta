@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 505
 title: A Companhia de Phule 2º volume
 Autor: Robert Asprin
@@ -16,4 +16,4 @@ Titulo-link: 505-A-Companhia-de-Phule-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

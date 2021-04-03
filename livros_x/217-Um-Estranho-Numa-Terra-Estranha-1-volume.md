@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 217
 title: Um Estranho Numa Terra Estranha 1º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 217-Um-Estranho-Numa-Terra-Estranha-1-volume
 Capa: Lima de Freitas
 pags: 204
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

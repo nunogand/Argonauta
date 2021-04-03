@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 23
 title: Slan
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 23-Slan
 Capa: Cândido Costa Pinto
 pags: 241
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

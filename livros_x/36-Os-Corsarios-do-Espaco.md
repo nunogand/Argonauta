@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 36
 title: Os Corsários do Espaço
 Autor: Paul French
@@ -16,4 +16,4 @@ Titulo-link: 36-Os-Corsarios-do-Espaco
 Capa: Lima de Freitas
 pags: 169
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

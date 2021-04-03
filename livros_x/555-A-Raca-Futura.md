@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 555
 title: A Raça Futura
 Autor: Bulwer Lytton
@@ -16,4 +16,4 @@ Titulo-link: 555-A-Raca-Futura
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

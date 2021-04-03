@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 247
 title: Super-Cérebro
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 247-Super-Cerebro
 Capa: Manuel Dias
 pags: 205
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

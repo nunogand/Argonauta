@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 13
 title: O Cérebro de Donovan
 Autor: Curt Siodmak
@@ -16,4 +16,4 @@ Titulo-link: 13-O-Cerebro-de-Donovan
 Capa: Cândido Costa Pinto
 pags: 194
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

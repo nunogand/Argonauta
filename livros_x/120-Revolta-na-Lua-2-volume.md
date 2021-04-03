@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 120
 title: Revolta na Lua 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 120-Revolta-na-Lua-2-volume
 Capa: Lima de Freitas
 pags: 186
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

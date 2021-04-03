@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 556
 title: A Mão de Oberon
 Autor: Roger Zelazny
@@ -16,4 +16,4 @@ Titulo-link: 556-A-Mao-de-Oberon
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

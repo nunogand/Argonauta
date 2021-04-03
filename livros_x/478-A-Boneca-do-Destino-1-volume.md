@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 478
 title: A Boneca do Destino 1º volume
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 478-A-Boneca-do-Destino-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

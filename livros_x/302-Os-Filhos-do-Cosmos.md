@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 302
 title: Os Filhos do Cosmos
 Autor: E E Doc Smith
@@ -16,4 +16,4 @@ Titulo-link: 302-Os-Filhos-do-Cosmos
 Capa: António Pedro
 pags: 213
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 441
 title: Os Jogadores de Titã
 Autor: Philip K Dick
@@ -16,4 +16,4 @@ Titulo-link: 441-Os-Jogadores-de-Tita
 Capa: 
 pags: 220
 Capa-link: 
----
+xxxxxxxxx

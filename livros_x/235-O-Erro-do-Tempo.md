@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 235
 title: O Erro do Tempo
 Autor: John Brunner
@@ -16,4 +16,4 @@ Titulo-link: 235-O-Erro-do-Tempo
 Capa: Manuel Dias
 pags: 194
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

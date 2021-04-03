@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 315
 title: O Dragão Branco 2º volume
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 315-O-Dragao-Branco-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 134
 title: O Médico das Estrelas
 Autor: Murray Leinster
@@ -16,4 +16,4 @@ Titulo-link: 134-O-Medico-das-Estrelas
 Capa: Lima de Freitas
 pags: 150
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

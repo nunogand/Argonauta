@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 194
 title: Ninguém Morre Neste Mundo
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 194-Ninguem-Morre-Neste-Mundo
 Capa: Lima de Freitas
 pags: 198
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

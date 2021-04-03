@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 497
 title: Além do Mar dos Sóis 2º volume
 Autor: Gregory Benford
@@ -16,4 +16,4 @@ Titulo-link: 497-Alem-do-Mar-dos-Sois-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

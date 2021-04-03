@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 327
 title: O Que Será o Futuro
 Autor: Vários
@@ -16,4 +16,4 @@ Titulo-link: 327-O-Que-Sera-o-Futuro
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 105
 title: Engenheiros Cósmicos
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 105-Engenheiros-Cosmicos
 Capa: Lima de Freitas
 pags: 209
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

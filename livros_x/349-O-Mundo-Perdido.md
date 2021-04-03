@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 349
 title: O Mundo Perdido
 Autor: Arthur Conan Doyle
@@ -16,4 +16,4 @@ Titulo-link: 349-O-Mundo-Perdido
 Capa: António Pedro
 pags: 243
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

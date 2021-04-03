@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 88
 title: A Era dos Biocibs
 Autor: Jimmy Guieu
@@ -16,4 +16,4 @@ Titulo-link: 88-A-Era-dos-Biocibs
 Capa: Lima de Freitas
 pags: 178
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

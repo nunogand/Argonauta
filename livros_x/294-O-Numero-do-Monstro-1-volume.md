@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 294
 title: O Número do Monstro 1º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 294-O-Numero-do-Monstro-1-volume
 Capa: 
 pags: 179
 Capa-link: 
----
+xxxxxxxxx

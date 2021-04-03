@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 200
 title: As Máquinas da Destruição
 Autor: Fred Saberhagen
@@ -16,4 +16,4 @@ Titulo-link: 200-As-Maquinas-da-Destruicao
 Capa: Lima de Freitas
 pags: 182
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 153
 title: A Guerra dos Deuses
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 153-A-Guerra-dos-Deuses
 Capa: Lima de Freitas
 pags: 174
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

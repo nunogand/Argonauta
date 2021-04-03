@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 82
 title: Emissários do Futuro
 Autor: Gérard Klein
@@ -16,4 +16,4 @@ Titulo-link: 82-Emissarios-do-Futuro
 Capa: Lima de Freitas
 pags: 154
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 190
 title: Agência de Mágicos
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 190-Agencia-de-Magicos
 Capa: Lima de Freitas
 pags: 173
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

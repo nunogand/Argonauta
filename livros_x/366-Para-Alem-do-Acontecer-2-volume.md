@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 366
 title: Para Além do Acontecer 2º volume
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 366-Para-Alem-do-Acontecer-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

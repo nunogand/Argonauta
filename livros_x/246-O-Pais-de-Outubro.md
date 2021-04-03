@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 246
 title: O País de Outubro
 Autor: Ray Bradbury
@@ -16,4 +16,4 @@ Titulo-link: 246-O-Pais-de-Outubro
 Capa: Manuel Dias
 pags: 213
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

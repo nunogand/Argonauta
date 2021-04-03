@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 464
 title: Os Últimos Dias da Terra 2º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 464-Os-ultimos-Dias-da-Terra-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 376
 title: Reflexos do Futuro
 Autor: Vários
@@ -16,4 +16,4 @@ Titulo-link: 376-Reflexos-do-Futuro
 Capa: António Pedro
 pags: 275
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

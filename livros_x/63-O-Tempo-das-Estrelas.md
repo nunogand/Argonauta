@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 63
 title: O Tempo das Estrelas
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 63-O-Tempo-das-Estrelas
 Capa: Lima de Freitas
 pags: 204
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

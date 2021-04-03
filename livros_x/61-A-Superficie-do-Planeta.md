@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 61
 title: A Superfície do Planeta
 Autor: Daniel Drode
@@ -16,4 +16,4 @@ Titulo-link: 61-A-Superficie-do-Planeta
 Capa: Lima de Freitas
 pags: 148
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

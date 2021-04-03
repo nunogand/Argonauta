@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 361
 title: A Luz e as Trevas
 Autor: L Sprague de Camp
@@ -16,4 +16,4 @@ Titulo-link: 361-A-Luz-e-as-Trevas
 Capa: António Pedro
 pags: 216
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

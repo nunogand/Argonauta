@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 263
 title: Mundo sem Morte
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 263-Mundo-sem-Morte
 Capa: António Pedro
 pags: 251
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

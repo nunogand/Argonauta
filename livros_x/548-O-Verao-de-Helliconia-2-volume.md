@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 548
 title: O Verão de Helliconia 2º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 548-O-Verao-de-Helliconia-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

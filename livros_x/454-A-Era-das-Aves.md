@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 454
 title: A Era das Aves
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 454-A-Era-das-Aves
 Capa: António Pedro
 pags: 178
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

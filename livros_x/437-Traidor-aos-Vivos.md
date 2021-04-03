@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 437
 title: Traidor aos Vivos
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 437-Traidor-aos-Vivos
 Capa: António Pedro
 pags: 207
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

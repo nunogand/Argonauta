@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 125
 title: O Mundo que nos Espera 2º volume
 Autor: Robert A Heinlein
@@ -16,4 +16,4 @@ Titulo-link: 125-O-Mundo-que-nos-Espera-2-volume
 Capa: Lima de Freitas
 pags: 173
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

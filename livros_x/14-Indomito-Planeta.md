@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 14
 title: Indómito Planeta
 Autor: Roy Sheldon
@@ -16,4 +16,4 @@ Titulo-link: 14-Indomito-Planeta
 Capa: Cândido Costa Pinto
 pags: 143
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

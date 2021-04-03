@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 329
 title: Detective Galáctico
 Autor: Jack Vance
@@ -16,4 +16,4 @@ Titulo-link: 329-Detective-Galactico
 Capa: António Pedro
 pags: 178
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

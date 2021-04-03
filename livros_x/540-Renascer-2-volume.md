@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 540
 title: Renascer 2º volume
 Autor: Maureen F McHugh
@@ -16,4 +16,4 @@ Titulo-link: 540-Renascer-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 461
 title: O Fogo e a Noite
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 461-O-Fogo-e-a-Noite
 Capa: António Pedro
 pags: 186
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

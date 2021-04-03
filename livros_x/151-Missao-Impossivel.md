@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 151
 title: Missão Impossível
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 151-Missao-Impossivel
 Capa: Lima de Freitas
 pags: 176
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 230
 title: Passaporte Para o Eterno
 Autor: J G Ballard
@@ -16,4 +16,4 @@ Titulo-link: 230-Passaporte-Para-o-Eterno
 Capa: Manuel Dias
 pags: 217
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

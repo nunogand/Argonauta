@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 15
 title: O Mundo em Perigo
 Autor: E C Tubb
@@ -16,4 +16,4 @@ Titulo-link: 15-O-Mundo-em-Perigo
 Capa: Cândido Costa Pinto
 pags: 144
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

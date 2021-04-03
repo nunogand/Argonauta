@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 90
 title: Armadilha em Zarkass
 Autor: Stefan Wul
@@ -16,4 +16,4 @@ Titulo-link: 90-Armadilha-em-Zarkass
 Capa: Lima de Freitas
 pags: 181
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

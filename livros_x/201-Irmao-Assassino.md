@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 201
 title: Irmão Assassino
 Autor: Fred Saberhagen
@@ -16,4 +16,4 @@ Titulo-link: 201-Irmao-Assassino
 Capa: Lima de Freitas
 pags: 193
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

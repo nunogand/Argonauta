@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 99
 title: Os Amotinados do Polar Lion
 Autor: Mordecai Roshwald
@@ -16,4 +16,4 @@ Titulo-link: 99-Os-Amotinados-do-Polar-Lion
 Capa: Lima de Freitas
 pags: 215
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 488
 title: A Terra é uma Ideia Boa 1º volume
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 488-A-Terra-e-uma-Ideia-Boa-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

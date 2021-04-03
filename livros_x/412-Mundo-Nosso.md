@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 412
 title: Mundo-Nosso
 Autor: Harry Harrison
@@ -16,4 +16,4 @@ Titulo-link: 412-Mundo-Nosso
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

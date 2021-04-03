@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 19
 title: Caminhos do Espaço
 Autor: Charles Eric Maine
@@ -16,4 +16,4 @@ Titulo-link: 19-Caminhos-do-Espaco
 Capa: Cândido Costa Pinto
 pags: 247
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

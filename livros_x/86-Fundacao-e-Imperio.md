@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 86
 title: Fundação e Império
 Autor: Isaac Asimov
@@ -16,4 +16,4 @@ Titulo-link: 86-Fundacao-e-Imperio
 Capa: Lima de Freitas
 pags: 237
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

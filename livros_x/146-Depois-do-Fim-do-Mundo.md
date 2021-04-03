@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 146
 title: Depois do Fim do Mundo
 Autor: Poul Anderson
@@ -16,4 +16,4 @@ Titulo-link: 146-Depois-do-Fim-do-Mundo
 Capa: Lima de Freitas
 pags: 176
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

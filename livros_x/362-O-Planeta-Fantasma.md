@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 362
 title: O Planeta Fantasma
 Autor: Bob Shaw
@@ -16,4 +16,4 @@ Titulo-link: 362-O-Planeta-Fantasma
 Capa: António Pedro
 pags: 187
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

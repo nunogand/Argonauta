@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 501
 title: A História de Nerilka
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 501-A-Historia-de-Nerilka
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 328
 title: A Invasão Divina
 Autor: Philip K Dick
@@ -16,4 +16,4 @@ Titulo-link: 328-A-Invasao-Divina
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

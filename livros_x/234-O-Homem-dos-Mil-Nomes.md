@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 234
 title: O Homem dos Mil Nomes
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 234-O-Homem-dos-Mil-Nomes
 Capa: Lou Feck
 pags: 180
 Capa-link: Lou-Feck
----
+xxxxxxxxx

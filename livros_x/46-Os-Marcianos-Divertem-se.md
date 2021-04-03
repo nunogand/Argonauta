@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 46
 title: Os Marcianos Divertem-se
 Autor: Fredric Brown
@@ -16,4 +16,4 @@ Titulo-link: 46-Os-Marcianos-Divertem-se
 Capa: Lima de Freitas
 pags: 197
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

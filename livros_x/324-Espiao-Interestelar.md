@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 324
 title: Espião Interestelar
 Autor: Poul Anderson
@@ -16,4 +16,4 @@ Titulo-link: 324-Espiao-Interestelar
 Capa: 
 pags: 258
 Capa-link: 
----
+xxxxxxxxx

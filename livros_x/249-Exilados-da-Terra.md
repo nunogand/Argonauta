@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 249
 title: Exilados da Terra
 Autor: Ben Bova
@@ -16,4 +16,4 @@ Titulo-link: 249-Exilados-da-Terra
 Capa: Manuel Dias
 pags: 187
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 447
 title: Os Mundos Fugitivos 1º volume
 Autor: Bob Shaw
@@ -16,4 +16,4 @@ Titulo-link: 447-Os-Mundos-Fugitivos-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

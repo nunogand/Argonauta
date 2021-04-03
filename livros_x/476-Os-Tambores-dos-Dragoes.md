@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 476
 title: Os Tambores dos Dragões
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 476-Os-Tambores-dos-Dragoes
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

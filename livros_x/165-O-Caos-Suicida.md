@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 165
 title: O Caos Suicida
 Autor: Edmund Cooper
@@ -16,4 +16,4 @@ Titulo-link: 165-O-Caos-Suicida
 Capa: Lima de Freitas
 pags: 178
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

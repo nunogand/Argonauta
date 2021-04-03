@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 401
 title: O Homem Eterno 2º volume
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 401-O-Homem-Eterno-2-volume
 Capa: 
 pags: 247
 Capa-link: 
----
+xxxxxxxxx

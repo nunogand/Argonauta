@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 448
 title: Os Mundos Fugitivos 2º volume
 Autor: Bob Shaw
@@ -16,4 +16,4 @@ Titulo-link: 448-Os-Mundos-Fugitivos-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

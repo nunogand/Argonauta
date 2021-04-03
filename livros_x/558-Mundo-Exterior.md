@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 558
 title: Mundo Exterior
 Autor: Isidore Haiblum
@@ -16,4 +16,4 @@ Titulo-link: 558-Mundo-Exterior
 Capa: Rogério Silva
 pags: 188
 Capa-link: Rogerio-Silva
----
+xxxxxxxxx

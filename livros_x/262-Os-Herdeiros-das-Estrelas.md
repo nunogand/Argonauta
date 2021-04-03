@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 262
 title: Os Herdeiros das Estrelas
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 262-Os-Herdeiros-das-Estrelas
 Capa: António Pedro
 pags: 221
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

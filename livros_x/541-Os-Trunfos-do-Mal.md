@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 541
 title: Os Trunfos do Mal
 Autor: Roger Zelazny
@@ -16,4 +16,4 @@ Titulo-link: 541-Os-Trunfos-do-Mal
 Capa: António Pedro
 pags: 204
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

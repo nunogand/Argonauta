@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 385
 title: Os Anais dos Heechee
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 385-Os-Anais-dos-Heechee
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

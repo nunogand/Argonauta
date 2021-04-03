@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 32
 title: Robinsons do Cosmos
 Autor: Francis Carsac
@@ -16,4 +16,4 @@ Titulo-link: 32-Robinsons-do-Cosmos
 Capa: Cândido Costa Pinto
 pags: 195
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

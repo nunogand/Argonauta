@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 560
 title: Mundo dos Espectros
 Autor: Isidore Haiblum
@@ -16,4 +16,4 @@ Titulo-link: 560-Mundo-dos-Espectros
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

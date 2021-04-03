@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 238
 title: A Cratera da Morte
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 238-A-Cratera-da-Morte
 Capa: Michael Whelan
 pags: 150
 Capa-link: Michael-Whelan
----
+xxxxxxxxx

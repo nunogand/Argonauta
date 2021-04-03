@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 434
 title: Tácticas de Engano 1º volume
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 434-Tacticas-de-Engano-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

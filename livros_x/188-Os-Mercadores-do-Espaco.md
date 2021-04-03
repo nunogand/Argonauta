@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 188
 title: Os Mercadores do Espaço
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 188-Os-Mercadores-do-Espaco
 Capa: Lima de Freitas
 pags: 158
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 94
 title: S O S Lua
 Autor: Arthur C Clarke
@@ -16,4 +16,4 @@ Titulo-link: 94-S-O-S-Lua
 Capa: Lima de Freitas
 pags: 149
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

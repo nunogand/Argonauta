@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 323
 title: O Mundo do Caos
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 323-O-Mundo-do-Caos
 Capa: António Pedro
 pags: 238
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

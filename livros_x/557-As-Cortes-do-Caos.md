@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 557
 title: As Cortes do Caos
 Autor: Roger Zelazny
@@ -16,4 +16,4 @@ Titulo-link: 557-As-Cortes-do-Caos
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

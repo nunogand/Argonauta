@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 203
 title: Silêncio no Espaço
 Autor: John Rackam
@@ -16,4 +16,4 @@ Titulo-link: 203-Silencio-no-Espaco
 Capa: Lima de Freitas
 pags: 172
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

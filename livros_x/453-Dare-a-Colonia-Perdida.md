@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 453
 title: Dare a Colónia Perdida
 Autor: Philip José Farmer
@@ -16,4 +16,4 @@ Titulo-link: 453-Dare-a-Colonia-Perdida
 Capa: António Pedro
 pags: 243
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

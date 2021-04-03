@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 96
 title: 2000 Ano de Terror
 Autor: Charles Eric Maine
@@ -16,4 +16,4 @@ Titulo-link: 96-2000-Ano-de-Terror
 Capa: Lima de Freitas
 pags: 238
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 185
 title: Batalha Amarga
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 185-Batalha-Amarga
 Capa: Lima de Freitas
 pags: 163
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

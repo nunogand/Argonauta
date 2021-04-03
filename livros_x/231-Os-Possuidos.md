@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 231
 title: Os Possuídos
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 231-Os-Possuidos
 Capa: Manuel Dias
 pags: 178
 Capa-link: Manuel-Dias
----
+xxxxxxxxx

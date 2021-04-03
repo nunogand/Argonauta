@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 413
 title: Soldado da Terra 1º volume
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 413-Soldado-da-Terra-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

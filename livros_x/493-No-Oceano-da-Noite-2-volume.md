@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 493
 title: No Oceano da Noite 2º volume
 Autor: Gregory Benford
@@ -16,4 +16,4 @@ Titulo-link: 493-No-Oceano-da-Noite-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

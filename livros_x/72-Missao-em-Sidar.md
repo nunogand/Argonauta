@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 72
 title: Missão em Sidar
 Autor: Stefan Wul
@@ -16,4 +16,4 @@ Titulo-link: 72-Missao-em-Sidar
 Capa: Lima de Freitas
 pags: 151
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

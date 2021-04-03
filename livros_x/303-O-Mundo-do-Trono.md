@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 303
 title: O Mundo do Trono
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 303-O-Mundo-do-Trono
 Capa: António Pedro
 pags: 190
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

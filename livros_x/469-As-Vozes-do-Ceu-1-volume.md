@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 469
 title: As Vozes do Céu 1º volume
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 469-As-Vozes-do-Ceu-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

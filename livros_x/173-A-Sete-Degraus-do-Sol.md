@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 173
 title: A Sete Degraus do Sol
 Autor: Fred Hoyle
@@ -16,4 +16,4 @@ Titulo-link: 173-A-Sete-Degraus-do-Sol
 Capa: Lima de Freitas
 pags: 171
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

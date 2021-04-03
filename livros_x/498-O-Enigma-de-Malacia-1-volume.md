@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 498
 title: O Enigma de Malacia 1º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 498-O-Enigma-de-Malacia-1-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

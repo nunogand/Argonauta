@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 127
 title: Colónia de Marte
 Autor: A E Van Vogt
@@ -16,4 +16,4 @@ Titulo-link: 127-Colonia-de-Marte
 Capa: Lima de Freitas
 pags: 208
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

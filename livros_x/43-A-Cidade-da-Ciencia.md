@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 43
 title: A Cidade da Ciência
 Autor: Maurice Vernon
@@ -16,4 +16,4 @@ Titulo-link: 43-A-Cidade-da-Ciencia
 Capa: Lima de Freitas
 pags: 167
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

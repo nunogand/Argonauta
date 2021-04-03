@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 205
 title: Os Dramaturgos de Yan
 Autor: John Brunner
@@ -16,4 +16,4 @@ Titulo-link: 205-Os-Dramaturgos-de-Yan
 Capa: Lima de Freitas
 pags: 211
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

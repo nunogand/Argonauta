@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 400
 title: O Homem Eterno 1º volume
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 400-O-Homem-Eterno-1-volume
 Capa: António Pedro
 pags: 215
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

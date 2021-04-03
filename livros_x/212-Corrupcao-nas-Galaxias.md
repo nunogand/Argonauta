@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 212
 title: Corrupção nas Galáxias
 Autor: Keith Laumer
@@ -16,4 +16,4 @@ Titulo-link: 212-Corrupcao-nas-Galaxias
 Capa: Lima de Freitas
 pags: 172
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

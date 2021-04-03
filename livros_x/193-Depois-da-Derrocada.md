@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 193
 title: Depois da Derrocada
 Autor: Philip E High
@@ -16,4 +16,4 @@ Titulo-link: 193-Depois-da-Derrocada
 Capa: Lima de Freitas
 pags: 184
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

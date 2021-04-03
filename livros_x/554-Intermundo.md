@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 554
 title: Intermundo
 Autor: Isidore Haiblum
@@ -16,4 +16,4 @@ Titulo-link: 554-Intermundo
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

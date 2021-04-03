@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 107
 title: O Império dos Mutantes
 Autor: Stefan Wul
@@ -16,4 +16,4 @@ Titulo-link: 107-O-Imperio-dos-Mutantes
 Capa: Lima de Freitas
 pags: 171
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

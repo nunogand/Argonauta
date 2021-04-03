@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 402
 title: O Dia Depois do Juízo Final
 Autor: James Blish
@@ -16,4 +16,4 @@ Titulo-link: 402-O-Dia-Depois-do-Juizo-Final
 Capa: António Pedro
 pags: 322
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

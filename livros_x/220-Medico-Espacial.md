@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 220
 title: Médico Espacial
 Autor: James White
@@ -16,4 +16,4 @@ Titulo-link: 220-Medico-Espacial
 Capa: Lima de Freitas
 pags: 217
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

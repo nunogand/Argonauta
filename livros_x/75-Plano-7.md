@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 75
 title: Plano 7
 Autor: Mordecai Roshwald
@@ -16,4 +16,4 @@ Titulo-link: 75-Plano-7
 Capa: Lima de Freitas
 pags: 218
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

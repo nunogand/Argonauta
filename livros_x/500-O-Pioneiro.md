@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 500
 title: Ó Pioneiro!
 Autor: Frederik Pohl
@@ -16,4 +16,4 @@ Titulo-link: 500-O-Pioneiro
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

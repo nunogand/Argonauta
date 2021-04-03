@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 59
 title: Partida Para o Espaço
 Autor: C M Kornbluth
@@ -16,4 +16,4 @@ Titulo-link: 59-Partida-Para-o-Espaco
 Capa: Lima de Freitas
 pags: 199
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

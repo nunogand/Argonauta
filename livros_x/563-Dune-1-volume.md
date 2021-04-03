@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 563
 title: Dune 1º volume
 Autor: Frank Herbert
@@ -16,4 +16,4 @@ Titulo-link: 563-Dune-1-volume
 Capa: Rogério Silva
 pags: 191
 Capa-link: Rogerio-Silva
----
+xxxxxxxxx

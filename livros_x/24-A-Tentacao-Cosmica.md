@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 24
 title: A Tentação Cósmica
 Autor: Roger Sorez
@@ -16,4 +16,4 @@ Titulo-link: 24-A-Tentacao-Cosmica
 Capa: Cândido Costa Pinto
 pags: 249
 Capa-link: Candido-Costa-Pinto
----
+xxxxxxxxx

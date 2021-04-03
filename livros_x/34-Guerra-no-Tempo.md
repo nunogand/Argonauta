@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 34
 title: Guerra no Tempo
 Autor: Clifford D Simak
@@ -16,4 +16,4 @@ Titulo-link: 34-Guerra-no-Tempo
 Capa: Lima de Freitas
 pags: 217
 Capa-link: Lima-de-Freitas
----
+xxxxxxxxx

@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 389
 title: Os Dorsai Perdidos
 Autor: Gordon R Dickson
@@ -16,4 +16,4 @@ Titulo-link: 389-Os-Dorsai-Perdidos
 Capa: António Pedro
 pags: 206
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

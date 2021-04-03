@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 499
 title: O Enigma de Malacia 2º volume
 Autor: Brian Aldiss
@@ -16,4 +16,4 @@ Titulo-link: 499-O-Enigma-de-Malacia-2-volume
 Capa: 
 pags: 
 Capa-link: 
----
+xxxxxxxxx

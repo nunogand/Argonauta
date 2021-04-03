@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 538
 title: Uma Nova Esperança em Pern 2º volume
 Autor: Anne McCaffrey
@@ -16,4 +16,4 @@ Titulo-link: 538-Uma-Nova-Esperanca-em-Pern-2-volume
 Capa: António Pedro
 pags: 320
 Capa-link: Antonio-Pedro
----
+xxxxxxxxx

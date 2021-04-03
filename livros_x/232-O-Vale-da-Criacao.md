@@ -1,4 +1,4 @@
----
+xxxxxxxxx
 Numero: 232
 title: O Vale da Criação
 Autor: Edmond Hamilton
@@ -16,4 +16,4 @@ Titulo-link: 232-O-Vale-da-Criacao
 Capa: Manuel Dias
 pags: 171
 Capa-link: Manuel-Dias
----
+xxxxxxxxx
