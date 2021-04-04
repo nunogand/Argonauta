@@ -1,17 +1,56 @@
 <!DOCTYPE html>
 <html lang="pt-PT">  
-  <head>
-    <!-- Required meta tags -->
+<head>
+<!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title }} - {{ page.title }}</title>
     
     <!-- Set the base URL for all relative URLs within the document
-    <base href="not yet set"> 
-    -->
-    
-     <!-- FAVICON -->
-   {% include favicon.html %}
 
-       <!-- CSS PARA REMOVER????-->
-       <link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/main.css">
+    <base href="absolute_url"> 
+    
+  -->
+<!-- Outros elementos-->
+<!--
+  Allows control over where resources are loaded from.
+  Place as early in the <head> as possible, as the tag  
+  only applies to resources that are declared after it. TESTAR!
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+-->
+<!-- Theme Color for Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#4285f4">
+
+<!-- Control the behavior of search engine crawling and indexing -->
+<meta name="robots" content="index,follow"><!-- All Search Engines -->
+<meta name="googlebot" content="index,follow"><!-- Google Specific -->
+
+<!-- Verify website ownership -->
+<meta name="google-site-verification" content="verification_token"><!-- Google Search Console -->
+<meta name="yandex-verification" content="verification_token"><!-- Yandex Webmasters -->
+<meta name="msvalidate.01" content="verification_token"><!-- Bing Webmaster Center -->
+<meta name="alexaVerifyID" content="verification_token"><!-- Alexa Console -->
+<meta name="p:domain_verify" content="code_from_pinterest"><!-- Pinterest Console-->
+<meta name="norton-safeweb-site-verification" content="norton_code"><!-- Norton Safe Web -->
+
+<!-- Identify the software used to build the document (i.e. - WordPress, Dreamweaver) -->
+<meta name="generator" content="Jekyll 4.2.0">
+
+<!-- Disable automatic detection and formatting of possible phone numbers -->
+<meta name="format-detection" content="telephone=no">
+
+<!-- set baseurl in config.yml-->
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
+
+<!-- Links to information about the author(s) of the document -->
+<link rel="author" href="humans.txt">
+
+<!-- Refers to a copyright statement that applies to the link's context 
+<link rel="license" href="copyright.html">
+-->
+
+
+
+<!-- FAVICON -->
+{% include favicon.html %}

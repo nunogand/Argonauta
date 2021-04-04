@@ -1,10 +1,6 @@
 ---
 ---
-<!DOCTYPE html>
-
-<html lang="pt-PT">
-
-{% include head-livro.html %}
+{% include head.html %}
 
 
 {% assign a = page.url | remove: "/livros/" %}
@@ -13,13 +9,60 @@
 {% assign listagem = site.data.argonauta-alias | where: "alias", x %}
 
 {% capture capa %}/assets/front/{{livros.Titulo-link | append: ".jpg" }}{% endcapture %}
-{% capture titulo %}{{ livros.Titulo }}{% endcapture %}
-{% capture autor %}{{ livros.Autor }}{% endcapture %}
-{% include opengraph-livro.html  capa=capa autor=autor titulo=titulo%}
 
 
+<!--Elementos HEAD únicos do layout livro-->
+<!---CSS-->
+<link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/livro.css">
+
+<meta name="description" content="A description of the page">
+
+<!-- The first, last, previous, and next documents in a series of documents, respectively -->
+<link rel="first" href="/livros/1-Perdidos-na-Estratosfera.html">
+<link rel="last" href="/livros/563-Dune-1-volume.html">
+<link rel="prev" href="{{ livros.anterior | append:".html"}}">
+<link rel="next" href="{{ livros.proximo | append:".html"}}">
+
+
+<!--Generic Opengraph-->
+<meta property="og:type" content="books.book">
+<meta property="og:title" content="{{ livros.Titulo }}">
+<meta property="og:url" content="{{site.url}}">
+<meta property="og:image" content="{{capa}}">
+<!--<meta property="books:isbn" content="">
+<meta property="books:rating:value" content="">
+<meta property="books:rating:scale" content=""> -->
+<meta property="books:author" content="{{livros.Autor}}">
+
+<!--Facebook NECESSARIO TESTAR-->
+<!--
+<meta property="og:url" content="{{SITE.URL}}/{{page.url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content={{page.title}}>
+<meta property="og:image" content="{{capa}}">
+<meta property="og:image:alt" content="{{livros.Titulo}}">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="Colecção Argonauta">
+<meta property="og:locale" content="pt_PT">
+<meta property="article:author" content="">
+
+<!--Twitter card Opengraph-->
+<!-- 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@site_account">
+<meta name="twitter:creator" content="@individual_account">
+<meta name="twitter:url" content="https://example.com/page.html">
+<meta name="twitter:title" content="Content Title">
+<meta name="twitter:description" content="Content description less than 200 characters">
+<meta name="twitter:image" content="https://example.com/image.jpg">
+<meta name="twitter:image:alt" content="A text description of the image conveying the essential nature of an image to users who are visually impaired. Maximum 420 characters.">
+-->
 
 </head>
+
+
+
+
 
 <body>
   {%include navigation.html%}
@@ -194,15 +237,15 @@
 
   <nav class="pagination is-rounded has-background-white-ter px-4 py-4" role="navigation" aria-label="pagination">
     {% if livros.anterior==nil %}
-    <a class="pagination-previous" disabled>Anterior</a>
+    <a class="pagination-previous" disabled> < Anterior</a>
     {%else%}
-    <a class="pagination-previous" href="{{ livros.anterior | append:".html"}}">Anterior</a>
+    <a class="pagination-previous" href="{{ livros.anterior | append:".html"}}"> < Anterior</a>
     {%endif%}
 
     {% if livros.seguinte==nil %}
-    <a class="pagination-next" disabled>Próximo</a>
+    <a class="pagination-next" disabled>Próximo > </a>
     {%else%}
-    <a class="pagination-next" href="{{ livros.seguinte | append:".html"}}">Próximo</a>
+    <a class="pagination-next" href="{{ livros.seguinte | append:".html"}}">Próximo > </a>
     {%endif%}
   </nav>
 
