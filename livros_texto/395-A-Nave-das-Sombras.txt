@@ -11,20 +11,18 @@ Ano-edicao: 1977
 review: |
   
 listagem: |
+  <div class="content">
+  <ol type="i">
+  <li>Dedicatória (Isaac Asimov)</li>
+  <li>Não Há Duas sem Três (Isaac Asimov)</li>
+  <li>A Nave das Sombras (Fritz Leiber)</li>
+  <li>Maus Encontros em Lankhmar (Fritz Leiber)</li>
+  <li>Escultura Lenta (Theodore Sturgeon)</li>
+  <li>A Rainha do Ar e da Escuridão (Poul Anderson)</li>
+  <li>Lua Inconsciente (Larry Niven)</li>
+  </ol>
+  </div>
 ---
-
-Autor: Editado por Isaac Asimov
-
-Título original: The Hugo Winners
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em 1990
-
-Capa: A. Pedro
-
-Tradução: Raul de Sousa Machado
-
 Súmula - Foi apresentada no livro 
 nº394 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
