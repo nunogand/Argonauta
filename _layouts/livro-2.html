@@ -20,8 +20,8 @@
 <!-- The first, last, previous, and next documents in a series of documents, respectively -->
 <link rel="first" href="/livros/1-Perdidos-na-Estratosfera.html">
 <link rel="last" href="/livros/563-Dune-1-volume.html">
-<link rel="prev" href="{{ livros.anterior | append:".html"}}">
-<link rel="next" href="{{ livros.proximo | append:".html"}}">
+{% if livros.anterior==nil %} {%else%}<link rel="prev" href="{{ livros.anterior | append:".html"}}">{%endif%}
+{% if livros.seguinte==nil %} {%else%}<link rel="next" href="{{ livros.seguinte | append:".html"}}">{%endif%}
 
 
 <!--Generic Opengraph-->
