@@ -11,19 +11,21 @@ Ano-edicao: 1980
 review: |
   
 listagem: |
+  <div class="content">
+  <ol type="i">
+  <li>Como é Aquilo por Lá? (Edmond Hamilton)</li>
+  <li>Quem Poderá Substituir o Homem? (Brian Aldiss)</li>
+  <li>Que Foi que eu Fiz? (Mark Clifton)</li>
+  <li>Quem Está Aí? (Arthur C. Clarke)</li>
+  <li>Você Sente Alguma Coisa Quando eu Faço Isto? (Robert Sheckley)</li>
+  <li>Porquê? (Robert Silverberg)</li>
+  <li>Que Aconteceu ao Rosca-Moída? (Ron Goulart)</li>
+  <li>Houston, Houston, Estão a Ouvir-me? (James Tiptree, Jr.)</li>
+  <li>Onde Estiveste, Billy Boy, Billy Boy? (Kate Wilhelm)</li>
+  <li>A Pergunta Final (Isaac Asimov)</li>
+  </ol>
+  </div>
 ---
-
-Autor: Isaac Asimov
-
-Título original: The Future in Question
-
-1ª Edição: 1980
-
-Publicado na Colecção Argonauta em 1984
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
 Súmula - Foi apresentada no livro 
 nº319 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
