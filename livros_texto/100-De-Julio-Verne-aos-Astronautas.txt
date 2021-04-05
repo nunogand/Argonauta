@@ -11,16 +11,25 @@ Ano-edicao: 1965
 review: |
   
 listagem: |
+<div class="content">
+  <ol type="i">
+  <li>O Eterno Adão (Júlio Verne)</li>
+  <li>A Estrela (H. G. Wells)</li>
+  <li>Um Outro Mundo (J. H. Rosny Aîné)</li>
+  <li>O Templo (H. P. Lovecraft)</li>
+  <li>R. U. R. (Karel Capek)</li>
+  <li>A Virgem dos Rochedos (Poul Anderson)</li>
+  <li>Flores para Algernon (Daniel Keyes)</li>
+  <li>Do Tempo e da Terceira Avenida (Alfred Bester)</li>
+  <li>As Ruínas Circulares (Jorge Luis Borges)</li>
+  <li>A Estrela (Arthur C. Clarke)</li>
+  <li>Cor Serpentis (Iván Efrémov)</li>
+  <li>O Dragão (Ray Bradbury)</li>
+  <li>A Arma (Fredric Brown)</li>
+  <li>Instinto (Lester del Rey)</li>
+  </ol>
+  </div>
 ---
-Autor: (vários autores) Título original: Os Melhores Contos de Ficção-Científica (Antologia)
-
-1ª Edição: 1965
-
- Publicado na Colecção Argonauta em 1965 
-
- Capa: Lima de Freitas
-
- Tradução (e selecção): Lima de Freitas
 Súmula - foi apresentada no livro 
 nº99 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
