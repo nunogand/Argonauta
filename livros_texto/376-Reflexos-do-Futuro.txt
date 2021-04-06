@@ -11,19 +11,24 @@ Ano-edicao: 1986
 review: |
   
 listagem: |
+  <div class="content">
+  <ol type="i">
+  <li>Prefácio (Bruce Sterling)</li>
+  <li>O Contínuo de Gernsback (William Gibson)</li>
+  <li>Olhos de Serpente (Tom Maddox)</li>
+  <li>A Pecadora (Pat Cadigan)</li>
+  <li>Contos de Houdini (Rudy Rucker)</li>
+  <li>400 Rapazes (Mark Laidlaw)</li>
+  <li>Solstício (James Patrick Kelly)</li>
+  <li>Petra (Greg Bear)</li>
+  <li>Até que Vozes Humanas nos Acordem (Lewis Shiner)</li>
+  <li>Zonalivre (John Shirley)</li>
+  <li>Vidas de Pedra (Paul di Filippo)</li>
+  <li>Estrela Vermelha, Órbita de Inverno (Bruce Sterling e William Gibson)</li>
+  <li>Mozart de Óculos Espelhados (Bruce Sterling e Lewis Shiner)</li>
+  </ol>
+  </div>
 ---
-
-Autor: Bruce Sterling
-
-Título original: Mirrorshades
-
-1ª Edição: 1986
-
-Publicado na Colecção Argonauta em 1988
-
-Capa: A. Pedro
-
-Tradução: Eduardo Saló
 Súmula - Foi apresentada no livro 
 nº375 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
