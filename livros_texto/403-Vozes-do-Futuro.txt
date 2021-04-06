@@ -11,18 +11,27 @@ Ano-edicao: 1984
 review: |
   
 listagem: |
+  <div class="content">
+  <ol type="i">
+  <li>O Coração Dentro do Ovo (Jayge Carr)</li>
+  <li>A Promoção do Peão (Lee Vester)</li>
+  <li>A Prisioneira da Gravidade (F. Gwynplaine Macintyre)</li>
+  <li>Ladybug, Ladybug (Avon Swofford)</li>
+  <li>A Quarta Vocação de George Gustaf (David Brin)</li>
+  <li>A Estação do Mal (C. L. Crouch)</li>
+  <li>Não Bebas o Céu de Mirmidão (Bruce Boston)</li>
+  <li>O Cliente tem Sempre Razão (Lee e H. Patrick Killough)</li>
+  <li>Devolvam-no aos Índios (Bill Messenger)</li>
+  <li>A Ponte que Canta (Joel Richards)</li>
+  <li>Minha Irmã e Eu (Mark L. Van Name)</li>
+  <li>A Filha de Anukazi (Mary R. Gentle)</li>
+  <li>Famílias (Julie Stevens)</li>
+  <li>Faz com que Nunca Tenha Acontecido (Bill Bickel)</li>
+  <li>Arriki (Daniel E. Dabbs)</li>
+  <li>A Transformação (Chuck Rothman)</li>
+  </ol>
+  </div>
 ---
-Autor: (Editado por Isaac Asimov)
-
-Título original: Tomorrow's Voices""
-
-1ª Edição: 1984
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares
 Súmula - Foi apresentada no livro 
 nº402 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
  do próximo volume da Colecção Argonauta"":
