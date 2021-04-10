@@ -67,7 +67,7 @@
 <body>
   {%include navigation.html%}
 
-  <section class="hero is-small" style="background-color:#ededa6;">
+  <section class="hero is-small" style="background-color:#fafafa;">
     <div class="hero-body">
       <div class="columns is-variable is-6" id="hero">
         <div class="column is-one-third is-offset-1" id="Capa-do-livro">
@@ -143,7 +143,11 @@
                 <li><span class="has-text-danger">Páginas: </span>
                   {{ livros.pags }}</li>
                 <li><span class="has-text-danger">Capa: </span>
-                  {{ livros.Capa }}</li>
+                  {{ livros.Capa }}</li><hr>
+                <li><span class="has-text-danger is-italic is-lowercase is-size-6">ISFDB: 
+                    <a href="{{ livros.Livro-isfdb }}">{{ livros.Livro-isfdb | remove:"http://www.isfdb.org/cgi-bin/pl.cgi?"}}</a></span></li>
+                <li><span class="has-text-danger is-italic is-lowercase is-size-6">Bibliowiki: 
+                      <a href="{{ livros.Livro-isfdb }}">link</a></span></li>    
               </ul>
 
             </div>
