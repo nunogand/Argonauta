@@ -9,8 +9,21 @@ Tradutor1: Fernanda Pinto Rodrigues
 Tradutor2: 
 Ano-edicao: 1959
 review: |
-  
+  Este livro resulta da fusão de vários contos originalmente publicados na revista "Astounding Science Fiction" o que acaba por ser uma limitação do mesmo ao não permitir aprofundar convenientemente quer as personagens quer o meio em que as mesmas se deslocam.
 listagem: |
+  <div class="content">
+  <ol type="i">
+  <li>Co-Operate - Or Else!</li>
+  <li>Linking material</li>
+  <li>Repetition (aka The Gryb)</li>
+  <li>The Second Solution</li>
+  <li>The Green Forest</li>
+  <li>The Sound</li>
+  <li>Linking material</li>
+  <li>The Rull</li>
+  </ol>
+  </div>
+
 ---
 
 Autor: A. E. Van Vogt Título original: The War Against The Rull
