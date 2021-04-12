@@ -3,15 +3,21 @@
 <!--Head com componentes comuns a todo o site-->
 {% include head.html %}
 
-<!-- Site custom CSS autores -->
-<link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/autores.css">
-
-<!--LIQUID logic para opengraph-->
+<!--LIQUID logic-->
 
 {% assign b = page.url | remove: "/autores/" %}
 {% assign livros = site.data.argonauta-alias | where: "alias", b %}
 
 <!--end LIQUID logic-->
+
+
+<!--Elementos HEAD únicos do layout autores-->
+<!---CSS-->
+<link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/autores.css">
+
+<meta name="description" content="A description of the page">
+
+<!-- Site custom CSS autores -->
 
 <!--opengraph-->
 <meta property="og:type" content="books.author">
@@ -21,11 +27,36 @@
 {% for gg in livros %} {% assign link = site.data.argonauta-alias | find: "Titulo" , gg.name %}
 <meta property="books:book" content="/livros/{{ gg.Titulo-link | append: ".html" }}">
 {%endfor%}
+
 <!--end opengraph-->
+
+<!--Facebook NECESSARIO TESTAR-->
+<!--
+<meta property="og:url" content="{{SITE.URL}}/{{page.url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content={{page.title}}>
+<meta property="og:image" content="{{capa}}">
+<meta property="og:image:alt" content="{{livros.Titulo}}">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="Colecção Argonauta">
+<meta property="og:locale" content="pt_PT">
+<meta property="article:author" content="">
+<!--Twitter card Opengraph-->
+<!-- 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@site_account">
+<meta name="twitter:creator" content="@individual_account">
+<meta name="twitter:url" content="https://example.com/page.html">
+<meta name="twitter:title" content="Content Title">
+<meta name="twitter:description" content="Content description less than 200 characters">
+<meta name="twitter:image" content="https://example.com/image.jpg">
+<meta name="twitter:image:alt" content="A text description of the image conveying the essential nature of an image to users who are visually impaired. Maximum 420 characters.">
+-->
+
 </head>
 
 <body>
-
+{%include navigation.html%}
 
 
 
