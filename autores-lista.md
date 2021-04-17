@@ -4,7 +4,7 @@ title: Lista de Autores
 ---
 {% include navigation.html %}
 {% include hero.html %}
-
+<link rel="stylesheet" href="{{ site.baseurl }}{{ site.assets }}/livro.css">
 <!-- cria cartões de autores distribuido por numero de volumes -->
 
 <section class="section is-small">

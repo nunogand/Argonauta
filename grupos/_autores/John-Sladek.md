@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: John Sladek
 alias: John-Sladek
----123
+---

@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: J H Rosny Aîné
 alias: J-H-Rosny-Aîne
----123
+---

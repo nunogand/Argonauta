@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: Kurt Steiner
 alias: Kurt-Steiner
----123
+---

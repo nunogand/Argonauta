@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 Autor: Larry Niven
 alias: Larry-Niven
----123
+---

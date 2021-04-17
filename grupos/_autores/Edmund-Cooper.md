@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: Edmund Cooper
 alias: Edmund-Cooper
----123
+---

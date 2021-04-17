@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: Stanislaw Lem
 alias: Stanislaw-Lem
----123
+---

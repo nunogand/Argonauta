@@ -125,7 +125,7 @@
         </div>
       </div>
       <div class="column ml-3">
-        <h2 class="mt-6 ">
+        <h2>
         Autores:</h2>
         <ul>
           {% assign autores = site.data.argonauta-alias | group_by: "Autor" | sort:"name" %}
@@ -139,6 +139,7 @@
     </div>
   </section>
 
+  {% include footer.html %}
 
 </body>
 

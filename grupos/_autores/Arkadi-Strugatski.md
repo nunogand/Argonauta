@@ -1,5 +1,5 @@
----123
-semlayout: autores4
+---
+layout: autores4
 title: Arkadi Strugatski
 alias: Arkadi-Strugatski
----123
+---
