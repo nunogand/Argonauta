@@ -145,9 +145,12 @@
                 <li><span class="has-text-danger">Capa: </span>
                   {{ livros.Capa }}</li><hr>
                 <li><span class="has-text-danger is-italic is-lowercase is-size-6">ISFDB: 
-                    <a href="{{ livros.Livro-isfdb }}">{{ livros.Livro-isfdb | remove:"http://www.isfdb.org/cgi-bin/pl.cgi?"}}</a></span></li>
+                    <a href="{{ livros.Livro-isfdb }}" target="_blank">{{ livros.Livro-isfdb | remove:"http://www.isfdb.org/cgi-bin/pl.cgi?"}}</a></span></li>
+                <li><span class="has-text-danger is-italic is-lowercase is-size-6">ISFDB (vo): 
+                    <a href="{{ livros.Livro-isfdb-original }}" target="_blank">{{ livros.Livro-isfdb-original | remove:"http://www.isfdb.org/cgi-bin/title.cgi?"}}</a></span></li>
                 <li><span class="has-text-danger is-italic is-lowercase is-size-6">Bibliowiki: 
-                      <a href="{{ livros.Livro-isfdb }}">link</a></span></li>    
+                    <a href="http://bibliowiki.com.pt{{ livros.Livro-bibliowiki }}" target="_blank">{{ livros.Livro-bibliowiki | remove:"/index.php/"}}</a></span></li>
+                          
               </ul>
 
             </div>
