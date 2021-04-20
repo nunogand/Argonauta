@@ -9,26 +9,9 @@ Tradutor1: Paulo A. Moreira
 Tradutor2: 
 Ano-edicao: 1992
 review: |
-  
+  Preocupado com o destino de Magalone - a dimensão não encontrada em nenhum mapa estelar e que foi infiltrada por subversivos - o Dr. Sass apela a Tom Dunjer, Chefe da Security Plus, para que viaje para essa dimensão remota.
 listagem: |
 ---
-Autor: Isidore Haiblum
-
-Título original: Crystal World
-
-1ª Edição: 1992
-
-Publicado na Colecção Argonauta em Março de 2006
-
-Capa: Rogério Silva
-
-Tradução: Paulo A. Moreira
-
-Revisão: Dália Moniz 
-
-Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula 
-relativas à próxima obra, pelo que os leitores deixaram de ter 
-disponíveis nas obras que adquiriam qualquer informação sobre a 
-publicação seguinte ou o autor da mesma. A informação relativa à obra, 
-passou a reduzir-se às poucas linhas que constam da contracapa da mesma.
-"
+Súmula
+De uma dimensão que não existe surge uma ameaça que pode destruir o universo. 
+«Eu sabia o que estava a acontecer. A minha consciência mantinha-se intacta e a funcionar em pleno. Parecia abarcar toda a realidade. Sabia o que estava a acontecer, mas os detalhes eram algo confusos. Não me preocupei com isso. Não me preocupava com nada». Magalone não é localizável em nenhum mapa astral. Mesmo aqueles que já ouviram falar dele não acreditam na sua existência. Quer se trate, porém, de uma dimensão efectiva, ou do produto de uma imaginação delirante, o facto é que Magalone foi invadido por um grupo subversivo que anda a matar toda a gente para obter o segredo do Desestabilizador — uma verdadeira arma de destruição maciça. Tom Dunjer, chefe da Security Plus, é dos que acredita na sua existência. Foi contratado pelo Dr. Sass para tentar salvar Magalone. Mas chegar até lá não vai ser fácil. E regressar, então, pode vir a revelar-se quase impossível, sobretudo quando Dunjer descobrir o terrível poder do Desestabilizador... 
