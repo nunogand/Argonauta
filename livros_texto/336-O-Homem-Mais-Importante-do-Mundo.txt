@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Philip K. Dick
-
-Título original: Time Out of Joints
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº335 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O Homem Mais Importante do Mundo, é a versão portuguesa de Time Out of Joint, de Philip K. Dick. É, pois, uma obra célebre de um autor célebre.
 
 Ragle Gumm tem uma vida calma, fácil. Mora em casa de uns parentes e arranja o bastante para se manter, solucionando problemas e enigmas em jornais... ganhando sempre. No fundo, é um mandrião... mas um mandrião feliz. 

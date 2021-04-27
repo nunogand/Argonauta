@@ -12,23 +12,8 @@ review: |
   
 listagem: |
 ---
-
    
-Autor: Arthur Conan Doyle
 
-Título original: The Maracot Deep (The Lost World Under the Sea)
-
-1ª Edição: 1957
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: J. Lima da Costa
-
-Súmula - Foi apresentada no livro 
-nº424 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Bastaria a criação de Sherlock Holmes para imortalizar o nome de Sir Arthur Conan Doyle, mas a verdade é que as aventuras do maior detective de todos os tempos não foram o único produto da sua fértil imaginação, a qual abarcou os temas mais variados, incluindo a ficção-científica, como os leitores desta Colecção bem conhecem através dos volumes O Mundo Perdido (nº349), O Dia em que a Terra Gritou (nº 357) e O Pé do Diabo (nº399). Aliás, com este novo romance - O Mundo Perdido no Fundo do Mar - completa-se, na Colecção Argonauta, toda a obra de ficção-científica escrita por Conan Doyle. 
 
 Desta vez o sábio - que, como é tradicional, possui tanto de competência como de excentricidade - já não é o exuberante Professor Challenger, mas o austero Professor Maracot, apostado em explorar também um mundo perdido agora situado nas profundezas do oceano Atlântico.

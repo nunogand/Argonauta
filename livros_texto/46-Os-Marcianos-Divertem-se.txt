@@ -12,8 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Fredric Brown Título original: Martians, Go Home 1ª Edição: 1955 Publicado na Colecção Argonauta em 1958  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº45 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Luke Devereaux, escritor de ficção-científica em crise de imaginação, encontrava-se certa noite numa cabana isolada no meio do deserto da Califórnia. Resolvera recolher-se ali para tentar, no meio do sossego e do silêncio, conseguir dar início ao romance de ficção-científica que o seu editor lhe exigia (e que até já lhe pagara parcialmente). As ideias não vinham, nem com a ajuda de whisky. Nessa noite, Luke estava mais desesperado do que nunca. De repente, pareceu-lhe ter imaginado o início de um argumento: ""E se os Marcianos...""
 
 Bateram à porta. Luke abriu, espantado com a hora, dado o isolamento da cabana. Era um homenzinho de noventa centímetros de altura, verde e sorridente. 

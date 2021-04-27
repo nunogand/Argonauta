@@ -12,9 +12,8 @@ review: |
   
 listagem: |
 ---
-
  
-Autor: Jean Gaston Vandel  Título original: Alerte Aus Robots! 1ª Edição: 1952 Publicado na Colecção Argonauta em 1959  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº51 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
+
 No ano de 3750 a humanidade dominava completamente a máquina. O próprio governo mundial é assegurado por um cérebro electrónico gigante, o Center-World-Brain que, da sua fortaleza de Joe Island, no Pacífico, assegura as ligações com todos os governos nacionais e administrações locais, elas também formadas por cérebros electrónicos. Passeios e estradas rolantes conduzem o homem, casas automáticas acolhem-no e preparam-lhe refeições e bebidas, centros Moto-Clínicos tratam-no e curam-no. O homem nada mais tem a fazer do que controlar esse mecanismo total e gozar a sua própria vida de ser pensante.
 
 Mas eis que inesperados acidentes começam a acontecer: Moto-clínicas descontroladas que matam por excesso de raios X; portas automáticas que esmagam quem passa por elas; passeios rolantes que, num aparente ataque de loucura, deslizam numa velocidade absurda, matando e ferindo milhares de seres humanos.

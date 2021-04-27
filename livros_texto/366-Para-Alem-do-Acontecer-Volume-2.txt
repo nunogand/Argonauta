@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: Beyond the Blue Event Horizon
-
-1ª Edição: 1980
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº365 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Se o primeiro volume de Para Além do Acontecer se lê de um fôlego, o segundo é ainda mais emocionante. Eis um trecho:
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 A espiral de 137 pequenas estrelas duplicou-se. Outra espiral de pontos ergueu-se da original e flutuou até ao algo do fuso, onde ficou suspensa em silêncio. A linguagem de chilreios voltou a fazer-se ouvir e a espiral original expandiu-se, enquanto cada um dos pontos começou a descrever uma espiral por si próprio. Quando isso acabou, havia uma grande espiral, composta por 137 pequenas espirais, cada uma delas formada por 137 pontos. Depois todos os pontos vermelhos se tornaram alaranjados e assim ficaram.

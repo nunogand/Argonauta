@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K.Dick
-
-Título original: The Zap Gun
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº341 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Philip K. Dick é um dos autores preferidos dos leitores da Colecção Argonauta, pela profundidade das suas obras que atinge o mistério, o simbolismo. Mas Philip K.Dick foi também um humorista de primeira classe, à sua maneira, com um humor que constitui uma crítica inteligente e pertinente a muitos dos aspectos da nossa sociedade. Um exemplo dessa faceta menos conhecida de Dick, mas não menos importante, é The Zap Gun, uma história que decorre num futuro relativamente próximo - no ano 2004 - e que tem por base a corrida aos armamentos. Proibidas as armas atómicas, acordado o banimento de muitas armas convencionais, nem por isso a corrida aos armamentos pára - os fabricantes, os militares, os políticos, não estão dispostos a deter-se. A corrida já não se faz no sentido de procurar armas cada vez mais poderosas, mas sim cada vez mais inesperadas - armas diferentes. É a imaginação que conta (e quem pode ser mais imaginativo do que Philip K.Dick?). Daí, a formação de verdadeiros ciclos, como os da moda - o o advento das modas de armamentos, com os seus grandes desenhadores, semelhantes aos grandes costureiros.
 
 Fantasia a mais? Não tanto como isso - a moda, nos armamentos, já existe, só que nem todos dão por isso... Mas Philip K.Dick foi mais além: os desenhadores de modas de armamentos, ou designers, se assim se preferir, apresentam ideias que lhes surgem em transe. Essas ideias, serão deles? 

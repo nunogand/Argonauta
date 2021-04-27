@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Isaac Asimov
-Título original: The Currents of Space
-1ª Edição: 1952
-Publicado na Colecção Argonauta em 1955
-Capa: Cândido Costa Pinto 
-Tradução: Alfredo Margarido e Manuel de Sepúlveda
-
-Súmula - foi apresentada no livro nº 20 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 - Uma vez disseram-me que o espaço é o vácuo. E isso quer dizer que não há lá nada. É mentira?
 - Não inteiramente. Não há lá quase nada. Mas, bem vês, eu era um Analista Espacial, e isso quer dizer que andava atrás do espaço a recolher as pequeníssimas quantidades de elementos que lá existem para as analisar. Quer dizer, era eu um dos que resolvem a questão de saber que quantidade há de hidrogénio, que quantidade há de hélio e que quantidade há de outros elementos.
 - Porquê?

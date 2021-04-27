@@ -12,21 +12,5 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: The Gateway Trip
-
-1ª Edição: 1990
-
-Publicado na Colecção Argonauta em 1997
-
-Capa: A. Pedro
-
-Tradução: Clarisse Tavares
-Súmula - Foi apresentada no livro 
-nº481 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Termina neste volume a última das obras que Frederik Pohl dedicou à inesquecível Saga dos Heechee, uma das mais assinaláveis de toda a literatura de ficção-científica. Vai assim o leitor ficar a conhecer como evoluíram as perigosas digressões e as maravilhosas descobertas tecnológicas que intrépidos pioneiros empreenderam no território galáctico dos Heechee, no qual abundam as surpresas, embora dos Heechee propriamente ditos não vislumbrassem quaisquer indícios. Neste universo muito peculiar, encontram-se, afinal, retratados alguns dos grandes problemas que afligem uma Terra superpovoada. 
 "

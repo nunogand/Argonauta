@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Ursula K. Le Guin
-
-Título original: The Eye of the Heron
-
-1ª Edição: 1978
-
-Publicado na Colecção Argonauta em 1984
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº318 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Expulsos da Terra é a versão portuguesa de The Eye of the Heron, uma das obras mais recentes de Ursula K. Le Guin. É a história de duas comunidades degredadas das Terra, que vivem noutro planeta. De um lado, os violentos e exploradores habitantes da Cidade. Do outro, os herdeiros de um movimento pacifista iniciado séculos antes na Terra, não violentos por natureza, amontoados no Bairro da Lata, na fronteira do desconhecido.
 
 Luz, uma jovem da Cidade, não aceita os privilégios e a segurança que a sua existência de prisioneira ali lhe daria e cria uma nova identidade entre a liberdade, o companheirismo e o amor - e o duro trabalho físico - que caracteriza a vida entre os Lateiros. Por fim, dirige-se a uma expedição destas às Terras Selvagens, para fundar uma nova colónia e construir ali uma vida nova e independente.

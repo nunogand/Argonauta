@@ -12,12 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Stefan Wul Título original: Le Temple du Passé
-1ª Edição: 1957 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: André Varga
-Súmula - foi apresentada no livro nº84 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 A Colecção Argonauta vem apresentar agora ao leitor português mais um romance de Stefan Wul, autor francês de ficção-científica cuja obra é das mais conhecidas e apreciadas em Portugal.
 
 Escritor de vastor recursos, os seus romances interessam e encantam pela diversidade de situaçãoes e peripécias que entrecortam a narrativa e nos mantêm numa permanente suspensão, bem como pela fluência da linguagem e sua força sugestiva. O Templo do Passado, como os demais romances de Stefan Wul que a Colecção Argonauta já publicou, exemplifica todas estas característica e reforçaria, se necessário, o vasto prestígio de que o autor já goza em Portugal. 

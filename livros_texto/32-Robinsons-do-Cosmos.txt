@@ -12,12 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Francis Carsac Título original: Les Robinsons du Cosmos
-
-1ª Edição: 1955 Publicado na Colecção Argonauta em 1956  Capa: Cândido Costa Pinto (esta é a última capa de Cândido Costa Pinto na Colecção, pelo que incluo no final um texto sobre ele, como homenagem). Tradução: Mário Henrique Leiria
-  
-Súmula - foi apresentada no livro nº31 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
  Não farei aqui a história do cataclismo nem a da conquista de Tellus. Tudo isso pode ser encontrado, num estudo detalhado, nas obras do meu irmão. Desejo simplesmente contar a história da minha própria vida. Todos vós, que descendem de mim e dos meus companheiros e vivem neste mundo que é vosso por direito de nascimento, gostarão talvez de conhecer as impressões e as lutas de um homem, nascido num outro mundo e que para aqui foi transportado por um fenómeno sem precedentes e ainda mal explicado, e que quase desesperou, antes de compreender que magnífica aventura se lhe oferecia.
 
 Para que escrever este livro? Poucos de entre vós, sem dúvida, o lerão. Já conhecem o essencial. Assim, é sobretudo para as épocas futuras que escrevo. Lembro-me que nessa Terra que vos é desconhecida e que jaz em qualquer ignorado canto do Espaço, a curiosidade dos historiadores se agarrava aos testemunhos dos homens dos tempos passados. Quando quinhentos ou seiscentos anos tiverem decorrido, este livro terá o interesse de ser a descrição de uma testemunha ocular do Grande Início.

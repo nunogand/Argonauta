@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Sladek
-
-Título original: Bugs
-
-1ª Edição: 1989
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: António Porto 
-
-Súmula - Foi apresentada no livro 
-nº410 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 John Sladek, o célebre autor de The Muller-Fokker Effect, foi um dos inovadores da ficção-científica, uma das principais figuras do movimento New Wave e da revista New Worlds, e é um dos mais traduzidos. Bugs é uma das suas obras mais recentes e mais plenas da sua fina ironia: a história de um inglês perdido na América da alta tecnologia.
 

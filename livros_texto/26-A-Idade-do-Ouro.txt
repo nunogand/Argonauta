@@ -12,11 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Arthur C. Clarke 
-
-Título original: Childhood' s End1ª Edição: 1953  Publicado na Colecção Argonauta em 1955  Capa: Cândido Costa Pinto  Tradução: Carlos Vieira 
- Súmula - foi apresentada no livro nº 25 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Arthur C. Clarke combateu na defesa da Inglaterra como operador de radar. Este facto influenciou grandemente a sua carreira e deu ao seu modo de pensar uma atitude científica. Terminada a guerra, formou-se em Física e em Matemática na King's School de Londres, da qual foi assistente durante dois anos e co-editor científico da revista da mesma escola. Isto, em conjunto com um grande interesse desde a infância pela ciência aplicada e a literatura de ficção científica, permitem-lhe hoje ser considerado uma autoridade no campo da ciência, como técnico de astrofísica (pois também é astrónomo amador) e de astronáutica.
 O seu primeiro livro no campo técnico Interplanetary Flight (Voo Interplanetário), apesar de não ser uma obra de divulgação, teve tal êxito entre os iniciados - que escreveu a seguir outro livro The Exploration of Space (A Exploração do Espaço), destinado aos leigos, que ainda teve maior sucesso.
 Arthur C. Clarke é, além de bacharel em Física e Matemática, membro da Real Sociedade Astronómica, tendo sido também presidente da Sociedade Interplanetária Britânica de 1946 a 1947 e de 1950 a 1953. 

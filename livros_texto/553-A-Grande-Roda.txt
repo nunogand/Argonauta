@@ -12,28 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: William Rollo
-
-Título original: The Big Wheel
-
-1ª Edição: 1984
-
-Publicado na Colecção Argonauta em Março de 2004
-
-Capa: Rogério Silva
-
-Tradução: Elsa T. S. Vieira
-(Curiosamente, a edição refere na página nº3 que a tradução é de 
-Alexandra Rolão Tavares, e na página nº5 informa que a tradução é de 
-Elsa T. S. Vieira. Foi confirmado pelo Jorge Candeias e pela Elsa Vieira que a tradução é mesmo da Elsa T. S. Vieira)
-
-Revisão: Dália Moniz
-
-Súmula -
- foi apresentada no livro nº552 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 - Dispa-se.
 - Isto não é um exame ""completo?""
 - Não, senhor, eu... - a Tenente Honeywell olhou de esguelha para Morgan por baixo das longas pestanas negras. A linha exasperada da sua boca deixo vislumbrar uma covinha nas faces lisas.

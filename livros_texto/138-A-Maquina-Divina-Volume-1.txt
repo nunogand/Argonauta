@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Martin Caidin
-
-Título original: The God Machine
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº137 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 A Colecção 
 Argonauta, volta a ser honrada com o nome prestigioso de Martin Caidin, o

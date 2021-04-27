@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Algis Budrys
-
-Título original: The Falling Torch
-1ª Edição: 1959
-Publicado na Colecção Argonauta em 1974 
-
-Capa: Lima de Freitas
-Tradução: Maria Emília Ferros Moura
-Súmula - foi
- apresentada no livro nº198 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 A guerra no tempo - a pior das guerras. Aquele era o século XXV. Mas, a todo o momenot, havia que regressar ao passado, para eliminar, uma a uma, as manobras do inimigo. Porque um pequeno acontecimento, milhões de anos antes, ou centenas de milhares de anos antes, determinara os carácteres dos homens, das coiss, das ideias do mundo moderno. Suprimido ou alterado esse acontecimento, o mundo do século XXV modificar-se-ia profundamente. Poderia até ser destruído. 
 
 E o inimigo bem o sabia. Um inimigo verdadeiramente inumano. Porque era uma máquina. Máquina de matar - a mais perfeita, concebida por uma raça esquecida e morta. Um máquina cuja inteligência era maior que a de milhões e milhões de homens em conjunto. E que apenas tinha por objectivo destruir a vida. No presente, no passado. E até no futuro.

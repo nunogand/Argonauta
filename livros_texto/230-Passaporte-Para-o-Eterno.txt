@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: J.G. Ballard
-
-Título original: Passport to Eternety
-1ª Edição: 1963
-Publicado na Colecção Argonauta em 1976
-Capa: Manuel Dias 
-Tradução: Maria Emília Ferros Moura 
-Súmula - Foi apresentada no livro 
-nº229 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":  
+  
 
 Forbis passara o dia inteiro a tentar subir ao 100º andar. Acocorado junto da pequena escada, por detrás do elevador, fitava abatido a porta de metal giratória que dava para o telhado, tentando tomar a iniciativa fosse de que maneira fosse. Havia onze degraus estreitos, o terraço vazio do telhado, as altas grades servindo de barreira ao suicídio e o céu aberto. De três em três minutos passava um avião de passageiros, lançando uma sombra momentânea sobre os degraus; os jactos abafavam momentâneamente o pânico que o dominava e de cada vez fazia nova tentativa para alcançar a porta.
 

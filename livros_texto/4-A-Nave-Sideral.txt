@@ -12,7 +12,6 @@ review: |
   Distopia na qual toda a população é controlada por um circuito electrónico implantado à nascença. A partir daqui segue-se o óbvio.
 listagem: |
 ---
-
 Autor: Murray LeinsterTítulo original: The Last Space Ship
 1ª Edição: 1949
 Publicado na Colecção Argonauta em 1954

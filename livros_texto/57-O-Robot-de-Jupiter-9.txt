@@ -12,11 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Paul French (pseudónimo de Isaac Asimov)
-Título original: Lucky Starr and The Moons of Jupiter 1ª Edição: 1957 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
-
-Súmula - foi apresentada no livro nº56 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
  
 
 Mais uma vez, encontramos os nossos já conhecidos Lucky Starr e Bigman Jones, desta vez em Adrastea ou Júpiter-9, um dos satélites de Júpiter.

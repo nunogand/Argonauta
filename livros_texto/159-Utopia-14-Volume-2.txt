@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Kurt Vonnegut, Jr.
-
-Título original: Player's Piano
-
-1ª Edição: 1952
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº158 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Se a primeira parte de Utopia 14 foi lenta - ainda que incisiva e pungente na sua descrição da sociedade de consumo levada ao último extremo -, a segunda é a tempestade que se segue à calmaria.
 Um jorro de chmas e fragmentos de tijolos saltou da Fábrica Ilium, do outro lado do rio, e Halyard viu que onde as Estrelas e as Riscas tinham flutuado, sobre o edifício do director da fábrica, havia agora uma bandeira branca, a flutuar ao vento que arrastava o fumo.

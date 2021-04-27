@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Poul Anderson
-
-Título original: Mayday Orbit
-1ª Edição: 1961
-Publicado na Colecção Argonauta em 1972 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca
-Súmula - foi
- apresentada no livro nº185 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Deste extraordinário romance de FC, Planeta Neutral, de Poul Anderson, damos aos leitores o seguinte excerto:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...

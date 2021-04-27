@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-
-Título original: To Your Scattered Bodies Go
-1ª Edição: 1971
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº262 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Que Philip José Farmer é um dos maiores autores de ficção científica do nosso tempo, todos o sabem. Mas importa dizer que a série do ""Mundo do Rio"" - (Riverworld), é a mais importante da sua obra.
 Corpos nús, sem cabelos, jovens, à deriva no infinito. Um vivo, sabendo que devia estar morto. Mas para Richard Francis Burton, aventureiro e mulherengo, aquela impossível aventura das suas próprias Mil e Uma Noites, não é um sintoma de loucura, mas um fenómeno novo que importa explorar.
 

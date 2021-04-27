@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: C. M. Kornbluth
-Título original: The Síndic
-1ª Edição: 1953
-Publicado na Colecção Argonauta em 1957 
-Capa: Lima de Freitas
-Tradução: H. dos Santos Carvalho 
-
-Súmula - foi apresentada no livro nº39 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 O Síndico, estranha personagem quase mística, organizara uma espécie de gigantesca liga protectora que incluía a zona dos que tinham sido outrora os Estados a Este do rio Mississipi.
 Nunca a humanidade vivera tão bem, ou pelo menos assim parecia. O dinheiro era abundante, e a felicidade uma coisa real. As inibições morais tinham desaparecido ao mesmo tempo que os cavalos; a maior parte das raparigas eram facilmente abordáveis, e o desporto nacional, o pólo, jogava-se em ""jeeps"" com metralhadoras de calibre 50 para impelir a bola de aço.
 O desesperado, corrupto e velho Governo Norte Americano, completamente desligado da Nação, tinha-se encaminhado literalmente para o mar, mas fazia ocasionais incursões de pirataria no continente, partindo das suas bases nas ilhas costeiras da arruinada e selvagem Europa.

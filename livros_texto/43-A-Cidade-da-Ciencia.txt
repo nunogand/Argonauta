@@ -12,8 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Maurice Vernon Título original: Les Savants Dans L' Arène 1ª Edição: 1955 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº42 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Depois do Grande Desastre, o mundo unificou-se. O Governo Universal ficou nas mãos de Alan Donnel, tirânico ditador que, instalado na monstruosa cidade de Capitalopolis, dominava com o auxílio das suas tropas Governamentais e dos Serviços Privados. 
 A guerra deixara em todos um enorme ódio aos cientistas, sacusados de serem os causadores da carnificina. Todo o cientista apanhado pelo povo era imediatamente executado e, aproveitando-se desse facto, Alan Donnnel reuniu os sábios sobreviventes numa cidade subterrânea, a Cidade da Ciência, sob o pretexto aparente de os proteger, mas para, de facto, servindo-se das suas descobertas, ses tornar o senhor incontestado, o Senhor do Mundo. 
 Mas existiam os Oposicionistas, os homens cujo lema era ""morte aos cientistas"" e que, sob o comando de Sam Sony, faziam uma violenta e feroz oposição a Alan Donnel, acusando-o de proteger os cientistas.

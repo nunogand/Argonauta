@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-Título original: The Day of Timestop
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº282 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Philip José Farmer é um dos grandes autores de ficção-científica dos tempos actuais. Controverso por vezes, mas sempre brilhante, a ele se deve, entre outras obras célebres, a surpreendente série Riverworld, que a Colecção Argonauta tem vindo a  publicar.
 
 O Dia em Que o Tempo Parou (na versão original The Day of Timestop) é uma obra invulgar. Referindo-se a ela, Sam Moskowitz disse tratar-se de ""uma história vibrante, de espionagem, situada no futuro e comparável a 1984"". Sem dúvida, um tema estranho, mas composto numa história como só Philip José Farmer sabe contar:

@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Walter M. Miller, Jr.
-Título original: A Cantic for Leibowitz 
-1ª Edição: 1959
-Publicado na Colecção Argonauta em 1971
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - foi
- apresentada no livro nº170 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Houve mais uma vez naves espaciais nesse século e as naves eram tripuladas por confusas impossibilidades que caminhavam sob duas pernas e tinham tufos de cabelo em regiões anatomicamente inesperadas. Eram de uma espécie alegre.  Pertenciam a uma raça muito capaz de admirar a sua própria imagem num espelho, e igualmente capaz de cortar a sua própria garganta perante o altar de qualquer deus tribal como a divindade do Barbear Diário. Era uma espécie que muitas vezes se considerava, no fundo, como uma de artifícios divinamente inspirados; qualquer entidade inteligente de Arcturus instantaneamente compreenderia que eram, no fundo, uma raça de apaixonados oradores de sobremesa.
 

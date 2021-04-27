@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Fredric Brown
-Título original: Space On My Hands
-1ª Edição: 1951
-Publicado na Colecção Argonauta em 1962 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria 
-
-Súmula - foi apresentada no livro nº67 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta: 
+ 
 
 Fredric Brown não é um desconhecido. Autor de livros policiais e de ficção-científica, o leitor teve já certamente a oportunidade de ler na Colecção Vampiro dos Livros do Brasil, entre os livros dele publicados, esse belo exemplo das suas capacidades de ficcionista e que se intitulava O Prazer de Matar, número 137 da citada colecção.
 

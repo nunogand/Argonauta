@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: Stranger in a Strange Land
-1ª Edição: 1961
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº216 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Robert Heinlein é o mais antigo dos escritores de ficção-científica norte-americanos. É também o mais discutido. Ao escrever Soldado no Espaço (nº120 da Colecção Argonauta), foi acusado de defender o fascismo - mas hoje reconhece-se que se antecipou aos pensadores actuais, quanto à defesa da responsabilidade colectiva e ao respeito pelo valor dos soldados - entendidos como homens vindos do povo e representando o povo. Em Revolta em 2100 (nº132 da Colecção Argonauta), Heinlein mostrou pela primeira vez o seu excepcional poder de previsão sociológica, denunciando o fanatismo e a hipocrisia em geral e, muito principalmente, nos Estados Unidos. Em Revolta na Lua (nºs 119 e 120 da Colecção Argonauta e Entre Planetas (nº211), Heinlein foi além de si próprio, revelando-se um panfletário sem paralelo, condenando a colonização e a opressão, defendendo conceitos políticos quase sempre originais e profundamente revolucionários.
 
 Mas a obra máxima de Robert A. Heinlein - obra máxima também do underground norte-americano, que um dia os homens perguntarão a si próprios porque razão não figurou entre os Prémios Nobel - é Stranger in a Strange Land. História imaginária, mas viva, do mais marginal dos homens - do homem que, criado por seres não humanos, nem sequer é considerado homem pelos homens - só agora pode ser publicada no nosso país. E por uma simples razão: Charles Manson, o protagonista do ""caso Manson"", identificou-se, desde muito novo, com Valentine Michael Smith - o Estranho Numa Terra Estranha.

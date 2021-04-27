@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Paul Cook
-
-Título original: Tintagel
-
-1ª Edição: 1981
-
-Publicado na Colecção Argonauta em 1988
-
-Capa: A. Pedro
-
-Tradução: Eduardo Saló
-
-Súmula - Foi apresentada no livro 
-nº370 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Paul Cook é um autor novo, notado pela originalidade dos seus temas e já conhecido dos leitores da Colecção Argonauta pela sua obra O Prado dos Duendes (nº351 e nº352). 
 
 Tintagel não foge a essa regra.

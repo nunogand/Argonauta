@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Lloyd Biggle, Jr.
-Título original: The Still, Small, Voice of Trumpets
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1971 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº173 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Tempo: Um ponto no futuro próximo. Lugar: O planeta Kurr. Missão: Libertar um povo. Mas a primeira máxima do Gabinete de Relações Interplanetárias é a de que ""A liberdade imposta do exterior é a mais severa forma de tirania"". Consequentemente, há quatrocentos anos que os seus grupos B procuram depôr o Rei, actuando na clandestinidade. Mas esses esforços não têm obtido sucesso, por causa da ardilosa compreensão que o Rei tem da tolerância - e até da apatia - do seu povo, perante a crueldade gratuita e periódica.
 

@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: John E. Stith
-
-Título original: Redshift Rendez-Vous
-
-1ª Edição: 1990
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº420 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Nota: a súmula deste segundo volume é uma réplica exacta da relativa à primeira obra. 
 A bordo da Redshift, a luz 
 desloca-se a 10 metros por segundo e o som a cerca de 6,7 metros por 

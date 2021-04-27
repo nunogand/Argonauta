@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Anne McCaffrey
-
-Título original: Dragonflight
-1ª Edição: 1968
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº296 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Durante milénios, os magníficos Dragões de Pern tinham-se dado com orgulho ao serviço da humanidade. E os homens que os montavam eram literalmente de uma espécie à parte, com capacidades telepáticas especiais desenvolvidas através de longos séculos para os unir com os Dragões na defesa do planeta contra os temidos Fios de Prata que periodicamente flutuavam, vindos do Espaço. Os Homens dos Dragões, não menos, que os gloriosos animais que eles cavalgavam através dos céus, eram o escol de Pern, orgulhosos herdeiros do direito de proteger o seu planeta.
 
 Mas passara-se muito tempo desde que Pern necessitara alguma defesa e as memórias dos pagadores de dízimos e dos tradicionalistas eram curtas. O Estábulo dos Dragões era miserável, os seus recursos pobres e, pior que tudo, a força de Dragões de combate reduzira-se a meia dúzia de esquadrões, lamentavelmente inadequada à defesa de um planeta inteiro quando os Fios viessem.

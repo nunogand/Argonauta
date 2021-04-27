@@ -12,21 +12,8 @@ review: |
   
 listagem: |
 ---
-
  
-Autor: Murray Leinster
-Título original: The Duplicators
 
-1ª Edição: 1964
-
- Publicado na Colecção Argonauta em 1966 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-Súmula - foi apresentada no livro 
-nº112 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Um escritor consagrado no campo da FC regressa agora à Colecção Argonauta, com um dos seus mais extraordinários romances.
 
 Num estranho planeta, em que todas as coisas são dotadas de um estranho modo de existência, vive-se, todavia, mergulhado em problemas fantásticos.

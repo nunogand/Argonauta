@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Murray Leinster
-Título original: Out of this World
-1ª Edição: 1958
-Publicado na Colecção Argonauta em Fevereiro de 2001
-Capa: António Pedro
-Tradução: Elsa T. S. Vieira
-
-Revisão: Dália Moniz
-
-Súmula -
- foi apresentada no livro nº521 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 De um dia para o outro, em vários pontos do território dos Estados Unidos da América, começam a ocorrer estranhos acontecimentos, pequenas catástrofes localizadas às quais, a princípio, ninguém parece prestar muita atenção. 
 Um único homem, o físico David Murfree, apercebe-se dos riscos implícitos em todos esses episódios aparentemente desgarrados, do padrão sinistro que pouco a pouco se desprende da sua análise conjunta. Reúne a família e parte, numa expedição qeu é uma aventura quase desesperada, em busca das raízes do mal que assola o seu país.
 Então, já perto da região montanhosa das Great Smokies, encontra Bud Gregory, um mecânico de automóveis quase analfabeto, que se revela um génio da física...  

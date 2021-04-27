@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert Asprin
-
-Título original: The Bug Wars
-
-1ª Edição: 1979
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº473 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Finaliza neste volume o romance Estranhos Inimigos, cuja acção gira em torno da luta travada pelos Tzen contra seres inteligentes, mas não-humanos. O autor leva-nos, assim, a pensar se os habitantes dos outros mundos serão semelhantes a nós, ou se a espécie humana nem sequer é a mais importante.
 Eis como se inicia o segundo volume:
 

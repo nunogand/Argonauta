@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: The Moon is a Harsh Mistress 
-1ª Edição: 1966
-
- Publicado na Colecção Argonauta em 1967 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-Súmula - foi apresentada no livro 
-nº119 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Neste volume continuamos a publicar o sensacional romance de Robert A. Heinlein, que prossegue a sua narrativa pelas páginas que a seguir inserimos.
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...

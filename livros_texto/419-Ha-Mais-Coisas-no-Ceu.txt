@@ -13,23 +13,6 @@ review: |
 listagem: |
 ---
 
-
-
-Autor: John Brunner
-
-Título original: More Things in Heaven
-
-1ª Edição: 1973
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº4178da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 ""Há mais coisas maravilhosas no Céu e na Terra do que o Homem poderá alguma vez sonhar"" - escreveu William Shakespeare, e julgamos saber hoje o quanto isso é verdade. O que não sabemos é quanto nos falta ainda descobrir.
 
 Foi o que pensou David Drummond quando um dia, em Quito, disse ao seu amigo Henri: ""Acabo de ver Leon... aqui mesmo, nesta cidade!""

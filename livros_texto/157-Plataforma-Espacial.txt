@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Murray Leinster
-Título original: Unknown Danger
-
-1ª Edição: 1969
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº156 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Murray Leinster é um dos escritores norte-americanos de ficção-científica mais conhecidos em todo o mundo. A sua obra ocupa um lugar de alto destaque neste campo literário onde a facilidade é apenas aparente. Na verdade, a imaginação encontra barreiras definidas pelo progresso científico e tecnológico e pelas perspectivas que ele descerra em cada momento.
 
 Não é, por isso, de surpreender que muitos escritores de ficção-científica não tenham podido emergir de entre a massa, indistinta e vasta, que constitui a multidãode cultures do género. Não é também de espantar que grande número de escritores não haja podido sobreviver à passagem do tempo, envelhecendo rápida e irremediávelmente, volvidos poucos anos sobre o seu aparecimento.

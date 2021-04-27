@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: A Life for the Stars
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1998
-
-Capa: A. Pedro
-
-Tradução: Alexandra Tavares 
-
-Súmula - Foi apresentada no livro 
-nº485 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Nota - em mais um lapso da parte editorial dos Livros do Brasil, a súmula apresentada não se refere à obra de James Blish, nº486 - Vivendo no Céu, e sim ao nº487,  intitulado Crónicas do Fim do Mundo, de Poul Anderson. A súmula é repetida novamente no final deste livro, apresentando o nº487. Não existe súmula para esta obra de James Blish. E não é fornecida pelos editores qualquer explicação ou pedido de desculpas por este erro. 
 

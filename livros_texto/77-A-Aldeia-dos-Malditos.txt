@@ -12,13 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Wyndham Título original: The Midwich Cuckoos
-1ª Edição: 1957 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: Álvaro Simões (na súmula do livro anterior a tradução é apresentada como sendo de Rogério Fernandes, mas na capa da obra, está indicado Álvaro Simões)
-
-Súmula - foi apresentada no livro nº76 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 
 John Wyndham foi apresentado ao público leitor português através da edição de O Dia das Trífides, romance integrado, com grande êxito, na presente Colecção.
 

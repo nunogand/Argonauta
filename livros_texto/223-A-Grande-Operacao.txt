@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James White
-Título original: Major Operation
-1ª Edição: 1971
-Publicado na Colecção Argonauta em 1975
-Capa: Manuel Dias 
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº222 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A Grande Operação, de James White, poderosa obra polémica dos domínios da mais excelente ficção-científica, revaloriza a posição já insofismavelmente prestigiosa de James White, autor dos mais acarinhados pelo público de dois continentes, e revela-nos um mundo simultâneamente de pesadelo e de extraordinário poder incantatório.
 
 Se muitas das suas qualidades provêm directamente do caprichismo de uma imaginação alucinante e prodigiosa, uma quota parte do seu valor deriva do conhecimento e prática científica de James White. Assim, A Grande Operação não é um texto descabelado e recheado de aventuras inconcebíveis, mesmo para quem vê no presente muitos indícios do que será a crónica de um futuro a que, em parte, já pertencemos. Pelo contrário, ao lermos estas páginas admiráveis e graves, penetramos no mundo do ""possível"", que tem traços de verosimilhança audaz e que nos fará meditar sobre o percurso de uma ciência que tende a desumanizar-se e a perder a razão de ser histórica e moral que sempre a justificou, incentivando-a.

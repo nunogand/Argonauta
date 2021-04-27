@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip E. High
-
-Título original: These Savage Futurians
-1ª Edição: 1967
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº192 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 O disco de indentidade não continha escrita ou símbolo algum. Era apenas um círculo de metal em que havia sido aberto um grande número de furos. O interrogador passou os seus dedos castanhos, de pontas arredondadas, sobre a sua superfície. Os furos, de diâmetro e arranjo variáveis, deram-lhe uma imagem completa do proprietário do disco - Robert Ventnor, idade, 27 anos. Trabalhador agrícola solteiro. Classificação psiquiátrica: 225-9-446. Ao lado do disco, três furos separados davam um aviso psicogenético - P-D-G.
 

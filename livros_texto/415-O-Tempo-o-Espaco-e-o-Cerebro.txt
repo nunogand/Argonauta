@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Fritz Leiber
-
-Título original: The Big Time
-
-1ª Edição: 1961
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº414 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Fritz Leiber ocupa na literatura de ficção-científica um lugar de privilégio, graças ao seu enorme talento narrativo, consagrado plenamente com a atribuição do Prémio Hugo a este inesquecível romance.
 
 O pano de fundo da história é a guerra temporal travada entre as Aranhas e as Serpentes.

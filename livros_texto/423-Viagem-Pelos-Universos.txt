@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: Anywhen
-
-1ª Edição: 1970
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº422 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 James Blish é um dos mais célebres e admirados autores de ficção-científica, como tal largamente representado na Colecção Argonauta.
 

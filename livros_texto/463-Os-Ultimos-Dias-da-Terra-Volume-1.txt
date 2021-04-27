@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Hothouse
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Clarisse Tavares
-
-Súmula - Foi apresentada no livro 
-nº462 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A acção deste romance excepcional - aliás galardoado com o prestigiado Prémio Hugo e tido pela crítica como ""uma verdadeira obra de arte"" - situa-se num futuro muito afastado, quando o Sol se aproxima do fim e quase todo o planeta Terra se encontra coberto por uma árvore gigantesca, cujas ramagens ciclópicas conseguem atingir a própria Lua.
 
 A vida animal quase desaparecera por completo e apenas alguns humanos conseguem sobreviver, após uma fase de adaptação que deixou estigmas em todos eles.

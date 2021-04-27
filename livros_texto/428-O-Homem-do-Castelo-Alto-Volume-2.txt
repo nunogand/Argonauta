@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-
-Título original: The Man in the High Castle
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº427 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 No universo paralelo imaginado magistralmente por Philip K. Dick, as forças nazis ganharam a Segunda Guerra Mundial, ficando os Estados Unidos da América divididos em três faixas. Na parte ocidental, dominada pelos japoneses, estes coleccionam antiguidades ianques mas nunca deixam de consultar o oráculo Yi-King, um método de investigação importado do Extremo Oriente. 
 
 Consta, porém, que um certo autor de ficção-científica chamado Hawthorne Abdensen, que vive no Castelo Alto, anda a escrever um livro subversivo, no qual as forças militares dos Aliados é que venceram a Guerra. 

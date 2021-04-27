@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Bob Shaw
-
-Título original: The Peace Machine
-
-1ª Edição: 1985
-
-Publicado na Colecção Argonauta em 1986
-
-Capa: A. Pedro
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº343 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Os homens, por muito que afirmem defender a Paz, nunca souberam realizá-la. Será, portanto, a Paz algo que está para além das forças humanas? Sendo assim, porque não confiar a uma máquina a imposição da Paz? Com a Máquina da Paz, a guerra - o holocausto nuclear - será impossível.
 Em 1988, um cientista obscuro, Lucas Hutchman, faz uma descoberta extremamente importante: é possível construir um ressonador de neutrões, capaz de detonar todas as cargas nucleares existentes no Globo. E o mundo está à beira do suicídio nuclear - um grupo de terroristas destruiu Damasco com uma bomba atómica.
 

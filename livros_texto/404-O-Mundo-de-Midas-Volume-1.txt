@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: Midas World
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares 
-
-Súmula - Foi apresentada no livro 
-nº403 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 A energia ilimitada a um custo insignificante poderá ser um bem para a Humanidade? Quando Amalfi Amadeus inventou o reactor de fusão realizou esse sonho e tornou-se numa lenda viva. O Mundo floresceu com a sua dádiva. Com energia de sobra, todos os sonhos eram possíveis. 
 
 Mas nada no Mundo é verdadeiramente gratuito. Midas, o rei mitológico, queria ser imensamente rico e os deuses fizeram-lhe a vontade; deram-lhe o poder de tornar em ouro tudo o que tocava, inclusive os alimentos, levando-o assim a morrer de fome. Para a Humanidade, a energia era também um presente envenenado. A torrente de produtos de todas as espécies saídos das indústrias automatizadas ameaçava esmagá-la, enquanto o equilíbrio da oferta e da procura era destruído pelas fantasias dos consumidores como Sonny Trumie, que satisfazia os seus caprichos infantis mandando construir palácios e frotas de naves espaciais como obras de pastelaria, no estilo dos contos de fadas, enquanto outros, como Michael Pellica Perkins, viviam em colossais mansões orbitais. E, entretanto, a Terra ia-se tornando num deserto amarelo, escaldante...

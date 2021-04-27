@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: A.E.Van Vogt
-
-Título original: Null-A Three
-
-1ª Edição: 1985
-
-Publicado na Colecção Argonauta em 1988
-
-Capa: A. Pedro
-
-Tradução: Eduardo Saló
-
-Súmula - Foi apresentada no livro 
-nº366 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Que fazem 10, 20, 30 ou 40 anos às recordações de um leitor sobre uma obra publicada nesses tempos distantes?
 

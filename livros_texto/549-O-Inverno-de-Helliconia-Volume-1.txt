@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Helliconia Winter
-1ª Edição: 1983
-Publicado na Colecção Argonauta em Novembro de 2003
-Capa: António Pedro
-Tradução: Alexandra Rolão Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº548 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Luterin tinha-se recuperado. Estava curado daquela doença misteriosa. Permitiram-lhe que saísse novamente. A cama junto à janela, a imobilidade, e o professor cinzento que vinha todos os dias, tudo tinha terminado. Estava vivo e podia encher os pulmões com o ar enérgico do exterior. 
 O vento frio provinha do Monte Shivenink, e era de tal forma forte que arrancava a casca do lado norte das árvores. 
 Aquele vento frio fez realçar o seu desafio. Fazia-lhe afluir o sangue ao rosto, e fazia com que os seus membros se movimentassem com o animal que o transportava pelas terras do seu pai. Soltando um grito, Luterin esporeou o ""hoxnel"" para que este galopasse. O animal afastou-se da mansão de encarceramento com o seu sino a tocar, para longe, ao longo da avenida que atravessava os campos a que ainda chamavam vinhedo. Sentia-se inebriado com o movimento, o ar, e o latejar do seu próprio sangue nas artérias. 

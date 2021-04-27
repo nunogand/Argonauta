@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Philip K. Dick
-Título original: Valis
-1ª Edição: 1981
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº299 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 De Philip K. Dick, diz John Brunner que é ""o mais consistentemente brilhante autor de ficção-científica no mundo"". Para Normam Spinrad, ""ele produziu o conjunto de obras mais importante entre todos os escritores de ficção-científica"". E para Michael Mordock, ""Dick está calmamente a produzir ficção séria numa forma popular; não pode haver louvor maior"".
 
 O Mistério de Valis (versão portuguesa de Valis), é uma obra muitíssimo séria, ainda que pareça simplesmente louca. Mas a loucura - a loucura da espécie humana - será algo tão simples como se pensa?

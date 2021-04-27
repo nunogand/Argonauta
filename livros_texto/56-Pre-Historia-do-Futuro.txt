@@ -12,12 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Stefan WulTítulo original: Niourk 1ª Edição: 1957 Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
-Súmula
- - foi apresentada no livro nº55 da Colecção, com a indicação de ""Ler 
-nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Numa Terra devastada, seca, onde os grandes oceanos desapareceram e os seus fundos se cobriram de selvas e de pântanos, onde a enorme civilização técnica conseguida pelos homens de mihares de anos atrás desapareceu igualmente deixando apenas os vestígios arruinados das suas cidades abandonadas, os poucos homens que restam vivem em tribos, numa vida semelhante aos seus remotíssimos antepassados de uma pré-história que, afinal, voltou de novo.
 Assim vive a tribo de Thôz, o Ruivo, nas suas tendas de pele de cão selvagem, entregando-se á caça e vivendo precáriamente dessa mesma caça, por vezes rara. A tribo deambula pela grande planície coberta de florestas que foi outrora o Oceano Atlântico, junto ao sopé do monte Santiag, entre as cordilheiras de Cuba e de Hait; o monte onde se ergue Santiag, a cidade dos deuses que apenas um único membro da tribo conhece: o Velho.
 O Velho é, afinal, o grande senhor da tribo, acatado por todos, venerado e respeitado até por Thôz, o chefe. Quando o Velho vai a Santiag, quando ele se prepara para a grande viagem até às alturas nevadas, toda a tribo executa a dança sagrada e o Velho parte... quando volta, vem cheio de presentes dos deuses: estranhos recipientes metálicos, pedaços de vidro onde a tribo pode ver reflectir-se a cara dos seus membros, caixas com estranhas imagens estampadas, um nunca acabar de maravilhas.

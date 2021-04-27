@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: Doctor Mirabilis
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1994
-
-Capa: A. Pedro
-
-Tradução: António Porto
-Súmula - Foi apresentada no livro 
-nº442 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Na sequência de O Dia Depois do Juízo Final (nº402) e de Páscoa Negra (nº433), completa-se agora a famosíssima trilogia de James Blish intitulada After Such Knowledge, a qual lhe granjeou inúmeros admiradores, graças ao estilo da sua escrita e à qualidade e profundidade dos seus temas.
 
 A figura central de Doutor Mirabilis - obra dividida em dois volumes - é Roger Bacon, o monge herético, ocultista e genial, que o autor considera um homem dotado de uma visão que se estendia para além do nosso tempo, um homem que se arriscava a ser condenado e executado por heresia e magia quando em busca da verdade científica. 

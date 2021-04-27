@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Keith Laumer e Rosel George Brown
-Título original: Earthblood
-
-1ª Edição: 1966
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº159 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Keith Laumer e Rosel Brown dão-nos com este romance uma das obras mais sensacionais entre as que últimamente se publicaram no campo da ficção-científica. Livro extraordinário, produto de uma fértil imaginação, Sangue da Terra arrebata o leitor mais experimentado, transportando-o a domínios insuspeitados que só os autores souberam construir.
 

@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: Stranger in a Strange Land
-1ª Edição: 1961
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº217 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Quando o homem apontou para Jill e os dois homens que o ladeavam correram para ela com as suas armas de grande maldade, Smith prolongou-se através do seu Doppelgânger e deu-lhes aquele pequeno torcegão que levava as coisas a afastarem-se. 
 
 O primeiro homem olhou estupefacto para o sítio onde eles tinham estado, puxou pela sua arma... e desapareceu também.

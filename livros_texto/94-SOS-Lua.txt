@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Arthur C. Clarke Título original: A Fall of Moondust
-
-1ª Edição: 1961
- Publicado na Colecção Argonauta em 1965 
- Capa: Lima de Freitas (uma das capas mais bonitas da Colecção, na minha opinião)
- Tradução: Jorge Fonseca
-
-Súmula - foi apresentada no livro 
-nº93 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Arthur C. Clarke, é um cientista de alto renome e um autor de ficção-científica de primeiro plano no panorama das letras mundiais. A sua obra, das mais populares entre os apreciadores do género, foi recentemente distinguida como o Prémio Kalinga. 
 
 A Idade do Ouro, foi o seu primeiro romance apresentado na Colecção Argonauta, na qual vai sair brevemente S.O.S. Lua, uma das obras fundamentais de Arthur C. Clarke. 

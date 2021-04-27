@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl e Jack Williamson
-Título original: Starchild
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº154 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Ultimato à Terra é, de algum modo, a continuação de Missão Impossível, romance que é igualmente da autoria de Frederik Pohl e Jack Williamson e que já tivemos ocasião de incluir na Colecção Argonauta.
 

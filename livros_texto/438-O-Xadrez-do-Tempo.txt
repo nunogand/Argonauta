@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: The Quincunx of Time
-
-1ª Edição: 1957
-
-Publicado na Colecção Argonauta em 1994
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº437 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 James Blish é um dos autores de ficção-científica mais representados na Colecção Argonauta e um dos mais originais e mais subtis, tanto nos temas como no estilo. O Xadrez do Tempo é a versão portuguesa de The Quincunx of Time, uma das suas obras mais interessantes.
 Imagine-se que na busca de um meio capaz de assegurar instantaneamente , ou perto disso, as ligações com os outros mundos, no espaço, que mesmo com as naves mais rápidas que a luz, demoravam longos meses a chegar ao seu destino, se descobria um transmissor que permitia comunicar não só através do espaço, mas também através do tempo!
 Tendo na sua frente um império interestelar em plena expansão, o Capitão Weinbaum supôs que o transmissor Dirac seria a solução dos seus problemas. Mas pense-se em como eles se agravaram quando o transmissor começou a receber mensagens ainda antes de elas serem transmitidas!

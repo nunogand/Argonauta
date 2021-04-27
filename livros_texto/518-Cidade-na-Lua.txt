@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Murray Leinster
-Título original: City on the Moon
-1ª Edição: 1957
-Publicado na Colecção Argonauta em Setembro de 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares 
-
-Súmula -
- foi apresentada no livro nº517 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Joe Kenmore tinha uma certa intuição para a história. Era por isso que tinha ido parar à Lua. Porque tinha a noção de que a sua época era uma época de grandes desafios, um tempo em que a civilização que conhecia iria tomar algumas decisões essenciais quanto ao futuro. Daí em diante, pensava ele, ou a humanidade ia em frente e iniciava o grande processo de colonização dos outros planetas, ou punha um ponto final no progresso e começava uma fase de declínio.
 O anúncio de qual seria a decisão viria de uma estação espacial, colocada em órbita entre a Terra e a Lua. Aí, em condições de extremo stress, alguns peritos em energia nuclear e radioactividade tentavam levar a cabo um certo número de investigações tão perigosas que não se podiam realizar em nenhum dos dois planetas. A Cidade da Lua só tinha uma finalidade: abastecer a estação espacial de tudo o que ela necessitava. E Joe Kenmore, bem como algumas outras centenas de pessoas, esperava ansiosamente pelas notícias - que aliás podiam assumir a forma de uma enorme explosão, que anunciasse a instantânea destruição do Laboratório.
 Havia porém poderes e forças na Terra que não desejavam que essas investigações chegassem a bom porto, e a sua oposição traduzia-se por vezes em inequívocas acções de sabotagem.

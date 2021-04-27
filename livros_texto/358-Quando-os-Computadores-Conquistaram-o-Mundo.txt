@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: A.E. Van Vogt
-
-Título original: Computer World
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: Ana Paula Senos de Araújo
-
-Súmula - Foi apresentada no livro 
-nº357 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A.E. Van Vogt - um dos gigantes -, um dos mais célebres autores de ficção-científica, bem representado na Colecção Argonauta, estava há longo tempo ausente dela. Não por menosprezo, mas porque Van Vogt produziu pouco ou nada, limitando-se a retocar obras já publicadas ou a reunir  pequenas histórias ou desenvolver novelas já conhecidas.
 
 O mestre renasceu agora, com um tema candente: como seria o mundo se os computadores o dominassem? A recordação de George Orwell e de 1984 surge de imediato, mas importa que se note que mesmo to tempo de Orwell, os computadores eram ainda um projecto conhecido somente de meia dúzia de pioneiros e que em 1984, contrariamente a uma convicção muito espalhada, falava-se da televisão interactiva e não de computadores - mais do que provavelmente, Orwell nem sabia que eles existiam.

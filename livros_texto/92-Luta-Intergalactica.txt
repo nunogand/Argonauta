@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Edmond Hamilton - (Edmond Hamilton - Tal como sucedeu com o livro intitulado A Última Cidade da Terra, (nº 3), a Colecção Argonauta escreve novamente nesta obra o nome do autor de modo incorrecto, já que ele é ""Edmond"" e não ""Edmund"") Título original: Outside The Universe
-
-1ª Edição: 1929 - (em livro, 1965)
- Publicado na Colecção Argonauta em 1965 
- Capa: Lima de Freitas
- Tradução: Jorge Fonseca
-
-Súmula - foi apresentada no livro 
-nº91 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Edmond Hamilton, o apreciado autor de A Última Cidade da Terra, um dos seus títulos de glória e um dos romances mais célebres da Colecção Argonauta, volta ao convívio do público leitor português, com uma das suas obras mais tensas e emocionantes: Luta Intergaláctica.
 

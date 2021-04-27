@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Anne McCaffrey
-
-Título original: Dragonsinger
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Raul Gonçalves
-
-Súmula - Foi apresentada no livro 
-nº466 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Em A Canção dos Dragões - volume nº458 desta mesma Colecção - surgiu Menolly, a Dama da Música, que ensinou nove dragões a cantar e nunca mais pôde viver sozinha.
 
 Agora, Menolly encontra-se na Casa das Harpistas, montada no seu Dragão de Bronze depois de ter escapado aos terríveis Fios, impressionado nove Dragões de Fogo e escrito canções que agradaram ao Mestre Harpista de Pern.

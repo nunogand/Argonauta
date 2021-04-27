@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James White
-Título original: The Watch Below
-
-1ª Edição: 1966
-
-Publicado na Colecção Argonauta em 1972 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº174 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Fosse como fosse, teriam de encontrar um caminho. 
 

@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-Título original: Valis
-1ª Edição: 1981
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº300 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 VALIS (O Mistério de Valis na versão portuguesa), não parece uma obra de ficção-científica. É algo sem paralelo no tema, no estilo - algo surpreendente mesmo para quem sabe que Philip K. Dick é um autor muito especial, brilhante como poucos - e que brinca como poucos com as palavras, com as ideias e com as normas.
 
 O Mistério de Valis poderá não parecer uma obra de ficção-científica - repete-se. Apesar das alusões a ""feixes de informação"", a ""pessoas com três olhos"", a seres ""vindos de Sirius"", etc. Mas é mesmo ficção-científica - e da mais surpreendente. Como ficará demonstrado na segunda parte, de que damos desde já alguns excertos.

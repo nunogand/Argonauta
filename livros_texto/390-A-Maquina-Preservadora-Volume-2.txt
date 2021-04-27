@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-
-Título original: The Preserving Machine
-
-1ª Edição: 1969
-
-Publicado na Colecção Argonauta em 1990
-
-Capa: A. Pedro
-
-Tradução: Raul de Sousa Machado
-
-Súmula - Foi apresentada no livro 
-nº389 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O segundo volume de A Máquina Preservadora, de Philip K. Dick, cria um ambiente obsessivo e quase paranóico, quer através de intrigas habilmente delineadas, numa sucessão premeditada de momentos terríficos, quer pela expressão de pormenores e sub-enredos, de pretextos e extravagâncias melodramáticas que empolgam o leitor. As suas personagens lembram as figuras diáfanas dos pesadelos, e se há uma ficção-científica negra, podemos ajustar o qualificativo a Philip K. Dick como um dos mais merecidos representantes. As descrições gelam o sangue, as preversidades sugeridas por vultos e sombras, os medos inculcados por seres e mecanismos arrepiantes, a tensão, o horror, as formas que mergulham em ondas de energia pura e os objectos intemporais que parecem flutuar num horizonte irreal contrastam com a quase congelada realidade dos objectos simples, dos insectos, dos corpos, das árvores, criando um mundo que tão depressa oscila entre um cenário fantástico como derrapa na inacção de uma figuração parada, para de novo se encher de potência e fulgor.
 
 Índice dos Contos:

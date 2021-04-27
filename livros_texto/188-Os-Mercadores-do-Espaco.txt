@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Frederik Pohl e C.M. Kornbluth
-
-Título original: The Space Merchants
-1ª Edição: 1952
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº187 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 De longe em longe, entre a torrente de obras de ficção-científica, há uma que fica na história, que se torna num clássico. OS MERCADORES DO ESPAÇO - o célebre The Space Merchants, de Frederik Pohl e C.M. Kornbluth - é um desses exemplos. Poucos livros do género têm sido editados tantas vezes. Porque a história dos mercadores do Espaço tem um paralelo. Quem descobriu e desbravou os novos continentes? Sómente os navegadores? Por certo que não. Foram os mercadores que forneceram os capitais para as grandes explorações marítimas. Um dia, serão os mercadores que fomentarão as grandes expedições através do Espaço. Como as grandes Companhias, como as Hansas, lançar-se-ão em busca de novos mundos, de novas mercadorias, e de novos mercados. E então o Universo será do Homem.
 
 Eis o tema que Pohl e Kornbluth desenvolveram com muita imaginação e alguma sátira, mas também com um impressionante sentido de realidade, no próximo volume intitulado OS MERCADORES DO ESPAÇO.

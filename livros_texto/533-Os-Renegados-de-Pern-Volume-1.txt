@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Anne McCaffrey
-
-Título original: The Renegades of Pern
-1ª Edição: 1989
-Publicado na Colecção Argonauta em Dezembro de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº532 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 
 Tanto quanto a memória do povo de Pern lhe permitia recordar-se do passado, os Senhores sempre o haviam protegido dos terríveis microorganismos que caíam do céu como se de fios de prata se tratasse, e destruíam tudo aquilo em que tocavam. Em troca da protecção que os Senhores lhe concediam nas suas enormes fortalezas de pedra, o povo pagava-lhes tributo, o qual, por sua vez, servia para pagar os domínios onde permaneciam os dragões, a mais poderosa arma defensiva de Pern.
 Nem todos, porém, no planeta se integravam nesse sistema mútuo de protecção e segurança. Muitos havia que, por excessiva pobreza ou em retaliação por qualquer crime, tinham perdido os seus haveres, ou haviam sido forçados a abandonar a terra de um Senhor, que era também o lugar onde desde sempre tinham habitado. Havia além disso aqueles que, como sucedia com o clã dos comerciantes a que pertencia Jayge, preferiam a liberdade dos caminhos à segurança de um domínio. Para todos eles, a vida tornara-se uma luta constante pela sobrevivência. 

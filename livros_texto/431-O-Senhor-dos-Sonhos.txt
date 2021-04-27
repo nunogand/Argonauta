@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Roger Zelazny
-
-Título original: The Dream Master
-
-1ª Edição: 1966
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº430 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Roger Zelazny é um dos mais célebres autores de ficção-científica, laureado por várias vezes com os prémios Nebula e Hugo, um deles atribuído à novela curta He Who Shapes, cujo desenvolvimento conduziu a The Dream Master, obra que, na versão portuguesa, tem o título de O Senhor dos Sonhos e é agora incluída nesta colecção. 
 
 Charles Render é o Shaper, o modelador, um psicanalista que se serve dos sonhos para compartilhar o espírito dos seus clientes e, assim, libertá-los dos complexos que os apoquentam.

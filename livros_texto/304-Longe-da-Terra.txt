@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Marion Zimmer Bradley
-Título original: Survey Ship
-1ª Edição: 1980
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº303 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Seis jovens da Terra, perfeitos de corpo e de espírito, foram treinados desde o berço para a tarefa de enfrentarem os perigos infinitos do Espaço, para além do Sistema Solar, buscando novos mundos para o Homem.
 
 No entanto, uma vez sózinhos no vácuo cósmico, são traídos pela sua nave e encontram as dificuldades mais inesperadas. A viagem torna-se numa amarga prova de sobrevivência. E para sobreviverem eles têm de conter os seus próprios talentos, têm de dominar os seus receios, os seus desejos e pesadelos. Têm de se tornar numa equipa. Têm de aprender a amar.

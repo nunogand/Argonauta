@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James P. Hogan
-
-Título original: Voyage from Yesteryear
-
-1ª Edição: 1982
-
-Publicado na Colecção Argonauta em 1984
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº325 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No segundo e último volume da obra de James P. Hogan, irá surgir a inevitável confrontação entre a civilização chironiana - isenta de todos os vícios da Terra - e os expedicionários da Mayflower II, com toda a sua ambição de poder e o seu culto da força. Mas como poderá um povo que não conhece a guerra, que não dispõe de exército e nem sequer de armas, opor-se aos soldados da Mayflower II e ao poderoso e gigantesco Módulo de Batalha da nave?
 
 Eis uma passagem do segundo volume de ""A Conquista das Estrelas"":

@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-
-Título original: The Number of the Beast
-1ª Edição: 1980
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº295 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Finalmente, no terceiro e último volume de The Number of the Beast, a tripulação do Gay Deceiver encontrará Lazarus Long, o protagonista de Os Filhos de Matusalém e de A História do Futuro. E não só ele, mas também o iate espacial Dora e Elizabeth Long. E Ishtar. E muitas mais das personagens inesquecíveis de A História do Futuro.
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 Durante dez minutos - cento e treze mudanças - tivemos uma espécie de ""projecção de dispositivos"" de universos, dos mais comuns aos mais estranhos, para além de toda a compreensão, quando subitamente Gold disse a si própria ""Suspender!"" e acrescentou ""Nave à vista!""

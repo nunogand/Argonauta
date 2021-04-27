@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Bob Shaw
-Título original: The Ceres Solution
-1ª Edição: 1981
-Publicado na Colecção Argonauta em 1983
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº305 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Ainda que seja considerado como um dos maiores autores de ficção-científica britânicos - e um dos mais fecundos - Bob Shaw é virtualmente desconhecido entre nós. Uma lacuna que vai desaparecer com a publicação de A Solução de Ceres, versão portuguesa de The Ceres Solution, a última obra de Shaw.
 
 Trata-se de uma história da confrontação entre duas civilizações humanas muito diferentes: uma na Terra, no princípio do século XXI - sofrendo do excesso de população frenética, correndo para a auto-extinção nuclear; a outra no mundo distante de Mollian, cujos habitantes conseguiram uma grande longevidade e poderes fantásticos que incluem a capacidade de se transportarem instantâneamente de uma estrela para outra. Os Mollonianos seguem uma estrita política de isolamento para preservar a sua sociedade fria, introspectiva, mas as duas culturas estão destinadas a ter um profundo efeito, uma sobre a outra...

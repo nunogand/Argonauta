@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert Silverberg
-
-Título original: Lord Valentine Castle
-1ª Edição: 1979
-Publicado na Colecção Argonauta em Março de 2003
-Capa: António Pedro
-Tradução: Paulo A. Moreira
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº541da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 Depois de caminhar um dia inteiro por entre um véu de calor que se colava ao corpo como algodão molhado, Valentine chegou ao topo de um enorme espinhaço parcialmente coberto de flocos de pedra que se debruçava sobre Pidruid. A cidade era a capital da província, enorme e esplêndida, a maior cidade que tinha encontrado desde... desde... a maior cidade que encontrara em muito tempo de deambulação, disso estava certo. 
 
 Assim começa a história de Valentine, a saga de um príncipe em heróica demanda para recuperar o que lhe pertence por direito: o seu nome e o do seu reino. 

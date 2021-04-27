@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: A. Bertram Chandler
-Título original: The Rim of Space
-1ª Edição: 1958
-Publicado na Colecção Argonauta em Outubro de 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares 
-
-Súmula -
- foi apresentada no livro nº518 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Disseram-lhe que ia encontrar uma gente bem estranha entre os Cavaleiros do Espaço, na fronteira da eternidade. Que na sua maioria seriam refugiados da Comissão de Transporte Interestelar, do Serviço de Cartografia, do Correio Galáctico, da Companhia de Clippers... Derek Calver, porém, não se importou. Ele próprio se considerava um refugiado da Comissão.
 
 E poderia ter acrescentado que estava também a fugir dos erros que tinha cometido, das oportunidades que desperdiçara, dos sonhos que deixara morrer.

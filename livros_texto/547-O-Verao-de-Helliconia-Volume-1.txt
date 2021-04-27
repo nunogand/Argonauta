@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Helliconia Summer
-1ª Edição: 1983
-Publicado na Colecção Argonauta em Setembro de 2003
-Capa: António Pedro
-Tradução: Alexandra Rolão Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº546 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 As ondas escalavam a encosta da praia, recuavam, e voltavam novamente.
 A pouca distância, no mar, a procissão de vagas acabadas de chegar era quebrada por uma massa rochosa coroada de vegetação. Era marcava uma divisão entre as profundezas e os baixios. Antigamente, a rocha tinha feito parte de uma montanha no interior, até que as convulsões vulcânicas a arremessaram para a baía. 
 A rocha estava agora domesticada por um nome. Era conhecida como sendo a Rocha de Linien. A baía e o local tinham sido baptizados com o nome de Gravabagalinien, por causa da rocha. Para além desta, jaziam os azuis cintilantes do Mar das Águias. As ondas que salpicavam a costa eram saturadas pela areia antes de se dispersarem numa saraivada de espuma branca. A espuma percorria a encosta, para mergulhar voluptuosamente na praia.  

@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Poul Anderson
-
-Título original: After Doomsday
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº145 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Carl Donnan, engenheiro espacial, era um homem de acção que fazia muito bem o seu trabalho, e pouco mais o preocupava além disso - até que, ao voltar de uma longa viagem através da Galáxia, a sua nave encontrou a Terra destruída, transformada numa bola de cinza e lavas, oceanos em ebulição e ventos horríveis.
 
 Daí em diante, duas ambições o dominaram:

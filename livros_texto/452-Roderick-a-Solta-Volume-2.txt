@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: John Sladek
-
-Título original: Roderick at Random
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1995
-
-Capa: A. Pedro
-
-Tradução: António Porto 
-
-Súmula - Foi apresentada no livro 
-nº451 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Agora entregue a si próprio, Roderick - que, não o esqueçamos, é o primeiro robot com aspecto humano inteiramente concebido e programado para pensar e aprender - vê-se, sem qualquer apoio e ferozmente perseguido, ""à solta"" num mundo de shows de jogos malucos, seitas maníacas, companhias multinacionais tentaculares, governos assassinos, consumismo desenfreado e gente papa-pílulas e papa-pós (a semelhança com a aquele em que vivemos será pura coincidência?). Este volume, que é o segundo e último da obra, vai permitir ao leitor conhecer uma história única, talvez divertida, mas dando muito que pensar. 
 
 "

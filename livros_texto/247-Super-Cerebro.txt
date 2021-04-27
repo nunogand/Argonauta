@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: A.E. Van Vogt
-Título original: Supermind
-
-1ª Edição: 1974
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº246 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O homem sentia-se negramente indeciso, enquanto caminhava da sala de comando da nave para o beliche onde a mulher estava deitada, tão hirta e tão imóvel. Debruçou-se sobre ela e disse-lhe, na sua voz profunda:
 
 - Estamos a reduzir velocidade, Merla.

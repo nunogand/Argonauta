@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Arkady e B. Strugatsky
-Título original: Prisioners of Power
-1ª Edição: 1969
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº306 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A ficção soviética é muitas vezes apontada como monótona e sentenciosa, o que explicaria a sua fraca difusão no exterior. Mas essa não é uma regra geral. É a excepção e não a regra. A prova - uma prova - é a obra que constituirá os dois volumes seguintes da Colecção Argonauta.
 
 Prisioneiros do Poder é um livro simplesmente fascinante, escrito não só com uma perfeita precisão, quanto aos seus pormenores científicos, mas acima de tudo com muito saber humano, muita perspicácia. Que a publicação da versão norte-americana tenha sido acompanhada por uma introdução de Theodore Sturgeon - incluída na versão portuguesa - é um indício de excelência.

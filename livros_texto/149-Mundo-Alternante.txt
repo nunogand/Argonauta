@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Keith Laumer
-
-Título original: Worlds of the Imperium
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº148 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Quando Brion Bayard foi raptado por desconhecidos, na Cidade Velha, em Estocolmo, nem sequer sonhava que dentro em pouco estaria a atravessar um espaço desconhecido, em que não existiam estrelas nem outros mundos além de uma sucessão de Terras - alternante daquela em que vivera - sempre diferentes, ainda que ocupando a mesma posição, ainda que tendo a mesma natureza física.
 
 E o mundo alternante a que foi levado era uma Terra em que a História tomara um curso diferente e não muito agradável. Uma Terra em que existiam pessoas com nomes bem conhecidos naquela de onde fora levado. Nomes como Hermann Goering... e Brion Bayard.

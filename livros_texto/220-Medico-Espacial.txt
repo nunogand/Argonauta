@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James White
-Título original: Star Surgeon
-1ª Edição: 1963
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº219 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No Sector Doze da Galáxia, a meio caminho entre a periferia da galáxia-mãe e os sistemas densamente povoados da Grande Nuvem de Magalhães, havia o maior hospital de sempre. Centenas de ambientes diferentes tinham sido precisamente reproduzidos ali, qualquer extremo de calor, frio, pressão, gravidade, radiação, ou atmosfera necessário aos doentes e ao pessoal. Fora uma obra muito para além dos recursos de qualquer planeta, de modo que centenas de mundos tinham fabricado, cada um deles, as secções correspondentes, transportando-as depois para o local de montagem.
 
 Hospital no Espaço, foi a obra nº214 publicada na Colecção Argonauta. Chegou agora o momenot de publicar a sequência dessa obra de James White. Sob o título Médico Espacial, descreve, com o mesmo vigor e extraordinário pormenor, o conflito de dois grupos em guerra - que querem usar como pedra do seu xadrez o gigantesco Hospital do Espaço. 

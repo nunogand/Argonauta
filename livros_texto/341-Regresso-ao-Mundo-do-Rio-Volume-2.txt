@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-
-Título original: Gods of Riverworld
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº340 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Este segundo e último volume da obra de Farmer, Regresso ao Mundo do Rio, decorre no mesmo estranho planeta onde as pessoas que viveram e morreram na Terra desde os primórdios da humanidade, ressuscitam, amalgamadas no Tempo e na Cultura social: caçadores primitivos, da Idade da Pedra; bárbaros da Ásia, de há três mil anos atrás; Americanos do século XX, destacando-se a intervenção de múltiplas figuras históricas proeminentes na Ciência, na Literatura, na Arte e na Política.
 Tudo o que parece não ser mais do que uma fantasia, começa a tornar-se profundamente lógico, visto concluir-se que alguém criou esse estranho mundo de ressuscitados, com um fim determinado. 
 Os ocupantes da Torre do Pólo Norte do Mundo do Rio analisaram as suas vidas... e esqueceram todo o desejo de Passar ao êxtase que estaria para além da morte e da vida. Dispondo de poderes imensos, dispondo até da possibilidade de criar os seus próprios mundos e de povoá-los com os seus amigos ressuscitados ou com andróides, sentem-se como verdadeiros deuses - esquecendo-se do Snark, o desconhecido que os fechou na Torre e que domina o Computador, o espantoso cérebro artificial que contém todos os registos das vidas humanas, e que pode criar e recriar tudo o que pode ser desejado.

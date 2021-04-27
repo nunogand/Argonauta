@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Paul French - (Pseudónimo de Isaac Asimov) - O nome do pseudónimo tem todavia uma gralha no nome, que na capa corresponde ao nome da personagem do livro.
-Título original: Lucky Starr and the Pirates of the Asteroids
-1ª Edição: 1954
-Publicado na Colecção Argonauta em 1956 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria
-
-Súmula -
- foi apresentada no livro nº35 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Quinze minutos antes da hora H, o Atlas estava pronto a partir e as linhas elegantes do navio do espaço brilhavam na luz que, vinda da Terra, inundava a Lua. Pois era de facto da Lua que o Atlas se ia lançar no espaço, da Lua, colónia terrestre...
  Os membros do Conselho das Ciências Hector Conway e Augustus Henree, acreditavam firmemente que não havia ninguém a bordo; apenas a máquina devia registar as actividades dos Corsários do Espaço, que tentavam apropriar-se do Sistema Solar. Mas o jovem Lucky Starr não concedia à ciência uma confiança completa, e tinha-se introduzido clandestinamente na astronave, a fim de verificar por si mesmo o que se estava a passar.
 Assim começou para Lucky Starr uma grande, uma misteriosa e perigosíssima aventura. Auxiliado frequentemente pelo seu amigo Bigman, o inacreditável refilão marciano de um metro e sessenta centímetros de altura, Lucky introduz-se na organização dos corsários e mergulha na complicada trama das conspirações de Sirius contra a Terra. Os corsários estão perfeitamente organizados, de uma maneira que o faz suspeitar da existência de um único e poderoso chefe. Mas quem será esse ""Grande Patrão"", de que uma única vez ouviu falar?

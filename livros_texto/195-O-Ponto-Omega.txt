@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: George Zebrowski
-
-Título original: The Omega Point
-1ª Edição: 1972
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº194 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 No século sessenta e cinco, a Terra colonizara já centenas de planetas. Enquanto isso, deparara-se-lhe um tipo humanóide mais antigo, que habitava o enxame de Hércules.
 

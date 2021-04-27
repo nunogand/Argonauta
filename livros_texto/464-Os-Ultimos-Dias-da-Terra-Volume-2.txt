@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Hothouse
-
-1ª Edição: 1962
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Clarisse Tavares
-
-Súmula - Foi apresentada no livro 
-nº463 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No segundo e último volume desta obra magistral, Brian Aldiss - um dos grandes mestres da ficção-científica contemporânea - prossegue a recriação de uma Terra onde a vida animal quase desapareceu por inteiro e em que os poucos humanos sobreviventes sofreram mutações drásticas. A certa altura porém, e movidos por um natural sentimento de revolta, decidiram tentar empreender a grande ascensão até ao nosso satélite, na esperança de nele descobrir um asilo mais hospitaleiro. 
 Vendo que estavam a ser arrastados para longe, os Pescadores iniciaram um coro de lamentos. Yattmur passeou-se diante deles com a faca na mão, esforçando-se por não mostrar compaixão pelos seus ferimentos. 
 

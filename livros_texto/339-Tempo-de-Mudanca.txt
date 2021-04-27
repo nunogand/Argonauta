@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Robert Silverberg
-
-Título original: A Time of Changes
-
-1ª Edição: 1971
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº338 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Nem sempre as obras de ficção-científica têm títulos que falam das estrelas ou do futuro. A Time of Changes - na versão portuguesa, Tempo de Mudança
  - é a mais célebre das obras de um autor célebre: Robert Silverberg. 
 Uma obra que mereceu o mais cobiçado dos galardões da FC: o Prémio Nébula.

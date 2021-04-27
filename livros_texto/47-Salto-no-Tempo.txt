@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Yves Dermeze
-Título original: Via Velpa
-1ª Edição: 1955
-Publicado na Colecção Argonauta em 1958 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria
-
-Súmula - foi apresentada no livro nº46 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Quando Nel Gavard, verdugo ajuramentado de Altair, decidiu brincar aos experimentadores, não tinha a menor ideia das transformações radicais que ia causar não só na sua constelação, como em toda a galáxia. Mesmo cérebros muito mais desenvolvidos do que o seu, não poderiam ter imaginado a milésima parte daquilo que um pequeno gesto ia provocar.
 Nel Gavard era um ente meio animal, a quem seis traços verticais indeléveis ornavam a testa baixa. Sob umas espessas sobrancelhas negras, tinha uns olhos esbugalhados de bovídeo. Quando, na sua adolescência, lhe haviam medido o índice intelectual, tinham-no ridicularizado sem piedade, e Nel Gavard também troçara, incapaz de compreender a ironia ou a piedade. Os testes habituais tinham-no classificado em último lugar. Que fazer com esse degenerado? A partir da sétima categoria, a Lei ordenava que tais entes fossem suprimidos, para que se não tornassem nem uma carga nem um perigo para a civilização. Nel Gavard fora salvo por uma fugaz centelha que subsistia nele. No momento em que o submetiam ao controlo da Máquina de Guerra, ele rira, e tentara delicadamente com a ponta dos dedos desaparafusar um dos parafusos de ajustamento. Com os estalidos habituais, a Máquina dera o seu veredicto: Nel Gavard era ligeiramente superior a um animal doméstico. Subsistiam nele ligeiros vestígios de instinto científico. No painel visual da Máquina haviam aparecido seis traços verticais: seis e não sete. Nel Gavard escapara à morte.
 .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .... .. ..

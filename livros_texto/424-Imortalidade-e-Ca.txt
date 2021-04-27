@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert Sheckley
-
-Título original: Immortality Inc.
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº423 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Depois, Thomas Blaine pensou na maneira da sua morte e desejou que tivesse sido mais interessante.
 
 Porque não teria ela vindo quando lutava contra um tufão, ou subia uma montanha varrida pelos ventos? Porque fora a sua morte tão pacata, tão comum, tão vulgar? Mas uma morte empreendida, pensou ele, teria sido desajustada com a sua maneira de ser.

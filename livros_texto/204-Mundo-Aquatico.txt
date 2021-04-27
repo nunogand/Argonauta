@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Hal Clement
-
-Título original: Ocean on Top
-1ª Edição: 1973
-Publicado na Colecção Argonauta em 1974
-Capa: Lima de Freitas
-Tradução: Maria Emília Ferros Moura
- 
-Súmula - foi
- apresentada no livro nº203 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Hal Clement entra pela primeira vez na Colecção Argonauta, com uma das suas obras mais originais, cujo enredo se situa neste enquadramento: 
 
 A luz era artificial. Acreditem se puderem. Compreendo que para uma pessoa normal seja difícil. O desperdício de watts para iluminar as entradas já é suficientemente mau Mas, o dispêndio da energia racionada do mundo para iluminar o fundo do mar... bom, por momentos, senti-me demasiado furioso para poder pensar. O meu trabalho já me pôs em contacto com pessoas descuidadas no que refere à energia, com pessoas que a roubavam e até mesmo com as que lhe davam uma utilizaçao errada: mas a situação em que me via, assumia proporções inteiramente novas!

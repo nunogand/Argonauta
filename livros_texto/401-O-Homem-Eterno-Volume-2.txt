@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Gordon R. Dickson
-
-Título original: The Forever Man
-
-1ª Edição: 1986
-
-Publicado na Colecção Argonauta em 1990
-
-Capa: A. Pedro
-
-Tradução: Raul de Sousa Machado 
-
-Súmula - Foi apresentada no livro 
-nº400 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Uma nave que se julgava perdida desce à Terra. O impossível vai suceder.
 
 Essa nave que viajara anos sem fim pelos sistemas inteligentes era agora o espírito do piloto que morrera.

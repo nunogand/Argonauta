@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Maureen F. McHugh
-
-Título original: Mission Child
-1ª Edição: 1991
-Publicado na Colecção Argonauta em Dezembro de 2002
-Capa: António Pedro
-Tradução: Alexandra Rolão Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº539 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 - Jan! - disse ele. - Olá. Queria falar contigo. 
 
 - Sim, Sasha?

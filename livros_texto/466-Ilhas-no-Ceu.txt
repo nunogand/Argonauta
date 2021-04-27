@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Arthur C. Clarke 
-
-Título original: Islands in the Sky
-
-1ª Edição: 1952
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Clarisse Tavares
-
-Súmula - Foi apresentada no livro 
-nº465 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 No prefácio que escreveu para este volume, Eurico da Fonseca lembra que Artur C. Clarke não é apenas um dos mais importantes autores de ficção-científica, mas igualmente um dos grandes pioneiros da Astronáutica, chegando a presidir à British Interplanetary Society.
 
 Ilhas no Céu - a versão portuguesa de Islands in the Sky - aborda precisamente o tema das estações espaciais através da história de Roy Malcolm, que ganhou o direito a visitar uma num concurso televisivo.

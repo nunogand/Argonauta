@@ -13,19 +13,6 @@ review: |
 listagem: |
 ---
 
-
-Autor: Lester del Rey
-
-Título original: Nerves
-1ª Edição: 1956
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº265 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No dia 28 de Março de 1979, na central nuclear de Three Mile Island, perto de Harrysburg, deu-se uma fuga de vapor radioactivo. A notícia pareceu a princípio sem grande importância - as fugas de vapor nas centrais nucleares estavam a tornar-se frequentes - ainda que demasiado frequentes. mas a pouco e pouco, soube-se que se estava perante o mais grave acidente da história da curta história da energia atómica. Só um milagre evitou uma terrível catástrofe; a temperatura do núcleo do reactor subiu de tal modo que a maior parte das barras de combustível nuclear se fundiram, não tanto que se verificasse o temido meltdown, a fusão total que, segundo se crê, se comunicaria ao próprio solo, mas o bastante para que a água do reactor se dissociasse, produzindo uma mistura de hidrogénio e oxigénio que - soube-se depois - chegou a explodir em parte. Se toda essa mistura tivesse explodido, ou se se desse o meltdown, cerca de 45 000 pessoas teriam sofrido de imediato os efeitos da radiação, cerca de 3300 morreriam imediatamente; a médio e longo prazo resultariam do acidente 45 000 cancros fatais, 240 000 tumores da tiróide e 30 000 casos de anomalias genéticas. (Números citados pelo relatório WASH-1400, elaborado em 1975 para a Comissão Reguladora Nuclear dos E.U.A. - o célebre ""relatório Rasmussen"", que em Janeiro de 1979 foi denunciado como ""demasiado optimista"" por aquela mesma Comissão).
 Disse-se depois que o acidente de Three Mile Island fora devido a erros humanos, mas o inquérito concluíu que não houvera erros alguns; os instrumentos da central eram deficientes (como os de 71 das 72 centrais norte-americanas) e tinham fornecido informações falsas.
 Disse-se também que a quantidade de radiação libertada fora quase nula, que a importância do acidente fora fortemente exagerada pois ele não causara vítimas, e qeu o reactor voltaria a trabalhar dentro de poucos meses, ou mesmo semanas. Na verdade, a radioactividade libertada foi de tal ordem, que não se pensa ser possível penetrar no interior do reactor antes de passado um ano. E se é certo que o acidente não causou imediatamente qualquer vítima, certo é também que não se sabe quantas ele irá produzir através do cancro e da leucemia. Nem que efeitos genéticos poderá vir a ter.

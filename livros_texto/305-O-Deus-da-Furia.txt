@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Philip K. Dick e Roger Zelazny
-Título original: Deus Irae
-1ª Edição: 1976
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº304 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Depois do verdadeiro acontecimento literário que foi a publicação de O Mistério de Valis (nº300 da Colecção Argonauta, de Philip K. Dick, ""o mais brilhante espírito na ficção-científica em qualquer planeta"", na opinião insuspeita de Theodore Sturgeon, eis que surge outra obra não menos célebre: O Deus da Fúria (Deus Irae), escrita em colaboração com um autor não menos importante: Roger Zelazny.
 
 Depois da III Guerra Mundial, a Comissão de Energia Atómica, que a engendrou, fez nascer uma nova e misteriosa religião, em que o chefe da Comissão é adorado sob o título de Deus Irae, o Deus da Ira - o Deus da Fúria.

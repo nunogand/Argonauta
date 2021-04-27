@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Isidore Haiblum
-
-Título original: Out of Sync
-
-1ª Edição: 1990
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: J. Santos Tavares
-
-Súmula - Foi apresentada no livro 
-nº471 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Isidore Haiblum não é um autor desconhecido. Para além de uma excelente reputação na literatura policial, publicou até agora doze novelas de ficção-científica bem acolhidas pela crítica e pelo público, como é demonstrado pelo facto de terem sido traduzidas em francês, alemão, hebreu, italiano e espanhol. Fora de Jogo é a versão portuguesa de Out of Sync, uma das suas obras mais curiosas, com um tema invulgar. James Morgan , um ""solucionador de problemas"" que adquirira nomeada entre os elementos mais duvidosos de Central City, estava pronto a investir as suas economias em participações nos capitais das mais conhecidas casas de jogo da cidade. Mas então, uma após outra, elas começaram a sofrer roubos da ordem dos milhões. E quando Morgan foi testemunha de um, descobriu que os ladrões eram... invisíveis. O que foi apenas um dos muitos problemas que teve que enfrentar - problemas esses que, literalmente, não eram deste mundo!  
 
 "

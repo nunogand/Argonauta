@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Clifford D. Simak
-
-Título original: The Visitors
-1ª Edição: 1979
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº286 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 ""Alguns tumultos eclodiram em grandes cidades em que a situação social e económica era tal que qualquer coisa era uma desculpa para surgirem desordens. Durante os tumultos houve pilhagens e fogos postos. Algumas pessoas ficaram feridas, outras morreram. Em algumas universidades, os estudantes fizeram manifestações bem-humoradas, e vários grupos se lhes juntaram para favorecer as suas causas mais queridas, mas nenhuma das manifestações teve muito significado. Os fanáticos religiosos e os fanáticos que não eram religiosos discursaram nas esquinas, nos parques, nas igrejas e em salões. Em certas áreas, o entusiasmo em relação aos cultos subiu largamente. Os articulistas dos jornais e os comentadores da TV apresentaram cem pontos de vista diferentes, poucos dos quais, sob qualquer espécie de escrutínio objectivo, teriam um mínimo de senso.
 
 As histórias cresciam - sempre de qualquer coisa que acontecera em qualquer outra parte, o índice da estupidez aumentando com a distância - e lendas em embrião começaram a formar-se.

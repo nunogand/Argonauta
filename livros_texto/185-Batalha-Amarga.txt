@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: Drunkard's Walk
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1972 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca 
-
-Súmula - foi
- apresentada no livro nº184 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 As obras de Federik Pohl podem ser desconcertantes. Mas são sempre invulgares. Apaixonantes. Imprevistas.
 
 Esse é o caso de BATALHA AMARGA, o próximo número da Colecção Argonauta. 

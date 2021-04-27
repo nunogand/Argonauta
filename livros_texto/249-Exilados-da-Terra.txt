@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ben Bova
-Título original: Exiled from Earth
-
-1ª Edição: 1971
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº248 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A Terra, no século XXI. Um governo mundial para uma população de 20.000 milhões de pessoas. Falta de alimentos e falta de água. Cidades decadentes, tornadas em covis de bárbaros. Um ambiente em explosivo - e o governo mundial a procurar, desesperadamente, manter a estabilidade.
 
 Lou Christopher, perito em computadores, é o elemento principal de um projecto de manipulação genética. Dentro de um ano, os cientistas poderão produzir supergénios... ou autómatos vivos. Mas antes que o trabalho esteja completo, os chefes do governo mundial concluem que ele é uma ameaça para a desejada estabilidade. Prendem Lou, juntamente com os geneticistas, e anunciam que os cientistas, com as suas famílias, serão exilados da Terra. Passarão as suas vidas a bordo de um satélite artificial:

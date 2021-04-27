@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Gordon R. Dickson
-
-Título original: Tactics of Mistake
-
-1ª Edição: 1971
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-Tradução: António Porto
-Súmula - Foi apresentada no livro 
-nº433 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 O ciclo Childe é uma das séries mais célebres da ficção-científica e dela os leitores desta colecção já conhecem Dorsai (nº384), Os Dorsai Perdidos (nº389), Necromante (nº406), Soldado da Terra (nº413 e nº414) e O Espírito de Dorsai (nº422).
 
 Tácticas de Engano, constitui um novo episódio da saga dos Dorsai, os soldados mercenários oriundos do planeta com o mesmo nome e concebidos para serem os mais duros e eficientes no seu mister em todo o Universo.

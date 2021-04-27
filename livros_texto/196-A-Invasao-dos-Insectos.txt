@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Cummings
-
-Título original: The Insect Invasion
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº195 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Os verdadeiros clássicos, na literatura de ficção-científica, são bem raros. Até Verne e Wells têm hoje o sabor do passado. Mas por vezes - mais raramente ainda - há obras intemporais. A Invasão dos Insectos, de Ray Cummings, é uma delas. 
 
 Que um homem seja atacado por mosquitos, numa casa onde todas as janelas estão cobertas por rede, é bem estranho. Mas que a rede apresente sinais de ter sido cortada por uma ferramenta mais pequena do que um mosquito - isso é que é estranho! 

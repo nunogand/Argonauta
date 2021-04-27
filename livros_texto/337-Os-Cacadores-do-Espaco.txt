@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: E.E. Doc. Smith
-
-Título original: Spacehounds of IPC
-
-1ª Edição: 1947
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº336 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Os Caçadores do Espaço, é a versão portuguesa de Spacehounds of IPC, a obra que faltava na série Patrulha Galáctica, de E.E. Doc. Smith. Um clássico, portanto - um novo exemplo da Space Opera, que trouxe à ficção-científica tantos e tantos adeptos e que ainda hoje surpreende pelas suas previsões e pelo seu estilo peculiar. Como sempre, a acção é constante, entontecedora. Tudo começa numa nave de passageiros, que voa para Marte. Sem qualquer novidade... até que o gigantesco foguete estremece e parte-se ao meio! O Arcturus, paquete-cruzador tão luxuoso como invencível, está a ser cortado em fatias por ""planos de luz que cegam quem os vê"". Steve e Nadia, separados do resto da nave, observam as ""mortais tesouras de luz"", despedaçando, a pouco e pouco, os destroços. Depois, são capturados por um inimigo terrível... os super-cientistas de Júpiter!
 
 É surpreendente ter ""Doc"" Smith previsto, quando da sua primeira edição do seu livro em 1931, o invento do raio laser, que só apareceria muito mais tarde.

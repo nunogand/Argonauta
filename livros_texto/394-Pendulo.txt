@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: A.E. Van Vogt
-
-Título original: Pendulum
-
-1ª Edição: 1978
-
-Publicado na Colecção Argonauta em 1990
-
-Capa: A. Pedro
-
-Tradução: Eduardo Saló
-
-Súmula - Foi apresentada no livro 
-nº393 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Hudman pestanejou. Depois abriu bem os olhos. Estava no alto de um monte. A toda a largura do horizonte, à distância, via uma enorme cidade. No cérebro de Hudman, um milhão, um bilião de imagens estremeceram; rostos, edifícios, outras cidades longínquas, árvores, planícies, praias rochosas, pessoas, sobretudo pessoas, muitas pessoas, todas de olhos roxos.
 
 Uma cidade diferente das outras, esta que agora se estendia diante dos seus Olhos. O pêndulo funcionara de novo, alterando o ciclo do tempo. Estava aonde? Começou a descer o monte; era como um emigrante que chega a um novo país - excitado, ansioso, determinado a não pensar em nada do passado; a cidade antiga, dourada, de cristal - ele sabia-o - era Uxtagooganaza.

@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert Asprin
-Título original: Phule's Company
-1ª Edição: 1990
-Publicado na Colecção Argonauta em 1999 
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-Súmula -
- foi apresentada no livro nº504 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Perante a ""louca"" carreira militar do capitão Willard Phule, iniciada em frente de um conselho de guerra, os altos comandos resolveram livrar-se dele e de outros que tais, enviando-os para um planeta distante a fim de enfrentarem a ameaça alienígena.
 
 Neste segundo, e último volume, cá temos então a companhia comandada por Phule metida em grandes sarilhos. Mas os soldados são tão fora do comum como o capitão, desde o sargento Brandy, um autêntico terror para os superiores e subordinados, até Beeker, que era mesmo mais que um simples soldado... era civil!  

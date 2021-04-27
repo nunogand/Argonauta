@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Philip José Farmer
-
-Título original: The Fabulous Riverboat
-1ª Edição: 1971
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº267 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Poucas séries de ficção-científica têm obtido um êxito tão grande como a de Riverworld, de Philip José Farmer.
 
 Figuras das mais célebres, desde Sir Richard Francis Burton, o autor de As Mil e Uma Noites, a Herman Goering, dominam esse novo mundo em que ninguém morre - porque mesmo o que por crime ou acidente morrem nele, depressam voltam à vida. Tratar-se-á de um milagre, obra de deuses desconhecidos, ou de um simples prodígio de uma tecnologia extremamente avançada, num época futura? Qual o objectivo da criação desse mundo sem morte, onde raças e culturas e ápocas se misturam? Tudo será obra do acaso - ou há em tal mistura um propósito?

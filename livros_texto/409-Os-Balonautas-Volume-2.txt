@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Bob Shaw
-
-Título original: The Raged Astronauts
-
-1ª Edição: 1986
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares
-Súmula - Foi apresentada no livro 
-nº408 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Nota: a súmula desta segunda parte é exactamente igual à apresentada relativamente à obra anterior. 
 Escrito com o arrojo e engenho de um mestre de ficção-científica, Os Balonautas,
  que são o primeiro volume de uma trilogia, indiciam o que estará 

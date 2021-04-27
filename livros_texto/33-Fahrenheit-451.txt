@@ -12,9 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury Título original: Fahrenheit 451
-1ª Edição: 1953 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas (iniciam-se nesta obra as capas de Lima de Freitas) Tradução: Mário Henrique Leiria   Súmula - foi apresentada no livro nº32 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 Fahrenheit 451 - a temperatura a que um livro se inflama e consome...
 
 O mundo está organizado e a felicidade é obrigatória. Todos possuem paredes com imagens animadas, robots domésticos, casas climatizadas e ignífugas. Os bombeiros, guardas da ordem social, nada mais têm que uma função: queimar os livros, fonte de todos os perigos e descontentamentos. Para quê livros, num mundo em que todos são felizes, para quê ler quando as paredes da sala passam o dia, ininterruptamente, a dar espectáculos a três dimensões, coloridos, devertidíssimos... para quê ler, quando basta introduzir o micro-rádio na orelha para a música, os anúncios, os discursos nos acompanharem por toda a parte...

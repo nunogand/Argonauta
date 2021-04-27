@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Anne McCaffrey
-Título original: The White Dragon 
-
-1ª Edição: 1978
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº314 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A continuação de O Dragão Branco - a última parte da célebre trilogia The Dragonriders of Pern, que entre nós foi editada sob o título de O Planeta dos Dragões (nº 297, nº 298 e nº 299 da Colecção Argonauta) - tem, pelo engenho e arte de Anne McCaffrey, um encaminhamento e um ritmo completamente diferente dos iniciais. para se avaliar da sua intensidade e do seu interesse, bastará reproduzir a seguinte passagem:
 Muito encorajados, os lagartos-de-fogo juntaram-se a Canth e aos cavaleiros, e a terra voou por toda a parte. Quando a abertura estava quase livre, descobriram também o bordo de ataque arrendondado de uma das asas curtas que, como o Harpista se apressou a observar, provavam que os animais se recordavam precisamente do que os seus antepassados tinham visto. Quando se conseguia fazê-los recordar...
 

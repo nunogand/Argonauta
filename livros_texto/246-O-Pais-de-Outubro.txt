@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury
-Título original: The October Country
-
-1ª Edição: 1948
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-Tradução: Maria Emília Ferros Moura 
-
-Súmula - Foi apresentada no livro 
-nº245 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 A imaginação de Ray Bradbury e a efabulação que lhe dá estrutura parece não conhecerem limites! O campo dos possíveis, que, no grande escritor, se vai expandindo como um universo, é explorado, de obra para obra, com crescente audácia.
 
 Em O País de Outubro, Bradbury quer fazer reviver - é essa, pelo menos, a sua intenção aparente - o velho tema do narcisismo. Mas, enquanto Narciso se apaixonou pela sua própria imagem reflectida nas águas, o ""herói"" deste romance apaixona-se por... (E, aqui, nada mais antecipamos para o Leitor).

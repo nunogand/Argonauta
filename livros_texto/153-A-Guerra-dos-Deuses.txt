@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: A.E. Van Vogt
-Título original: Two Hundred Million A.D.
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº152 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 A.E. Van Vogt é um dos autores de ficção-científica mais lidos e admirados pelo leitor português. A sua obra, largamente divulgada em Portugal pela Colecção Argonauta, da Editorial ""Livros do Brasil"", tem-se imposto às mais largas camadas de público leitor, mercê de uma divulgação criteriosa e metódica, que faz de cada lançamento a base de um novo êxito.
 

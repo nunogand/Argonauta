@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Gregory Benford
-
-Título original: The Ocean of Night
-
-1ª Edição: 1972
-
-Publicado na Colecção Argonauta em 1998
-
-Capa: A. Pedro
-
-Tradução: Alexandra Tavares
-
-Súmula - Foi apresentada no livro 
-nº491 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 O muito famoso e apreciado autor de Timescape, que recebeu o Prémio Nebula, é agora incluído nesta colecção com a obra No Oceano da Noite, versão portuguesa de In the Ocean of Night, apresentada em dois volumes.
 
 Diz-se do autor que deu à ficção-científica um novo significado: a arte que traz a ciência à vida fictícia. Primeiro, é a descoberta de uma astronave abandonada no núcleo de um cometa... Depois, uma sonda automática provinda de uma civilização distante 800.000 anos-luz... Por fim, o encontro de velhos destroços numa cratera lunar.

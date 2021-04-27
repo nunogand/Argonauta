@@ -12,8 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Isaac Asimov Título original: Foundation and Empire 1ª Edição: 1952 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Alfredo Margarido
-Súmula - foi apresentada no livro nº85 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:   
+   
 A ciência deixou de existir num Império destruído e que perdeu os seus cientistas que fundaram dois mundos novos: a primeira Fundação - especialmente encarregada de redigir a Enciclopédia Galáctica - e a segunda Fundação, cuja localização é desconhecida, e cuja actividade é também um mistério.
 
 O velho Império continua a descair, pois que os seus reis ou são fracos, e portanto logo substituídos por generais ou favoritos fortes, ou são fortes e, nesse caso, destroem todos os indivíduos que aparecem dispondo de algumas possibilidades de se lhes oporem.

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Moreau's Other Island
-
-1ª Edição: 1980
-
-Publicado na Colecção Argonauta em 1986
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº353 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Brian Aldiss é um dos mais brilhantes autores britânicos de FC - talvez o mais notável. Que ele tenha retomado um dos mais célebres temas de Herbert George Wells - A Ilha do Dr. Moreau - é um acontecimento, não só na ficção-científica, mas também na literatura em geral. Mais importante ainda, porque Aldiss, sem imitar precisamente o espírito de Wells, respeitou-o.
 
 Poderá perguntar-se que interesse houve - para além do literário - em reviver a estranha história do médico louco que transformava os animais em homens. Sem desvendar um segredo que, como é hábito de Aldiss, se mantém impenetrável até final, notaremos apenas que, depois de Wells, muita coisa mudou no mundo e pode ainda mudar.

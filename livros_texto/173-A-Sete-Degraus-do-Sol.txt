@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-
-
-Autor: Fred Hoyle e Geoffrey Hoyle
-Título original: Seven Steps to the Sun
-
-1ª Edição: 1970
-
-Publicado na Colecção Argonauta em 1971 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº172 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Há quem pense que quando um homem morre vai para o Céu, ou para o Inferno, ou para o Purgatório. E há quem pense que, muito simplesmente, quando um homem morre tudo se acaba. Mas se ao morrer, em vez de ir para o Céu, para qualquer outra parte, ou para parte nenhuma, um homem der um salto de dez anos no futuro? Sete saltos?
 

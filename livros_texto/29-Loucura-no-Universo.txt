@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Fredric Brown
-Título original: What Mad Universe
-1ª Edição: 1951
-Publicado na Colecção Argonauta em 1956 
-Capa: Cândido Costa Pinto 
-Tradução: Mário Henrique Leiria
-
-Súmula - foi apresentada no livro nº28 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Fredric Brown é hoje um dos mais conhecidos nomes da literatura de ficção nos Estados Unidos. Tornou-se famoso tanto pela sua prodigiosa, digamos mesmo desenfreada, imaginação como pela forma muito peculiar do seu sentido de humor, um humor capaz de tirar o sossego ao leitor que aprecie a boa chinela de lã e a lareira bem quentinha.
 Tem abordado uma série de géneros literários e em nenhum deles é medíocre - romance policial, ficção-científica, teatro radiofónico, etc. Tudo tem servido a sua diabólica imaginação, apoiada por uma sólida cultura literária e científica e por uma crítica aguda e compreensiva dos problemas humanos.
 Eis um divertido fragmento da autobiografia de Fredric Brown:

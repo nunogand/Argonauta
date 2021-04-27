@@ -12,23 +12,9 @@ review: |
   
 listagem: |
 ---
-
       
 
-Autor: Paul W. Fairman
 
-Título original: City Under The Sea
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-Súmula - foi apresentada no livro 
-nº129 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Paul W. Fairman dá-nos em O Império Submarino uma das obras mais originais e impressionantes que se publicaram últimamente no campo da Ficção-Científica.
 
 Não é só nos astros distantes, na desolada sollidão das galáxias, nos confins do Universo que o Homem ainda encontra ignotas paragens. Também no fundo dos mares ainda há mistérios e até vidas organizadas, impérios e reinos, com as suas lutas, os seus interesses, as suas divergências de constituições

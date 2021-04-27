@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury 
-
-Título original: Long After Midnight
-
-1ª Edição: 1974
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº331 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 O segundo volume e último de Muito Depois da Meia-Noite contém também onze histórias surpreendentes - onze histórias como só Ray Bradury pode escrever. 
 Eis como começa a primeira:
  .. ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...  ... ... ... ... ... ... ... ... ... ... ... ... ... ...

@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Albert e Jean Crémieux
-Título original: Chute Libre
-1ª Edição: 1954
- Publicado na Colecção Argonauta em 1956 
-Capa: Cândido Costa Pinto 
-Tradução: Mário Henrique Leiria 
-
-Súmula - foi apresentada no livro nº26 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Um meteoro cai subitamente no jardim de Frederic Boisson, pacato cidadão francês vivendo sossegadamente numa pequena vila de do Puy-de-Dôme, mas que, durante os agitados tempos da guerra, fora o célebre BG 48, decifrador de códigos secretos.
 De investigação em investigação e com o auxílio do seu excitado amigo Pierre N... e da pequena Martine, sua sobrinha, Frederic Boisson averigua que o estranho aerólito é afinal... uma nave interplanetária. E é quando uma ""pequena máquina de falar"" salta súbitamente de dentro da nave, que os três ouvem a inacreditável história:
 ""Do alto da sua poderosa civilização matemática, os homens de 54 observam a vida nos outros mundos. A Terra, a pequena e mesquinha Terra, desperta-lhes uma curiosidade relativa e analítica. Para uma melhor observação, resolver recolher algumas amostras, a fim de lhes estudar as reacções e uma possível adaptação ao seu planeta. "".

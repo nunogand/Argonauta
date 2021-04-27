@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-
-Título original: Waldo & Magic, INC.
-1ª Edição: 1940-42 (publicado inicialmente como dois contos diferentes, em 1941 e 1942)
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº189 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Robert A. Heinlein é um dos autores mais representados na Colecção Argonauta. E é também um dos mais representativos autores de ficção-científica. Todos os géneros são dominados por ele, desde a pujança dramática de Soldado no Espaço (nº129) até à fantasia alegórica de A Estrada da Glória (nº182 e 183), desde o pragmatismo de O Homem que Vendeu a Lua (nº11) até à sua profética História do Futuro (nº243-244-245)- visão gigantesca e incrivelmente exacta do amanhã da Humanidade, de que Revolta em 2100 (nº 132) é um exemplo.
 

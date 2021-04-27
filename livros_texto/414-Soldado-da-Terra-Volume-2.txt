@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Gordon R. Dickson
-
-Título original: Soldier, Ask Not
-
-1ª Edição: 1967
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº413 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Este grande clássico da ficção-científica, integra-se na célebre saga dos Dorsai, tal como já sucedera com Necromante. 
 
 Desta vez, existem catorze mundos em que o Homem deixara de ser Homem.

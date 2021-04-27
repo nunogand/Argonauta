@@ -12,10 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Jerry Sohl  Título original: The Haploids 1ª Edição: 1953
-
- Publicado na Colecção Argonauta em 1955  Capa: Cândido Costa Pinto  Tradução: Mário Henrique Leiria 
- Súmula - foi apresentada no livro nº 24 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Quando Travis viu chegar ao hospital o velho que gritava, nem sequer teve a mais pequena ideia de que aquilo era o primeiro sinal da ofensiva das Haploides.
 Depois, foi a epidemia. As suas vítimas aumentavam sem cessar e o flagelo estendia-se rápida e misteriosamente, sem se saber a sua origem. Mas só os homens eram atingidos. As mulheres ficavam incólumes. E, facto curioso, sempre que um novo foco de infecção era assinalado, havia quem afirmasse ter visto nas proximidades uma rapariga loura, de olhar estranho.
 Pouco depois a rádio e a televisão deixam de funcionar. As emissoras calam-se e o caos estende-se. Grupos de mulheres armadas circulam cada vez com mais frequência. 

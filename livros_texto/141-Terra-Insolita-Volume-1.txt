@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-
-Título original: The Werewolf Principle
-
-1ª Edição: 1967
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº140 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Dividido em dois volumes por motivos  técnicos, ""Terra Insólita"" é uma das obras mais sedutoras e acutilantes de Clifford D. Simak, o grande escritor norte-americano de ficção-científica que foi dinstinguido com dois importantes prémios: o ""International Fantasy Award 1953"" e o ""Hugo Award 1964"". No presente romance, Simak dá livre curso à sua imaginação prodigiosa, colocando-nos perante uma situação emocionante: a da presença do homem numa ""terra"" onde tudo é ""estranho"". 
 

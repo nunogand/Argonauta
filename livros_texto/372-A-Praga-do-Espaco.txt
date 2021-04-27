@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Harry Harrison
-
-Título original: Plague From Space
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1988
-
-Capa: A. Pedro
-
-Tradução: Raul de Sousa Machado
-
-Súmula - Foi apresentada no livro 
-nº371 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Harry Harrison é um dos mais conhecidos e mais multiformes autores de FC. Pode usar de um humor corrosivo: leia-se Bill, o Herói Galáctico (nº353 da Colecção Argonauta). E pode também tratar de temas mais sérios.
 
 Quando os homens foram à Lua, temeu-se que eles encontrassem ali vírus, bactérias, ou outras formas de vida nocivas. Tomaram-se as maiores precauções. Mas a Lua era estéril. Nada aconteceu, porque a vida lunar nunca se desenvolvera na superfície lunar.

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-
-Título original: Where the Evil Dwells
-
-1ª Edição: 1982
-
-Publicado na Colecção Argonauta em 1985
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº337 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 A meio caminho entre a fantasia e a ficção-científica, as obras de Clifford D. Simak são inigualáveis. No mundo alternativo que Simak descreve em Onde Mora o Mal, as Terras Vazias separam os bárbaros do Leste da civilização duas vezes milenária de Roma e da Igreja. mas as Terras Vazias não estão realmente vazias - estão cheias com os mitos mais tenebrosos da humanidade e um poder mais horrível que o de todos os mitos.
 
 É então que quatro seres humanos decidem invadir a terra do Mal. Cada um deles tem uma razão pessoal. Harcourt, ainda que com relutância, decide socorrer a sua noiva, raptada pelo Mal num ataque terrorista. Sonhando com a restauração do prestígio, cada vez menor da sua abadia, um abade resolve reconquistar um prisma fabuloso dentro do qual a alma de um santo foi aprisionada por um feiticeiro. O Homem dos Caracóis, vai procurar uma morte mais bondosa do que a vida. E a jovem Yolanda... as suas razões são, para ela própria, um mistério, pois procura uma resposta a um pergunta que não sabe qual seja.

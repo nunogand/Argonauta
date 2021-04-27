@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Frankenstein Unbound
-
-1ª Edição: 1978
-
-Publicado na Colecção Argonauta em 1988
-
-Capa: A. Pedro
-Tradução: Raul de Sousa Machado
-
-Súmula - Foi apresentada no livro 
-nº368 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Uma obra de Brian Aldiss é sempre um acontecimento, mas Frankenstein Unbound tem a particularidade de ter entre as suas personagens Lorde Byron e Percy e Mary Shelley. E importa notar que Aldiss partilha a sua fama como autor de ficção-científica com a de um dos maiores conhecedores da obra de Mary Shelley, a autora de Frankenstein.
 Quando Joe Bodenland se vê súbita e inexplicavelmente transportado da preocupante América do ano 2020 à calma Suíça de 1816, julga ter encontrado a paz que ambicionava. Até conhecer Victor Frankenstein - e então vê-se perante um dilema. Na vivenda de Byron, no Lago de Genebra, o manuscrito de Mary Shelley sobre Frankenstein ainda vai em meio. Victor é, pois, um produto da imaginação. E Joe Bodenland, o que será? 
 

@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-
-Título original: A Scanner Darkly
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº315 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Como será o mundo em 1994? Até que ponto o consumo da droga afectará os homens e a sua sociedade? Este o tema de A Scanner Darkly, uma das obras mais notáveis, se não a mais notável, de Philip K. Dick, cuja versão portuguesa sob o título O Homem Duplo constituirá o próximo volume da Colecção Argonauta.
 
 E porquê O Homem Duplo? Porque o protagonista, Bob Arctor, tem uma dupla identidade, a sua, de passador de droga, e a de um tal John, que de vez em quando usa algo a que ele chama o confusor e que o faz aparecer como algo semelhante a um súbito raio de luz, dando-lhe uma identidade, a de um tal Fred que é um informador da polícia. Até que Fred recebe ordem para vigiar por meios electrónicos um tal Bob Arctor... 

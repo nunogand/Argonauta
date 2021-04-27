@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Brunner
-
-Título original: The Dreaming Earth 
-1ª Edição: 1963
-
-Publicado na Colecção Argonauta em 1972
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº179 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Não o futuro distante, mas sim aquele que talvez encontremos ainda nas nossas vidas - aquele que os nossos filhos, muito provávelmente, irão conhecer. Um futuro em que a Terra será pior do que o Inferno. Sobrepovoada e esfomeada. Coberta de cidades com milhões e milhões de habitantes, e de vilas maiores que as cidades de hoje.
 Nessa Terra - que pode estar muito próxima de nós - não pode haver alegria de viver. Mas há quem distribua sonhos felizes. Sonhos que talvez sejam reais. Porque aqueles que os têm, despertam num mundo onde o arco-íris tem oito cores, e onde o ar não é poluído e onde o único ruído que se ouve é o canto das aves - um canto diferente de todos os que tinham até então ouvido.

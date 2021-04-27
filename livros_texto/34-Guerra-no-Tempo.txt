@@ -12,11 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Clifford D. Simak Título original: Time and Again
-
-1ª Edição: 1951 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas Tradução: Carlos Vieira 
- Súmula - foi apresentada no livro nº33 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Quando Asher Sutton voltou à Terra, vinte anos depois, já os seus amigos o tinham esquecido. Ele próprio quase se esquecera de que era um homem. Até o seu chefe directo o perseguiu, fazendo tudo para evitar que ele revelasse e difundisse o conhecimento que tinha do destino, a sua capacidade de penetrar no futuro. Uma intriga se tece em torno dele, na qual participam o director da Corporação Galáctica do ano 6300 e o director da Repartição de Investigações Galácticas. Para os humanos terá de ser o domínio das galáxias!
 Nesse tempo, a Humanidade - isto é, os seres pensantes ou afins - compunha-se, por uma parte, de humanos e andróides e, por outra, de inúmeras outras variedades, inclusive os autómatos. Para os andróides, Asher Sutton era como que um Deus, no que partilhavam a adoração por ele de todos os seres vivos, É que as doutrinas que Sutton se propunha ensinar davam a todos os seres os mesmos direitos. Por isso, na luta que se desenha sem tréguas, misteriosa, em múltiplos planos e zonas de vida, os andróides protegiam ciosamente Asher Sutton. 
 Mas Sutton não era já ele próprio um ser humano: era um super-homem. Os seus amigos cisnienses, seres estranhíssimos da constelação do Cisne, haviam-no com efeito dotado de poderes extra-terrenos, que lhe conferiam a mais formidável capacidade de acção e previsão.

@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Murray Leinster
-Título original: Doctor to the Stars
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1971 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro nº163 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 ""... Nenhum homem pode ser absolutamente eficiente se esperar louvores ou apreço por aquilo que ele faz. A incerteza dessa compensação, com a experiência demonstra, conduz à modificação das acções de cada um para aumentar a sua probabilidade... Se um homem se permitir a si próprio procurar a admiração, tenderá a tornar esse objectivo mais importante e a colocar num plano secundário o de fazer devidamente o seu  trabalho. Isso custa vidas humanas...
 
       

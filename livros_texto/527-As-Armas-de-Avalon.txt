@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Roger Zelazny
-
-Título original: The Guns of Avalon
-1ª Edição: 1972
-Publicado na Colecção Argonauta em Julho de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-
-Súmula -
- foi apresentada no livro nº526 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":   
+   
 
 Âmbar é o único mundo verdadeiramente real. Todos os outros mundos, incluindo a Terra, não passam de sombras que de certa forma o imitam. O príncipe Corwin, exilado na Sombra Terra desde há séculos, decide regressar a Âmbar, para reconquistar o trono que lhe cabe por direito. Terá por isso de enfrentar os poderes de Eric, Random, Bleys, Caine e de todos os restantes nove príncipes que aí habitam. E no seu caminho até à Escada do Mar, que está guardada por coisas inimagináveis, por realidades criadas por assassinos demoníacos, contra as quais Corwin só tem uma arma: a sua fúria humana. 
 

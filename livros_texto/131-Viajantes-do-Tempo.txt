@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Clifford D. Simak
-
-Título original: Time Is The Simplest Thing
-
-1ª Edição: 1961
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº130 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Clifford D. Simak aborda nesta obra o problema do Tempo. Não o faz, porém, em termos especulativos, inacessíveis ao leitor profano. Clifford D. Simak estrutura a sua narrativa em termos de acção, porque, precisamente, o tempo exige acção e movimento.
 

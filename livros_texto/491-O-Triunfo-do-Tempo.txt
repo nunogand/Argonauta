@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: The Triumph of Time
-
-1ª Edição: 1958
-
-Publicado na Colecção Argonauta em 1998
-
-Capa: A. Pedro
-
-Tradução: Alexandra Tavares
-
-Súmula - Foi apresentada no livro 
-nº490 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 É com O Triunfo do Tempo que termina a série As Cidades do Céu, cujos volumes anteriores foram As Estrelas São dos Homens (nº483), Vivendo no Céu (nº486) e A Terra é Uma Ideia Boa (nº488 e nº489).
 
 Este quarto volume é considerado aquele que melhor desenvolveu a ideia contida no conto Okie, publicado por James Blish em 1950. De facto, foi neste conto que o autor abordou pela primeira vez o tema das cidades nómadas que se libertam da Terra quando descobrem a antigravidade e, protegidas por uma redoma, passam a vaguear pelo espaço.

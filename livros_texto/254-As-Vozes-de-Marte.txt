@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury
-Título original: I Sing the Body Electric
-1ª Edição: 1969
-Publicado na Colecção Argonauta em 1978
-Capa: A. Pedro - (começam neste número as capas idealizadas por A. Pedro) 
-Tradução: Maria Emília Ferros Moura
-Súmula - Foi apresentada no livro 
-nº253 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Ray Bradbury não é um escritor vulgar no campo da ficção-científica. Notável cosmógrafo e constante prescrutador de problemas cosmonáuticos, escreveu mais de 350 novelas e contos neste âmbito literário, dando provas de uma fertilíssima e inesgotável imaginação.
 
 Mas não se dedicou sómente à aventura planetária. Filmes como Moby Dick e 451º Fahrenheit, para os grandes realizadores John Huston e François Truffaut, brotaram da sua incansável pena, em magistrais adaptações cinematográficas. 

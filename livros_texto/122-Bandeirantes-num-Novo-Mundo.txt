@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Edmund Cooper
-Título original: Transit
-1ª Edição: 1964
-
- Publicado na Colecção Argonauta em 1967 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-Súmula - foi apresentada no livro 
-nº121 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O mito de Robinson Crusoe, continua habitando o coração dos homens. Anelo paradoxal, na época em que as criações humanas desmentem, a cada passo, a solidão. Cidades tentaculares, grande vaga demográfica, avião supersónico, a solidão é um paraíso perdido ou, quando muito, uma nostalgia. Ao mesmo tempo não se ouve, porventura, o lamento dos que a sofrem como um destino cruel e frequentemente insuportável?
 
 Até para gozar da própria solidão o Homem necessita do Homem. Num universo em que a solidão não tivesse remédio, sentiriamos, cedo ou tarde, a aridez do deserto. O homem necessita do homem para sobreviver. Robinson sem Sexta-Feira, não era Robinson.

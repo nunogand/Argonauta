@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: Gateway
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº355 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A conquista das estrelas será bela, como um sonho, ou um pesadelo? Eis a pergunta que transparece por detrás de A Porta das Estrelas - a versão portuguesa de Gateway, a primeira parte da célebre Trilogia dos Heechee, de Fredrik Pohl. 
 
 Mas o sonho e o pesadelo podem confundir-se, como se mostra na seguinte passagem do segundo (e próximo volume) de A Porta das Estrelas: 

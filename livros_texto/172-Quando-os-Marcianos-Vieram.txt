@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Edmund Cooper
-Título original: The Last Continent
-
-1ª Edição: 1969
-
-Publicado na Colecção Argonauta em 1971 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº171 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Era proibido entrar na torre. A lei vinha de um tempo para além da memória do Homem, e ninguém que a houvesse infringido pudera sobreviver. Da torre fluía a energia e inteligência que mantinha viva a cidade de Noi Lantis, o único vestígio da civilização que restava na Terra.
 

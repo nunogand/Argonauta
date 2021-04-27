@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Edmond Hamilton
-
-Título original: Crashing Suns
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº132 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Romance de primeiro plano, no sector da Ficção-Científica, Patrulha Interstelar combina milagrosamente, num equilíbrio feito de talento admirável, a mais lúcida fantasia com o mais forte sentido da plausibilidade.
 

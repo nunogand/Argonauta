@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Fredrik Pohl
-Título original: A Plague of Pythons
-1ª Edição: 1965
-Publicado na Colecção Argonauta em 1976
-Capa: Manuel Dias 
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº230 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":  
+  
 Centenas de pessoas normais, incapazes de um acto violento, encontravam-se subitamente perante o tribunal, enfrentando a possibilidade de serem condenadas à morte, porque tinham cometido crimes horríveis. E o tribunal não lhes dava crédito. Ninguém podia conceber que, uma após outras, essas pessoas afirmassem que tinham sido obrigadas a proceder desse modo por uma força terrível, impossível de descrever.
 
 Mas a força existia. Exercia a sua acção sobre as pessoas ao acaso, levava-as a cometer as acções mais monstruosas, e depois devolvia-as a uma vida normal. E continuava a actuar livremente, porque ninguém acreditava no que diziam aqueles que eram possuídos por ela.

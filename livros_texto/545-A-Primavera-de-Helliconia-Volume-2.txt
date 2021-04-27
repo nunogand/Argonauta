@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: Helliconia Spring
-1ª Edição: 1982
-Publicado na Colecção Argonauta em Julho de 2003
-Capa: António Pedro
-Tradução: Alexandra Rolão Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº544 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 A sala onde Shay Tal se encontrava era mais antiga do que ela jamais poderia calcular. Tinha-a mobilado com o pouco que tinha: uma velha tapeçaria, que tinha pertencido a Loil Bry, e depois a Loilanun - aquela ilustre linhagem de mulheres mortas; a sua cama humilde a um canto, feita de madeira trabalhada de feto-dos-ventos importando de Borlien (o feto-dos-ventos mantinha afastados os ratos); os seus materiais de escrita encontravam-se sobre uma pequena mesa de pedra; havia algumas peles no solo, sobre as quais se encontravam sentadas ou agachadas treze mulheres. A academia estava reunida.
 
 As paredes da sala estavam manchadas por leprosos líquenes brancos e amarelos, que, tendo começado a alastrar a partir da única janela estreita, tinha, naqueles incontáveis anos, colonizado toda a pedra trabalhada adjacente. Aos cantos, havia teias de aranha; a maior parte dos seus titulares tinha havia muito morrido de fome.

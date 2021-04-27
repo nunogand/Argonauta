@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl e C.M. Kornbluth
-
-Título original: Search the Sky
-1ª Edição: 1954
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº188 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Havia qualquer coisa errada no planeta de Halsey. Qualquer coisa terrível, indefinida. Uma espécie de fadiga mortal e de apodrecimento. Ross sentia-a. Queria fugir dali. Procurar outros horizontes.
 
 Foi então que surgiu, vinda da Terra, uma nave interstelar. Ao ver os descendentes da tripulação original, ao ouvir as histórias por eles contadas, ao fim de uma viagem que demorara séculos, Ross sentiu que tinha que partir - imediatamente!

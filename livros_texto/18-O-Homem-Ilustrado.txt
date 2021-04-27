@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Ray Bradbury
-
-Título original: The Ilustrated Man
-
-1ª Edição: 1951
-
-Publicado na Colecção Argonauta em 1955
-
-Capa: Cândido Costa Pinto 
-
-Tradução: Eurico da Costa
-Súmula - foi apresentada no livro nº17 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Depois de ""O Mundo Marciano"", que foi recebido com tanto agrado pelo nosso público, a ""Colecção Argonauta"" orgulha-se de apresentar o segundo livro famoso do mais cotado escritor de Ficção Científica da América do Norte: Ray Bradbury.
 
 Ray Bradbury é um prosador poeta, ou um poeta prosador. Todas as suas obras rescendem a uma filosofia muito de admirar no género de literatura que escolheu, onde se espraia em considerações sobre a sabedoria do Universo, o segredo das pontes perdidas, dos mares azuis, dos sóis-rubros, dos cometas, das constelações, das galáxias, que se alongam até ao Infinito, dos homens perante o futuro e as incógnitas traçadas pela cibernética.

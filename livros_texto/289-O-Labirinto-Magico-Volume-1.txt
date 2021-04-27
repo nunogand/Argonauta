@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-Título original: The Magic Labyrinth
-1ª Edição: 1980
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº288 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
  
 
 O Labirinto Mágico (The Magic Labyrinth) é a quarta e última novela da célebre série do Mundo do Rio (Riverworld), de Philip José Farmer, iniciada com Mundo Sem Morte (nº263 da Colecção Argonauta); Viagem para Além da Morte (nº268) e Desígnio Negro (nº272 e nº 273).

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-Título original: Shakespeare's Planet
-
-1ª Edição: 1976
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº241 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Já em O Tempo dos Duendes (nº145 da Colecção Argonauta), Clifford D. Simak mostrara o seu interesse pela figura de Shakespeare. Agora, é a memória de Shakespeare que surge, dominante, num estranho mundo descoberto por um astronauta, ao fim de uma viagem de mil anos.
 Como pôde Shakespeare chegar a esse planeta? Que lhe aconteceu aí? Qual é o segredo dos túneis do espaço? Qual o segredo da civilização que viveu no Planeta de Shakespeare e aí se extinguiu? Eis algumas das perguntas a que Clifford D. Simak responde em O PLANETA DE SHAKESPEARE.
 

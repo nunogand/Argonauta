@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Poul Anderson
-
-Título original: The Horn of Time
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1998
-
-Capa: A. Pedro
-
-Tradução: A. Maldonado Domingues 
-
-Súmula - Foi apresentada no livro 
-nº486 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No dia em que os homens matarem o seu próprio mundo, quando este não for mais do que um deserto de cinzas, poderão eles fugir para os céus, lutar contra planetas hostis, subjugar a sua própria natureza à necessidade de sobreviver num cosmos que lhes é estranho? Não será a própria natureza humana o pior inimigo do homem?
 
 Eis o tema de Crónicas do Fim do Mundo, a versão portuguesa de The Horns of Time, uma obra de Poul Anderson, um dos grandes mestres da ficção-científica, em que é explorado o futuro numa narrativa empolgante que parte da Terra para as mais longínquas galáxias e que antevê o destino final da Humanidade.

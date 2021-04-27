@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ursula Le Guin
-
-Título original: The Farthest Shore
-1ª Edição: 1972
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº292 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 The Farthest Shore (O Outro Lado do Mundo), na versão portuguesa, é o último volume da trilogia de Earthsea (Terramar), que tornou célebre Ursula Kroeber Le Guin. Tal como O Feiticeiro de Terramar (nº276 da Colecção Argonauta) e Os Túmulos de Atuan (nº284 da mesma colecção), é uma história estranha, que muitos considerarão mais próxima da magia ou da fantasia que da ficção-científica, mas que resulta imprescindível para a compreensão das obras posteriores de Le Guin. O mundo de Terramar - um arquipélago perdido - ressurge com toda a sua maravilha e todos os seus enigmas, com a sua civilização em que alguns vislumbram uma ideia da legendária Atlântida, de uma Atlântida em que a tecnologia teria sido substituída pela feitiçaria, enquanto outros a olham antes como uma recriação da não menos lendária Islandia, dos tempos de São Brandão e das suas não menos lendárias viagens. Seja como for, a verdade é que o estilo inimitável de Le Guin concede à narrativa um tom de realidade que nos leva a pensar que, no fim, Terramar não é a Atlântida, nem as Ilhas de São Brandão, mas sim algo de muito verdadeiro e de muito actual, num mundo muito distante, à luz de outro Sol, e sob outras leis da Natureza... 
 

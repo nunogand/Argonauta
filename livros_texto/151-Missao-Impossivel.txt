@@ -13,21 +13,7 @@ review: |
 listagem: |
 ---
 
-
-
-
-Autor: Frederik Pohl e Jack Williamson
-Título original: The Reefs of Space
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº150 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Frederik Pohl e Jack Williamson constituem uma das ""duplas"" mais famosas no sector da ficção-científica e Missão Impossível (The Reefs of Space) uma das suas obras de maior relevo e projecção.
 

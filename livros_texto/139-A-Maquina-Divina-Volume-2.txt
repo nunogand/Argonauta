@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Martin Caidin
-
-Título original: The God Machine
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº138 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Um romance de suspense que, no entanto, as circunstâncias poderão vir a tornar reais, faz desta obra, por esse mesmo motivo, um grito de alarme contra o que acontecer - não já num futuro longínquo - mas amanhã.
 
 Toda a vida de Steve Rand se consagrara ao chamado ""Projecto 79"", - um computador gigante, ou cérebro electrónico que, durante anos, fora um dos segredos mais ciosamente guardados do governo dos Estados Unidos da América. Uma série de misteriosas tentativas de assassínio de que foi objecto, provam ao jovem matemático que o ""Projecto 79"" escapara às malhas apertadas do controlo que o protegiam: o cérebro gigante tinha tomado controlo directo dos cérebros dos homens que, sob as suas ordens, tentavam aniquilar Steve Rand.

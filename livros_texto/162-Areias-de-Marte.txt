@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Arthur C. Clarke
-
-Título original: The Sands of Mars
-
-1ª Edição: 1951
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº161 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A Pulga saltou para a frente e a Crista do Arco-Íris depressa desapareceu atrás deles. Estava agora a seguir um caminho tortuoso através de uma área inteiramente nua e até as árvores petrificadas tinham desaparecido. Por vezes, Gibson via uma mancha verde que ele pensava ser vegetação, mas quando se aproximavam, verificavam invariávelmente que se tratava de um afloramento de minério. Aquela região era fantásticamente bela, o paraíso de um geólogo, e Gibson fazia votos para que nunca fosse devastada pela abertura de minas. Era certamente um dos mais atraentes lugares de Marte. 
 
 Viajavam havia meia-hora quando as colinas desceram até um longo e sinuoso vale que era sem dúvida o leito de um antigo curso de água. Talvez durante cinquenta milhões de anos antes, pensou o condutor, um grande rio tivesse passado por ali, para levar as suas águas até ao Mare Erythraeum - talvez um dos poucos ""mares"" marcianos que, ainda que com algum atraso, merecesse esse nome. Pararam a Pulga e olharam para baixo, para o leito seco do rio, com uma sensação não muito bem definida. Gibson tentou imaginar a cena tal como ela seria nos dias remotos em que os grandes répteis dominavam a Terra e o Homem era ainda um sonho num futuro distante. As colinas vermelhas não deviam ter mudado muito, em todo esse tempo, mas entre elas o rio devia ter caminhado sem muita pressa para o mar, correndo lentamente sob a fraca gravidade. Era uma cena que quase poderia ter pertencido à Terra - e teria sido alguma vez presenciada por olhos inteligentes? Ninguém sabia. Talvez tivessem existido Marcianos nesses tempos, mas o Tempo fizera-os desaparecer por completo.

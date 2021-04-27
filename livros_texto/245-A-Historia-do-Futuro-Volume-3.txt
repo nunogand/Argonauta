@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: Time Enough for Love
-
-1ª Edição: 1973
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº244 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 No terceiro e último volume da obra de maior fôlego de Robert A. Heinlein - a que mais traduções teve até hoje - entra-se no campo tradicional da ficção-científica. Lazarus Long, depois de ter evocado os factos principais da sua longa vida - histórias de amor e pioneirismo nos novos mundos do Espaço -, realiza o seu sonho de viajar através do tempo.
 

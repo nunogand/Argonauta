@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Ray Bradbury
-
- Título original: Dandelion Wine
-
-1ª Edição: 1957
-
- Publicado na Colecção Argonauta em 1966 
-
- Capa: Lima de Freitas
-
- Tradução: Jorge Rosa
-Súmula - foi apresentada no livro 
-nº107 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 No seu estilo vigoroso e poético, reminiscente de Caldwell e Steinbeck, Ray Bradbury dá-nos em traços sóbrios o retrato de uma pequena cidade perdida na planura escaldante do Illinois, nos anos vinte. Através de uma galeria de personagens típicas de recorte magistral, revela o que de fantástico alberga em cada alma humana, em cada comunidade, desde que se tenha bem apurada a faculdade cada vez mais rara de ver para além do aspecto exterior, comezinho, das coisas. Um aglomerado banal surge-nos assim como um caleidoscópio fascinante de destinos humanos, interactuando no enquadramento físico da pradaria deserta, coberta de erva calcinada pelo Sol ardente. O sentimento de solidão e mistério é, por vezes, esmagador. Dois garotos, os irmãos Tom e Douglas Spaulding, servem de traço de união entre episódios sem qualquer relação entre si, que eles comentam e em que intervêm. Oscilando entre o trágico e o cómico, ora sério, ora faceto, mas sempre profundo e absorvente, Ray Bradbury vai traçando em pinceladas seguras, de notável fidelidade psicológica, um quadro inolvidável da epopeia do quotidiano, com as suas grandezas e misérias, num contraponto constante entre o sonho e a realidade. Leo Auffmann e a máquina da felicidade, o Corolnel Freeleigh e a sua nostalgia da juventude irremediávelmente perdida, as irmãs Fern e Roberta e a sua máquina verde, a tocante despedida de John Huff e Douglas Spalding, Elmira Brown e a sua magia negra, o extraordinário episódio de amor entre Helen Loomis e Bill Forrester, Lavinia e o Solitário, a boneca de cera que predizia o futuro, o ferro-velho e a sua milagrossa faculdade de curar, e, como uma constante sinistra, a presença ameaçadora da ravina - nestes e noutros episódios Ray Bradbury afirma-se como um escritor de garra, em que a sobriedade corre parelhas com um estilo altamente  poético e acentua a sua visão subtil e profunda da vida.
 

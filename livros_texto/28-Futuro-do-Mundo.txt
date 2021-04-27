@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Isaac Asimov
-Título original: Peeble in the Sky
-1ª Edição: 1950
-Publicado na Colecção Argonauta em 1956 
-Capa: Cândido Costa Pinto 
-Tradução: A. Maldonado Rodrigues
-
-Súmula - foi apresentada no livro nº27 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Dois minutos antes de desaparecer para sempre da superfície da Terra, Joseph Schwartz, alfaiate de sessenta anos de idade, passeava pelas agradáveis ruas dos arredores de Chicago, recitando Browning. Ergueu um pé para passar por cima de uma boneca de trapos abandonada no meio da rua. Ainda não tinha posto o pé no chão quando a coisa aconteceu...
 O Instituto de Pesquisas Nucleares de Chicago encontrava-se em plena actividade. O dr. Smith nunca soube quem tinha sido atingido pelos raios radioactivos resultantes de uma explosão sem importância acontecida no seu laboratório.
 

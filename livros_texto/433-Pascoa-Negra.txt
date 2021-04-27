@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: Black Easter
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-
-Tradução: Raul Gonçalves
-
-Súmula - Foi apresentada no livro 
-nº432 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 São inúmeros os romances, poemas e peças 
 sobre magia e feitiçaria. Todos os que me foram dados ler - a grande 

@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Edmund Cooper
-
-Título original: A Far Sunset
-
-1ª Edição: 1967
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº135 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Edmund Cooper volta a figurar na Colecção Argonauta com um dos seus romances mais brilhantes: Ave Marciana. A invulgar qualidade do seu estilo e da sua imaginação, fazem desta obra uma das mais sensacionais que entre nós se publicaram. As suas primeiras páginas introduzem-nos, desde logo, no clima de uma narração que, até ao fim, não mais deixará de nos prender:
 A nave interstelar explodiu em glória, como os três sabiam que aconteceria, no trigésimo quinto dia da sua detenção nas masmorras de Baya Nor. Se eles compartilhassem da mesma cela, teriam podido ajudar-se uns aos outros, mas desde o dia da sua captura que haviam sido mantidos separados. Os seus únicos contactos eram a ""noia"" que vivia com cada um deles e os guardas que lhes traziam a comida.

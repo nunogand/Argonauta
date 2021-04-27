@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-
-Título original: Midas World
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares 
-
-Súmula - Foi apresentada no livro 
-nº404 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Quando Amalfi Amadeus aperfeiçoou o reactor de fusão, transformou-se numa lenda vida. E o mundo, por meio da energia ilimitada que ele lhe oferecera, prosperou. Com energia de sobra, toda a gente na Terra possuía mais do que conseguia concebívelmente gastar. Era um sonho tornado realidade... ou quase.
 
 Cada pau tem dois bicos e a avalancha de produtos a serem manufacturados por indústrias robotizadas ameaça afogar a Humanidade.

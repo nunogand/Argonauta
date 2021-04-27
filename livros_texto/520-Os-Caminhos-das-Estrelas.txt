@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Poul Anderson
-Título original: Star Ways
-1ª Edição: 1956
-Publicado na Colecção Argonauta em Dezembro 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares 
-
-Súmula -
- foi apresentada no livro nº519 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Os Caminhos das Estrelas é a história de um futuro ainda longínquo, onde, como sempre, as descobertas da humanidade só fazem com que os homens se apercebam de como é enorme o espaço à sua volta e tão pequeno o domínio que verdadeiramente conhecem e controlam. Onde, embora a tecnologia tenha atingido um estado de perfeição nunca antes sonhado, os homens e as mulheres continuam, tal como os seus antepassados, a experimentar os sentimentos básicos do medo, da esperança, do amor e do ódio.
 
 São três as personagens em torno das quais se desenvolve o enredo deste romance apaixonante.

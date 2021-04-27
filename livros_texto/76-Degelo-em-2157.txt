@@ -12,13 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Stefan Wul Título original: La Peur Géante
-1ª Edição: 1957 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: André Varga
-
-Súmula - foi apresentada no livro nº76 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 
 Stefan Wul, um dos autores mais lidos e apreciados pelos leitores de FC, que se têm familiarizado com a sua obra através da Colecção Argonauta, volta a surgir por intermédio da tradução portuguesa de um dos seus romances mais curiosos e significativos: Degelo em 2157.
 Quais as transformações das condições reais de existência que decorreriam de um cataclismo cósmico dessa ordem? Como reagiriam os seres vivos ao novo condicionamento da sua vida?

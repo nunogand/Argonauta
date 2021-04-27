@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Alfred Bester
-Título original: Tiger! Tiger!
-
-1ª Edição: 1955
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº240 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Alfred Bester é o autor de O Homem Demolido (nº35 da Colecção Argonauta), uma das mais célebres novelas de ficção-científica de todos os tempos. Dizendo-se isso, nada mais será necessário dizer do autor de Tiger! Tiger!, no título original.
 
 E certo é que Tigre! Tigre! é outro grande clássico.

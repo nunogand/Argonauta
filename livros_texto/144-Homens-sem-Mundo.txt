@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Poul Anderson
-
-Título original: No World of Their Own
-
-1ª Edição: 1955
-
-Publicado na Colecção Argonauta em 1969 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº143 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Cumpriram as ordens, alcançaram as estrelas e regressaram à Terra com um visitante - uma estranha criatura nascida nas estrelas que eles pensavam vir a ser objecto de grande curiosidade. Não suspeitavam que nela havia alguma coisa capaz de pôr todo o planeta em chamas.
 

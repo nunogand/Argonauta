@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: C. J. Cherry
-
-Título original: Fires of Azaroth
-1ª Edição: 1979
-Publicado na Colecção Argonauta em Setembro de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº528 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Os ""Arrha"" montaram guarda nos bosques e, mais adiante, no prado.
 
 - Não fiqueis aqui quando eles vierem - disse Morgaine ao último. - Perdereis as vossas vidas. Abrigai-vos junto dos mais velhos. 

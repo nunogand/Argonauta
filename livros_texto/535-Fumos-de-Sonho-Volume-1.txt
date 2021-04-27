@@ -12,7 +12,6 @@ review: |
   
 listagem: |
 ---
-
 Autor: Tricia Sullivan
 
 Título original: Dreaming in Smoke

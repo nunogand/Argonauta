@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: C.M. Kornbluth
-Título original: The Best Science Fiction Stories of C.M. Kornbluth
-
-1ª Edição: 1968
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº249 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Cyril M. Kornbluth, falecido prematuramente em 1958, com a idade  de trinta e cinco anos, foi, apesar da sua curta vida, um dos melhores autores de ficção-científica de todos os tempos. Recorde-se O Síndico (nº40 da Colecção Argonauta), e ter-se-á uma ideia do seu enorme valor. Os seus primeiros trabalhos foram publicados na década de 40, nas revistas Stirring Sciences Stories e Cosmic Stories. Em Junho de 1952, na revista Galaxy, apresentou, em parceria com Fredrik Pohl, uma série que recebeu o título de Gravy Planet e que viria depois a celebrizar-se, após a sua publicação em volume, sob o título de The Space Merchants - (Os Mercadores do Espaço - nº188 desta colecção). Dele e de Pohl, se podem ainda referir Busca nos Céus (nº189) e O Dia em que o Sol Desapareceu (nº179). Mas onde Kornbluth atingiu a maior virtuosidade, foi nas novelas curtas. O próximo volume da Colecção Argonauta, é exactamente uma antologia dessas novelas. Excepcionais - de um humanismo invulgar e pungente, que a ficção e a ciência não diluem nem disfarçam, mas antes põem numa perspectiva de que só C.M. Kornbluth conhecia o segredo. 
 
 Introdução:

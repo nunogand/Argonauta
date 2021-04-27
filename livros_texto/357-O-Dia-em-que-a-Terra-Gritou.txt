@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Conan Doyle
-
-Título original: The Poison Belt
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: J. Lima da Costa
-
-Súmula - Foi apresentada no livro 
-nº356 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Sir Arthur Conan Doyle começou por fazer com que o sábio Professor Challenger - personagem que sempre preferiu a Sherlock Holmes - enfrentasse com êxito espaventoso os inúmeros perigos que se lhe depararam num planalto cheio de vida pré-histórica situado algures na floresta da Amazónia. Posteriormente, proporcionou-lhe ainda mais três aventuras espectaculares nas quais o bom génio do cientista e o mau génio do homem dispuseram de largas oportunidades para mostrar quanto valiam. 
 
 Três anos depois dos acontecimentos relatado em O Mundo Perdido, o Professor Challenger  surpreende os seus três amigos e companheiros de aventuras na América do Sul, solicitando-lhes que fossem ter a sua casa com garrafas de oxigénio, pois algo estava para acontecer nas cinturas de radiações, situadas à volta da Terra: era capaz de ser mesmo o fim do mundo!

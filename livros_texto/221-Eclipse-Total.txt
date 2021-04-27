@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Brunner
-Título original: Total Eclipse
-1ª Edição: 1974
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº220 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No ano de 2020, uma expedição internacional, em Sigma Draconis, dezanove anos-luz da Terra, descobre os vestígios de uma sociedade muito avançada, construtora de uma obra espectacular - o maior telescópio imaginável, cavado e polido numa cratera lunar natural.
 
 Expedições sucessivas concluem que essa cultura misteriosa se desenvolveu e desapareceu misteriosamente depois de ter durado apenas três mil anos. Então, em 2028, outra missão chega ao planeta, com um único objectivo - descobrir a razão pela qual aquela civilização, tão adiantada, desapareceu subitamente. E essa missão tem uma esperança: a de que a descoberta do enigma permita evitar que a mesma coisa venha a acontecer na Terra. 

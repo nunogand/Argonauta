@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Brunner
-
-Título original: Entry to Elsewhen
-1ª Edição: 1972
-Publicado na Colecção Argonauta em 1974 
-
-Capa: Lima de Freitas
-
-Tradução: Maria Emília Ferros Moura
-
-Súmula - foi
- apresentada no livro nº201 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Um admirável romance de ficção-científica, que vai marcar um ponto alto na Colecção Argonauta e de que damos em seguida um pequeno excerto:
 
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...

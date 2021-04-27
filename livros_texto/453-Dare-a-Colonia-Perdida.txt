@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Philip José Farmer
-
-Título original: Dare
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em 1995
-
-Capa: A. Pedro
-
-Tradução: António Porto 
-
-Súmula - Foi apresentada no livro 
-nº452 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Philip José Farmer não necessita de apresentação. Poucos autores de ficção-científica têm tanta popularidade, receberam tantos galardões e publicaram tantas obras plenas de imaginação e originalidade. 
 
 Dare, a Colónia Perdida não foge à regra, bem pelo contrário. Partindo de um facto histórico, o mistério da colónia de Roanoke, na Virgínia, em que nascera Virgínia Dare, a primeira criança americana, e cujos habitantes tinham desaparecido em 1587 sem deixar rasto, Farmer elaborou uma história plena de movimento, segundo a qual os colonos teriam sido levados através do espaço até um planeta a 200 anos-luz da Terra, em que os seus descendentes e os belos humanóides que o habitavam tinham vivido em paz século após século. 

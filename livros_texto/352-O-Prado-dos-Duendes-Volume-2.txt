@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Paul Cook
-
-Título original: Duende Meadow
-
-1ª Edição: 1985
-
-Publicado na Colecção Argonauta em 1986
-
-Capa: A. Pedro
-
-Tradução: Eduardo Saló 
-
-Súmula - Foi apresentada no livro 
-nº351 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Este segundo e último volume confirma a surpreendente originalidade, na forma e no tema, de uma obra tão actual quanto inédita.
 
 Um ruído pesado, rítmico, vindo de perto, assombrara Preston. Um som, por certo não natural, de uma máquina gigantesca, vermelha, que tinha, no flanco, em amarelo-vivo, a foice e o martelo e as letras CCCP. Os Soviéticos tinham ganho a Terceira Guerra Mundial.

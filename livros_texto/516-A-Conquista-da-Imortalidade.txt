@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert Sheckley
-Título original: Immortallity Delivered
-1ª Edição: 1958
-Publicado na Colecção Argonauta em 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares 
-
-Súmula -
- foi apresentada no livro nº515 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
   
 Quando Thomas Blaine despertou, estendido sobre uma cama branca no meio de um quarto imaculadamente branco, ouviu alguém dizer: ""Está outra vez vivo"". Então perguntaram-lhe qual era o seu nome, idade e estado civil. Claro, tudo aquilo parecia razoavelmente normal. Mas que diabo quereriam eles dizer com as referências ao ""trauma da morte""?
 Foi então que uma jovem se aproximou da sua cama, acompanhada por dois homens que traziam consigo toda uma parafernália de instrumentos, e lhe perguntou se ele se lembrava do acidente. E só nessa altura ele se começou a recordar.  

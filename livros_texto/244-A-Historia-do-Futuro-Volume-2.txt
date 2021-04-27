@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: Time Enough for Love
-
-1ª Edição: 1973
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº243 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 No segundo volume da História do Futuro - (Time Enough for Love), Lazarus Long, o Mais Antigo - o mais velho dos seres humanos, mais velho que Matusalém, mais velho que o Judeu Errante, continua a divagar, através das suas recordações, umas vezes reais, outras mais ou menos inventadas (a ""ficção é mais autêntica do que a realidade - é a melhor maneira de transmitir uma experiência, fora a própria experiência""). Discretamente, nessas historietas que assumem o carácter de parábolas, surge a história da Humanidade depois da Grande Diáspora - da sua expansão pela Galáxia e da multiplicação de culturas que pouco ou nada têm com as da Velha Terra-Mãe.
 
 Acima de tudo, é o espírito de Lazarus Long (ou de Robert A. Heinlein?) que surge, numa crítica constante aos costumes humanos dos tempos futuros (e, afinal, de todos os tempos):

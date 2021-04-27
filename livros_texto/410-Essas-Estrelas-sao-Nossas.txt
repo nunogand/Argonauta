@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Poul Anderson
-
-Título original: We Claim These Stars!
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares 
-
-Súmula - Foi apresentada no livro 
-nº409 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No amor e na guerra tudo deve ser leal. Com a galáxia dividida entre duas confederações implacáveis, assim devia ser. Mas como montar uma armadilha a um telepata de capacidades espantosas e capturá-lo?
 
 O alvo era um estranho génio de um mundo não marcado nos mapas. Um génio que era o braço direito do Estado-Maior do inimigo, e que não só sabia o que se passava nas mentes de todos quantos estavam próximos dele, como podia ler nos pensamentos distantes. Esse era o problema que Sir Dominic Flandry, capitão dos Serviços de Informação Terrestres, tinha de resolver. 

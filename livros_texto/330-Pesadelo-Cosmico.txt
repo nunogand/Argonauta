@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Bob Shaw
-
-Título original: Dagger of the Mind
-
-1ª Edição: 1979
-
-Publicado na Colecção Argonauta em 1984
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº329 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Bob Shaw é um dos maiores autores britânicos de ficção-científica. O seu estilo muito peculiar, simultâneamente preciso e empolgante, atinge uma nova dimensão em Dagger of the Mind, que na versão portuguesa tomou o título de Pesadelo Cósmico. Porque é de um verdadeiro pesadelo que se trata.
 
 John Redpath é um doente, um epiléctico. Visões estranhas, horrorosas, envolvem-no. Que são elas? Um efeito inesperado da sua doença e dos medicamentos experimentais que é pago para tomar? Ou a realidade? Ou algo pior, incrivelmente pior - algo tão incrível que John Redpath não tem coragem de o revelar a quer quer que seja?

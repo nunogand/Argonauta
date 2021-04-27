@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-
-Título original: The Simulacra
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº435 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Philip K. Dick é o que hoje se chama um ""objecto de culto"", um autor cujas obras são cuidadosamente coleccionadas, lidas e relidas, em busca de revelações, umas vezes herméticas, outras distantes, outras, ainda, imediatas. Uma das suas obras mais célebres é justamente The Simulacra, de que agora se edita a versão portuguesa com o título O Tempo dos Simulacros.
 
 Nela surge uma visão alucinante do já bem próximo século XXI. É um tempo em que uma mulher eternamente bela pode ser eternamente Presidente dos Estados Unidos. É também um tempo em que no mundo só resta um psiquiatra, em que há viagens temporais, em que existem pianistas psicocinéticos e, sobretudo, inúmeras mensagens publicitárias vivas, que é preciso abater a tiro.  

@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James White
-Título original: Tomorrow Is Too Far
-1ª Edição: 1971
-Publicado na Colecção Argonauta em 1974
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº207 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 James White afirma-se nesta obra como um romancista de ficção-científica de primeiro plano.
 
 As suas qualidades invulgares impõem-no não só no país onde nasceu como em Portugal. Imaginação, sentido romanesco, capacidade de efabulação, tudo se conjuga para fazer de James White um caso excepcional.

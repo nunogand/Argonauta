@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: L. Sprague de Camp
-
-Título original: Lest Darkness Falls
-
-1ª Edição: 1939
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº360 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Martin Padway, um arqueólogo do século XX, ao passear pelas ruas de Roma, vê-se de súbito - inexplicavelmente - transportado para o século VI. sabe que as trevas se aproximam, que a civilização romana está moribunda e que um tempo de miséria, ignorância e superstição vai surgir e perdurar.
 
 Padway decidi lutar. Põe os seus conhecimentos de homem moderno em acção. Tornado no Questor Martinus Paduci, simula a invenção da imprensa e dos jornais, dos algarismos árabes, da contabilidade, da destilação, e redescobre a astronomia copernicana. Um dia irá mais longe - a máquina a vapor, a bússola o telégrafo eléctrico. Com isso conquista fama e inimigos. Mas o seu objectivo não é um triunfo pessoal; é o de repelir as trevas com a luz do Conhecimento e, assim, modificar a História. 

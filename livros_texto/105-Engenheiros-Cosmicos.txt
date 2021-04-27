@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak Título original: Cosmic Engineers
-
-1ª Edição: 1950
-
- Publicado na Colecção Argonauta em 1966 
-
- Capa: Lima de Freitas
-
- Tradução: Mário Braga e Maria Isabel Morna Braga
-Súmula - foi apresentada no livro 
-nº104 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Um dos romances mais célebres de Clifford D. Simak, o famoso autor norte-americano que se afirmou no campo da ficção-científic de uma forma vigorosamente pessoal, e que a Colecção Argonauta tem popularizado entre nós.
 
 Engenheiros Cósmicos é um dos livros mais emocionantes que se têm escrito à roda do tema de uma civilização desconhecida, altamente adiantada em relação à Terra, e perdida na vastidão infinda das Galáxias.

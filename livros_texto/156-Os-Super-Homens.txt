@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: A.E. Van Vogt
-Título original: The Silkie
-
-1ª Edição: 1969
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº155 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 A.E. Van Vogt é um dos escritores norte-americanos de mais larga projecção em Portugal através da divulgação da sua obra na Colecção Argonauta da Editorial ""Livros do Brasil"",. Com Os Super-Homens, a mesma colecção vem oferecer ao público leitor português mais uma oportunidade excepcional de tomar conhecimento com um romance que, sobre ser um dos livros fundamentais deste autor notabilíssimo, é um dos clássicos da ficção-científica do nosso tempo.
 

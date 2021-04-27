@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: Fallen Star
-
-1ª Edição: 1957
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº425 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O objectivo que justificara aquela expedição polar era, sem dúvida, digno de apreço mas sujeito a fortes probabilidades de inêxito: descobrir no Pólo Norte, conservados pelas baixas temperaturas, resíduos de meteoritos provenientes da guerra travada pelo Planeta Quatro-e-Meio com Marte ou com Júpiter, ou com os dois, entre os quais se situava. Não era também afastada a hipótese de virem a deparar com formas de vida, embora microscópicas.
 
 O mentor da expedição - um tal Farmsworth, explorador profissional - é que não merecia a mínima confiança, dados os antecedentes pouco abonatórios, aliás compartilhados pela sua provocante mulher, sempre muitissimo sexy, fosse qual fosse o traje que envergasse.

@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Robert A. Heinlein
-Título original: Farnham's Freehold
-1ª Edição: 1964
-
- Publicado na Colecção Argonauta em 1967 
-
- Capa: Lima de Freitas
-
- Tradução: Fernanda Pinto Rodrigues 
-
-Súmula - foi apresentada no livro 
-nº123 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 O Mundo que nos Espera é mais um grande romance de Robert A. Heinlein, um dos autores americanos de Ficção-Científica que a Colecção Argonauta apresentou entre nós e que maior sucesso tem obtido entre o público leitor português.
 
 O Mundo que nos Espera, dividido em dois tomos na Colecção Argonauta por motivos de ordem técnica, é um romance sensacional, descrevendo as consequências fatais de um conflito nuclear.

@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Keith Roberts
-Título original: The Furies
-
-1ª Edição: 1966
-
-Publicado na Colecção Argonauta em 1970 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº153 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Keith Roberts é um autor novo. Vieram do Espaço (The Furies) é a sua primeira novela de ficção-científica. Mas segundo a crítica britânica e americana, nunca, desde A Guerra dos Mundos, de H.G. Wells, houve uma história tão autêntica e tão arrepiante da invasão da Terra por seres vindos de outros mundos.
 
 Vieram do Espaço é, de facto, uma obra excepcional, escrita com uma elegância de estilo e com uma veracidade sem paralelo. Com um tema estranho, sem par.

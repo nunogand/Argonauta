@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Harry Harrison 
-
-Título original: Homeworld
-
-1ª Edição: 1980
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº411 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Mundo-Nosso é a versão portuguesa de Homeworld, o primeiro volume da célebre Trilogia dos Mundos, de Harry Harrison.
 

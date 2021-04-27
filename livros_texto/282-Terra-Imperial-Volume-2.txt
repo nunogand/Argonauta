@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Arthur C. Clarke
-Título original: Imperial Earth
-1ª Edição: 1975
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº281 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 O primeiro volume de Terra Imperial, a última obra de Arthur C. Clarke, é uma descrição circunstanciada do que poderá ser a vida no sistema solar dentro de trezentos anos. Uma descrição que se pode considerar didáctica e quase demasiado calma, sem nenhuma das fantasias características das obras correntes de antecipação.
 
 Terra Imperial é uma obra de antecipação autêntica - baseada num conhecimento científico e tecnológico avançado e sem qualquer especulação. Tudo quanto a obra de Clarke contém, é fruto de um estudo profundo e multidisciplinar, em que colaboraram muitos dos mais famosos e competentes especialistas. Sob esse aspecto, só as obras de Júlio Verne podem ser comparadas com Terra Imperial. 

@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Robert A. Heinlein
-Título original: Glory Road 
-1ª Edição: 1963
-Publicado na Colecção Argonauta em 1972 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº181 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Para além das estrelas, numa dimensão estranha e longínqua, estava um mundo de perigos, aventura e encantos. E estava também A Estrada da Glória, com todos os perigos que Scar Gordon iria encontrar depois de salvar essa civilização longínqua e ganho a sua rainha e o seu império...
 

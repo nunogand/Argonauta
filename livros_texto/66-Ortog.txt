@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Kurt Steiner
-Título original: Aux Armes d'Ortog
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1961 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria 
-
-Súmula
- - foi apresentada no livro nº65 da Colecção, com a indicação de ""Ler 
-nas páginas seguintes a súmula do próximo volume da Colecção Argonauta: 
+ 
 
 ""Enquanto a curva de senescência normal segundo os vestígios de Titan - dissera Hafzen - começava por volta dos vinte anos para decrescer lentamente até aos oitenta, a curva do homem actual começa aos dezassete ou dezoito anos e decresce segundo duas linhas distintas: uma, normalmente oblíqua, até aos quarenta anos: a outra, que desce rápidamente a partir dessa idade.
 ...Sacudiu a cabeça e continuou:

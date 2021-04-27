@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Poul Anderson
-
-Título original: Brain Wave
-
-1ª Edição: 1954
-
-Publicado na Colecção Argonauta em 1987
-
-Capa: A. Pedro
-
-Tradução: Raul Sousa Machado
-
-Súmula - Foi apresentada no livro 
-nº363 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Sabe-se que nem toda a capacidade do cérebro é utilizada, mesmo pelos mais inteligentes dos homens. Provavelmente, o mesmo acontece com os animais...
 
 Suponha-se que isso era consequência do facto de a Terra estar no interior de um campo de forças que retardava a propagação da luz e do mesmo modo afectava os processos electromagnéticos e electroquímicos. 

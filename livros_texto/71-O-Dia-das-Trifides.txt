@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: John Wyndham
-Título original: The Day of the Triffids
-1ª Edição: 1951
-Publicado na Colecção Argonauta em 1962 
-Capa: Lima de Freitas
-Tradução: José Manuel Calafate
-
-Súmula - foi apresentada no livro nº70 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta: 
+ 
 O Dia das Trífides, da autoria de um dos mais consagrados autores de ficção-científica britânicos, surge agora na Colecção Argonauta, a coroar uma longa série dos melhores exemplos do que mundialmente se escreve no género.
 
 Dificilmente John Whyndam, autor do célebre romance Village of the Cuckoos, recentemente apresentado em Portugal sob a forma cinematográfica com o título de Aldeia dos Malditos, conseguirá voltar a igualar o nível que atingiu em O Dia das Trífides, que foi um best-seller em Inglaterra e continua hoje em dia colocado no nível superior dos melhores romances de ficção-científica.

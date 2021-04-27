@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-
-Título original: The Number of the Beast
-1ª Edição: 1980
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº293 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 O Número do Monstro é a versão portuguesa da última obra de Robert A. Heinlein: The Number of the Beast, sendo a continuação de Os Filhos de Matusalém (nº 137) e História do Futuro (nº243, ºnº244 e nº245), a renovação da maravilhosa epopeia de Lazarus Long - o Primeiro Imortal, o Mais Antigo.
 
 Quem é O Monstro? Quem é The Beast?

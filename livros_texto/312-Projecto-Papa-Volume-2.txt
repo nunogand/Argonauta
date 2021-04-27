@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-
-Título original: Project Pope 
-
-1ª Edição: 1981
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº311 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Se o primeiro volume de Projecto Papa contém uma das melhores descrições do que poderia ser uma sociedade de autómatos - não de simples robots, concebidos para executar as ordens programadas pelos construtores, mas de verdadeiros seres mecânicos pensantes - o segundo, como se verá, vai muito mais longe, lançando-se em domínios nunca aprofundados pela ficção-científica -, mesmo pelo próprio Clifford D. Simak.
 
 Eis o começo do segundo volume de Projecto Papa:

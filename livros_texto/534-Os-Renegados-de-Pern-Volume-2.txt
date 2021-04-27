@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Anne McCaffrey
-
-Título original: The Renegades of Pern
-1ª Edição: 1989
-Publicado na Colecção Argonauta em Dezembro de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº533 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 Quando finalmente se torna claro que Thella pretende apoderar-se de Aramina, uma jovem que é suposta manter uma forma de ligação telepática com os dragões, e sobretudo após os ataques que os bandidos lançaram contra os seus amigos e familiares, Jayge decide que não descansará enquanto a não derrotar.
 
 É verdade que Thella se encontra agora em fuga, juntamente com alguns dos seus amigos mais fiéis, seguidores. E ninguém sabe para onde tentará dirigir-se, se para aquilo que alguns pensam ser um vastíssimo continente e outros apenas uma ilha ligeiramente maior do que Ista, se para as águas escaldantes dos mares do Sul.

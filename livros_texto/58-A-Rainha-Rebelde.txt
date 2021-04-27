@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: L. Sprague de Camp
-Título original: Rogue Queen
-1ª Edição: 1951
-Publicado na Colecção Argonauta em 1960 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria 
-
-Súmula - foi apresentada no livro nº57 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Iroedh, uma obreira-neutra do estranho e remoto planeta Ormazd, tinha muito que aprender acerca do amor!
 
 Quando o doutor Winston Block e o seu grupo chegaram na nave espacial, o primeiro dever de Iroedh, como boa e leal obreira-neutra, seria tentar convencê-los a tomarem o partido da sua Comunidade na constante luta entre Comunidades que assolava o planeta.

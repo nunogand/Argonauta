@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl e C.M. Kornbluth
-Título original: Gladiator-at-Law
-1ª Edição: 1955
-Publicado na Colecção Argonauta em 1974
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - foi
- apresentada no livro nº208 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Era um mundo em que o capitalismo fora levado ao último extremo, em que o jogo da Bolsa era feito com máquinas de apostas em que os julgamentos eram feitos por computadores, em que todos os recursos da engenharia eram usados para espectáculos públicos de tortura e morte.
 
 Era uma nova Roma Imperial, no tempo das estrelas. E nesse mundo, o jovem advogado Charles Mundin teve de lutar contra os interesses das grandes companhias - já não multinacionais, mas sim multi-estelares. Uma luta travada não apenas nas salas de reuniões, mas também nas escuras vielas - uma luta demasiado pesada, demasiado multiforme para um só homem. Mas não para a coragem humana.

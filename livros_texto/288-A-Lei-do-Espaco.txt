@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: E.E.""Doc"" Smith
-Título original: Second Stage Lensmen
-1ª Edição: 1953
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº287 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 A Lei do Espaço - Second Stage Lensmen no título original - é mais um dos clássicos de E.E.""Doc"" Smith, integrado na série iniciada com Triplanetária - mais uma história da Patrulha Galáctica e de Kim Kinnison, e das sua luta contra o estranho e maldoso mundo de Boskone. 
 

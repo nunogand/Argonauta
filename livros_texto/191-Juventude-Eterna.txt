@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: E.C. Tubb
-
-Título original: S.T.A.R. Flight
-1ª Edição: 1969
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº190 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Os invasores Kaltich vendiam aos escravos terrenos um processo de rejuvenescimento que lhes prolongava a vida. Cruelmente...
 

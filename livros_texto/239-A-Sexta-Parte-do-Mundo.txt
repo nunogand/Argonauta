@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Arthur C. Clarke
-Título original: The Deep Range
-
-1ª Edição: 1957
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Maria Emília Ferros Moura
-
-Súmula - Foi apresentada no livro 
-nº238 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A Sexta Parte do Mundo é uma das obras mais justamente consagradas obras de antecipação que se devem ao escritor e cientista Arthur C. Clarke.
 
 Clarke é um dos mais assíduos colaboradores da Colecção Argonauta, onde já publicou A Idade do Ouro (nº26), S.O.S. Lua (nº94), Náufragos da Lua (nº95) e Areias de Marte (nº126), obras que foram recebidas entusiásticamente e que granjearam merecida fama ao autor.

@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Philip José Farmer
-
-Título original: The Magic Labyrinth
-1ª Edição: 1980
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº290 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 A longa série iniciada com Mundo Sem Morte, de Philip José Farmer, está a chegar ao fim. No terceiro e último volume de O Labirinto Mágico tudo se explica. O que até agora poderá ter parecido uma obra de fantasia e aventura torna-se em verdadeira ficção-científica - da melhor em todos os tempos. Como se poderá apreciar através do seguinte fragmento:
 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 - Esta porta é um grande visor de TV. Também tenho outros visores que parecem fazer parte das paredes. Estão situados de modo que eu possa ver este corredor para além das suas curvas numa distância razoável.

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Guy Snyder
-Título original: Testament XXI
-
-1ª Edição: 1973
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº247 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Quando o astronauta Williams voltou - depois do mais longo voo até então realizado no espaço - descobriu que a grande civilização que deixara na Terra desaparecera, destruída pelo caos que ela própria criara. Mas na região que outrora fora o Michigan, havia agora uma República, que o acolheu como um herói.
 
 Só que a ""República"" era um reino, formado por uma cidade subterrânea governada por um monarca fraco e por uma classe sacerdotal sedenta de poder. O Dia do Juízo Final - nuclear - ocorrera havia já cem anos, e chegara o momento das ""cartas na mesa"".

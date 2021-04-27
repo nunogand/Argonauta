@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Gordon R. Dickson
-Título original: Wolfling
-1ª Edição: 1968
-Publicado na Colecção Argonauta em 1982
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº302 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Um toureiro interestelar? Sim. Foi nessa qualidade que James Keil recebeu o convite de Afuan, a Princesa Branca, Nascida Alto, para viajar até ao Mundo do Trono. Como uma simples curiosidade.
 
 Mas o Terrestre, arrastado para o torvelinho de tremendas intrigas e desafiado por uma civilização extremamente avançada, não se deixaria vencer. Lutaria e aprenderia. Poderia ele igualar os reflexos instantâneos ou a inteligência fulminante dos Nascidos Alto?

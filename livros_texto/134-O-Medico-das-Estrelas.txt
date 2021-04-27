@@ -12,22 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Murray Leinster
-
-Título original: The Mutant Weapon
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca 
-
-Súmula - foi apresentada no livro 
-nº133 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Quando um dia, num futuro que ainda vem muito longe, a civilização humana se estender a outros mundos para além do sistema solar, o isolamento desses mesmos mundos conduzirá a inúmeros problemas, a começar pelo do seu próprio governo. Como se poderá, por exemplo, criar uma federação de planetas quando uma decisão governamental pode demorar meses ou anos a ser transmitida?
 

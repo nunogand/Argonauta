@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Arkady e B. Strugatsky
-Título original: Prisioners of Power
-1ª Edição: 1969
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº307 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Se o primeiro volume da obra dos irmãos Strugatsky revelou algo de novo no domínio da ficção-científica, o segundo leva ainda mais longe essa sensação de novidade. Literalmente até ao fim. Um fim inesperado, como a de uma das melhores novelas policiais, e no entanto muito lógico - de uma lógica que obriga a reler toda a obra, para nela se reconhecerem, uma a uma, as pistas que, com toda a naturalidade, com uma aparente inocência, os autores foram deixando.
 
 Eis as primeiras linhas do segundo volume:

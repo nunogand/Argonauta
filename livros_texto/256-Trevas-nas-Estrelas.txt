@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Edmond Hamilton
-Título original: The Haunted Stars
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1978
-Capa: A. Pedro 
-Tradução: Eurico da Fonseca
-Súmula - Foi apresentada no livro 
-nº255 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Edmond Hamilton é um dos autores mais conhecidos da Colecção Argonauta. E é também um dos nomes mais antigos e mais célebres da ficção-científica. Nascido em 21 de Outubro de 1904, no Ohio, era vinte anos depois empregado dos caminhos-de-ferro da Pensílvânia, quando resolveu dedicar-se à carreira das letras. Viu publicado o seu primeiro trabalho - The Monster of Mamurth - em Agosto de 1926, na revista Weird Tales. Nos três meses seguintes, nessa mesma revista, surgu a sua série Across Space, que desde logo lhe deu fama.
 

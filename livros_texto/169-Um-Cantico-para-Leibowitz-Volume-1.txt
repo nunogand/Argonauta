@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Walter M. Miller, Jr.
-
-Título original: A Cantic for Leibowitz
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1971 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-Súmula - foi
- apresentada no livro nº168 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Depois da queda, das pragas e da loucura, começou a sangueira da Simplificação. Os ""Simplórios"", como as multidões se designavam a si próprias, alegremente, mataram sem piedade todos os ""Espertalhões"" - os chefes, os professores e os cientistas que acusavam de terem tornado a Terra naquilo que ela era - um deserto estéril e medonho.
 

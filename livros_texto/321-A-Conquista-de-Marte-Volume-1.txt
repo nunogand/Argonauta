@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor:William Rollo
-
-Título original: The Olimpus Gambit
-
-1ª Edição: 1983
-
-Publicado na Colecção Argonauta em 1984
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº320 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A Conquista de Marte é a versão portuguesa de The Olympus Gambit, de William Rollo, uma obra muito recente e extremamente actual. O seu tema é, com efeito, a conquista do planeta Marte, os problemas que durante ela poderão surgir - problemas técnicos, humanos e políticos. Porque, se o projecto é americano, o enorme foguete lançador usado na realização do projecto é soviético.
 
 A Conquista de Marte não é apenas uma obra invulgar, poderosa, de ficção-científica. É uma obra excepcional de divulgação das técnicas da exploração espacial, pois expõe todos os pormenores com a maior exactidão, o que será necessário para realizar tal sonho, o que os astronautas terão de fazer, os perigos que irão correr. Porque, no fim, no espaço tudo é frágil. As máquinas e os homens.

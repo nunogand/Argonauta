@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: E. C. Tubb
-Título original: Star Ship (The Space Born)
-1ª Edição: 1956
-Publicado na Colecção Argonauta em 1963 
-Capa: Lima de Freitas
-Tradução: Fernando de Castro Ferro
-
-Súmula - foi apresentada no livro nº68 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta: 
+ 
 Era uma estranha nave espacial, lançada pelos homens para uma viagem de muitos séculos. Prisão metálica, vogando em direcção a um alvo distante, levava dentro de si gerações que se sucediam ao longo do tempo. Os seus habitantes haviam perdido a noção de que se moviam no espaço a uma inacreditável rapidez. Para eles, o interior da nave era estável, permanente, imóvel. Mas não haviam perdido a centelha que os tornava seres dotados de inteligência e vontade. Tinham organizado a vida segundo as condições do ambiente, tinham-se adaptado ao Universo em que lhes era dado viver. Geração Galáctica, de E.C. Tubb, desvenda-nos os acontecimentos que ocorreram no interior da nave espacial, levanta o véu de mistério que os cercava, e dá-nos um do mais belos e emocionantes romances da Colecção Argonauta! 
 "

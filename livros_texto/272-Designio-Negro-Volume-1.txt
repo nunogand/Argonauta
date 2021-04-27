@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-Título original: The Dark Design
-1ª Edição: 1977
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº271 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Desígnio Negro (The Dark Design) constitui a terceira obra da célebre série Mundo do Rio (Riverworld) de Philip José Farmer. Na primeira desta série, Mundo Sem Morte (To Your Scattered Bodies Go), o autor apresenta-nos Richard Francis Burton, aventureiro e mulherengo, que inicia a exploração num mundo em que se encontram reunidos os corpos - e possivelmente as almas - de todos os mortos da Terra. Se aquilo é a vida depois da morte, não é o Céu, pois que todos se comportam em conformidade com a sua vida anterior e, quando de novo morrem, tornam a ressuscitar, numa constante sequência do mesmo comportamento. Na segunda obra, Viagem Para Além da Morte (The Fabulous Riverboat), surgem - além de Burton, Herman Goering, Sam Clemens (celebrizado com o pseudónimo de Mark Twain) e outras figuras de renome histórico e literário, subindo o Grande Rio, num barco semelhante aos que singravam, outrora, no Mississipi, mas com curiosas inovações técnicas.
 
 Ainda que estas duas obras tenham sido justamente consideradas como das mais importantes até hoje surgidas no domínio da ficção-científica, Desígnio Negro consegue excedê-las na sua concepção dramática e no estilo. Philip José Farmer agiganta-se nela, alcançando o nível dos grandes mestres, não apenas no seu género, mas quanto aos clássicos.

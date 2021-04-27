@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: A.E. Van Vogt
-Título original: The Anarchistic Colossus
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias - (terminam neste número as capas concebidas por Manuel Dias)
-
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº252 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 O Colosso Anarquista - (The Anarchistic Colossus) é a última obra de A.E. Van Vogt e é também uma das mais interessantes desse autor, tão estimado pelos amadores da ficção-científica no nosso país. Eis o que o próprio A.E. Van Vogt disse da sua novela:
 
 Nesta novela, eu parti do princípio de que a natureza básica do macho humano (em particular), tal como tem sido observado deste tempos antigos, não se vai alterar para melhor nos próximos tempos. Sendo assim, a minha pergunta não foi: que perfeição podemos antecipar para os seres humanos no futuro? - Foi: que espécie de tecnologia seria necesssária para manter um sistema de anarquismo entre todas as criaturas humanas que se comportam mal, à nossa volta?

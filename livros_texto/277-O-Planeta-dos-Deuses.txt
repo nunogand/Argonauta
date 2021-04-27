@@ -12,17 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Isaac Asimov
-
-Título original: The Gods Themselves
-1ª Edição: 1972
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº276 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Nada é necessário dizer sobre Isaac Asimov. Mas muito há que dizer sobre The Gods Themselves, a próxima obra da Colecção Argonauta, que na versão portuguesa terá o título de O Planeta dos Deuses: 
 
 The Gods Themselves foi a primeira grande obra de Asimov, ao fim de um intervalo de quinze anos, em que o autor se concentrou na publicação de trabalhos de divulgação - excepcionais - sobre praticamente todos os ramos do conhecimento humano. The Gods Themselves surgiu como uma viragem, não apenas por representar o regresso à ficção-científica de um dos seus autores máximos, mas também porque o tema era novo e bem diferente dos usualmente tratados pelo autor. Até então, Asimov centrara-se na análise do comportamento humano perante os problemas do futuro, sem olhar ou quase sem olhar para as relações com outras criaturas inteligentes, ou para a existência de outras culturas, não terrenas. Mas em The Gods Themselves - O Planeta dos Deuses - o centro de toda a acção é o comportamento de uma sociedade de criaturas que pouco têm de humano no aspecto - criaturas que se alimentam de energia solar e procriam por tríades -, mas que, curiosamente, pensam de modo muito semelhante aos humanos e actuam como tal. 

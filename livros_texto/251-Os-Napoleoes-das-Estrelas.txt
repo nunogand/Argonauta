@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Pierre Barbet
-Título original: The Napoleons of Eridanus
-
-1ª Edição: 1970
-
-Publicado na Colecção Argonauta em 1978
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº250 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A ficção científica é um domínio quase exclusivamente anglo-saxónico. Se dúvida que o género também é cultivado em França, na Alemanha, na União Soviética, e em muitos outros países, mas é raro - muito raro - que um autor que não escreva em língua inglesa consiga obter algum sucesso. Evidentemente que isso não acontece porque a língua inglesa permita um acesso a um melhor mercado, mas sim porque nela se criaram regras e estilos que fizeram escola e que dificilmente podem ser imitados por quem escreve noutra língua, segundo outras normas.
 
 Por isso não é todos os dias que se encontra um autor francês publicado nos Estados Unidos pelos grandes editores. Mas esse é o caso de Pierre Barbet e de Les Grognards d'Éridan, que na edição americana recebeu o título de The Napoleons of Eridanus e que agora, na versão portuguesa, se intitulará Os Napoleões das Estrelas.

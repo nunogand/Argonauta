@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury
-Título original: Driving Blind
-1ª Edição: 1997
-Publicado na Colecção Argonauta em 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-Súmula -
- foi apresentada no livro nº508 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Versão portuguesa do original Driving Blind, este livro leva os leitores pelos caminhos sinuosos, mas cativantes, do tempo, da memória e da fantasia, tal como os imaginou o grande mestre Ray Bradbury. Neles, as surpresas espreitam a cada curva ou mesmo logo atrás de um qualquer marco quilométrico. 
 Quer a caminho de um modesto circo desmantelado numa cidade fronteiriça do México, quer circulando lentamente por um sítio triste no qual colidem primeiro amor e primeira morte, a viagem é tão memorável que pode referir-se com inteira justiça: ""cada história é uma obra-prima"" 
 

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: Galactic Cluster
-
-1ª Edição: 1960
-
-Publicado na Colecção Argonauta em 1994
-
-Capa: A. Pedro
-
-Tradução: António Porto 
-
-Súmula - Foi apresentada no livro 
-nº448 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 James Blish é um dos autores de ficção-científica mais representados na Colecção Argonauta, e por muito boas razões: poucos como ele sabem aliar um estilo perfeito e profundo ao conhecimento do Homem e da Ciência, no passado e no presente, transpondo para o futuro os eternos problemas espirituais e materiais.
 
 Se as suas novelas são magistrais, os seus contos não o são menos. Contos Galácticos, a versão portuguesa de Galactic Cluster, versam temas tão variados como a aventura de um piloto espacial que, ao experimentar uma nave a 22,4 vezes a velocidade da luz, encontra a pseudo-morte e uma estranha forma de amor perto de Alfa de Centauro, e a de um hábil agente que se infiltra num projecto altamente secreto e ameaça a existência dos trogloditas que são o que resta da nossa civilização. Histórias que mostram os perigos de um futuro em que os cientistas dominam tudo menos os piores instintos do Homem.

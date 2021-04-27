@@ -12,12 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Jérome Sériel Título original: Le Satellite Sombre
-1ª Edição: 1962 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Eng. Gomes dos Santos
-Súmula - foi apresentada no livro nº82 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta: 
+ 
 
 Foi com este romance que Jérome Sériel obteve, em 1961, o Prémio Jules Verne, o mais importante galardão francês destinado a distinguir romances de ficção-científica. Atenta aos valores mais representativos deste novo género literário, a Colecção Argonauta não podia deixar de incluir este autor entre aqueles cuja obra tem vindo a apresentar ao público leitor português.
 

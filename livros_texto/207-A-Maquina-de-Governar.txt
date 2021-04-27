@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip K. Dick
-
-Título original: Vulcan's Hammer
-1ª Edição: 1960
-Publicado na Colecção Argonauta em 1974
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - foi
- apresentada no livro nº206 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Em A Máquina de Governar, Philip K. Dick, o famoso escritor de ficção-científica, apresenta-nos o estranho mudo futuro em que uma poderosa organização governamental se vê ameaçada pelos aspectos mais atávicos das populações submetidas. 
 
 Obra básica das modernas tendências da literatura de antecipação, A Máquina de Governar, concebida nos limites do fantástico, cria um universo em que a angústia, o desespero e o terror incontroláveis dominam uma intriga verdadeiramente clássica.

@@ -12,8 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Christian Russell Título original: Les Voyants 1ª Edição: 1956 Publicado na Colecção Argonauta em 1957  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  Súmula - foi apresentada no livro nº40 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 A superfície da Terra fora devastada. Nem uma cidade sobrevivera, nem uma casa ficara intacta. Crateras infernais assinalavam por toda a parte a explosão de poderosas bombas atómicas. Para continuarem a existir, os homens tinham-se encerrado em enormes cidades subterrâneas, a centenas de metros de profundidade sob a terra. E a guerra continuara entre as duas potências mundiais em que o mundo ficara dividido: os Estados do E. e de Centurnia.
 Marillia era a capital subterrânea do E. Cidade múltipla, tentacular, com as suas gigantescas avenidas eternamente iluminadas, os seus milhões de habitantes, os seus poderosos laboratórios.
 O professor Arnold era o Senhor desses laboratórios. Cientista genial, com o auxílio da sua filha Leda e do seu assistente Carlo, conseguira obter uma arma terrível, o gás Hiperion, com a qual contava aniquilar para sempre o Estado adverso de Centurnia e pôr fim à guerra duma vez para sempre. 

@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-Título original: Cryptozoic
-1ª Edição: 1967
-Publicado na Colecção Argonauta em 1999 
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-Súmula -
- foi apresentada no livro nº505 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Brian Aldiss é um dos mestres, um autor de ficção-científica com um estilo sem igual em beleza e significado, que sabe escolher temas de uma profundidade tal que põem em causa não apenas o futuro da espécie humana para além de todos os horizontes, mas também a sua própria razão de ser.
 
 Criptozóica - cujo primeiro volume agora se apresenta - constitui a versão portuguesa de Cryptozoic e não foge à regra, sendo uma das obras mais importantes que alguma vez se escreveram, no género e além dele. A história, em si, parece simples: Edward Bush é um perito em viagens no tempo e também um assassino recrutado por um regime totalitário para ir até às origens dos tempos. 

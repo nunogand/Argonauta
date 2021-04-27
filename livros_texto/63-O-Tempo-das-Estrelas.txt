@@ -12,12 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert HeinleinTítulo original: Time For The Stars1ª Edição: 1956 Publicado na Colecção Argonauta em 1961 Capa: Lima de FreitasTradução: Mário Henrique Leiria  
-Súmula - foi apresentada no livro nº62 da 
-Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do 
-próximo volume da Colecção Argonauta:
-
 Uma expedição de naves interestelares movidas por reactores atómicos parte para o espaço, numa missão de interesse vital para o género humano: a população da Terra, aumentando num ritmo incessante e extraordinário, levou à necessidade de colonização do espaço exterior.
 
 Com a partida do primeiro navio do espaço começa O Tempo das Estrelas, o tempo do futuro.O Tempo? Que Tempo? Enquanto na Terra gerações se seguem umas às outras num período aproximado dos cem anos (tempo calculado para a viagem da expedição), os astronautas e exploradores de mundos envelhecem poucos anos a bordo das suas naves. As possibilidades de regresso, são de uma para trinta e seis. Os astronautas sabem-no. Na Terra, sabe-se também. E sabe-se, ainda, que o problema das comunicações foi satisfatóriamente resolvido. 

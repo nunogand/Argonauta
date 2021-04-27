@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: S.N. Lewitt
-
-Título original: Angel of Apogee
-
-1ª Edição: 1987
-
-Publicado na Colecção Argonauta em 1993
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº429 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Para os outros pilotos de combate, Gaelian é o Anjo, o melhor de todos quantos integram a sua força de elite. Mas os poderosos governantes - reunidos no temível Conselho de Dinoreos - não a colocam, de maneira nenhuma, nesse pedestal e consideram-na apenas a Mais Antiga dos Mais Antigos, predominantemente interessada em tecer intrigas capazes de a levarem a conquistar o lugar a que tem direito. 
 
 No seu íntimo, porém, Gaelian esforça-se por vencer a desvantagem de ter passado a infância no mundo primitivo de Cahaute. 

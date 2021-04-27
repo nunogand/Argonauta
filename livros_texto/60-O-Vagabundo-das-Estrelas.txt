@@ -13,12 +13,6 @@ review: |
 listagem: |
 ---
 
-
-Autor: Stefan Wul Título original: L'Orphelin de Perdide 1ª Edição: 1958 
-
-Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
- Súmula - foi apresentada no livro nº59 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 A astronave percorria o Espaço. Sobre o seu topo aparentemente imóvel, o nome brilhava à luz das estrelas: O Grande Max. Era também o nome do seu proprietário, um mulato enorme, conhecido em todos os sistemas da constelação de Lira. 
 
 O grande Max dormia na sua cabina. Completamente nú, o seu corpo musculoso jazia sobre a cama. Um braço rude pendia, com a mão roçando o solo. O outro estava sobrado sob a cabeça de cabelos azulados, por um sol desconhecido.

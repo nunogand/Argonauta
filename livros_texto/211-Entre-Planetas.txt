@@ -12,19 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-
-Título original: Between Planets
-1ª Edição: 1955
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - foi
- apresentada no livro nº210 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Hoje sabe-se que Vénus é um mundo de pesadelo, coberto por nuvens espessas, e em cuja superfície, varrida por ventos de pesadelo, há temperaturas tão altas como as do Inferno. Quando Robert A. Heinlein escreveu ENTRE PLANETAS, supunha-se que Vénus bem era diferente - uma segunda Terra, talvez habitada, talvez coberta d seres semelhantes aos que tinham existido no nosso planeta, milhões de anos atrás. Ou talvez inteligentes.
 Poderá considerar-se ultrapassada uma obra de ficção-científica que apresenta Vénus sobre essa visão que foi clássica? Certamente que não. O que importa são os pormenores, não é o sonho. É a análise das relações entre os homens, tal como os conhecemos, e as inteligências que não conhecemos. É, acima de tudo, o autêntico cântico em louvor da liberdade, que se encontra em ENTRE PLANETAS. Porque essa obra de Heinlein - talvez o autor de ficção-científica mais admirado no mundo - é um verdadeiro panfleto anti-colonialista. Ainda que situado num futro em que as colónias são os planetas do Sistema Solar.
 Reproduzimos em seguida alguns trechos bem eloquentes. Trechos que mostram que a ficção-científica, longe de ser uma ""literatura de evasão"", é uma literatura de reflexão:

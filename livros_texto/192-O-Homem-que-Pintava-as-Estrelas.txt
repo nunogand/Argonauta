@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Lan Wright
-
-Título original: The Pictures of Pavanne
-1ª Edição: 1968
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº191 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Era um milagre inesquecível. Um mistério visual. Uma forma de arte extasiante. Hipnotizante - e sempre diferente.
 

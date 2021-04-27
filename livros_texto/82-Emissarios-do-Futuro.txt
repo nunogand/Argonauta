@@ -12,13 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Gérard Klein Título original: Le Temps n'a pas d'Odeur
-1ª Edição: 1963 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Rogério Fernandes
-
-Súmula - foi apresentada no livro nº81 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 Gérard Klein, um dos mais reputados escritores franceses de ficção-científica, é apresentado no próximo volume da Colecção Argonauta através de um dos seus mais belos e originais romances: Emissários do Futuro. 
 
 Obra de acção e aventura, Emissários do Futuro narra-nos a estranha história de sete homens enviados pela omnipotente Federação Conquistadora a um pequeno planeta da galáxia. Ignone - assim se chamava esse astro que ameaçava o futuro da Federação. Esse grupo de sete homens devia alterar, em Ignone, o curso da História. 

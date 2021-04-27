@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Richard Matheson
-Título original: I Am Legend
-1ª Edição: 1954
-Publicado na Colecção Argonauta em 1958 
-Capa: Lima de Freitas
-Tradução: Mário Henrique Leiria
-Súmula - foi apresentada no livro nº47 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 O vampiro existe. Existiu desde sempre. É verdade, leitor. E a sua grande força, é que ninguém crê na sua existência. Mas não há fumo sem fogo, não é assim? Ora se a lenda se formou, em alguma coisa se deve ter fundamentado. Pois bem, o fundamento é o seguinte: o vampirismo é uma doença. Uma doença latente. Provocada por um bacilo, o vampiris. Os seus principais sintomas? Muito fáceis de identificar: o gosto pelo sangue humano como dieta exclusiva; a preferência pela noite; o comprimento anormal dos dentes caninos; a repulsa pelo alho: o temor à cruz; a não refracção nos espelhos do indivíduo atacado; a impossibilidade de transpôr a água corrente; um mau hálito pronunciado; a necessidade de repousar, em estado de coma, durante o dia, sob a terra do seu país natal. E chega como enumeração.
 
 Mas cuidado, leitor. Não vá supôr que o vampiro se transforma em morcego, ou em  pluma. Isso é nos filmes de terror. E agora estamos a tratar do facto científico, comprovado. Se não o crê, escute o que lhe diz Robert Neville, o último homem da Terra:

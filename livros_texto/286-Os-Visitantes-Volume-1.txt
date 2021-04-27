@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-Título original: The Visitors
-1ª Edição: 1979
-Publicado na Colecção Argonauta em 1981
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº285 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 No posto de gasolina, o empregado enfiou a agulheta no depósito do carro do banqueiro e olhou para cima.
 
 - Meu Deus! Kermit olha para aquilo, olha!

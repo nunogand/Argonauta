@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Clifford D. Simak
-Título original: Why Call Them Back From Heaven?
-1ª Edição: 1967
-
- Publicado na Colecção Argonauta em 1967 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-Súmula - foi apresentada no livro 
-nº122 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Clifford D. Simak, um dos autores norte-americanos de Ficção-Científica que mais justa notoriedade adquiriu no seu país de além fronteiras, dá-nos com o  presente romance uma obra de forte envergadura e de ubérrima fantasia.
 
 Imagine-se que o desenvolvimento normal de todas as potencialidades científicas e industriais do planeta levará, dentro em breve, ao apuramento de uma nova técnica de sobrevivência. O congelamento pode muito bem ser um dos aspectos dessa técnica. Quem se atreverá a negar frontamente a plausibilidade desta hipótese de Simak?

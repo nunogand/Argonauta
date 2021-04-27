@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Poul Anderson
-Título original: Virgin Planet
-1ª Edição: 1992
-Publicado na Colecção Argonauta em 2000
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares 
-
-Súmula -
- foi apresentada no livro nº512 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Num futuro ainda remoto, quando as forças terrestres tiverem colonizado inúmeros planetas de vários sistemas solares muito distantes do nosso, uma frágil aliança dos mundos civilizados manterá um sistema de patrulhamento e vigilância, para evitar as formas mais gravosas de criminalidade. Trata-se do serviço de coordenação, sediado no planeta Nerthus, a cerca de um milhar de anos-luz do nosso próprio sistema solar. 
 
 É pois a partir de Nerthus que o jovem Davis Bertram inicia uma aventura solitária para tentar descobrir, no Delta Cabeça de Lobo, um novo mundo desabitado ou primitivo. Mas Bertram alimenta outra esperança secreta: três séculos atrás, um transporte de mulheres que viajava para uma área já colonizada caíra no planeta Atlantis, cuja localização exacta não era conhecida por ninguém. Iria Bertram descobrir um planeta só habitado por mulheres?

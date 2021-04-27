@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Stefan Wul
-Título original: Rayons pour Sidar
-1ª Edição: 1957
-Publicado na Colecção Argonauta em 1963 
-Capa: Lima de Freitas
-Tradução: Eng. Gomes dos Santos
-
-Súmula - foi apresentada no livro nº71 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta: 
+ 
 Stefan Wul, autor francês que a Colecção Argonauta tem divulgado em Portugal com pleno êxito, dá-nos com este romance uma das suas obras mais aliciantes e significativas. 
 
 Qual era a misteriosa missão que levava um terrestre a enfrentar tantos perigos na estranha terra de Sidar?

@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: David J. Skal
-
-Título original: Antibodies
-
-1ª Edição: 1988
-
-Publicado na Colecção Argonauta em 1989
-
-Capa: A. Pedro
-
-Tradução: Samuel Soares 
-
-Súmula - Foi apresentada no livro 
-nº380 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Anticorpos, de David J. Skal, é um dos livros apresentados e seleccionados por Isaac Asimov que o considerou, mais do que modelar, uma autêntica novidade no campo da ficção-científica. Terrível no que pode pressagiar, Anticorpos conta-nos a estranha história, ou aventura, dependente dos progressos imponderáveis da tecnologia, daqueles que pretendem anular, finalmente, as barreiras que separam o homem da máquina.
 
 Tal como os transsexuais que se sentem enclausurados no corpo do sexo oposto, estes anticorpos tentam substituir completamente a sua estrutura corpórea, outrora talvez necessária, escapando, por fim, da sua complexa prisão de carne.

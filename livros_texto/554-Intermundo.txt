@@ -12,19 +12,5 @@ review: |
   
 listagem: |
 ---
-
-Autor: Isidore Haiblum
-
-Título original: Interworld
-
-1ª Edição: 1977
-
-Publicado na Colecção Argonauta em Maio de 2004
-
-Capa: Rogério Silva
-
-Tradução: Elsa T. S. Vieira
-
-Revisão: Dália Moniz
-Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula relativas à próxima obra, pelo que os leitores deixaram de ter disponíveis nas obras que adquiriam qualquer informação sobre a publicação seguinte ou o autor da mesma. A informação relativa à obra, passou a reduzir-se às poucas linhas que constam da contracapa da mesma.  
+  
 "

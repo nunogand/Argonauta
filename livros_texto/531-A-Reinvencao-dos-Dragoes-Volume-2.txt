@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Anne McCaffrey
-
-Título original: Dragonsdawn
-1ª Edição: 1988
-Publicado na Colecção Argonauta em Novembro de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº530 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 O seu olhar susteve o de Nora Sejby. Ela não era certamente o tipo de pessoa que ele teria achado indicada para impressionar um dragão, mas Tenneth tinha-a escolhido, e teriam de se aguentar. Nora era propensa a acidentes e Tenneth tinha já arrastado a sua colega para fora da terra e impedido que esta caísse nos buracos e fendas que existiam nos montes em volta das Cavernas de Catherine. Por outro lado, Nora tinha navegado pela Baía do Mónaco desde que tinha tido forças para lidar com a cana do leme e tinha-se especializado tanto em deslizadores como em barcos. 
 
 - Para já, temos o ar em nosso redor. Se cairmos, caímos numa superfície dura e que nos irá ferir - Sean fez os gestos, apropriados, batendo com uma mão na palma da outra, sobressaltando Nora com o ruído. 

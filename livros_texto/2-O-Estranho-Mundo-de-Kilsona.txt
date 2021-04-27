@@ -12,16 +12,6 @@ review: |
   Na realidade o título original diz respeito à primeira publicação do romance na revista Wonder Stories de Julho a Setembro de 1935. O livro já saiu com o nome The Green Man of Kilsona.
 listagem: |
 ---
-
-Autor: Festus Pragnell
-Título original: The Green Man of Graypec
-1ª Edição: 1935
-Publicado na Colecção Argonauta em 1954 
-Capa: Cândido Costa Pinto 
-Tradução: José da Natividade Gaspar 
-Súmula
- - apresentada no livro nº1 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
 Quando o cientista Charles Spofforth 
 afirmou à Imprensa que inventara um poderoso microscópio, ninguém teve 
 dúvidas em acreditá-lo. Porém, quando ajuntou que, graças a tão 

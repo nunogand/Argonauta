@@ -12,10 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: John MacDonald Título original: Planet of the Dreamers 1ª Edição: 1951 Publicado na Colecção Argonauta em 1958  Capa: Lima de Freitas Tradução: Mário Henrique Leiria 
-
-Súmula - foi apresentada no livro nº43 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 O Ministro começou a contar os automóveis - um, dois, três, quatro, cinco... depois contou tudo; pessoas, janelas, pregos do chão, moscas. Contou tudo durante dez horas, sem parar, até perder a voz. Ninguém o pôde impedir.
 Suicídios, crimes provocados por uma violência súbita e inesperada.
 ""Martha Needis, a hospedeira de Jersey City que terça-feira passada assassinou seis hóspedes adormecidos com um martelo de amaciar carne, ainda está em fuga.""

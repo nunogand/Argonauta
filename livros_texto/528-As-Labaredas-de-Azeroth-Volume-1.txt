@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: C. J. Cherry
-
-Título original: Fires of Azaroth
-1ª Edição: 1979
-Publicado na Colecção Argonauta em Agosto de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz 
-
-Súmula -
- foi apresentada no livro nº527 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 
 Em As Labaredas de Azaroth - 1, aproximam-se da sua conclusão as aventuras de Morgana, a feiticeira de A Porta da Montanha do Fogo. O presente livro constitui pois a primeira parte do terceiro e último volume da trilogia A Saga de Morgana, uma obra-prima da ficção-científica e da literatura de fantasia, que a Livros do Brasil se orgulha de apresentar aos leitores portugueses.
 *** 

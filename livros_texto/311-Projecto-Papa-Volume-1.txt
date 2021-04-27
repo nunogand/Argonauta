@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Clifford D. Simak
-
-Título original: Project Pope 
-
-1ª Edição: 1981
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº310 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Mais uma obra de Cllifford D. Simak... e uma obra invulgar, como sempre: um tema inesperado, incrível.
 
 No planeta da Periferia, apropriadamente denominado O Fim do Nada, uma estranha sociedade de autómatos e homens trabalha há mil anos para aperfeiçoar uma religião que possa criar uma fé nova e universal - o que não é de modo algum uma novidade numa galáxia pejada de religiões. Mas um projecto é ocultado às hordas de peregrinos acolhidos em Vaticano 17, no Fim do Nada. Um grupo de sensitivos humanos está a enviar os seus espíritos através do tempo e do espaço, colhendo toda a informação que pode existir. Com essa informação, um computador de conhecimento, saber e infabilidade, está a ser construído em segredo: o Papa supremo.

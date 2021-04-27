@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ray Bradbury
-Título original: I Sing the Body Electric
-1ª Edição: 1969
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro 
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº259 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Diz-se muitas vezes que Ray Bradbury é o maior escritor de ficção-científica. Mas não é. Ray Bradbury não é, sequer, um escritor de ficção-científica. Pode ser que tal afirmação pese a muitos dos seus admiradores. No entanto, essa é a verdade.
 Ray Bradbury é um poeta. O facto de ele escrever em prosa a maior parta das suas obras, é apenas um pormenor sem importância. Ray Bradbury é um poeta. E um filósofo. Um filósofo de cuja grandeza só os amantes da ficção-científica podem hoje aperceber-se. Um filósofo que não se server de teorias obstrusas, mas sim de parábolas - como os grandes filósofos de outrora - para dar uma ideia das novas dimensões que se abrem para o homem. Das dimensões que o progresso tecnológico lhe traz e que o homem mal consegue avaliar.
 Por isso, quando o Autor fala de Marte, não se trata necessariamente deste planeta do sistema solar.

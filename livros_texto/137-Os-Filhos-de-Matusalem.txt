@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-
-Título original: Methuselah's Children
-
-1ª Edição: 1941
-
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
- Tradução: Eurico da Fonseca 
-Súmula - foi apresentada no livro 
-nº136 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Os membros das Famílias eram seres humanos vulgares, semelhantes aos seus vizinhos em todos os aspectos menos num, muito perturbante: tinham uma longevidade extraordinária.
 
 No ano ultracivilizado de 2125 d.C. essa distinção era intolerável. Perseguidas por um segredo que não possuíam, as Famílias foram obrigadas a escolher: ou a tortura e a extinção pelos outros homens - os de vida curta - desesperados pela inveja, ou uma nava interstelar ainda não ensaiada.

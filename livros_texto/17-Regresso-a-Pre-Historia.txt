@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: J. Leslie Mitchell
-Título original. Three Go Back
-1ª Edição: 1932
-Publicado na Colecção Argonauta em 1955
-Capa: Cândido Costa Pinto 
-Tradução: Fernando de Castro Ferro
-
-Súmula
- - foi apresentada no livro nº16 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 A literatura de ""Ficção-Científica"" dedica-se geralmente a temas do Futuro e é, por isso mesmo, frequentemente apelidada ""literatura de antecipação"". Existem, porém, muitos autores do género que, além de olharem para o futuro, procuram assuntos para os seus romances no passado distante. A ""Colecção Argonauta"" apresenta assim aos seus leitores uma obra inspirada nos tempos da Pré-História, um romance em que dois  homens e uma rapariga do nosso tempo se encontram inesperadamente no Passado, um Passado que os seus espíritos cultos e civilizados não podiam aceitar.
 ""A Nuvem de Magalhães"" - uma digna homenagem ao nosso Fernão de Magalhães - era a mais moderna nave aérea que cruzava os oceanos do espaço. Ao atravessar o Atlântico numa das suas viagens foi, porém, vítima de terríveis condições atmosféricas que o obrigaram a sair da sua rota e, devido a qualquer fantástica deturpação das leis do tempo e do espaço, os seus potentes motores levaram-na para lá das fronteiras da sua época: para a Pré-História. O comandante e a maioria dos passageiros nunca vieram a ter conhecimento do que sucedera, visto que, indo embater numa alta montanha não sinalizada nos mapas, ""A Nuvem de Magalhães"" foi despedaçar-se irremediávelmente nos penhascos de um continente que já não devia existir. Apenas três passageiros - uma escritora, um famoso fabricante de armamentos e um médico - conseguem escapar com vida para pouco depois a arriscar mil vezes em face de fantástico monstros da Pré-História e mais tarde ao depararem-se com uma raça de seres humanos, a quem se juntam e a quem tentam dar alguns conhecimentos que os auxiliem a sobreviver ás terríveis condições daquele mundo. É, pois, um romance repleto de acção e de interesse, devido às especulações do autor sobre aquela era e sobre as origens do Homem - não faltando um encontro - e mesmo uma luta terrivel pela vida - com os famosos Homens de Neanderthal.
 Estamos certos de que os nossos leitores lerão com o mais vivo interesse este enesperado ""Regresso à Pré-História"" como valiosa sequência às habituais digressões pelo Futuro que lhes temos vindo a oferecer. 

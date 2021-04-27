@@ -12,14 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Cyril M. Kornbluth
-
-Título original: Takeoff 
-1ª Edição: 1952
-
-Publicado na Colecção Argonauta em 1960  Capa: Lima de Freitas Tradução: Mário Henrique Leiria  
- Súmula - foi apresentada no livro nº58 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Para os leitores da Colecção Argonauta, Cyril M. Kornbluth não é um autor desconhecido. Tiveram já ocasião de ler um dos seus mais famosos romances, O SÍNDICO, publicado no nº40 da mesma Colecção e puderam então avaliar o poder imaginativo do conhecido escritor americano de ficção-científica. Encontraram nesse romance uma curiosa América do futuro, em que o gansterismo controlava o Estado e criava uma inesperada organização social. O SÍNDICO é, sem dúvida, uma brilhante concepção da imaginação (a que poderemos chamar torrencial) do autor de PARTIDA PARA O ESPAÇO, romance que agora apresentamos. Mase se a faceta imaginativa de C. M. Kornbluth é de facto excepcional, a sua capacidade para arquitectar um romance estruturalmente baseado em factos científicos não é menor. Podemos verificar isso em PARTIDA PARA O ESPAÇO, romance cuja acção decorre num futuro bastante próximo e onde a movimentação dos acontecimentos está de facto enquadrada numa ciência que é, pode dizer-se, a dos nossos dias. E assim...
 
 O jovem e brilhante engenheiro Michael Novak, vê-se envolvido numa história de intriga e violência ao aceitar um lugar na Sociedade Americana para o Voo Espacial. Ao aceitar esse emprego, provoca inadvertidamente uma série de acontecimentos inesperados que envolvem duas lindas raparigas, altas personalidades de Washington, espionagem e crime, acontecimentos que culminam com a primeira viagem espacial do Homem.

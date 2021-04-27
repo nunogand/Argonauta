@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Brian Aldiss
-
-Título original: Supertoys Last All Summer Long - and Other Stories of Future Time
-1ª Edição: 1969
-Publicado na Colecção Argonauta em Abril de 2001
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Revisão: Dália Moniz
-Súmula -
- foi apresentada no livro nº523 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 
 Inteligência Artificial
  é a história envolvente de um rapazinho a quem perturba e entristece o 

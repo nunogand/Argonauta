@@ -12,12 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: A. Higon Título original: La Machine du Povoir
-1ª Edição: 1960 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: André Varga 
-Súmula - foi apresentada no livro nº78 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 Distinguido com o Prémio Júlio Verne em 1960, nenhum outro romance de Albert Higon poderia constituir melhor apresentação deste grande escritor francês de ficção-científica ao numeroso público da Colecção Argonauta. 
 
 Este romance é uma obra de interesse invulgar, tanto pelo conteúdo que nela se exprime, como pela forma densa, altamente dramática, do que nos é transmitido. Com efeito, Albert Higon soube localizar com admirável inteligência um possível conflito no mundo do futuro e aliar a narração desse eventual conflito com as exigências de um romance de acção.

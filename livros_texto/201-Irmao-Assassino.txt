@@ -12,21 +12,7 @@ review: |
   
 listagem: |
 ---
-
-
-Autor: Fred Saberhagen
-
-Título original: Brother Assassin
-1ª Edição: 1969
-Publicado na Colecção Argonauta em 1974 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº200 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Era um mundo morto - a sua superfície queimada pelas máquinas da destruição. E quando ela fora queimada, também o tinham sido nove décimos da população do planeta.
 
 Mas em baixo, atrás de quilómetros de rochas, o décimo que sobrevivera, lutava com uma calma fantástica para proteger os restos da sua existência.

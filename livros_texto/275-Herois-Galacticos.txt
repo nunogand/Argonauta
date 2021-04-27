@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: E.E. ""Doc"" Smith
-Título original: Gray Lensmen
-1ª Edição: 1951
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº274 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Entre as listas das dez melhores obras de ficção-científica, em todos os tempos, é usual encontrar-se Gray Lensmen, de E.E. ""Doc"" Smith - a quarta obra da célebre série Lensmen, da qual já foram publicadas na Colecção Argonauta os volumes Triplanetária (nº259), O Planeta Secreto (nº265) e Patrulha Galáctica (nº270).
 
 Gray Lensmen - que na versão portuguesa recebeu o título de Heróis Galácticos - é o volume seguinte. Publicado pela primeira vez na revista Astounding, nos meses de Outubro, Novembro e Dezembro de 1939, foi desde logo considerada pelos leitores como a melhor obra de Edward Elmer Smith. Tal como os outros da série Lensman, poderá dizer-se que se trata de ""space-opera"" autêntica, temperada todavia com a surpreendente capacidade de previsão científica do autor, mesmo quanto às suas ideias aparentemente meio fantásticas.  

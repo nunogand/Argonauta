@@ -12,20 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: L.Sprague de Camp
-
-Título original: The Clocks of Iraz
-1ª Edição: 1971
-Publicado na Colecção Argonauta em 1973 
-
-Capa: Lima de Freitas
-
-Tradução: Eurico da Fonseca
-
-Súmula - foi
- apresentada no livro nº196 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"": 
+ 
 
 Que significam as iniciais ""S.F""? Para os cultores tradicionais da Ficção-Científica, só há uma interpretação possível: ""Science-Fiction"" - um género literário em que não existem limites no tempo e no espaço. Tradicionalmente, também, a ""S.F."" deve produzir uma explicação científica - ou aparentemente científica - das coisas e dos factos que nela se descrevem ou sugerem. Mas o que é a ciência? Como prever o desenvolvimento científico?
 

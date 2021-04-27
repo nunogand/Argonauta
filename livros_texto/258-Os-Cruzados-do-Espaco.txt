@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Pierre Barbet
-Título original: Baphomet's Meteor
-1ª Edição: 1972
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro 
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº257 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 No começo do século XIV, a Ordem dos Templários estava a caminho de dominar a Europa, pois tinha uma riqueza enorme a a sua força, como sociedade secreta, era superior à de muitas monarquias. Mas em meados desse século, a Ordem foi brutamente destruída porque alguns dos seus membros confessaram haver uma conspiração para a conquista do Mundo, sob as ordens de um demónio chamado Baphomet.
 
 Isso é o que a História diz. A História da Terra.

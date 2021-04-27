@@ -12,18 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Ursula Le Guin
-
-Título original: A Wizard of Earthsea
-1ª Edição: 1968
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº275 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":  
+  
 
 A chamada American New Wave, que teve como figuras de vanguarda autores como Thomas Disch, Samuel R. Delany, Roger Zelasny, etc, é por muitos considerada como uma reacção à crise daquilo que se pode chamar a ""ficção-científica mecanicista"", perante a realização de muitas das suas previsões, nomeadamente no campo da exploração do espaço cósmico. A New Wave caracterizou-se, de facto, pela busca de novos estilos literários e também de novos assuntos - substituindo de certo modo a science-fiction pela speculative-fiction. Daí resultaram obras de choque como Camp Concentration, de Disch - uma história simbólica e filosófica sobre o desenvolvimento da inteligência humana através de uma droga extraída da bactéria da sífilis. No entanto, a expansão deste movimento literário foi muito prejudicada pelo abuso do jogo de palavras - e, por vezes, de ideias -  intraduziveis ou muito dificilmente compreensíveis noutras línguas e culturas. No fim dos anos 60, a New Wave - de leitura difícil, mesmo na língua inglesa, dada a sua forte carga de surrealismo - acabou por se tornar uma sub-categoria da SF, e a rebelião por ela anunciada extinguiu-se. Tudo quanto dela ficou foi uma perspectiva mais larga, uma maior aceitação de temas até então ignorados ou desprezados. 
 

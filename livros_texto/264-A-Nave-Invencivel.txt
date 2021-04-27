@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Stanislaw Lem
-
-Título original: Niezwyciezony
-1ª Edição: 1964
-Publicado na Colecção Argonauta em 1979
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº263 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
   
 O Invencível, cruzador de segunda classe, a mais forte unidade de toda a constelação de Lira, encerra nos seus flancos uma potência temível. Pode arrasar uma cadeia de montanhas ou pôr em ebulição um oceano de bom tamanho. Navegando no vácuo ou pousado na superfície de um planeta, o Invencível constitui uma fortaleza inexpugnável.
 Em Régis III, o Invencível não tem nada a temer. Tanto mais que os solos emersos parecem nus de toda a vida. Mas então porque foi que o Condor, nave da mesma classe que o Invencível e equipado com o mesmo armamento, não regressou da missão que o levara a Régis III?

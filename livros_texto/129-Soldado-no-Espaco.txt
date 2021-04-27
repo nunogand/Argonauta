@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Robert A. Heinlein
-Título original: Starship Troopers
-1ª Edição: 1959
-Publicado na Colecção Argonauta em 1968 
-
- Capa: Lima de Freitas
-
- Tradução: Eurico da Fonseca
-
-Súmula - foi apresentada no livro 
-nº129 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 
 Soldado no Espaço, valeu a Robert A. Heinlein a alta e desejada consagração do Prémio Hugo, galardão reservado às obras de Ficção-Científica de maior projecção.
 

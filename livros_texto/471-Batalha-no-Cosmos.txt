@@ -12,23 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Gordon R. Dickson
-
-Título original: Naked to the Stars
-
-1ª Edição: 1961
-
-Publicado na Colecção Argonauta em 1996
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº470 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Depois de na famosa saga dos Dorsai - os soldados das estrelas criados através dos séculos para servirem de mercenários - ter feito uma polémica apologia do militarismo, eis que Gordon R. Dickinson envereda por um tema diametralmente oposto em Batalha no Cosmos, a versão portuguesa de Naked to the Stars.
 
 O certo é que, na verdadeira obra-prima que é este romance, surge uma pergunta terrível formulada pelo protagonista, Carl Truant, um soldado exemplar que numa batalha contra um inimigo não-humano num planeta distante, perdeu dezasseis horas da sua memória sem saber como. A pergunta é: ""um soldado que mata um inimigo, será um assassino?"". 

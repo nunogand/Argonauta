@@ -14,17 +14,7 @@ listagem: |
 ---
      
 
-Autor: Fred Saberhagen
-
-Título original: Berserker
-1ª Edição: 1967
-Publicado na Colecção Argonauta em 1974 
-
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca
-Súmula - foi
- apresentada no livro nº199 da Colecção, com a indicação de ""Ler nas 
-páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 
 Ninguém sabia de onde tinham vindo as Máquinas da Destruição. Mas todos sabiam para que elas haviam vindo.
 
@@ -45,7 +35,6 @@ Introdução: 
 É este o número 200 da Colecção Argonauta. Por isso, o volume que o constitui foi cuidadosamente seleccionado. O seu autor não é conhecido do público português. Mas o seu estilo é dos mais belos alguma vez surgidos na ficção-científica. Fred Saberhagen não se limita a descrever mundos diferentes, situações diferentes, humanidades diferentes, em tempos afastados tão longe de nós, no futuro, que excedem a própria imaginação. Fred Saberhagen é mais do que isso: é alguém que escreve para recordar e enaltecer as virtudes essenciais do Homem - as virtudes que o mundo de hoje parece ir perdendo e esquecendo. Mesmo que As Máquinas da Destruição não fossem um prodígio, pelo seu tema - a luta do Homem contra a Máquina, mas uma Máquina inteligente, diabólicamente inteligente, concebida para extinguir todas as formas de vida -, a obra seria bem digna de constituir o 200º volume da Colecção Argonauta, porque reconcilia o Homem com os seus valores naturais.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
-
 Eu, Terceiro Historiador dos Carmpan, por gratidão aos descendentes da Terra pela defesa do meu mundo, aqui assento para eles a minha visão fragmentária da sua grande guerra contra o nosso inimigo comum.
 
 A visão foi formada pedaço a pedaço através dos meus contactos no passado e no presente com os espíritos dos homens e das máquinas. Nesses espíritos estranhos para mim, apercebo-me muitas vezes do que não posso compreender, ainda que veja que é verdade. E assim assentei na verdade os actos e as palavras dos homens descendentes da Terra, grande e pequenos ou vulgares, as palavras e até os pensamentos secretos dos vossos heróis e dos vossos traidores.

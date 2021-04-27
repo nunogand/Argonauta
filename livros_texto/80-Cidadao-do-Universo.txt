@@ -12,13 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: F. Carsac Título original: Pour Patrie, l' Espace
-1ª Edição: 1962 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: Alfredo Margarido 
-
-Súmula - foi apresentada no livro nº79 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 O tenente Tinkar Holroy, da Guarda estelar do Império Galáctico, é enviado a cumprir uma missão de alta responsabilidade, que consiste em convocar a sétima esquadra. Tinkar é um dos melhores pilotos da Guarda, tendo vencido várias provas muito duras, mas não consegue entregar a sua mensagem, pois a sua astronave é sabotada, o que serve para mostrar que a revolta conta também os seus apaniguados entre a Guarda, considerada fidelíssima a Sua Majestade o Imperador.
 
 Sabotada a astronave, Tinkar Holroy despenha-se no espaço, apenas com oxigénio bastante para subsistir vinte e quatro horas, e resigna-se a morrer, embora lamente ter de  morrer tão novo e devido a razão tão estúpida. Não tinha verificado o funcionamento da sua astronave, pois considerava que pertencendo à frota da Guarda, não seria possível que se verificasse qualquer sabotagem. 

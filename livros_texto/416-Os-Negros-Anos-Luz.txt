@@ -12,22 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Brian Aldiss
-
-Título original: The Dark Light Years
-
-1ª Edição: 1964
-
-Publicado na Colecção Argonauta em 1992
-
-Capa: A. Pedro
-
-Tradução: António Porto
-
-Súmula - Foi apresentada no livro 
-nº415 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Através de séculos de séculos, num planeta a anos-luz do nosso, criaturas nasceram num delta lamacento e evoluíram até se tornarem em jardineiros astutos para os quais a madeira e a cerâmica eram como metais e a filosofia religiosa uma ocupação.
 
 Não conheciam o mal nem sabiam o que fosse a dor, porque não a sentiam.

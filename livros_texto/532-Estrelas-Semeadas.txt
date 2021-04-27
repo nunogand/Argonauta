@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: James Blish
-
-Título original: The Seedling Stars
-1ª Edição: 1957
-Publicado na Colecção Argonauta em Dezembro de 2001
-Capa: António Pedro
-Tradução: Elsa T. S. Vieira
-
-Revisão: Dália Moniz 
-Súmula -
- foi apresentada no livro nº531 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":  
+  
 Os homens adaptados encontraram Sweeney a meio da grande ravina que proporcionava o único acesso à sua colónia à beira do penhasco, a partir do planalto no H de Howe. Sweeney não os reconheceu; não coincidiam com nenhuma das fotografias que memorizara, mas aceitaram prontamente a sua história. E não fora preciso fingir exaustão - a gravidade de Ganimedes era normal para ele, mas fora uma longa caminhada e uma subida ainda mais longa. 
 
 No entanto, ficou surpreendido por descobrir que a apreciara. Pela primeira vez em toda a sua vida caminhara sem guardas, quer humanos quer mecânicos, num mundo onde se sentia fisicamente em casa; um mundo sem paredes, um mundo onde estava essencialmente sozinho. O ar era rico e agradável, os ventos sopravam de onde lhes apetecia soprar, a temperatura na ravina era consideravelmente inferior à que era admissível na cúpula da Lua, e havia céu a toda a sua volta, tingido de azul e salpicado de estrelas que piscavam de vez em quando. 

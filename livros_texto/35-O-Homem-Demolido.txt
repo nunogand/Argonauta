@@ -12,10 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Alfred Bester Título original: The Demolished Man
-
-1ª Edição: 1951 Publicado na Colecção Argonauta em 1956  Capa: Lima de Freitas Tradução: Carlos Vieira 
- Súmula - foi apresentada no livro nº34 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
 O Homem Demolido é a história de um homem contra o Universo, uma história empolgante do mundo futuro: a luta de um homem para se livrar de uma Polícia Interplanetária, cujos agentes, dotados do poder de ler o pensamento, tornavam impossível escapar à justiça.
 
 No ano de 2301, Ben Reich, proprietário da mais poderosa organização comercial do sistema solar, atreve-se a assassinar um homem, convencido de que assim conseguirá salvar-se da ruína.

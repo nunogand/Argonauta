@@ -12,16 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Clifford D. Simak
-Título original: Skirmish
-1ª Edição: 1977
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº277 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":  (A súmula transcreve três dos parágrafos do prefácio do autor, que é também colocado na íntegra, com a parte do texto que já foi transcrita na súmula a cor laranja). 
+  (A súmula transcreve três dos parágrafos do prefácio do autor, que é também colocado na íntegra, com a parte do texto que já foi transcrita na súmula a cor laranja). 
 
 Com este título de publica uma das últimas obras de Clifford D. Simak e talvez a de mais alto expoente: SKIRMISH.
 

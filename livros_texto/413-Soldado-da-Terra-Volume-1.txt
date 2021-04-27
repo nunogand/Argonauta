@@ -12,19 +12,7 @@ review: |
   
 listagem: |
 ---
-Autor: Gordon R. Dickson
-
-Título original: Soldier, Ask Not
-
-1ª Edição: 1967
-
-Publicado na Colecção Argonauta em 1991
-
-Capa: A. Pedro
-Tradução: António Porto
-Súmula - Foi apresentada no livro 
-nº412 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"": 
+ 
 Soldado da Terra é o título da versão portuguesa de Soldier Ask Not, outra obra da célebre série Dorsai, de Gordon R. Dickson, e um verdadeiro clássico da ficção-científica.
 
 Em catorze mundos, o homem deixara de ser um Homem. Em Dorsai era o Guerreiro, um mercenário indomável, criado especificamente para o combate, uma encarnação do espírito marcial. 

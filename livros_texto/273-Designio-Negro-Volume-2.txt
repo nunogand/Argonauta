@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Philip José Farmer
-Título original: The Dark Design
-1ª Edição: 1977
-Publicado na Colecção Argonauta em 1980
-Capa: A. Pedro
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº272 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
-
 Por razões técnicas, Desígnio Negro (The Dark Design), da célebre série Riverworld de Philip José Farmer, foi dividida em dois volumes.
 
 Há que dizer que o segundo volume é muito diferente do primeiro. A tensão que se acumula nas páginas deste, conduz a uma acção realmente explosiva, raras vezes vista na própria ficção-científica.  

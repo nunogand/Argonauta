@@ -12,20 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: E.E.""Doc"" Smith
-Título original: The Vortex Blaster 
-
-1ª Edição: 1960
-
-Publicado na Colecção Argonauta em 1983
-
-Capa: A. Pedro
-
-Tradução: Eurico da Fonseca 
-Súmula - Foi apresentada no livro 
-nº312 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Os Senhores do Vórtice - no original The Vortex Blaster e mais tarde Masters of The Vortex, é considerado por alguns como o último volume da célebre série dos Portadores da Lente (Lensman) de E.E. ""Doc"" Smith, cujos volumes anteriores já foram publicados na Colecção Argonauta (Triplanetária, nº 259; O Planeta Secreto, nº 265; Patrulha Galáctica, nº 270; Heróis Galácticos, nº 275; A Lei do Espaço, nº 288 e Os Filhos do Cosmos, nº 302). Outros, todavia, discordam dessa inclusão, porque as figuras principais são outras, sem ligação com as anteriores.
 
 Mas o estilo é o mesmo - um estilo ímpar, que maravilhou aqueles que, nos anos 30, ainda antes do começo da exploração do espaço cósmico, sonhavam com maravilhas. Ainda que ""Doc"" Smith tivesse escrito esta última obra muito mais tarde, já nos anos 50, e a tivesse dedicado a Robert A. Heinlein.

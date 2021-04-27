@@ -12,13 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Jean Hougron Título original: Le Signe de Chien
-1ª Edição: 1961 Publicado na Colecção Argonauta em 1964  Capa: Lima de Freitas Tradução: André Varga 
-
-Súmula - foi apresentada no livro nº80 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 Jean Hougron é um dos nomes mais ilustre do romance francês contemporâneo. A ficção-científica seduziu-o. Resolveu abordá-la num romance. O Signo do Cão é o resultado desse desafio, e a resposta brilhante que o insigne escritor encontrou para a fascinação que sobre ele exercia um novo género literário.
 
 Trata-se de uma obra de plena maturidade, realizada com incomparável mestria. Respeitando escrupulosamente as regras fundamentais da ficção-científica é, além disso, um romance em que o poder evocativo, a força da narração, a capacidade de sugestão excedem, muitíssimo, a medida comum.

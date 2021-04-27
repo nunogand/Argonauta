@@ -12,17 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frank M. Robinson
-Título original: Dark Beyond the Stars
-1ª Edição: 1991
-Publicado na Colecção Argonauta em 1999 
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-Súmula -
- foi apresentada no livro nº506 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 Depois de uma viagem de quinze anos pela literatura corrente - durante a qual escreveu obras como The Glass Inferno, filmada sob o título The Towering Inferno - Frank M. Robinson voltou à ficção-científica, área em que se celebrizou desde a sua primeira historia, intitulada The Power. 
 
 As Trevas Além das Estrelas constitui a versão portuguesa de The Dark Beyond the Stars, a saga da nave interestelar Astron, numa viagem que ocuparia cem gerações na busca de mundos habitados, para além das Trevas, o abismo sem luz que levaria a novas estrelas. No primeiro dos dois volumes em que a obra se encontra dividida, assiste-se ao nascimento dos problemas que se apresentam ao comandante Michael Kusaka, que não pode voltar para trás...

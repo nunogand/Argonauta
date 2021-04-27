@@ -12,16 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Robert A. Heinlein
-Título original: Stranger in a Strange Land
-1ª Edição: 1961
-Publicado na Colecção Argonauta em 1975
-Capa: Lima de Freitas
-Tradução: Eurico da Fonseca 
-
-Súmula - Foi apresentada no livro 
-nº218 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 A proposta de uma nova vida - comunitária e feliz -, eis o que encerra o terceiro volume de Um Estranho Numa Terra Estranha (o célebre Stranger in a Strange Land), considerado a melhor obra de Robert A. Heinlein e também a mais significativa novela do underground americano, a ""Bíblia dos Hippies"".
 
 Introdução:

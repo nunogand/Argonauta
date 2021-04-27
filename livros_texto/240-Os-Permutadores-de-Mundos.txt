@@ -12,21 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: John Brunner
-Título original: The World Swappers
-
-1ª Edição: 1959
-
-Publicado na Colecção Argonauta em 1977
-
-Capa: Manuel Dias 
-
-Tradução: Eurico da Fonseca
-
-Súmula - Foi apresentada no livro 
-nº239 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula
- do próximo volume da Colecção Argonauta"":
 Um dia, quando os homens dominarem verdadeiramente a imensidão do espaço cósmico, poderão espalhar-se por mil mundos. Mas que acontecerá se, depois disso - e somente depois disso - surgirem provas da existência de outra espécie inteligente na galáxia, ocupada também na busca de novos mundos para colonizar?
 
 Ir-se-á assistir a uma guerra galáctica, tal como noutro tempo se assistiu a guerras mundiais, resultantes dos conflitos dos interesses (e das ideias) dos povos da Terra? Muitos e muitos têm sido os livros de ficção científica baseados nas descrições de conflitos à escala cósmica, em que os humanos e outras criaturas - por norma horrorosas e cruéis - lutam com armas terríveis.

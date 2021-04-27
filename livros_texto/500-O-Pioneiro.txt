@@ -12,18 +12,6 @@ review: |
   
 listagem: |
 ---
-
-Autor: Frederik Pohl
-Título original: O Pioneer
-1ª Edição: 1998 
-Publicado na Colecção Argonauta em 1999 
-Capa: António Pedro
-Tradução: Alexandra Santos Tavares
-
-Súmula -
- foi apresentada no livro nº499 da Colecção, com a indicação de ""Ler nas
- páginas seguintes a súmula do próximo volume da Colecção Argonauta"":
-
 O 
 próximo volume representa um marco histórico na edição de obras de 
 ficção-científica em Portugal, pois pela primeira vez uma colecção do 

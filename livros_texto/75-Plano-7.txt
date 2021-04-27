@@ -12,12 +12,7 @@ review: |
   
 listagem: |
 ---
-
-Autor: Mordecai Roshwald Título original: Level Seven 1ª Edição: 1959 Publicado na Colecção Argonauta em 1963  Capa: Lima de Freitas Tradução: Alfredo Margarido
-
-Súmula - foi apresentada no livro nº74 da Colecção, com a 
-indicação de ""Ler nas páginas seguintes a súmula do próximo volume da 
-Colecção Argonauta:  
+  
 
 Com este romance, tem a Colecção Argonauta o prazer e a honra de apresentar em Portugal um dos mais extraordinários romancistas no sector da ficção-científica: o escritor israelita Mordecai Roshwald. O presente livro é uma das suas obras mais belas.
 Num país europeu, (presumivemente a Inglaterra) há uns estranhos abrigos subterrâneos destinados a servirem de refúgio a determinadas pessoas em caso de guerra termo-nuclear. O mais profundo - o sétimo - é reservado ao pessoal que desencadeará a guerra quando os políticos o determinarem...

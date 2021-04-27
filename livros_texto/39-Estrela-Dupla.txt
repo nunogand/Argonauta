@@ -12,15 +12,6 @@ review: |
   
 listagem: |
 ---
-Autor: Robert Heinlein
-Título original: Double Star
-1ª Edição: 1955
-Publicado na Colecção Argonauta em 1957 
-Capa: Lima de Freitas
-Tradução: H. dos Santos Carvalho 
-
-Súmula - foi apresentada no livro nº38 da Colecção, com a indicação de ""Ler nas páginas seguintes a súmula do próximo volume da Colecção Argonauta:
-
 Se um homem entra, vestido como um vagabundo, e agindo como se fosse o dono da casa, é com certeza um astronauta. É uma necessidade lógica. A profissão fá-los sentir donos da Criação inteira; quando pousa o pé nesta imundíce, é como se estivesse a fazer a roda dos pobres entre os aldeões. No que respeita à sua conhecida deselegância, não se pode esperar que um homem que passa nove décimas partes do seu tempo em uniforme e está mais habituado ao espaço profundo do que à civilização, saiba como vestir-se decentemente. É uma vítima dos pseudo-alfaiates que enxameiam em redor de todos os espaçoportos, apregoando: - Vestuários de terra.
 Eu podia facilmente ver que esta grande carga de ossos tinha sido vestida por Omar, o Mercador - para começar, uns enchumaços demasiado grandes nos ombros, uns calções cortados de tal maneira que cada vez que ele se sentava, lhe deixavam à mostra as coxas cobertas de pêlos, uma camisa amarrotada que talvez tivesse ficado bem a uma vaca. 
 Mas guardei a minha opinião para mim mesmo, e paguei-lhe uma bebida com o meu último meio Imperial, considerando isto um emprego de capital, sendo os astronautas como são no que diz respeito ao dinheiro. - ""Jactos ardentes"" - disse eu tocando no seu copo. Deitou-me uma rápida olhadela. Este foi o meu primeiro erro no meu trato com Dak Broadbent. Em vez de me responder ""Espaço livre"" - ou - ""Aterrisagem segura""  - como devia ter feito, olhou-me e disse-me brandamente: ""Um belo brinde, mas engana-se no homem. Nunca estive fora.
