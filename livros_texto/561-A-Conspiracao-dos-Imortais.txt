@@ -12,22 +12,5 @@ review: |
   
 listagem: |
 ---
-Autor: Márcia Guimarães
-
-Título original: A Conspiração dos Imortais
-
-1ª Edição: 2005
-
-Publicado na Colecção Argonauta em Novembro de 2005
-
-Capa: Rogério Silva
-
-Tradução: (a autora é brasileira) 
-
-Revisão: Alice Araújo
-Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula 
-relativas à próxima obra, pelo que os leitores deixaram de ter 
-disponíveis nas obras que adquiriam qualquer informação sobre a 
-publicação seguinte ou o autor da mesma. A informação relativa à obra, 
-passou a reduzir-se às poucas linhas que constam da contracapa da mesma.
-"
+Súmula
+O Papa Pedro III deixa o seu palácio de Castelgandolfo e dirige-se ao Centro Subterrâneo de Amazon, no Vale Sagrado, onde sobrevive a última floresta viva do planeta e onde irá decorrer a XXXIV Conferência Planetária de Líderes Religiosos. Apesar de habituado a um férreo autocontrolo, Sua Santidade sente-se minado por uma estranha angústia. É que, à semelhança do que sucedera, antes de si, a três outros Papas, iria ter de debater uma questão secreta, procurando para ela uma solução de consenso que não privilegiasse em especial nenhum dos seis grupos religiosos que controlavam a Terra. Tinham decorrido mais de cinquenta anos sobre o início da Grande Guerra Genética. E Pedro III sabia que, dentro de vinte e quatro horas, o destino da humanidade estaria traçado.

@@ -9,33 +9,8 @@ Tradutor1: Eurico da Fonseca
 Tradutor2: 
 Ano-edicao: 1965
 review: |
-  
+  Dune é um romance de ficção científica escrito por Frank Herbert e publicado em 1965. Vencedor dos Prémios Hugo e Nébula, Dune é popularmente considerado um dos maiores romances de ficção científica de todos os tempos, e é frequentemente citado como o romance de ficção científica mais vendido na história. Dune gerou cinco sequelas escritas por Herbert, e inspirou uma adaptação cinematográfica de David Lynch, duas mini-séries feitas pelo Sci-Fi Channel dos Estados Unidos, jogos de computador, bem como uma série de prequelas, interquelas, e sequelas co-escritas por Brian Herbert, o filho do autor, e Kevin J. Anderson.
 listagem: |
 ---
-
-Autor: Frank Herbert
-
-Título original: Dune
-
-1ª Edição: 1965
-
-Publicado na Colecção Argonauta em Julho de 2006
-
-Capa: Rogério Silva
-
-Tradução: Eurico da Fonseca
-
-Revisão: Dália Moniz
-Súmula - A partir do número 553, a editora Livros do Brasil deixou infelizmente de publicar como havia feito até à data a súmula 
-relativas à próxima obra, pelo que os leitores deixaram de ter 
-disponíveis nas obras que adquiriam qualquer informação sobre a 
-publicação seguinte ou o autor da mesma. A informação relativa à obra, 
-passou a reduzir-se às poucas linhas que constam da contracapa da mesma.
-*****
-Nota pessoal 
-A Colecção Argonauta teve o seu início em 1953, com a publicação da obra Perdidos na Estratosfera, escrita por A. M. Low, e teve o seu fim em Julho de 2006 com esta última obra intitulada Dune, de Frank Herbert. Curiosamente, esta obra já tinha sido publicada na sua totalidade (é uma trilogia) na Colecção Argonauta Gigante, na primeira série.
-
-A Colecção Argonauta foi a maior e mais duradoura colecção de ficção-científica em Portugal, e a meu ver, a mais importante. Durante 53 anos, divulgou os melhores autores do género e encantou gerações de leitores.
-
-Três anos e dois meses, foi o tempo que demorei a escrever todas as súmulas da Colecção Argonauta. Iniciei o projecto das capas e das súmulas a 04 de Agosto de 2011 e terminei  a 10 de Novembro de 2014. Agradeço a todos os muitos emails, comentários e, agradecimentos que tiveram a atenção de escrever e de me enviar. Foi muito gratificante para mim conseguir realizar este projecto, que constitui uma homenagem à Colecção Argonauta, e ao menino de dez anos que eu fui e que ficou encantado desde o primeiro livro que dela leu. E em memória do meu pai, que muito me ajudou a conseguir completar esta colecção. 
-"
+Súmula
+No mundo infernal de Arrakis, o planeta de areia a que chamam "Dune", a especiaria denominada "melange" é uma riqueza tão grande que justifica todas as traições. Contra uma humanidade em decadência, que considera o crime como uma instituição, e só conhece a ética da ambição e do lucro, ergue-se a misteriosa Bene Gesserit - uma irmandade que se serve da superstição para preparar o futuro e da genética para trazer à espécie humana um salvador. E o salvador aparece inesperadamente. Para refazer o mundo da areia e todos os outros mundos, com o auxílio dos homens livres, dos "fremen", os estranhos habitantes do deserto. 
