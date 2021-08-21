@@ -1,0 +1,27 @@
+import requests
+import re
+!pip install wget
+import wget
+from bs4 import BeautifulSoup
+import subprocess
+with open('url2.txt','r') as f:
+  urls=(line.strip() for line in f)
+  for url in urls:
+    try:
+      r=requests.get(url)
+      soup = BeautifulSoup(r.content, 'lxml')
+      imagem = soup.find_all("div", {"class": "post-body entry-content"})[0]
+      titulo = soup.find_all("h3", {"class": "post-title entry-title"})[0]
+      m = titulo.string
+      #print (m)
+      m2 = re.search('(?<= - ).*',m)
+      m1 = re.search('([0-9]+)',m)
+      local = m1.group(0)+'-'+m2.group(0)+'.jpg'
+      print(local)
+      
+      #for tag in imagem.findAll('a', href=True)[1:2]: #para as outras imagens
+      for tag in imagem.findAll('a', href=True)[0:1]:
+        print(str(tag['href']))
+        wget.download(str(tag['href']),local)
+    except Exception as ex:
+      print(ex)
